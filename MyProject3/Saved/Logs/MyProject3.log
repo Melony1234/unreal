@@ -2973,3 +2973,21 @@ LogConfig: Set CVar [[r.VRS.EnableSoftware:1]]
 [2026.02.12-17.24.56:391][957]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.02.12-17.24.56:391][957]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.12-17.24.56:391][957]AssetCheck: /Game/_Blueprints/Bp_Switch Validating asset
+[2026.02.12-17.25.31:669][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.02.12-17.25.31:675][255]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/PA/VCKQWLLVC1IJQX19A8APHZ_Auto6
+[2026.02.12-17.25.31:675][255]LogSavePackage: Moving '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/VCKQWLLVC1IJQX19A8APHZ_Auto6B99E9A954D421B9A16F2C7B57B90BB54.tmp' to '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/PA/VCKQWLLVC1IJQX19A8APHZ_Auto6.uasset'
+[2026.02.12-17.25.31:676][255]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.034
+[2026.02.12-17.25.31:676][255]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.034
+[2026.02.12-17.25.31:676][255]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Blueprints/BP_Coin] ([2] browsable assets)...
+[2026.02.12-17.25.31:712][255]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Blueprints/BP_Coin.BP_Coin]
+[2026.02.12-17.25.31:712][255]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Blueprints/BP_Coin]
+[2026.02.12-17.25.31:720][255]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Blueprints/BP_Coin_Auto6
+[2026.02.12-17.25.31:720][255]LogSavePackage: Moving '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/BP_Coin_Auto67DF632164E21D63A9E7BE2B12783D374.tmp' to '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/Autosaves/Game/_Blueprints/BP_Coin_Auto6.uasset'
+[2026.02.12-17.25.31:720][255]LogFileHelpers: Auto-saving content packages took 0.044
+[2026.02.12-17.27.11:620][555]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6898.488770
+[2026.02.12-17.27.12:624][558]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-17.27.12:624][558]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6899.156738, Update Interval: 308.573273
+[2026.02.12-17.33.21:001][663]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7267.868164
+[2026.02.12-17.33.22:001][666]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-17.33.22:001][666]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7268.535156, Update Interval: 336.114990
+[2026.02.12-17.34.09:537][809]LogDerivedDataCache: C:/Users/S25189660/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
