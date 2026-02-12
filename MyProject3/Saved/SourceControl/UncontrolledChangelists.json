@@ -14,7 +14,12 @@
 				"C:/Users/S25189660/Documents/unreal/MyProject3/Content/Variant_Platforming/Blueprints/BP_PlatformingCharacter.uasset",
 				"C:/Users/S25189660/Documents/unreal/MyProject3/Content/_Blueprints/BP_Coin.uasset",
 				"C:/Users/S25189660/Documents/unreal/MyProject3/Content/_Blueprints/BP_Cube.uasset",
-				"C:/Users/S25189660/Documents/unreal/MyProject3/Content/_Blueprints/Interface.uasset"
+				"C:/Users/S25189660/Documents/unreal/MyProject3/Content/_Blueprints/Interface.uasset",
+				"C:/Users/S25189660/Documents/unreal/MyProject3/Content/_Blueprints/BP_Door.uasset",
+				"C:/Users/S25189660/Documents/unreal/MyProject3/Content/StarterContent/Props/SM_Door.uasset",
+				"C:/Users/S25189660/Documents/unreal/MyProject3/Content/_Blueprints/Bp_Interface.uasset",
+				"C:/Users/S25189660/Documents/unreal/MyProject3/Content/_Blueprints/Bp_Switch.uasset",
+				"C:/Users/S25189660/Documents/unreal/MyProject3/Content/StarterContent/Shapes/Shape_Cube.uasset"
 			]
 		}
 	]

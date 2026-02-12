@@ -2420,3 +2420,556 @@ LogConfig: Set CVar [[r.VRS.EnableSoftware:1]]
 [2026.02.12-16.46.59:288][144]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.12-16.46.59:288][144]AssetCheck: /Game/_Blueprints/BP_Cube Validating asset
 [2026.02.12-16.46.59:288][144]AssetCheck: /Game/_Blueprints/Interface Validating asset
+[2026.02.12-16.50.54:472][508]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4721.212891
+[2026.02.12-16.50.55:475][511]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-16.50.55:475][511]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4721.881348, Update Interval: 341.015045
+[2026.02.12-16.56.04:215][485]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.02.12-16.56.04:226][485]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.02.12-16.56.04:234][485]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.02.12-16.56.04:246][486]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.02.12-16.56.09:065][959]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Door
+[2026.02.12-16.56.09:071][959]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.02.12-16.56.14:041][334]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.02.12-16.56.14:054][334]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.02.12-16.56.14:061][334]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.02.12-16.56.14:074][335]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.02.12-16.56.21:867][137]LogContentBrowser: Attempting asset rename: NewBlueprint -> Bp_Switch
+[2026.02.12-16.56.21:872][137]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.02.12-16.56.24:358][367]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Blueprints/BP_Door.BP_Door
+[2026.02.12-16.56.24:358][367]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.02.12-16.56.56:835][981]LogStreaming: Display: FlushAsyncLoading(616): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.12-16.56.56:838][981]LogStaticMesh: Display: Building static mesh SM_Door (Required Memory Estimate: 0.02669 MB)...
+[2026.02.12-16.56.56:841][981]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2026.02.12-16.56.56:841][981]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.02.12-16.56.56:842][981]LogStaticMesh: Leaves [0.00s]
+[2026.02.12-16.56.56:842][981]LogStaticMesh: Reduce [0.00s]
+[2026.02.12-16.56.56:842][981]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.02.12-16.56.56:842][981]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.02.12-16.56.56:842][981]LogStaticMesh: ConstrainClusters:
+[2026.02.12-16.56.56:842][981]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 24 Vertices
+[2026.02.12-16.56.56:843][981]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 24 Vertices
+[2026.02.12-16.56.56:843][981]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 24 Vertices
+[2026.02.12-16.56.56:843][981]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.02.12-16.56.56:843][981]LogStaticMesh: WritePages:
+[2026.02.12-16.56.56:843][981]LogStaticMesh:   Root: GPU size: 428 bytes. 1 Pages. 428.000 bytes per page (1.306% utilization).
+[2026.02.12-16.56.56:843][981]LogStaticMesh:   Streaming: 0 bytes.
+[2026.02.12-16.56.56:843][981]LogStaticMesh:   Page data disk size: 588 bytes. Fixup data size: 24 bytes.
+[2026.02.12-16.56.56:843][981]LogStaticMesh:   Total GPU size: 428 bytes, Total disk size: 612 bytes.
+[2026.02.12-16.56.56:843][981]LogStaticMesh: Encode [0.00s]
+[2026.02.12-16.56.56:843][981]LogStaticMesh: NaniteBuild [0.00s]
+[2026.02.12-16.56.56:845][981]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_Door.SM_Door
+[2026.02.12-16.56.56:852][981]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.02.12-16.57.03:540][503]LogStreaming: Display: FlushAsyncLoading(617): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.12-16.57.03:570][503]LogStaticMesh: Display: Building static mesh SM_Door (Required Memory Estimate: 2.335407 MB)...
+[2026.02.12-16.57.03:578][503]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Props/SM_Door.SM_Door
+[2026.02.12-16.57.13:909][288]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.12-16.57.13:910][288]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Blueprints/BP_Door] ([2] browsable assets)...
+[2026.02.12-16.57.13:918][288]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Blueprints/BP_Door.BP_Door]
+[2026.02.12-16.57.13:918][288]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Blueprints/BP_Door]
+[2026.02.12-16.57.13:918][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/BP_Door" FILE="../../../../../../Users/S25189660/Documents/unreal/MyProject3/Content/_Blueprints/BP_Door.uasset" SILENT=true
+[2026.02.12-16.57.13:924][288]LogSavePackage: Moving output files for package: /Game/_Blueprints/BP_Door
+[2026.02.12-16.57.13:924][288]LogSavePackage: Moving '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/BP_Door349D170E4092C4D6669AE5843779F4C8.tmp' to '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Content/_Blueprints/BP_Door.uasset'
+[2026.02.12-16.57.13:926][288]LogFileHelpers: InternalPromptForCheckoutAndSave took 17.311 ms (total: 1.65 sec)
+[2026.02.12-16.57.13:927][288]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.12-16.57.13:927][288]LogContentValidation: Enabled validators:
+[2026.02.12-16.57.13:927][288]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.12-16.57.13:927][288]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.12-16.57.13:927][288]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.12-16.57.13:927][288]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.12-16.57.13:927][288]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.12-16.57.13:927][288]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.12-16.57.13:927][288]AssetCheck: /Game/_Blueprints/BP_Door Validating asset
+[2026.02.12-16.57.13:952][288]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.12-16.57.15:341][404]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.12-16.57.15:341][404]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Blueprints/BP_Door] ([2] browsable assets)...
+[2026.02.12-16.57.15:341][404]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Blueprints/BP_Door]
+[2026.02.12-16.57.15:341][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/BP_Door" FILE="../../../../../../Users/S25189660/Documents/unreal/MyProject3/Content/_Blueprints/BP_Door.uasset" SILENT=true
+[2026.02.12-16.57.15:347][404]LogSavePackage: Moving output files for package: /Game/_Blueprints/BP_Door
+[2026.02.12-16.57.15:348][404]LogSavePackage: Moving '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/BP_Door867D88BC4AB678779A85C495E426A14B.tmp' to '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Content/_Blueprints/BP_Door.uasset'
+[2026.02.12-16.57.15:349][404]LogFileHelpers: InternalPromptForCheckoutAndSave took 7.326 ms (total: 1.66 sec)
+[2026.02.12-16.57.15:349][404]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.12-16.57.15:349][404]LogContentValidation: Enabled validators:
+[2026.02.12-16.57.15:349][404]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.12-16.57.15:349][404]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.12-16.57.15:349][404]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.12-16.57.15:349][404]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.12-16.57.15:349][404]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.12-16.57.15:349][404]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.12-16.57.15:349][404]AssetCheck: /Game/_Blueprints/BP_Door Validating asset
+[2026.02.12-16.57.17:156][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.02.12-16.57.18:742][653]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/BP_Door.BP_Door_C
+[2026.02.12-16.57.18:742][653]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/BP_Door.BP_Door_C
+[2026.02.12-16.57.18:743][653]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/BP_Door.BP_Door as actor: BP_Door_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Door_C_0
+[2026.02.12-16.57.18:743][653]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/BP_Door.BP_Door as actor: BP_Door_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Door_C_0
+[2026.02.12-16.57.19:895][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.02.12-16.57.19:897][716]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2026.02.12-16.57.19:900][716]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/BP_Door.BP_Door_C
+[2026.02.12-16.57.19:900][716]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/BP_Door.BP_Door_C
+[2026.02.12-16.57.19:902][716]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/BP_Door.BP_Door as actor: BP_Door_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Door_C_1
+[2026.02.12-16.57.19:902][716]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/BP_Door.BP_Door as actor: BP_Door_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Door_C_1
+[2026.02.12-16.57.22:886][955]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5109.650391
+[2026.02.12-16.57.23:045][968]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-16.57.23:045][968]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5109.798340, Update Interval: 324.727325
+[2026.02.12-16.57.23:444][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.12-16.57.23:444][  0]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.12-16.57.23:444][  0]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.02.12-16.57.23:445][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.12-16.57.23:445][  0]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.02.12-16.57.23:449][  0]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.12-16.57.23:452][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.12-16.57.23:471][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.12-16.57.23:472][  0]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2026.02.12-16.57.23:472][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=4
+[2026.02.12-16.57.23:474][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=2
+[2026.02.12-16.57.23:480][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.02.12-16.57.23:545][  2]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2026.02.12-16.57.27:291][263]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/BP_Door.BP_Door_C
+[2026.02.12-16.57.27:291][263]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/BP_Door.BP_Door_C
+[2026.02.12-16.57.27:292][263]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/BP_Door.BP_Door as actor: BP_Door_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Door_C_0
+[2026.02.12-16.57.27:292][263]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/BP_Door.BP_Door as actor: BP_Door_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Door_C_0
+[2026.02.12-16.57.28:302][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.02.12-16.57.28:304][340]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2026.02.12-16.57.28:308][340]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/BP_Door.BP_Door_C
+[2026.02.12-16.57.28:308][340]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/BP_Door.BP_Door_C
+[2026.02.12-16.57.28:312][340]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/BP_Door.BP_Door as actor: BP_Door_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Door_C_UAID_D843AEDEA7AD6ABE02_1614741793
+[2026.02.12-16.57.28:312][340]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/BP_Door.BP_Door as actor: BP_Door_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Door_C_UAID_D843AEDEA7AD6ABE02_1614741793
+[2026.02.12-16.57.31:808][625]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.12-16.57.31:860][625]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Blueprints/BP_Door] ([2] browsable assets)...
+[2026.02.12-16.57.31:868][625]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Blueprints/BP_Door.BP_Door]
+[2026.02.12-16.57.31:868][625]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Blueprints/BP_Door]
+[2026.02.12-16.57.31:868][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/BP_Door" FILE="../../../../../../Users/S25189660/Documents/unreal/MyProject3/Content/_Blueprints/BP_Door.uasset" SILENT=true
+[2026.02.12-16.57.31:874][625]LogSavePackage: Moving output files for package: /Game/_Blueprints/BP_Door
+[2026.02.12-16.57.31:874][625]LogSavePackage: Moving '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/BP_Door49953865441C5DC1C41AAD8080D105CF.tmp' to '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Content/_Blueprints/BP_Door.uasset'
+[2026.02.12-16.57.31:882][625]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.983 ms (total: 1.73 sec)
+[2026.02.12-16.57.31:946][625]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.12-16.57.31:946][625]LogContentValidation: Enabled validators:
+[2026.02.12-16.57.31:946][625]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.12-16.57.31:946][625]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.12-16.57.31:946][625]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.12-16.57.31:946][625]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.12-16.57.31:946][625]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.12-16.57.31:946][625]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.12-16.57.31:946][625]AssetCheck: /Game/_Blueprints/BP_Door Validating asset
+[2026.02.12-16.57.41:546][367]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.12-16.57.41:575][367]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Blueprints/BP_Door] ([2] browsable assets)...
+[2026.02.12-16.57.41:584][367]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Blueprints/BP_Door.BP_Door]
+[2026.02.12-16.57.41:584][367]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Blueprints/BP_Door]
+[2026.02.12-16.57.41:584][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/BP_Door" FILE="../../../../../../Users/S25189660/Documents/unreal/MyProject3/Content/_Blueprints/BP_Door.uasset" SILENT=true
+[2026.02.12-16.57.41:589][367]LogSavePackage: Moving output files for package: /Game/_Blueprints/BP_Door
+[2026.02.12-16.57.41:590][367]LogSavePackage: Moving '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/BP_Door6F76E0C24D60A3F9265BB9B8C2C7AD6C.tmp' to '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Content/_Blueprints/BP_Door.uasset'
+[2026.02.12-16.57.41:599][367]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.555 ms (total: 1.79 sec)
+[2026.02.12-16.57.41:668][367]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.12-16.57.41:668][367]LogContentValidation: Enabled validators:
+[2026.02.12-16.57.41:668][367]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.12-16.57.41:668][367]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.12-16.57.41:668][367]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.12-16.57.41:668][367]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.12-16.57.41:668][367]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.12-16.57.41:668][367]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.12-16.57.41:669][367]AssetCheck: /Game/_Blueprints/BP_Door Validating asset
+[2026.02.12-16.57.49:468][  2]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/StarterContent/Props/SM_Door.SM_Door
+[2026.02.12-16.57.49:477][  2]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2026.02.12-16.57.49:480][  2]LogStreaming: Display: FlushAsyncLoading(618): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.12-16.57.50:223][  3]LogPSOHitching: Encountered 300 PSO creation hitches so far (98 graphics, 202 compute). 0 of them were precached.
+[2026.02.12-16.58.11:338][676]LogSlate: Window 'Message' being destroyed
+[2026.02.12-16.58.11:348][676]Message dialog closed, result: Yes, title: Message, text: Are you sure you want to convert all box collision?
+[2026.02.12-16.58.25:275][899]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.12-16.58.25:313][899]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Props/SM_Door] ([1] browsable assets)...
+[2026.02.12-16.58.25:313][899]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Props/SM_Door]
+[2026.02.12-16.58.25:313][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/SM_Door" FILE="../../../../../../Users/S25189660/Documents/unreal/MyProject3/Content/StarterContent/Props/SM_Door.uasset" SILENT=true
+[2026.02.12-16.58.25:329][899]LogSavePackage: Moving output files for package: /Game/StarterContent/Props/SM_Door
+[2026.02.12-16.58.25:330][899]LogSavePackage: Moving '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/SM_Door2E503F5E49C56F17379B78A4D4E2E950.tmp' to '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Content/StarterContent/Props/SM_Door.uasset'
+[2026.02.12-16.58.25:338][899]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.352 ms (total: 1.85 sec)
+[2026.02.12-16.58.25:398][899]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.12-16.58.25:398][899]LogContentValidation: Enabled validators:
+[2026.02.12-16.58.25:398][899]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.12-16.58.25:398][899]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.12-16.58.25:398][899]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.12-16.58.25:398][899]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.12-16.58.25:398][899]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.12-16.58.25:398][899]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.12-16.58.25:398][899]AssetCheck: /Game/StarterContent/Props/SM_Door Validating asset
+[2026.02.12-16.58.25:416][899]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.12-16.58.31:313][419]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.02.12-16.58.31:313][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.12-16.58.31:366][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.02.12-16.58.34:222][632]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.02.12-16.58.42:934][310]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.12-16.58.42:940][310]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.12-16.58.42:940][310]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.02.12-16.58.42:940][310]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 735 us (total: 7.904 ms)
+[2026.02.12-16.58.42:942][310]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.12-16.58.42:942][310]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.12-16.58.42:947][310]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.12-16.58.42:948][310]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 959 us (total: 11.787 ms)
+[2026.02.12-16.58.42:948][310]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005619s)
+[2026.02.12-16.58.42:948][310]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.005647s)
+[2026.02.12-16.58.42:968][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.02.12-16.58.42:971][310]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.02.12-16.58.42:973][310]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.12-16.58.42:973][310]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.12-16.58.42:973][310]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.12-16.58.42:973][310]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.12-16.58.42:974][310]LogWorldPartition: Display: WorldPartition initialize took 1.215 ms (total: 95.946 ms)
+[2026.02.12-16.58.42:975][310]LogPlayLevel: PIE: World Init took: (0.002702s)
+[2026.02.12-16.58.42:975][310]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2026.02.12-16.58.42:975][310]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.12-16.58.42:975][310]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.12-16.58.42:975][310]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.12-16.58.42:975][310]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.12-16.58.42:975][310]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.12-16.58.42:975][310]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.12-16.58.42:975][310]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.12-16.58.42:975][310]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.12-16.58.42:975][310]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.12-16.58.42:975][310]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.12-16.58.42:975][310]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.12-16.58.42:978][310]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.12-16.58.42:996][310]LogAudioMixer: Display: Using Audio Hardware Device T24v-10 (NVIDIA High Definition Audio)
+[2026.02.12-16.58.42:996][310]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.12-16.58.42:996][310]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.12-16.58.42:996][310]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.12-16.58.42:997][310]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2026.02.12-16.58.42:997][310]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2026.02.12-16.58.42:999][310]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2026.02.12-16.58.42:999][310]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2026.02.12-16.58.42:999][310]LogInit: FAudioDevice initialized with ID 14.
+[2026.02.12-16.58.42:999][310]LogAudio: Display: Audio Device (ID: 14) registered with world 'Lvl_ThirdPerson'.
+[2026.02.12-16.58.42:999][310]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2026.02.12-16.58.43:002][310]LogLoad: Game class is 'BP_PlatformingGameMode_C'
+[2026.02.12-16.58.43:004][310]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.02.12-16.58.43
+[2026.02.12-16.58.43:004][310]LogWorld: Bringing up level for play took: 0.001931
+[2026.02.12-16.58.43:006][310]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2026.02.12-16.58.43:011][310]PIE: Server logged in
+[2026.02.12-16.58.43:013][310]PIE: Play in editor total start time 0.073 seconds.
+[2026.02.12-16.58.43:030][310]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.12-16.58.47:915][718]LogBlueprintUserMessages: [BP_Coin_C_UAID_D843AEDEA7AD63BE02_1846626559] 1
+[2026.02.12-16.58.53:701][215]LogBlueprintUserMessages: [BP_Cube_C_UAID_D843AEDEA7AD68BE02_1864441440] bitch
+[2026.02.12-16.58.54:543][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.12-16.58.54:543][283]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.12-16.58.54:544][283]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.02.12-16.58.54:544][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.12-16.58.54:545][283]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.02.12-16.58.54:548][283]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.12-16.58.54:551][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.12-16.58.54:571][283]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.12-16.58.54:571][283]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2026.02.12-16.58.54:571][283]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=4
+[2026.02.12-16.58.54:573][283]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=2
+[2026.02.12-16.58.54:577][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.12-16.58.54:579][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.02.12-16.58.54:658][284]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2026.02.12-16.59.18:501][440]LogShaderCompilers: Display: ================================================
+[2026.02.12-16.59.18:501][440]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.12-16.59.18:501][440]LogShaderCompilers: Display: Total job queries 486, among them cache hits 57 (11.73%), DDC hits 359 (73.87%), Duplicates 66 (13.58%)
+[2026.02.12-16.59.18:501][440]LogShaderCompilers: Display: Tracking 363 distinct input hashes that result in 264 distinct outputs (72.73%)
+[2026.02.12-16.59.18:501][440]LogShaderCompilers: Display: RAM used: 3.48 MiB of 1.60 GiB budget. Usage: 0.21%
+[2026.02.12-16.59.18:501][440]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.12-16.59.18:501][440]LogShaderCompilers: Display: Shaders Compiled: 4
+[2026.02.12-16.59.18:501][440]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100%)
+[2026.02.12-16.59.18:501][440]LogShaderCompilers: Display: Average time worker was idle: 14.10 s
+[2026.02.12-16.59.18:501][440]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.05 s
+[2026.02.12-16.59.18:501][440]LogShaderCompilers: Display: Job execution time: average 0.65 s, max 1.04 s
+[2026.02.12-16.59.18:501][440]LogShaderCompilers: Display: Job life time (pending + execution): average 0.68 s, max 1.09
+[2026.02.12-16.59.18:501][440]LogShaderCompilers: Display: Shader code size: total 57.055 KiB, numShaders 4, average 14.264 KiB, min 7.078 KiB, max 27.465 KiB
+[2026.02.12-16.59.18:501][440]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.31 s
+[2026.02.12-16.59.18:501][440]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.03%
+[2026.02.12-16.59.18:501][440]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.02.12-16.59.18:501][440]LogShaderCompilers: Display: Average processing rate: 3.05 jobs/sec
+[2026.02.12-16.59.18:501][440]LogShaderCompilers: Display: Total thread time: 1.879 s
+[2026.02.12-16.59.18:501][440]LogShaderCompilers: Display: Total thread preprocess time: 8.182 s
+[2026.02.12-16.59.18:501][440]LogShaderCompilers: Display: Percentage time preprocessing: 435.54%
+[2026.02.12-16.59.18:501][440]LogShaderCompilers: Display: Effective parallelization: 1.43 (times faster than compiling all shaders on one thread). Compare with number of workers: 14 - 0.102459
+[2026.02.12-16.59.18:501][440]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.12-16.59.18:501][440]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 0.81 sec, max 0.81 sec, min 0.81 sec)
+[2026.02.12-16.59.18:501][440]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2026.02.12-16.59.18:501][440]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled    1 times, average 0.21 sec, max 0.21 sec, min 0.21 sec)
+[2026.02.12-16.59.18:501][440]LogShaderCompilers: Display:                        FLumenFrontLayerTranslucencyGBufferVS (compiled    1 times, average 0.19 sec, max 0.19 sec, min 0.19 sec)
+[2026.02.12-16.59.18:501][440]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.02.12-16.59.18:501][440]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.12-16.59.18:501][440]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 43.18% of total time (compiled    1 times, average 0.81 sec, max 0.81 sec, min 0.81 sec)
+[2026.02.12-16.59.18:501][440]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 35.74% of total time (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2026.02.12-16.59.18:501][440]LogShaderCompilers: Display:                                            FDistortionMeshVS - 11.13% of total time (compiled    1 times, average 0.21 sec, max 0.21 sec, min 0.21 sec)
+[2026.02.12-16.59.18:501][440]LogShaderCompilers: Display:                        FLumenFrontLayerTranslucencyGBufferVS - 9.94% of total time (compiled    1 times, average 0.19 sec, max 0.19 sec, min 0.19 sec)
+[2026.02.12-16.59.18:501][440]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.02.12-16.59.18:501][440]LogShaderCompilers: Display: === Material stats ===
+[2026.02.12-16.59.18:501][440]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.12-16.59.18:501][440]LogShaderCompilers: Display: Materials Translated:    148
+[2026.02.12-16.59.18:501][440]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2026.02.12-16.59.18:501][440]LogShaderCompilers: Display: Material Translation Only: 0.03 s (29%)
+[2026.02.12-16.59.18:501][440]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.02.12-16.59.18:501][440]LogShaderCompilers: Display: Material Cache Hits: 12 (8%)
+[2026.02.12-16.59.18:501][440]LogShaderCompilers: Display: ================================================
+[2026.02.12-16.59.53:569][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.02.12-16.59.53:575][863]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/U8/8HGAGF48OCSO2F76MCLYZ5_Auto4
+[2026.02.12-16.59.53:575][863]LogSavePackage: Moving '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/8HGAGF48OCSO2F76MCLYZ5_Auto41C300CF74FF7B76A851C39AEBD5A15D0.tmp' to '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/U8/8HGAGF48OCSO2F76MCLYZ5_Auto4.uasset'
+[2026.02.12-16.59.53:579][863]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/F8/20L7XL9XYHHJBC46O6TNQE_Auto4
+[2026.02.12-16.59.53:579][863]LogSavePackage: Moving '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/20L7XL9XYHHJBC46O6TNQE_Auto401722241462E0955BB34C2B7618C6F94.tmp' to '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/F8/20L7XL9XYHHJBC46O6TNQE_Auto4.uasset'
+[2026.02.12-16.59.53:581][863]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/DC/6S604H316KS01438C8Z4FR_Auto4
+[2026.02.12-16.59.53:581][863]LogSavePackage: Moving '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/6S604H316KS01438C8Z4FR_Auto42B8912304F5A1BC9B10250B7768C739D.tmp' to '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/DC/6S604H316KS01438C8Z4FR_Auto4.uasset'
+[2026.02.12-16.59.53:582][863]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.035
+[2026.02.12-16.59.53:582][863]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.035
+[2026.02.12-16.59.53:582][863]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ytmp3free_cc_mount-vesuvius-vs-baby-youtubemp3free_org] ([1] browsable assets)...
+[2026.02.12-16.59.53:585][863]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/ytmp3free_cc_mount-vesuvius-vs-baby-youtubemp3free_org.ytmp3free_cc_mount-vesuvius-vs-baby-youtubemp3free_org]
+[2026.02.12-16.59.53:585][863]OBJ SavePackage: Finished generating thumbnails for package [/Game/ytmp3free_cc_mount-vesuvius-vs-baby-youtubemp3free_org]
+[2026.02.12-16.59.53:592][863]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ytmp3free_cc_mount-vesuvius-vs-baby-youtubemp3free_org_Auto4
+[2026.02.12-16.59.53:592][863]LogSavePackage: Moving '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/ytmp3free_cc_mount-vesuvius-vs-bFE2A35AE4D2A7D7B252E92AD63810C8C.tmp' to '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/Autosaves/Game/ytmp3free_cc_mount-vesuvius-vs-baby-youtubemp3free_org_Auto4.uasset'
+[2026.02.12-16.59.53:593][863]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Blueprints/BP_Door] ([2] browsable assets)...
+[2026.02.12-16.59.53:618][863]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Blueprints/BP_Door.BP_Door]
+[2026.02.12-16.59.53:618][863]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Blueprints/BP_Door]
+[2026.02.12-16.59.53:624][863]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Blueprints/BP_Door_Auto4
+[2026.02.12-16.59.53:624][863]LogSavePackage: Moving '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/BP_Door_Auto450ACCDDD4366D945C8934194FD04DD8C.tmp' to '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/Autosaves/Game/_Blueprints/BP_Door_Auto4.uasset'
+[2026.02.12-16.59.53:625][863]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Blueprints/Bp_Switch] ([2] browsable assets)...
+[2026.02.12-16.59.53:625][863]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Blueprints/Bp_Switch]
+[2026.02.12-16.59.53:629][863]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Blueprints/Bp_Switch_Auto4
+[2026.02.12-16.59.53:629][863]LogSavePackage: Moving '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/Bp_Switch_Auto4139AF189439976BBB42CAC8C833290E1.tmp' to '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/Autosaves/Game/_Blueprints/Bp_Switch_Auto4.uasset'
+[2026.02.12-16.59.53:630][863]LogFileHelpers: Auto-saving content packages took 0.047
+[2026.02.12-17.03.29:073][384]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5476.020996
+[2026.02.12-17.03.29:228][401]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-17.03.29:228][401]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5476.167969, Update Interval: 318.512512
+[2026.02.12-17.05.41:314][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.02.12-17.05.41:328][876]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.12-17.05.41:385][876]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Blueprints/BP_Door] ([2] browsable assets)...
+[2026.02.12-17.05.41:422][876]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Blueprints/BP_Door.BP_Door]
+[2026.02.12-17.05.41:422][876]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Blueprints/BP_Door]
+[2026.02.12-17.05.41:422][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/BP_Door" FILE="../../../../../../Users/S25189660/Documents/unreal/MyProject3/Content/_Blueprints/BP_Door.uasset" SILENT=true
+[2026.02.12-17.05.41:429][876]LogSavePackage: Moving output files for package: /Game/_Blueprints/BP_Door
+[2026.02.12-17.05.41:429][876]LogSavePackage: Moving '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/BP_Door806B82A44B44D32C032FAF9EF4D0E030.tmp' to '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Content/_Blueprints/BP_Door.uasset'
+[2026.02.12-17.05.41:439][876]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.369 ms (total: 1.96 sec)
+[2026.02.12-17.05.41:479][876]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.12-17.05.41:479][876]LogContentValidation: Enabled validators:
+[2026.02.12-17.05.41:479][876]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.12-17.05.41:479][876]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.12-17.05.41:479][876]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.12-17.05.41:479][876]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.12-17.05.41:479][876]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.12-17.05.41:479][876]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.12-17.05.41:479][876]AssetCheck: /Game/_Blueprints/BP_Door Validating asset
+[2026.02.12-17.05.46:111][335]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2026.02.12-17.09.29:537][221]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5836.417969
+[2026.02.12-17.09.29:857][249]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-17.09.29:857][249]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5836.725098, Update Interval: 309.294708
+[2026.02.12-17.10.31:642][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.02.12-17.10.31:657][493]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.12-17.10.31:717][493]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Blueprints/BP_Door] ([2] browsable assets)...
+[2026.02.12-17.10.31:748][493]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Blueprints/BP_Door.BP_Door]
+[2026.02.12-17.10.31:748][493]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Blueprints/BP_Door]
+[2026.02.12-17.10.31:748][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/BP_Door" FILE="../../../../../../Users/S25189660/Documents/unreal/MyProject3/Content/_Blueprints/BP_Door.uasset" SILENT=true
+[2026.02.12-17.10.31:755][493]LogSavePackage: Moving output files for package: /Game/_Blueprints/BP_Door
+[2026.02.12-17.10.31:755][493]LogSavePackage: Moving '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/BP_DoorDC6E03744DA8F5E610CEC0A7D297B695.tmp' to '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Content/_Blueprints/BP_Door.uasset'
+[2026.02.12-17.10.31:762][493]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.056 ms (total: 2.07 sec)
+[2026.02.12-17.10.31:798][493]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.12-17.10.31:798][493]LogContentValidation: Enabled validators:
+[2026.02.12-17.10.31:798][493]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.12-17.10.31:798][493]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.12-17.10.31:798][493]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.12-17.10.31:798][493]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.12-17.10.31:798][493]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.12-17.10.31:798][493]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.12-17.10.31:798][493]AssetCheck: /Game/_Blueprints/BP_Door Validating asset
+[2026.02.12-17.11.02:314][269]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Blueprints/Bp_Switch.Bp_Switch
+[2026.02.12-17.11.02:314][269]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.02.12-17.11.05:225][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.02.12-17.11.05:230][453]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/DC/6S604H316KS01438C8Z4FR_Auto5
+[2026.02.12-17.11.05:230][453]LogSavePackage: Moving '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/6S604H316KS01438C8Z4FR_Auto5DA56EDA94BEEB32B9EB01AB4FD93292A.tmp' to '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/DC/6S604H316KS01438C8Z4FR_Auto5.uasset'
+[2026.02.12-17.11.05:231][453]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.047
+[2026.02.12-17.11.05:231][453]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.047
+[2026.02.12-17.11.59:153][814]LogContentBrowser: Attempting asset rename: Interface -> Interface
+[2026.02.12-17.12.06:290][380]LogContentBrowser: Attempting asset rename: Interface -> Bp_Interface
+[2026.02.12-17.12.06:398][380]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.12-17.12.06:398][380]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Blueprints/Bp_Interface] ([2] browsable assets)...
+[2026.02.12-17.12.06:398][380]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Blueprints/Bp_Interface]
+[2026.02.12-17.12.06:398][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Bp_Interface" FILE="../../../../../../Users/S25189660/Documents/unreal/MyProject3/Content/_Blueprints/Bp_Interface.uasset" SILENT=true
+[2026.02.12-17.12.06:401][380]LogSavePackage: Moving output files for package: /Game/_Blueprints/Bp_Interface
+[2026.02.12-17.12.06:401][380]LogSavePackage: Moving '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/Bp_InterfaceFC1A1A7F49BBE7C1ABE10EA31F9BB235.tmp' to '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Content/_Blueprints/Bp_Interface.uasset'
+[2026.02.12-17.12.06:406][380]LogFileHelpers: InternalPromptForCheckoutAndSave took 7.759 ms (total: 2.07 sec)
+[2026.02.12-17.12.06:456][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.02.12-17.12.06:480][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.02.12-17.12.06:507][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.02.12-17.12.06:549][380]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.12-17.12.06:549][380]LogContentValidation: Enabled validators:
+[2026.02.12-17.12.06:549][380]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.12-17.12.06:549][380]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.12-17.12.06:549][380]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.12-17.12.06:549][380]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.12-17.12.06:549][380]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.12-17.12.06:549][380]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.12-17.12.06:549][380]AssetCheck: /Game/_Blueprints/Bp_Interface Validating asset
+[2026.02.12-17.12.06:600][380]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.12-17.13.01:041][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.02.12-17.13.01:051][920]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.12-17.13.01:102][920]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Blueprints/Bp_Switch] ([2] browsable assets)...
+[2026.02.12-17.13.01:102][920]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Blueprints/Bp_Switch]
+[2026.02.12-17.13.01:102][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Bp_Switch" FILE="../../../../../../Users/S25189660/Documents/unreal/MyProject3/Content/_Blueprints/Bp_Switch.uasset" SILENT=true
+[2026.02.12-17.13.01:109][920]LogSavePackage: Moving output files for package: /Game/_Blueprints/Bp_Switch
+[2026.02.12-17.13.01:109][920]LogSavePackage: Moving '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/Bp_Switch49DFAD6B4AF77A30BD87CAA94E0C54FF.tmp' to '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Content/_Blueprints/Bp_Switch.uasset'
+[2026.02.12-17.13.01:117][920]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.678 ms (total: 2.14 sec)
+[2026.02.12-17.13.01:166][920]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.12-17.13.01:166][920]LogContentValidation: Enabled validators:
+[2026.02.12-17.13.01:166][920]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.12-17.13.01:166][920]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.12-17.13.01:166][920]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.12-17.13.01:166][920]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.12-17.13.01:166][920]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.12-17.13.01:166][920]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.12-17.13.01:166][920]AssetCheck: /Game/_Blueprints/Bp_Switch Validating asset
+[2026.02.12-17.13.01:216][920]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.12-17.13.37:815][702]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.02.12-17.14.06:734][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.02.12-17.14.06:745][845]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.12-17.14.06:805][845]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Blueprints/Bp_Switch] ([2] browsable assets)...
+[2026.02.12-17.14.06:812][845]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Blueprints/Bp_Switch.Bp_Switch]
+[2026.02.12-17.14.06:812][845]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Blueprints/Bp_Switch]
+[2026.02.12-17.14.06:812][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Bp_Switch" FILE="../../../../../../Users/S25189660/Documents/unreal/MyProject3/Content/_Blueprints/Bp_Switch.uasset" SILENT=true
+[2026.02.12-17.14.06:817][845]LogSavePackage: Moving output files for package: /Game/_Blueprints/Bp_Switch
+[2026.02.12-17.14.06:818][845]LogSavePackage: Moving '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/Bp_Switch9740D72945220E0EF53529B70739B221.tmp' to '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Content/_Blueprints/Bp_Switch.uasset'
+[2026.02.12-17.14.06:827][845]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.830 ms (total: 2.22 sec)
+[2026.02.12-17.14.06:899][845]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.12-17.14.06:899][845]LogContentValidation: Enabled validators:
+[2026.02.12-17.14.06:899][845]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.12-17.14.06:899][845]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.12-17.14.06:899][845]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.12-17.14.06:899][845]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.12-17.14.06:899][845]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.12-17.14.06:899][845]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.12-17.14.06:899][845]AssetCheck: /Game/_Blueprints/Bp_Switch Validating asset
+[2026.02.12-17.14.07:770][891]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/Bp_Switch.Bp_Switch_C
+[2026.02.12-17.14.07:770][891]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/Bp_Switch.Bp_Switch_C
+[2026.02.12-17.14.07:772][891]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/Bp_Switch.Bp_Switch as actor: Bp_Switch_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Bp_Switch_C_0
+[2026.02.12-17.14.07:772][891]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/Bp_Switch.Bp_Switch as actor: Bp_Switch_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Bp_Switch_C_0
+[2026.02.12-17.14.08:244][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.02.12-17.14.08:256][924]LogEditorActor: Deleted 0 Actors (0.035 secs)
+[2026.02.12-17.14.08:259][924]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/Bp_Switch.Bp_Switch_C
+[2026.02.12-17.14.08:260][924]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/Bp_Switch.Bp_Switch_C
+[2026.02.12-17.14.08:263][924]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/Bp_Switch.Bp_Switch as actor: Bp_Switch_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Bp_Switch_C_UAID_D843AEDEA7AD6BBE02_1540950970
+[2026.02.12-17.14.08:265][924]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/Bp_Switch.Bp_Switch as actor: Bp_Switch_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Bp_Switch_C_UAID_D843AEDEA7AD6BBE02_1540950970
+[2026.02.12-17.14.10:474][ 90]Cmd: DELETE
+[2026.02.12-17.14.10:485][ 90]Cmd: ACTOR DELETE
+[2026.02.12-17.14.10:489][ 90]LogEditorActor: Deleted Actor: Bp_Switch_C
+[2026.02.12-17.14.10:511][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.02.12-17.14.10:514][ 90]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2026.02.12-17.14.56:091][943]LogStreaming: Display: FlushAsyncLoading(624): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.12-17.14.56:093][943]LogStaticMesh: Display: Building static mesh Shape_Sphere (Required Memory Estimate: 1.522745 MB)...
+[2026.02.12-17.14.56:098][943]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Shapes/Shape_Sphere.Shape_Sphere
+[2026.02.12-17.15.11:501][ 70]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6178.311035
+[2026.02.12-17.15.11:700][ 85]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-17.15.11:700][ 85]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6178.497070, Update Interval: 320.594513
+[2026.02.12-17.16.30:476][807]LogStreaming: Display: FlushAsyncLoading(625): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.12-17.16.30:478][807]LogStaticMesh: Display: Building static mesh Shape_Trim (Required Memory Estimate: 0.238303 MB)...
+[2026.02.12-17.16.30:480][807]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Shapes/Shape_Trim.Shape_Trim
+[2026.02.12-17.18.28:813][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.02.12-17.18.28:826][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.12-17.18.28:890][ 91]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Blueprints/Bp_Switch] ([2] browsable assets)...
+[2026.02.12-17.18.28:897][ 91]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Blueprints/Bp_Switch.Bp_Switch]
+[2026.02.12-17.18.28:897][ 91]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Blueprints/Bp_Switch]
+[2026.02.12-17.18.28:897][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Bp_Switch" FILE="../../../../../../Users/S25189660/Documents/unreal/MyProject3/Content/_Blueprints/Bp_Switch.uasset" SILENT=true
+[2026.02.12-17.18.28:903][ 91]LogSavePackage: Moving output files for package: /Game/_Blueprints/Bp_Switch
+[2026.02.12-17.18.28:904][ 91]LogSavePackage: Moving '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/Bp_Switch7D9A560C458E4A2AE6364DAD6F92ED28.tmp' to '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Content/_Blueprints/Bp_Switch.uasset'
+[2026.02.12-17.18.28:910][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.038 ms (total: 2.31 sec)
+[2026.02.12-17.18.28:989][ 91]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.12-17.18.28:989][ 91]LogContentValidation: Enabled validators:
+[2026.02.12-17.18.28:989][ 91]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.12-17.18.28:989][ 91]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.12-17.18.28:989][ 91]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.12-17.18.28:989][ 91]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.12-17.18.28:989][ 91]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.12-17.18.28:989][ 91]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.12-17.18.28:989][ 91]AssetCheck: /Game/_Blueprints/Bp_Switch Validating asset
+[2026.02.12-17.18.34:640][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.02.12-17.18.40:176][879]LogStreaming: Display: FlushAsyncLoading(626): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.12-17.18.46:828][253]LogStreaming: Display: FlushAsyncLoading(627): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.12-17.19.04:480][496]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube
+[2026.02.12-17.19.04:487][496]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.02.12-17.19.30:091][304]LogSlate: Window 'Message' being destroyed
+[2026.02.12-17.19.30:097][304]Message dialog closed, result: Yes, title: Message, text: Are you sure you want to convert all box collision?
+[2026.02.12-17.19.38:664][961]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.12-17.19.38:722][961]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Shapes/Shape_Cube] ([1] browsable assets)...
+[2026.02.12-17.19.38:722][961]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Shapes/Shape_Cube]
+[2026.02.12-17.19.38:722][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Shapes/Shape_Cube" FILE="../../../../../../Users/S25189660/Documents/unreal/MyProject3/Content/StarterContent/Shapes/Shape_Cube.uasset" SILENT=true
+[2026.02.12-17.19.38:729][961]LogSavePackage: Moving output files for package: /Game/StarterContent/Shapes/Shape_Cube
+[2026.02.12-17.19.38:729][961]LogSavePackage: Moving '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/Shape_CubeFE1949094C2FB0E1DCC18D9C921204EE.tmp' to '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Content/StarterContent/Shapes/Shape_Cube.uasset'
+[2026.02.12-17.19.38:743][961]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.679 ms (total: 2.39 sec)
+[2026.02.12-17.19.38:804][961]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.12-17.19.38:804][961]LogContentValidation: Enabled validators:
+[2026.02.12-17.19.38:804][961]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.12-17.19.38:804][961]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.12-17.19.38:804][961]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.12-17.19.38:804][961]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.12-17.19.38:804][961]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.12-17.19.38:804][961]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.12-17.19.38:804][961]AssetCheck: /Game/StarterContent/Shapes/Shape_Cube Validating asset
+[2026.02.12-17.19.38:824][961]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.12-17.20.18:565][ 88]LogShaderCompilers: Display: ================================================
+[2026.02.12-17.20.18:565][ 88]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.12-17.20.18:565][ 88]LogShaderCompilers: Display: Total job queries 508, among them cache hits 65 (12.80%), DDC hits 367 (72.24%), Duplicates 66 (12.99%)
+[2026.02.12-17.20.18:565][ 88]LogShaderCompilers: Display: Tracking 377 distinct input hashes that result in 272 distinct outputs (72.15%)
+[2026.02.12-17.20.18:565][ 88]LogShaderCompilers: Display: RAM used: 3.54 MiB of 1.60 GiB budget. Usage: 0.22%
+[2026.02.12-17.20.18:565][ 88]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.12-17.20.18:565][ 88]LogShaderCompilers: Display: Shaders Compiled: 10
+[2026.02.12-17.20.18:565][ 88]LogShaderCompilers: Display: Jobs assigned 10, completed 10 (100%)
+[2026.02.12-17.20.18:565][ 88]LogShaderCompilers: Display: Average time worker was idle: 557.87 s
+[2026.02.12-17.20.18:565][ 88]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.07 s
+[2026.02.12-17.20.18:565][ 88]LogShaderCompilers: Display: Job execution time: average 0.63 s, max 1.04 s
+[2026.02.12-17.20.18:565][ 88]LogShaderCompilers: Display: Job life time (pending + execution): average 0.67 s, max 1.09
+[2026.02.12-17.20.18:565][ 88]LogShaderCompilers: Display: Shader code size: total 117.617 KiB, numShaders 10, average 11.762 KiB, min 7.078 KiB, max 27.465 KiB
+[2026.02.12-17.20.18:565][ 88]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.17 s
+[2026.02.12-17.20.18:565][ 88]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.03%
+[2026.02.12-17.20.18:565][ 88]LogShaderCompilers: Display: Jobs were issued in 10 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.02.12-17.20.18:565][ 88]LogShaderCompilers: Display: Average processing rate: 3.16 jobs/sec
+[2026.02.12-17.20.18:565][ 88]LogShaderCompilers: Display: Total thread time: 4.541 s
+[2026.02.12-17.20.18:565][ 88]LogShaderCompilers: Display: Total thread preprocess time: 8.424 s
+[2026.02.12-17.20.18:565][ 88]LogShaderCompilers: Display: Percentage time preprocessing: 185.51%
+[2026.02.12-17.20.18:565][ 88]LogShaderCompilers: Display: Effective parallelization: 1.43 (times faster than compiling all shaders on one thread). Compare with number of workers: 14 - 0.102441
+[2026.02.12-17.20.18:565][ 88]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.12-17.20.18:565][ 88]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 0.81 sec, max 0.81 sec, min 0.81 sec)
+[2026.02.12-17.20.18:565][ 88]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 0.69 sec, max 0.73 sec, min 0.65 sec)
+[2026.02.12-17.20.18:565][ 88]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2026.02.12-17.20.18:565][ 88]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.39 sec, max 0.42 sec, min 0.37 sec)
+[2026.02.12-17.20.18:565][ 88]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.25 sec, max 0.26 sec, min 0.23 sec)
+[2026.02.12-17.20.18:565][ 88]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.12-17.20.18:565][ 88]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 30.37% of total time (compiled    2 times, average 0.69 sec, max 0.73 sec, min 0.65 sec)
+[2026.02.12-17.20.18:565][ 88]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 17.86% of total time (compiled    1 times, average 0.81 sec, max 0.81 sec, min 0.81 sec)
+[2026.02.12-17.20.18:565][ 88]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.32% of total time (compiled    2 times, average 0.39 sec, max 0.42 sec, min 0.37 sec)
+[2026.02.12-17.20.18:565][ 88]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 14.79% of total time (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2026.02.12-17.20.18:565][ 88]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.94% of total time (compiled    2 times, average 0.25 sec, max 0.26 sec, min 0.23 sec)
+[2026.02.12-17.20.18:565][ 88]LogShaderCompilers: Display: === Material stats ===
+[2026.02.12-17.20.18:565][ 88]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.12-17.20.18:565][ 88]LogShaderCompilers: Display: Materials Translated:    150
+[2026.02.12-17.20.18:565][ 88]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2026.02.12-17.20.18:565][ 88]LogShaderCompilers: Display: Material Translation Only: 0.04 s (30%)
+[2026.02.12-17.20.18:565][ 88]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.02.12-17.20.18:565][ 88]LogShaderCompilers: Display: Material Cache Hits: 12 (8%)
+[2026.02.12-17.20.18:565][ 88]LogShaderCompilers: Display: ================================================
+[2026.02.12-17.21.16:162][471]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6542.928711
+[2026.02.12-17.21.16:324][484]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.12-17.21.16:324][484]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6543.078613, Update Interval: 308.910187
+[2026.02.12-17.24.52:042][582]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/Bp_Switch.Bp_Switch_C
+[2026.02.12-17.24.52:042][582]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/Bp_Switch.Bp_Switch_C
+[2026.02.12-17.24.52:044][582]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/Bp_Switch.Bp_Switch as actor: Bp_Switch_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Bp_Switch_C_1
+[2026.02.12-17.24.52:045][582]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/Bp_Switch.Bp_Switch as actor: Bp_Switch_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Bp_Switch_C_1
+[2026.02.12-17.24.52:479][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.02.12-17.24.52:483][618]LogEditorActor: Deleted 0 Actors (0.051 secs)
+[2026.02.12-17.24.52:487][618]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/Bp_Switch.Bp_Switch_C
+[2026.02.12-17.24.52:487][618]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/Bp_Switch.Bp_Switch_C
+[2026.02.12-17.24.52:493][618]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/Bp_Switch.Bp_Switch as actor: Bp_Switch_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Bp_Switch_C_UAID_D843AEDEA7AD6CBE02_1111437147
+[2026.02.12-17.24.52:495][618]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/Bp_Switch.Bp_Switch as actor: Bp_Switch_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Bp_Switch_C_UAID_D843AEDEA7AD6CBE02_1111437147
+[2026.02.12-17.24.56:214][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.02.12-17.24.56:228][957]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.12-17.24.56:294][957]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Blueprints/Bp_Switch] ([2] browsable assets)...
+[2026.02.12-17.24.56:322][957]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Blueprints/Bp_Switch.Bp_Switch]
+[2026.02.12-17.24.56:322][957]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Blueprints/Bp_Switch]
+[2026.02.12-17.24.56:322][957]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Bp_Switch" FILE="../../../../../../Users/S25189660/Documents/unreal/MyProject3/Content/_Blueprints/Bp_Switch.uasset" SILENT=true
+[2026.02.12-17.24.56:328][957]LogSavePackage: Moving output files for package: /Game/_Blueprints/Bp_Switch
+[2026.02.12-17.24.56:329][957]LogSavePackage: Moving '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/Bp_SwitchC2DB817A4378DF8AEEF797A785D4ABFF.tmp' to '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Content/_Blueprints/Bp_Switch.uasset'
+[2026.02.12-17.24.56:335][957]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.847 ms (total: 2.49 sec)
+[2026.02.12-17.24.56:391][957]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.12-17.24.56:391][957]LogContentValidation: Enabled validators:
+[2026.02.12-17.24.56:391][957]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.12-17.24.56:391][957]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.12-17.24.56:391][957]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.12-17.24.56:391][957]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.12-17.24.56:391][957]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.12-17.24.56:391][957]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.12-17.24.56:391][957]AssetCheck: /Game/_Blueprints/Bp_Switch Validating asset
