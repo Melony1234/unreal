@@ -2446,3 +2446,109 @@ Make sure '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_Platf
 [2026.02.26-16.16.09:468][366]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
 [2026.02.26-16.16.09:475][366]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
 [2026.02.26-16.16.09:552][367]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2026.02.26-16.18.57:473][ 13]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7801.994141
+[2026.02.26-16.18.58:473][ 17]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.26-16.18.58:473][ 17]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7802.656738, Update Interval: 350.040588
+[2026.02.26-16.20.50:217][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.02.26-16.20.50:234][351]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/OH/H0YG5IF8P897B9LA8H3A8A_Auto7
+[2026.02.26-16.20.50:234][351]LogSavePackage: Moving '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/H0YG5IF8P897B9LA8H3A8A_Auto7B7D871264DFE8D94E78237AA25A7379E.tmp' to '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/OH/H0YG5IF8P897B9LA8H3A8A_Auto7.uasset'
+[2026.02.26-16.20.50:235][351]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.042
+[2026.02.26-16.20.50:235][351]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.042
+[2026.02.26-16.25.23:529][172]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8188.050781
+[2026.02.26-16.25.24:522][174]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.26-16.25.24:522][174]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8188.713867, Update Interval: 302.188171
+[2026.02.26-16.30.39:020][118]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2026.02.26-16.30.39:020][118]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{00099c1d-c2db-4a52-83d3-ac0a8db29bad}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.02.26-16.30.39:225][118]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{00099c1d-c2db-4a52-83d3-ac0a8db29bad}]
+[2026.02.26-16.30.39:225][118]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.02.26-16.30.39:225][118]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.02.26-16.30.39:561][119]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{00099c1d-c2db-4a52-83d3-ac0a8db29bad}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=35.03
+[2026.02.26-16.30.39:561][119]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.02.26-16.30.39:561][119]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.02.26-16.30.39:563][119]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.02.26-16.30.40:010][120]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=T24v-10 (NVIDIA High Definition Audio), InstanceID=1
+[2026.02.26-16.30.40:010][120]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{3c628a6e-e790-4177-9b43-7b195eae9432}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.02.26-16.30.40:225][121]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{3c628a6e-e790-4177-9b43-7b195eae9432}]
+[2026.02.26-16.30.40:225][121]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.02.26-16.30.40:225][121]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.02.26-16.30.40:318][122]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=T24v-10 (NVIDIA High Definition Audio), InstanceID=1
+[2026.02.26-16.30.40:318][122]LogAudioMixer: Display: Ignoring device swap request, swap already requested.
+[2026.02.26-16.30.40:318][122]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '{0.0.0.00000000}.{a4a2b48f-2fce-4179-8fb1-ba8618d0e8c9}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.02.26-16.30.40:560][122]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{3c628a6e-e790-4177-9b43-7b195eae9432}, Name=T24v-10 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=183.36
+[2026.02.26-16.30.40:560][122]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.02.26-16.30.40:560][122]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.02.26-16.30.40:562][122]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.02.26-16.31.20:581][242]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8545.090820
+[2026.02.26-16.31.21:582][245]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.26-16.31.21:582][245]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8545.752930, Update Interval: 353.327423
+[2026.02.26-16.37.57:974][434]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8942.508789
+[2026.02.26-16.37.58:978][437]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.26-16.37.58:978][437]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8943.175781, Update Interval: 343.516357
+[2026.02.26-16.41.16:608][ 30]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2026.02.26-16.41.16:608][ 30]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{00099c1d-c2db-4a52-83d3-ac0a8db29bad}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.02.26-16.41.16:658][ 30]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{00099c1d-c2db-4a52-83d3-ac0a8db29bad}]
+[2026.02.26-16.41.16:659][ 30]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.02.26-16.41.16:659][ 30]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.02.26-16.41.16:996][ 31]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{00099c1d-c2db-4a52-83d3-ac0a8db29bad}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=34.22
+[2026.02.26-16.41.16:997][ 31]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.02.26-16.41.16:997][ 31]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.02.26-16.41.17:001][ 31]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.02.26-16.41.18:287][ 35]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=T24v-10 (NVIDIA High Definition Audio), InstanceID=1
+[2026.02.26-16.41.18:287][ 35]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{3c628a6e-e790-4177-9b43-7b195eae9432}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.02.26-16.41.18:324][ 35]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{3c628a6e-e790-4177-9b43-7b195eae9432}]
+[2026.02.26-16.41.18:325][ 35]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.02.26-16.41.18:325][ 35]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.02.26-16.41.18:595][ 36]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=T24v-10 (NVIDIA High Definition Audio), InstanceID=1
+[2026.02.26-16.41.18:595][ 36]LogAudioMixer: Display: Ignoring device swap request, swap already requested.
+[2026.02.26-16.41.18:595][ 36]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '{0.0.0.00000000}.{a4a2b48f-2fce-4179-8fb1-ba8618d0e8c9}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.02.26-16.41.18:993][ 37]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{3c628a6e-e790-4177-9b43-7b195eae9432}, Name=T24v-10 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=359.87
+[2026.02.26-16.41.18:993][ 37]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.02.26-16.41.18:993][ 37]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.02.26-16.41.18:995][ 37]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.02.26-16.44.15:362][566]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9319.878906
+[2026.02.26-16.44.16:368][569]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.26-16.44.16:368][569]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9320.544922, Update Interval: 347.784668
+[2026.02.26-16.50.55:428][767]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9719.957031
+[2026.02.26-16.50.56:428][769]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.26-16.50.56:428][769]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9720.625000, Update Interval: 346.706146
+[2026.02.26-16.57.42:817][988]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10127.368164
+[2026.02.26-16.57.43:818][991]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.26-16.57.43:818][991]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10128.034180, Update Interval: 348.319336
+[2026.02.26-17.03.04:843][954]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2026.02.26-17.03.04:843][954]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{00099c1d-c2db-4a52-83d3-ac0a8db29bad}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.02.26-17.03.04:862][954]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{00099c1d-c2db-4a52-83d3-ac0a8db29bad}]
+[2026.02.26-17.03.04:862][954]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.02.26-17.03.04:862][954]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.02.26-17.03.05:197][955]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{00099c1d-c2db-4a52-83d3-ac0a8db29bad}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=32.30
+[2026.02.26-17.03.05:197][955]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.02.26-17.03.05:197][955]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.02.26-17.03.05:199][955]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.02.26-17.03.22:125][  6]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=T24v-10 (NVIDIA High Definition Audio), InstanceID=1
+[2026.02.26-17.03.22:125][  6]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{3c628a6e-e790-4177-9b43-7b195eae9432}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.02.26-17.03.22:395][  6]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=T24v-10 (NVIDIA High Definition Audio), InstanceID=1
+[2026.02.26-17.03.22:396][  6]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2026.02.26-17.03.22:396][  6]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '{0.0.0.00000000}.{a4a2b48f-2fce-4179-8fb1-ba8618d0e8c9}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.02.26-17.03.22:419][  6]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{3c628a6e-e790-4177-9b43-7b195eae9432}]
+[2026.02.26-17.03.22:419][  6]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.02.26-17.03.22:419][  6]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.02.26-17.03.22:753][  7]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{3c628a6e-e790-4177-9b43-7b195eae9432}, Name=T24v-10 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=70.18
+[2026.02.26-17.03.22:753][  7]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.02.26-17.03.22:753][  7]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.02.26-17.03.22:755][  7]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.02.26-17.03.42:326][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.02.26-17.03.42:331][209]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.26-17.03.42:368][209]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/PA/VCKQWLLVC1IJQX19A8APHZ
+[2026.02.26-17.03.42:368][209]LogSavePackage: Moving '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/VCKQWLLVC1IJQX19A8APHZ86CC9FE543BAF29782DA58AAA176252E.tmp' to '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/PA/VCKQWLLVC1IJQX19A8APHZ.uasset'
+[2026.02.26-17.03.42:372][209]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/OH/H0YG5IF8P897B9LA8H3A8A
+[2026.02.26-17.03.42:372][209]LogSavePackage: Moving '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/H0YG5IF8P897B9LA8H3A8AF74A7E4348FC8C0001D064855F1EA568.tmp' to '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/OH/H0YG5IF8P897B9LA8H3A8A.uasset'
+[2026.02.26-17.03.42:387][209]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.432 ms (total: 2.42 sec)
+[2026.02.26-17.03.42:448][209]LogContentValidation: Display: Starting to validate 2 assets
+[2026.02.26-17.03.42:448][209]LogContentValidation: Enabled validators:
+[2026.02.26-17.03.42:448][209]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.26-17.03.42:448][209]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.26-17.03.42:448][209]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.26-17.03.42:448][209]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.26-17.03.42:448][209]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.26-17.03.42:448][209]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.26-17.03.42:448][209]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2026.02.26-17.03.42:480][209]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/SourceControl/UncontrolledChangelists.json
