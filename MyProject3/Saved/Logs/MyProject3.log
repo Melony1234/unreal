@@ -3383,3 +3383,233 @@ Script Stack (0 frames) :
 [2026.03.05-15.46.44:484][522]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
 [2026.03.05-15.46.44:485][522]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
 [2026.03.05-15.47.40:170][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.03.05-15.48.28:153][311]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5442.787109
+[2026.03.05-15.48.29:153][314]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-15.48.29:153][314]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5443.450195, Update Interval: 357.454773
+[2026.03.05-15.55.26:549][565]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5861.182129
+[2026.03.05-15.55.27:548][568]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-15.55.27:548][568]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5861.849609, Update Interval: 301.078522
+[2026.03.05-15.57.35:806][238]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2026.03.05-15.57.35:820][238]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2026.03.05-15.57.35:827][238]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2026.03.05-15.57.35:842][239]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2026.03.05-15.57.46:917][167]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> Wbp_mainmenu
+[2026.03.05-15.57.46:922][167]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2026.03.05-15.57.56:271][598]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2026.03.05-15.57.56:286][598]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2026.03.05-15.57.56:295][598]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2026.03.05-15.57.56:311][599]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2026.03.05-15.58.07:520][515]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> wbp_options
+[2026.03.05-15.58.07:525][515]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2026.03.05-15.58.18:807][295]LogContentBrowser: Deferred new asset file creation: NewWidgetPreview
+[2026.03.05-15.58.18:815][295]LogContentBrowser: Creating deferred item: NewWidgetPreview
+[2026.03.05-15.58.18:832][296]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetPreview).
+[2026.03.05-15.58.21:826][544]LogContentBrowser: Attempting asset rename: NewWidgetPreview -> NewWidgetPreview
+[2026.03.05-15.58.21:827][544]LogContentBrowser: End creating deferred item NewWidgetPreview
+[2026.03.05-15.58.29:980][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.03.05-15.58.30:117][134]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.03.05-15.58.30:121][134]LogSlate: Took 0.002934 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.03.05-15.58.31:260][134]LogSlate: Window 'Delete Assets' being destroyed
+[2026.03.05-15.58.31:314][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.03.05-15.58.31:338][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.03.05-15.58.31:359][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.03.05-15.58.44:398][741]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2026.03.05-15.58.44:432][741]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2026.03.05-15.58.44:440][741]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2026.03.05-15.58.44:456][742]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2026.03.05-15.58.56:356][721]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> Wbp_pausemenu
+[2026.03.05-15.58.56:362][721]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2026.03.05-15.59.05:325][439]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-15.59.05:383][439]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Blueprints/Wbp_pausemenu] ([2] browsable assets)...
+[2026.03.05-15.59.05:384][439]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Blueprints/Wbp_pausemenu.Wbp_pausemenu]
+[2026.03.05-15.59.05:384][439]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Blueprints/Wbp_pausemenu]
+[2026.03.05-15.59.05:384][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Wbp_pausemenu" FILE="../../../../../../Users/S25189660/Documents/unreal/MyProject3/Content/_Blueprints/Wbp_pausemenu.uasset" SILENT=true
+[2026.03.05-15.59.05:388][439]LogSavePackage: Moving output files for package: /Game/_Blueprints/Wbp_pausemenu
+[2026.03.05-15.59.05:389][439]LogSavePackage: Moving '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/Wbp_pausemenuBAF88C7B4420ED224C2B05B388306ACF.tmp' to '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Content/_Blueprints/Wbp_pausemenu.uasset'
+[2026.03.05-15.59.05:397][439]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.776 ms (total: 1.30 sec)
+[2026.03.05-15.59.05:425][439]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-15.59.05:425][439]LogContentValidation: Enabled validators:
+[2026.03.05-15.59.05:425][439]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-15.59.05:425][439]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-15.59.05:425][439]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-15.59.05:425][439]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-15.59.05:425][439]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-15.59.05:425][439]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-15.59.05:425][439]AssetCheck: /Game/_Blueprints/Wbp_pausemenu Validating asset
+[2026.03.05-15.59.05:445][439]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.05-15.59.29:788][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.03.05-15.59.29:791][313]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.029
+[2026.03.05-15.59.29:791][313]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Blueprints/Wbp_mainmenu] ([2] browsable assets)...
+[2026.03.05-15.59.29:792][313]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Blueprints/Wbp_mainmenu.Wbp_mainmenu]
+[2026.03.05-15.59.29:793][313]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Blueprints/Wbp_mainmenu]
+[2026.03.05-15.59.29:797][313]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Blueprints/Wbp_mainmenu_Auto3
+[2026.03.05-15.59.29:797][313]LogSavePackage: Moving '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/Wbp_mainmenu_Auto37FB9FC1844A3BABB781E269F60E2A431.tmp' to '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/Autosaves/Game/_Blueprints/Wbp_mainmenu_Auto3.uasset'
+[2026.03.05-15.59.29:798][313]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Blueprints/wbp_options] ([2] browsable assets)...
+[2026.03.05-15.59.29:799][313]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Blueprints/wbp_options.wbp_options]
+[2026.03.05-15.59.29:799][313]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Blueprints/wbp_options]
+[2026.03.05-15.59.29:803][313]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Blueprints/wbp_options_Auto3
+[2026.03.05-15.59.29:803][313]LogSavePackage: Moving '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/wbp_options_Auto370AFB20D497B5F5DFF73068A502898F7.tmp' to '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/Autosaves/Game/_Blueprints/wbp_options_Auto3.uasset'
+[2026.03.05-15.59.29:804][313]LogFileHelpers: Auto-saving content packages took 0.013
+[2026.03.05-15.59.32:191][456]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-15.59.32:227][456]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Blueprints/wbp_options] ([2] browsable assets)...
+[2026.03.05-15.59.32:227][456]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Blueprints/wbp_options]
+[2026.03.05-15.59.32:227][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/wbp_options" FILE="../../../../../../Users/S25189660/Documents/unreal/MyProject3/Content/_Blueprints/wbp_options.uasset" SILENT=true
+[2026.03.05-15.59.32:232][456]LogSavePackage: Moving output files for package: /Game/_Blueprints/wbp_options
+[2026.03.05-15.59.32:232][456]LogSavePackage: Moving '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/wbp_optionsBE6250504BF22BB14B2A5583A1CCCE21.tmp' to '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Content/_Blueprints/wbp_options.uasset'
+[2026.03.05-15.59.32:241][456]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.440 ms (total: 1.35 sec)
+[2026.03.05-15.59.32:299][456]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-15.59.32:299][456]LogContentValidation: Enabled validators:
+[2026.03.05-15.59.32:299][456]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-15.59.32:299][456]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-15.59.32:299][456]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-15.59.32:299][456]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-15.59.32:299][456]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-15.59.32:300][456]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-15.59.32:300][456]AssetCheck: /Game/_Blueprints/wbp_options Validating asset
+[2026.03.05-15.59.32:341][456]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.05-15.59.33:131][499]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-15.59.33:161][499]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Blueprints/Wbp_mainmenu] ([2] browsable assets)...
+[2026.03.05-15.59.33:161][499]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Blueprints/Wbp_mainmenu]
+[2026.03.05-15.59.33:161][499]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Wbp_mainmenu" FILE="../../../../../../Users/S25189660/Documents/unreal/MyProject3/Content/_Blueprints/Wbp_mainmenu.uasset" SILENT=true
+[2026.03.05-15.59.33:165][499]LogSavePackage: Moving output files for package: /Game/_Blueprints/Wbp_mainmenu
+[2026.03.05-15.59.33:165][499]LogSavePackage: Moving '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/Wbp_mainmenuF0713BB14413509AF6D6339E898571BB.tmp' to '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Content/_Blueprints/Wbp_mainmenu.uasset'
+[2026.03.05-15.59.33:173][499]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.999 ms (total: 1.39 sec)
+[2026.03.05-15.59.33:233][499]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-15.59.33:233][499]LogContentValidation: Enabled validators:
+[2026.03.05-15.59.33:233][499]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-15.59.33:233][499]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-15.59.33:233][499]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-15.59.33:233][499]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-15.59.33:233][499]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-15.59.33:233][499]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-15.59.33:233][499]AssetCheck: /Game/_Blueprints/Wbp_mainmenu Validating asset
+[2026.03.05-15.59.33:276][499]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.05-15.59.34:242][558]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/_Blueprints/Wbp_pausemenu.Wbp_pausemenu
+[2026.03.05-15.59.34:242][558]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_49
+[2026.03.05-15.59.34:246][558]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_50
+[2026.03.05-16.01.05:615][353]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6200.227539
+[2026.03.05-16.01.05:764][364]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-16.01.05:764][364]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6200.362305, Update Interval: 322.381653
+[2026.03.05-16.01.24:819][692]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18423099840654213050
+[2026.03.05-16.01.24:821][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-16.01.24:827][693]LogSlate: Took 0.000314 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.03.05-16.01.24:831][693]LogSlate: Took 0.000308 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2026.03.05-16.01.24:836][693]LogSlate: Took 0.000306 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2026.03.05-16.01.24:838][693]LogSlate: Took 0.000252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.03.05-16.01.24:839][693]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.03.05-16.01.25:218][718]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 26
+[2026.03.05-16.01.25:218][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-16.01.25:225][719]LogSlate: Took 0.000319 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.03.05-16.01.25:228][719]LogSlate: Took 0.000319 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2026.03.05-16.01.25:233][719]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2026.03.05-16.01.25:235][719]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.03.05-16.01.25:236][719]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.03.05-16.07.19:368][767]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6573.971191
+[2026.03.05-16.07.19:558][780]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-16.07.19:558][780]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6574.145508, Update Interval: 322.507996
+[2026.03.05-16.08.48:218][801]LogSlate: Took 0.002226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2026.03.05-16.08.53:939][170]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.05-16.08.53:940][170]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.05-16.08.53:942][170]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.05-16.08.54:014][171]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.05-16.08.54:097][172]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.05-16.08.54:099][172]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.05-16.08.54:165][173]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.05-16.08.54:172][173]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.05-16.08.54:247][174]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.05-16.08.58:139][404]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.05-16.08.58:139][404]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.05-16.08.58:142][404]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.05-16.08.58:213][405]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.05-16.08.58:294][406]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.05-16.08.58:296][406]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.05-16.08.58:368][407]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.05-16.08.58:457][409]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.05-16.08.58:529][410]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.05-16.08.58:602][411]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.05-16.08.58:671][412]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.05-16.08.58:679][412]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.05-16.08.58:754][413]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.05-16.08.58:822][414]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.05-16.11.41:301][620]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.03.05-16.11.41:455][620]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-16.11.41:516][620]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Blueprints/Wbp_pausemenu] ([2] browsable assets)...
+[2026.03.05-16.11.41:519][620]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Blueprints/Wbp_pausemenu.Wbp_pausemenu]
+[2026.03.05-16.11.41:519][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Blueprints/Wbp_pausemenu]
+[2026.03.05-16.11.41:519][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Wbp_pausemenu" FILE="../../../../../../Users/S25189660/Documents/unreal/MyProject3/Content/_Blueprints/Wbp_pausemenu.uasset" SILENT=true
+[2026.03.05-16.11.41:525][620]LogSavePackage: Moving output files for package: /Game/_Blueprints/Wbp_pausemenu
+[2026.03.05-16.11.41:526][620]LogSavePackage: Moving '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/Wbp_pausemenuE374632A40D7885BA51C13ABA754B929.tmp' to '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Content/_Blueprints/Wbp_pausemenu.uasset'
+[2026.03.05-16.11.41:535][620]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.216 ms (total: 1.47 sec)
+[2026.03.05-16.11.41:583][620]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-16.11.41:584][620]LogContentValidation: Enabled validators:
+[2026.03.05-16.11.41:584][620]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-16.11.41:584][620]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-16.11.41:584][620]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-16.11.41:584][620]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-16.11.41:584][620]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-16.11.41:584][620]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-16.11.41:585][620]AssetCheck: /Game/_Blueprints/Wbp_pausemenu Validating asset
+[2026.03.05-16.11.42:813][687]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.05-16.11.42:820][687]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.05-16.11.42:820][687]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.03.05-16.11.42:820][687]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 668 us (total: 8.059 ms)
+[2026.03.05-16.11.42:821][687]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.05-16.11.42:821][687]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.03.05-16.11.42:825][687]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.05-16.11.42:827][687]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.047 ms (total: 11.965 ms)
+[2026.03.05-16.11.42:827][687]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006254s)
+[2026.03.05-16.11.42:827][687]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.006283s)
+[2026.03.05-16.11.42:847][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.03.05-16.11.42:849][687]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.03.05-16.11.42:851][687]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.05-16.11.42:851][687]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.05-16.11.42:851][687]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.05-16.11.42:851][687]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.05-16.11.42:852][687]LogWorldPartition: Display: WorldPartition initialize took 1.367 ms (total: 136.352 ms)
+[2026.03.05-16.11.42:852][687]LogPlayLevel: PIE: World Init took: (0.003015s)
+[2026.03.05-16.11.42:853][687]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2026.03.05-16.11.42:853][687]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.05-16.11.42:853][687]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.05-16.11.42:853][687]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.05-16.11.42:853][687]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.05-16.11.42:853][687]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.05-16.11.42:853][687]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.05-16.11.42:853][687]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.05-16.11.42:853][687]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.05-16.11.42:853][687]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.05-16.11.42:853][687]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.05-16.11.42:853][687]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.05-16.11.42:855][687]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.05-16.11.42:883][687]LogAudioMixer: Display: Using Audio Hardware Device T24v-10 (NVIDIA High Definition Audio)
+[2026.03.05-16.11.42:883][687]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.05-16.11.42:883][687]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.05-16.11.42:883][687]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.05-16.11.42:883][687]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2026.03.05-16.11.42:883][687]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2026.03.05-16.11.42:885][687]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2026.03.05-16.11.42:885][687]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2026.03.05-16.11.42:885][687]LogInit: FAudioDevice initialized with ID 13.
+[2026.03.05-16.11.42:885][687]LogAudio: Display: Audio Device (ID: 13) registered with world 'Lvl_ThirdPerson'.
+[2026.03.05-16.11.42:885][687]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2026.03.05-16.11.42:889][687]LogLoad: Game class is 'BP_PlatformingGameMode_C'
+[2026.03.05-16.11.42:892][687]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.03.05-16.11.42
+[2026.03.05-16.11.42:892][687]LogWorld: Bringing up level for play took: 0.002192
+[2026.03.05-16.11.42:893][687]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2026.03.05-16.11.42:898][687]PIE: Server logged in
+[2026.03.05-16.11.42:901][687]PIE: Play in editor total start time 0.081 seconds.
+[2026.03.05-16.11.42:936][688]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.05-16.11.44:482][791]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-16.11.44:482][791]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.03.05-16.11.44:483][791]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-16.11.44:483][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-16.11.44:483][791]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.03.05-16.11.44:485][791]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.05-16.11.44:488][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-16.11.44:513][791]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.05-16.11.44:513][791]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2026.03.05-16.11.44:513][791]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=4
+[2026.03.05-16.11.44:516][791]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=2
+[2026.03.05-16.11.44:522][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.03.05-16.11.44:588][792]LogPlayLevel: Display: Destroying online subsystem :Context_27
