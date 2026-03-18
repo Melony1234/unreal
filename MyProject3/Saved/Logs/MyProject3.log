@@ -1209,3 +1209,301 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.18-12.24.29:731][137]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 354.519470
 [2026.03.18-12.24.30:731][140]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.03.18-12.24.30:731][140]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 355.186005, Update Interval: 336.038086
+[2026.03.18-12.30.09:092][155]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 693.879517
+[2026.03.18-12.30.10:092][158]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.18-12.30.10:092][158]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 694.545776, Update Interval: 354.116638
+[2026.03.18-12.35.47:427][260]LogSlate: Took 0.005824 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.03.18-12.35.51:444][713]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2026.03.18-12.35.52:073][758]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter
+[2026.03.18-12.35.52:074][758]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.03.18-12.35.52:139][758]LogStreaming: Display: FlushAsyncLoading(401): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.18-12.35.53:987][758]LogStaticMesh: Display: Building static mesh PhAT_FloorBox (Required Memory Estimate: 0.024887 MB)...
+[2026.03.18-12.35.53:991][758]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
+[2026.03.18-12.35.54:566][758]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.03.18-12.35.55:063][759]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.03.18-12.35.55:213][761]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.03.18-12.36.10:738][431]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1055.526245
+[2026.03.18-12.36.10:885][440]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.18-12.36.10:885][440]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1055.657471, Update Interval: 341.156036
+[2026.03.18-12.36.12:193][492]LogSlate: Took 0.005865 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.03.18-12.36.41:774][990]LogShaderCompilers: Display: ================================================
+[2026.03.18-12.36.41:774][990]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.18-12.36.41:774][990]LogShaderCompilers: Display: Total job queries 497, among them cache hits 79 (15.90%), DDC hits 348 (70.02%), Duplicates 69 (13.88%)
+[2026.03.18-12.36.41:774][990]LogShaderCompilers: Display: Tracking 349 distinct input hashes that result in 252 distinct outputs (72.21%)
+[2026.03.18-12.36.41:774][990]LogShaderCompilers: Display: RAM used: 3.42 MiB of 3.20 GiB budget. Usage: 0.10%
+[2026.03.18-12.36.41:774][990]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.18-12.36.41:774][990]LogShaderCompilers: Display: Shaders Compiled: 1
+[2026.03.18-12.36.41:774][990]LogShaderCompilers: Display: Jobs assigned 1, completed 1 (100%)
+[2026.03.18-12.36.41:774][990]LogShaderCompilers: Display: Time job spent in pending queue: average 0.01 s, longest 0.01 s
+[2026.03.18-12.36.41:774][990]LogShaderCompilers: Display: Job execution time: average 0.92 s, max 0.92 s
+[2026.03.18-12.36.41:774][990]LogShaderCompilers: Display: Job life time (pending + execution): average 0.93 s, max 0.93
+[2026.03.18-12.36.41:774][990]LogShaderCompilers: Display: Shader code size: total 8.145 KiB, numShaders 1, average 8.145 KiB, min 8.145 KiB, max 8.145 KiB
+[2026.03.18-12.36.41:774][990]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.93 s
+[2026.03.18-12.36.41:774][990]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2026.03.18-12.36.41:774][990]LogShaderCompilers: Display: Jobs were issued in 1 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.03.18-12.36.41:774][990]LogShaderCompilers: Display: Average processing rate: 1.08 jobs/sec
+[2026.03.18-12.36.41:774][990]LogShaderCompilers: Display: Total thread time: 0.525 s
+[2026.03.18-12.36.41:774][990]LogShaderCompilers: Display: Total thread preprocess time: 8.33 s
+[2026.03.18-12.36.41:774][990]LogShaderCompilers: Display: Percentage time preprocessing: 1587.41%
+[2026.03.18-12.36.41:774][990]LogShaderCompilers: Display: Effective parallelization: 0.57 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.070626
+[2026.03.18-12.36.41:774][990]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.18-12.36.41:774][990]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.52 sec, max 0.52 sec, min 0.52 sec)
+[2026.03.18-12.36.41:774][990]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.18-12.36.41:774][990]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.18-12.36.41:774][990]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.18-12.36.41:774][990]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.18-12.36.41:774][990]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.18-12.36.41:774][990]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 100.00% of total time (compiled    1 times, average 0.52 sec, max 0.52 sec, min 0.52 sec)
+[2026.03.18-12.36.41:775][990]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.18-12.36.41:775][990]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.18-12.36.41:775][990]LogShaderCompilers: Display:                                                 FLumenCardVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.18-12.36.41:775][990]LogShaderCompilers: Display:                                                 FLumenCardPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.18-12.36.41:775][990]LogShaderCompilers: Display: === Material stats ===
+[2026.03.18-12.36.41:775][990]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.18-12.36.41:775][990]LogShaderCompilers: Display: Materials Translated:    147
+[2026.03.18-12.36.41:775][990]LogShaderCompilers: Display: Material Total Translate Time: 0.11 s
+[2026.03.18-12.36.41:775][990]LogShaderCompilers: Display: Material Translation Only: 0.05 s (48%)
+[2026.03.18-12.36.41:775][990]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (3%)
+[2026.03.18-12.36.41:775][990]LogShaderCompilers: Display: Material Cache Hits: 39 (27%)
+[2026.03.18-12.36.41:775][990]LogShaderCompilers: Display: ================================================
+[2026.03.18-12.37.25:738][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2026.03.18-12.37.25:739][422]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.050
+[2026.03.18-12.37.25:739][422]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter] ([2] browsable assets)...
+[2026.03.18-12.37.25:742][422]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.03.18-12.37.25:909][422]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C]
+[2026.03.18-12.37.25:947][422]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter]
+[2026.03.18-12.37.25:947][422]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter]
+[2026.03.18-12.37.26:017][422]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter_Auto1
+[2026.03.18-12.37.26:018][422]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/BP_PlatformingCharacter_Auto147C038D347003135FF56A59CF840780A.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter_Auto1.uasset'
+[2026.03.18-12.37.26:019][422]LogFileHelpers: Auto-saving content packages took 0.280
+[2026.03.18-12.42.02:106][251]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1406.894897
+[2026.03.18-12.42.03:105][254]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.18-12.42.03:105][254]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1407.560913, Update Interval: 349.185455
+[2026.03.18-12.46.03:516][976]LogAudioMixer: Warning: FMixerPlatformXAudio2::OnCriticalError: 0x88880001: UNKNOWN
+[2026.03.18-12.46.03:533][976]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Steam Streaming Speakers), InstanceID=1
+[2026.03.18-12.46.03:533][976]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{5b6f99d8-819c-4a94-8be7-b36f225420b4}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.03.18-12.46.03:792][976]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{5b6f99d8-819c-4a94-8be7-b36f225420b4}]
+[2026.03.18-12.46.03:792][976]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.03.18-12.46.03:792][976]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.03.18-12.46.04:129][977]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{5b6f99d8-819c-4a94-8be7-b36f225420b4}, Name=Speakers (Steam Streaming Speakers)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=9.36
+[2026.03.18-12.46.04:129][977]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.03.18-12.46.04:129][977]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.18-12.46.04:131][977]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.18-12.46.19:249][ 23]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (WH-1000XM5), InstanceID=1
+[2026.03.18-12.46.19:250][ 23]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{46885530-b219-4faf-b462-d233403e05d9}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.03.18-12.46.19:461][ 23]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{46885530-b219-4faf-b462-d233403e05d9}]
+[2026.03.18-12.46.19:461][ 23]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.03.18-12.46.19:461][ 23]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.03.18-12.46.19:797][ 24]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{46885530-b219-4faf-b462-d233403e05d9}, Name=Headphones (WH-1000XM5)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=22.01
+[2026.03.18-12.46.19:797][ 24]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.03.18-12.46.19:797][ 24]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.18-12.46.19:799][ 24]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.18-12.48.11:808][360]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1776.595947
+[2026.03.18-12.48.12:808][363]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.18-12.48.12:808][363]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1777.262695, Update Interval: 333.406769
+[2026.03.18-12.50.01:010][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2026.03.18-12.50.01:012][157]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.030
+[2026.03.18-12.50.01:012][157]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter] ([2] browsable assets)...
+[2026.03.18-12.50.01:147][157]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter]
+[2026.03.18-12.50.01:147][157]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter]
+[2026.03.18-12.50.01:212][157]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter_Auto2
+[2026.03.18-12.50.01:213][157]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/BP_PlatformingCharacter_Auto22B78B72A45FC5F3C9D8F039D5E3EE783.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter_Auto2.uasset'
+[2026.03.18-12.50.01:214][157]LogFileHelpers: Auto-saving content packages took 0.202
+[2026.03.18-12.54.22:300][839]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2147.090820
+[2026.03.18-12.54.22:465][850]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.18-12.54.22:465][850]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2147.239746, Update Interval: 328.277832
+[2026.03.18-12.54.32:599][527]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2026.03.18-12.54.32:686][527]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.18-12.54.32:724][527]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter] ([2] browsable assets)...
+[2026.03.18-12.54.32:763][527]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter]
+[2026.03.18-12.54.32:763][527]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter]
+[2026.03.18-12.54.32:824][527]LogSavePackage: Moving output files for package: /Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter
+[2026.03.18-12.54.32:824][527]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/BP_PlatformingCharacterBD1AEA5944071190966849821E4D43BB.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/Variant_Platforming/Blueprints/BP_PlatformingCharacter.uasset'
+[2026.03.18-12.54.32:837][527]LogFileHelpers: InternalPromptForCheckoutAndSave took 150.461 ms
+[2026.03.18-12.54.32:866][527]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.18-12.54.32:866][527]LogContentValidation: Enabled validators:
+[2026.03.18-12.54.32:866][527]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.18-12.54.32:866][527]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.18-12.54.32:866][527]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.18-12.54.32:866][527]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.18-12.54.32:866][527]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.18-12.54.32:866][527]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.18-12.54.32:867][527]AssetCheck: /Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter Validating asset
+[2026.03.18-12.54.33:112][527]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.18-12.54.38:608][890]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2026.03.18-12.54.38:665][891]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2026.03.18-12.54.40:209][959]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.03.18-12.54.40:233][960]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.03.18-12.54.40:262][961]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.03.18-12.54.42:156][ 75]LogShaderCompilers: Display: ================================================
+[2026.03.18-12.54.42:156][ 75]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.18-12.54.42:156][ 75]LogShaderCompilers: Display: Total job queries 498, among them cache hits 79 (15.86%), DDC hits 348 (69.88%), Duplicates 69 (13.86%)
+[2026.03.18-12.54.42:156][ 75]LogShaderCompilers: Display: Tracking 350 distinct input hashes that result in 253 distinct outputs (72.29%)
+[2026.03.18-12.54.42:156][ 75]LogShaderCompilers: Display: RAM used: 3.44 MiB of 3.20 GiB budget. Usage: 0.11%
+[2026.03.18-12.54.42:156][ 75]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.18-12.54.42:156][ 75]LogShaderCompilers: Display: Shaders Compiled: 2
+[2026.03.18-12.54.42:156][ 75]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100%)
+[2026.03.18-12.54.42:156][ 75]LogShaderCompilers: Display: Average time worker was idle: 1126.31 s
+[2026.03.18-12.54.42:156][ 75]LogShaderCompilers: Display: Time job spent in pending queue: average 0.01 s, longest 0.02 s
+[2026.03.18-12.54.42:156][ 75]LogShaderCompilers: Display: Job execution time: average 1.17 s, max 1.42 s
+[2026.03.18-12.54.42:156][ 75]LogShaderCompilers: Display: Job life time (pending + execution): average 1.18 s, max 1.43
+[2026.03.18-12.54.42:156][ 75]LogShaderCompilers: Display: Shader code size: total 34.547 KiB, numShaders 2, average 17.273 KiB, min 8.145 KiB, max 26.402 KiB
+[2026.03.18-12.54.42:156][ 75]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.36 s
+[2026.03.18-12.54.42:156][ 75]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2026.03.18-12.54.42:156][ 75]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.03.18-12.54.42:156][ 75]LogShaderCompilers: Display: Average processing rate: 0.85 jobs/sec
+[2026.03.18-12.54.42:156][ 75]LogShaderCompilers: Display: Total thread time: 1.678 s
+[2026.03.18-12.54.42:156][ 75]LogShaderCompilers: Display: Total thread preprocess time: 8.346 s
+[2026.03.18-12.54.42:156][ 75]LogShaderCompilers: Display: Percentage time preprocessing: 497.50%
+[2026.03.18-12.54.42:156][ 75]LogShaderCompilers: Display: Effective parallelization: 0.71 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.088752
+[2026.03.18-12.54.42:156][ 75]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.18-12.54.42:156][ 75]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.84 sec, max 1.15 sec, min 0.52 sec)
+[2026.03.18-12.54.42:156][ 75]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.18-12.54.42:156][ 75]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.18-12.54.42:156][ 75]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.18-12.54.42:156][ 75]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.18-12.54.42:156][ 75]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.18-12.54.42:156][ 75]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 100.00% of total time (compiled    2 times, average 0.84 sec, max 1.15 sec, min 0.52 sec)
+[2026.03.18-12.54.42:156][ 75]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.18-12.54.42:156][ 75]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.18-12.54.42:156][ 75]LogShaderCompilers: Display:                                                 FLumenCardVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.18-12.54.42:156][ 75]LogShaderCompilers: Display:                                                 FLumenCardPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.18-12.54.42:156][ 75]LogShaderCompilers: Display: === Material stats ===
+[2026.03.18-12.54.42:156][ 75]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.18-12.54.42:156][ 75]LogShaderCompilers: Display: Materials Translated:    147
+[2026.03.18-12.54.42:156][ 75]LogShaderCompilers: Display: Material Total Translate Time: 0.11 s
+[2026.03.18-12.54.42:156][ 75]LogShaderCompilers: Display: Material Translation Only: 0.05 s (48%)
+[2026.03.18-12.54.42:156][ 75]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (3%)
+[2026.03.18-12.54.42:156][ 75]LogShaderCompilers: Display: Material Cache Hits: 39 (27%)
+[2026.03.18-12.54.42:156][ 75]LogShaderCompilers: Display: ================================================
+[2026.03.18-12.55.38:678][798]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.03.18-12.55.38:688][798]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.03.18-12.55.38:702][798]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.03.18-12.55.38:734][799]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.03.18-12.55.44:771][151]LogContentBrowser: Attempting asset rename: NewBlueprint -> Bp_test
+[2026.03.18-12.55.44:781][151]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.03.18-12.55.45:885][199]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Blueprints/Bp_test.Bp_test
+[2026.03.18-12.55.45:885][199]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.03.18-12.55.53:536][656]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.03.18-12.55.53:658][658]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.03.18-12.56.34:547][165]LogEditorTransaction: Undo Modify Component(s)
+[2026.03.18-12.56.53:199][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2026.03.18-12.56.53:213][290]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.18-12.56.53:247][290]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Blueprints/Bp_test] ([2] browsable assets)...
+[2026.03.18-12.56.53:257][290]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Blueprints/Bp_test.Bp_test]
+[2026.03.18-12.56.53:257][290]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Blueprints/Bp_test]
+[2026.03.18-12.56.53:257][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Bp_test" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Blueprints/Bp_test.uasset" SILENT=true
+[2026.03.18-12.56.53:269][290]LogSavePackage: Moving output files for package: /Game/_Blueprints/Bp_test
+[2026.03.18-12.56.53:269][290]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Bp_test2ADC1CDF43888AE4D729DCA7A03A3398.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Blueprints/Bp_test.uasset'
+[2026.03.18-12.56.53:284][290]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.363 ms (total: 221.824 ms)
+[2026.03.18-12.56.53:345][290]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.18-12.56.53:345][290]LogContentValidation: Enabled validators:
+[2026.03.18-12.56.53:345][290]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.18-12.56.53:345][290]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.18-12.56.53:345][290]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.18-12.56.53:345][290]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.18-12.56.53:345][290]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.18-12.56.53:345][290]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.18-12.56.53:345][290]AssetCheck: /Game/_Blueprints/Bp_test Validating asset
+[2026.03.18-12.56.53:415][290]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.18-12.57.32:959][ 12]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Blueprints/Bp_Switch.Bp_Switch
+[2026.03.18-12.57.32:959][ 12]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.03.18-12.58.01:439][578]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Blueprints/BP_Door.BP_Door
+[2026.03.18-12.58.01:440][578]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2026.03.18-12.58.20:737][627]LogStreaming: Display: FlushAsyncLoading(579): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.18-12.58.20:742][627]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/_Blueprints/Wbp_pausemenu.Wbp_pausemenu
+[2026.03.18-12.58.20:742][627]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.03.18-12.58.20:749][627]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.03.18-12.58.20:756][627]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2026.03.18-12.58.21:494][627]LogSlate: Took 0.005984 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.03.18-12.58.39:596][ 18]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.03.18-12.58.39:596][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.18-12.58.39:605][ 18]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.03.18-12.58.39:605][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.18-12.58.39:747][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2026.03.18-12.58.46:250][378]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/_Blueprints/WBP_hud.WBP_hud
+[2026.03.18-12.58.46:251][378]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.03.18-12.58.46:257][378]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2026.03.18-13.00.35:555][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.03.18-13.00.35:558][912]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.077
+[2026.03.18-13.00.35:559][912]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Blueprints/Bp_test] ([2] browsable assets)...
+[2026.03.18-13.00.35:599][912]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Blueprints/Bp_test.Bp_test]
+[2026.03.18-13.00.35:599][912]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Blueprints/Bp_test]
+[2026.03.18-13.00.35:599][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Bp_test" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Blueprints/Bp_test_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2026.03.18-13.00.35:611][912]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Blueprints/Bp_test_Auto3
+[2026.03.18-13.00.35:612][912]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Bp_test_Auto3AA48380E406F18DAB6AF6892F4A65AB5.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Blueprints/Bp_test_Auto3.uasset'
+[2026.03.18-13.00.35:613][912]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Blueprints/Wbp_pausemenu] ([2] browsable assets)...
+[2026.03.18-13.00.35:617][912]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Blueprints/Wbp_pausemenu.Wbp_pausemenu]
+[2026.03.18-13.00.35:617][912]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Blueprints/Wbp_pausemenu]
+[2026.03.18-13.00.35:628][912]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Blueprints/Wbp_pausemenu_Auto3
+[2026.03.18-13.00.35:628][912]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Wbp_pausemenu_Auto31A8C8BB14A60593A1F0F6DBA51C97240.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Blueprints/Wbp_pausemenu_Auto3.uasset'
+[2026.03.18-13.00.35:629][912]LogFileHelpers: Auto-saving content packages took 0.070
+[2026.03.18-13.00.45:882][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2026.03.18-13.00.45:898][610]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.18-13.00.45:936][610]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Blueprints/Bp_test] ([2] browsable assets)...
+[2026.03.18-13.00.45:979][610]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Blueprints/Bp_test.Bp_test]
+[2026.03.18-13.00.45:979][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Blueprints/Bp_test]
+[2026.03.18-13.00.45:979][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Bp_test" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Blueprints/Bp_test.uasset" SILENT=true
+[2026.03.18-13.00.45:992][610]LogSavePackage: Moving output files for package: /Game/_Blueprints/Bp_test
+[2026.03.18-13.00.45:993][610]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Bp_test4C7FFB364ED7FA32D08FA1971E422A0B.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Blueprints/Bp_test.uasset'
+[2026.03.18-13.00.46:005][610]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.145 ms (total: 327.970 ms)
+[2026.03.18-13.00.46:042][610]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.18-13.00.46:042][610]LogContentValidation: Enabled validators:
+[2026.03.18-13.00.46:043][610]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.18-13.00.46:043][610]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.18-13.00.46:043][610]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.18-13.00.46:043][610]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.18-13.00.46:043][610]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.18-13.00.46:043][610]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.18-13.00.46:043][610]AssetCheck: /Game/_Blueprints/Bp_test Validating asset
+[2026.03.18-13.00.47:810][723]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2532.592529
+[2026.03.18-13.00.48:810][726]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.18-13.00.48:810][726]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2533.258057, Update Interval: 337.730042
+[2026.03.18-13.01.18:472][595]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Steam Streaming Speakers), InstanceID=1
+[2026.03.18-13.01.18:472][595]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{5b6f99d8-819c-4a94-8be7-b36f225420b4}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.03.18-13.01.18:484][596]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{5b6f99d8-819c-4a94-8be7-b36f225420b4}]
+[2026.03.18-13.01.18:484][596]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.03.18-13.01.18:484][596]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.03.18-13.01.18:514][598]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{5b6f99d8-819c-4a94-8be7-b36f225420b4}, Name=Speakers (Steam Streaming Speakers)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=18.81
+[2026.03.18-13.01.18:514][598]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.03.18-13.01.18:514][598]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.18-13.01.18:516][598]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.18-13.01.41:717][143]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (WH-1000XM5), InstanceID=1
+[2026.03.18-13.01.41:717][143]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{46885530-b219-4faf-b462-d233403e05d9}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.03.18-13.01.41:769][143]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{46885530-b219-4faf-b462-d233403e05d9}]
+[2026.03.18-13.01.41:770][143]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.03.18-13.01.41:770][143]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.03.18-13.01.42:105][144]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{46885530-b219-4faf-b462-d233403e05d9}, Name=Headphones (WH-1000XM5)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=26.06
+[2026.03.18-13.01.42:105][144]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.03.18-13.01.42:105][144]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.18-13.01.42:108][144]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.18-13.02.44:042][435]LogEditorTransaction: Undo Delete current selection
+[2026.03.18-13.03.18:969][921]LogBlueprint: Warning: [AssetLog] D:\dean uni stuff\unreal github\unreal\MyProject3\Content\_Blueprints\Bp_test.uasset: [Compiler] Could not find a variable named "Player health" in '/Game/_Blueprints/Bp_test.Bp_test_C'.
+Make sure '/Game/_Blueprints/Bp_test.Bp_test_C' has been compiled for  Set Player health
+[2026.03.18-13.03.18:969][921]LogBlueprint: Warning: [AssetLog] D:\dean uni stuff\unreal github\unreal\MyProject3\Content\_Blueprints\Bp_test.uasset: [Compiler] Could not find a variable named "Player health" in '/Game/_Blueprints/Bp_test.Bp_test_C'.
+Make sure '/Game/_Blueprints/Bp_test.Bp_test_C' has been compiled for  Get Player health
+[2026.03.18-13.03.18:969][921]LogBlueprint: Warning: [AssetLog] D:\dean uni stuff\unreal github\unreal\MyProject3\Content\_Blueprints\Bp_test.uasset: [Compiler] Could not find a variable named "damage amount" in '/Game/_Blueprints/Bp_test.Bp_test_C'.
+Make sure '/Game/_Blueprints/Bp_test.Bp_test_C' has been compiled for  Get damage amount
+[2026.03.18-13.03.18:970][921]LogBlueprint: Error: [AssetLog] D:\dean uni stuff\unreal github\unreal\MyProject3\Content\_Blueprints\Bp_test.uasset: [Compiler] The property associated with  Damage Amount  could not be found in '/Game/_Blueprints/Bp_test.Bp_test_C'
+[2026.03.18-13.03.18:970][921]LogBlueprint: Error: [AssetLog] D:\dean uni stuff\unreal github\unreal\MyProject3\Content\_Blueprints\Bp_test.uasset: [Compiler] The property associated with  Player Health  could not be found in '/Game/_Blueprints/Bp_test.Bp_test_C'
+[2026.03.18-13.03.18:970][921]LogBlueprint: Error: [AssetLog] D:\dean uni stuff\unreal github\unreal\MyProject3\Content\_Blueprints\Bp_test.uasset: [Compiler] The property associated with  Player Health  could not be found in '/Game/_Blueprints/Bp_test.Bp_test_C'
+[2026.03.18-13.03.18:975][921]LogStreaming: Display: FlushAsyncLoading(580): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.18-13.03.19:032][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2026.03.18-13.03.37:420][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.03.18-13.03.37:435][166]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.18-13.03.37:477][166]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Blueprints/Bp_test] ([2] browsable assets)...
+[2026.03.18-13.03.37:522][166]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Blueprints/Bp_test.Bp_test]
+[2026.03.18-13.03.37:522][166]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Blueprints/Bp_test]
+[2026.03.18-13.03.37:522][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Bp_test" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Blueprints/Bp_test.uasset" SILENT=true
+[2026.03.18-13.03.37:533][166]LogSavePackage: Moving output files for package: /Game/_Blueprints/Bp_test
+[2026.03.18-13.03.37:534][166]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Bp_test6CB1DDA14503983176DB44B53C09DD63.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Blueprints/Bp_test.uasset'
+[2026.03.18-13.03.37:546][166]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.197 ms (total: 439.167 ms)
+[2026.03.18-13.03.37:585][166]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.18-13.03.37:585][166]LogContentValidation: Enabled validators:
+[2026.03.18-13.03.37:585][166]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.18-13.03.37:585][166]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.18-13.03.37:585][166]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.18-13.03.37:585][166]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.18-13.03.37:585][166]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.18-13.03.37:585][166]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.18-13.03.37:585][166]AssetCheck: /Game/_Blueprints/Bp_test Validating asset
