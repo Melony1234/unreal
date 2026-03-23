@@ -1194,3 +1194,46 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.23-13.01.41:847][ 11]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14.952426, Update Interval: 331.864990
 [2026.03.23-13.02.07:751][320]LogPSOHitching: Encountered 250 PSO creation hitches so far (66 graphics, 184 compute). 0 of them were precached.
 [2026.03.23-13.03.14:279][ 15]LogDerivedDataCache: C:/Users/Corey/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.23-13.04.36:936][584]LogShaderCompilers: Display: ================================================
+[2026.03.23-13.04.36:936][584]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.23-13.04.36:936][584]LogShaderCompilers: Display: Total job queries 442, among them cache hits 41 (9.28%), DDC hits 329 (74.43%), Duplicates 69 (15.61%)
+[2026.03.23-13.04.36:936][584]LogShaderCompilers: Display: Tracking 332 distinct input hashes that result in 237 distinct outputs (71.39%)
+[2026.03.23-13.04.36:936][584]LogShaderCompilers: Display: RAM used: 3.30 MiB of 3.20 GiB budget. Usage: 0.10%
+[2026.03.23-13.04.36:936][584]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.23-13.04.36:936][584]LogShaderCompilers: Display: Shaders Compiled: 3
+[2026.03.23-13.04.36:936][584]LogShaderCompilers: Display: Jobs assigned 3, completed 3 (100%)
+[2026.03.23-13.04.36:936][584]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.06 s
+[2026.03.23-13.04.36:936][584]LogShaderCompilers: Display: Job execution time: average 1.99 s, max 2.57 s
+[2026.03.23-13.04.36:936][584]LogShaderCompilers: Display: Job life time (pending + execution): average 2.05 s, max 2.63
+[2026.03.23-13.04.36:936][584]LogShaderCompilers: Display: Shader code size: total 30.004 KiB, numShaders 3, average 10.001 KiB, min 7.609 KiB, max 13.145 KiB
+[2026.03.23-13.04.36:936][584]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.63 s
+[2026.03.23-13.04.36:936][584]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.03.23-13.04.36:936][584]LogShaderCompilers: Display: Jobs were issued in 3 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.03.23-13.04.36:936][584]LogShaderCompilers: Display: Average processing rate: 1.14 jobs/sec
+[2026.03.23-13.04.36:936][584]LogShaderCompilers: Display: Total thread time: 2.485 s
+[2026.03.23-13.04.36:936][584]LogShaderCompilers: Display: Total thread preprocess time: 8.427 s
+[2026.03.23-13.04.36:936][584]LogShaderCompilers: Display: Percentage time preprocessing: 339.15%
+[2026.03.23-13.04.36:936][584]LogShaderCompilers: Display: Effective parallelization: 0.95 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.118151
+[2026.03.23-13.04.36:936][584]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.23-13.04.36:936][584]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 1.43 sec, max 1.43 sec, min 1.43 sec)
+[2026.03.23-13.04.36:936][584]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.65 sec, max 0.65 sec, min 0.65 sec)
+[2026.03.23-13.04.36:936][584]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.40 sec, max 0.40 sec, min 0.40 sec)
+[2026.03.23-13.04.36:936][584]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.23-13.04.36:936][584]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.23-13.04.36:936][584]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.23-13.04.36:936][584]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 57.57% of total time (compiled    1 times, average 1.43 sec, max 1.43 sec, min 1.43 sec)
+[2026.03.23-13.04.36:936][584]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 26.30% of total time (compiled    1 times, average 0.65 sec, max 0.65 sec, min 0.65 sec)
+[2026.03.23-13.04.36:936][584]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.13% of total time (compiled    1 times, average 0.40 sec, max 0.40 sec, min 0.40 sec)
+[2026.03.23-13.04.36:936][584]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.23-13.04.36:936][584]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.23-13.04.36:936][584]LogShaderCompilers: Display: === Material stats ===
+[2026.03.23-13.04.36:936][584]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.23-13.04.36:936][584]LogShaderCompilers: Display: Materials Translated:    146
+[2026.03.23-13.04.36:936][584]LogShaderCompilers: Display: Material Total Translate Time: 0.32 s
+[2026.03.23-13.04.36:936][584]LogShaderCompilers: Display: Material Translation Only: 0.07 s (22%)
+[2026.03.23-13.04.36:936][584]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.03.23-13.04.36:936][584]LogShaderCompilers: Display: Material Cache Hits: 16 (11%)
+[2026.03.23-13.04.36:936][584]LogShaderCompilers: Display: ================================================
+[2026.03.23-13.07.14:286][ 56]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 347.413177
+[2026.03.23-13.07.15:286][ 59]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.23-13.07.15:286][ 59]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 348.079651, Update Interval: 306.958221
