@@ -1237,3 +1237,130 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.23-13.07.14:286][ 56]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 347.413177
 [2026.03.23-13.07.15:286][ 59]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.03.23-13.07.15:286][ 59]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 348.079651, Update Interval: 306.958221
+[2026.03.23-13.12.25:424][989]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 658.551697
+[2026.03.23-13.12.26:423][992]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.23-13.12.26:423][992]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 659.218384, Update Interval: 323.374115
+[2026.03.23-13.15.38:302][563]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.03.23-13.17.56:539][978]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 989.667419
+[2026.03.23-13.17.57:539][981]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.23-13.17.57:539][981]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 990.334167, Update Interval: 304.775543
+[2026.03.23-13.23.10:885][921]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1304.015503
+[2026.03.23-13.23.11:887][924]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.23-13.23.11:887][924]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1304.682617, Update Interval: 338.510071
+[2026.03.23-13.29.18:240][ 23]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1671.369385
+[2026.03.23-13.29.19:240][ 26]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.23-13.29.19:240][ 26]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1672.036133, Update Interval: 334.584198
+[2026.03.23-13.29.40:005][ 88]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.03.23-13.35.48:197][192]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2061.326660
+[2026.03.23-13.35.49:197][195]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.23-13.35.49:197][195]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2061.994629, Update Interval: 313.315826
+[2026.03.23-13.41.40:883][250]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2414.010498
+[2026.03.23-13.41.41:883][253]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.23-13.41.41:883][253]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2414.677734, Update Interval: 324.533234
+[2026.03.23-13.47.57:576][380]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2790.704834
+[2026.03.23-13.47.58:576][383]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.23-13.47.58:576][383]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2791.371582, Update Interval: 354.678802
+[2026.03.23-13.54.23:934][539]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3177.059814
+[2026.03.23-13.54.24:936][542]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.23-13.54.24:936][542]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3177.727539, Update Interval: 338.726166
+[2026.03.23-14.00.58:296][722]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3571.421387
+[2026.03.23-14.00.59:297][725]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.23-14.00.59:297][725]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3572.088379, Update Interval: 339.070404
+[2026.03.23-14.03.14:280][130]LogDerivedDataCache: C:/Users/Corey/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.23-14.05.44:514][581]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.03.23-14.06.20:802][690]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.03.23-14.06.34:802][732]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.03.23-14.07.23:019][876]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3956.142090
+[2026.03.23-14.07.24:020][879]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.23-14.07.24:020][879]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3956.808838, Update Interval: 341.051666
+[2026.03.23-14.13.51:782][ 42]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4344.910156
+[2026.03.23-14.13.52:782][ 45]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.23-14.13.52:782][ 45]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4345.577148, Update Interval: 321.903748
+[2026.03.23-14.20.08:804][173]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4721.936523
+[2026.03.23-14.20.09:804][176]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.23-14.20.09:804][176]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4722.603516, Update Interval: 354.257629
+[2026.03.23-14.26.47:164][368]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5120.314453
+[2026.03.23-14.26.48:165][371]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.23-14.26.48:165][371]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5120.980957, Update Interval: 304.330566
+[2026.03.23-14.32.22:517][374]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5455.687500
+[2026.03.23-14.32.23:518][377]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.23-14.32.23:518][377]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5456.354492, Update Interval: 356.204102
+[2026.03.23-14.32.30:440][398]LogAudioMixer: Warning: FMixerPlatformXAudio2::OnCriticalError: 0x88880001: UNKNOWN
+[2026.03.23-14.32.30:457][398]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Steam Streaming Speakers), InstanceID=1
+[2026.03.23-14.32.30:457][398]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{5b6f99d8-819c-4a94-8be7-b36f225420b4}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.03.23-14.32.30:515][398]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{5b6f99d8-819c-4a94-8be7-b36f225420b4}]
+[2026.03.23-14.32.30:515][398]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.03.23-14.32.30:515][398]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.03.23-14.32.30:850][399]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{5b6f99d8-819c-4a94-8be7-b36f225420b4}, Name=Speakers (Steam Streaming Speakers)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=10.78
+[2026.03.23-14.32.30:850][399]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.03.23-14.32.30:850][399]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.23-14.32.30:852][399]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.23-14.39.10:867][599]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5864.066895
+[2026.03.23-14.39.11:869][602]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.23-14.39.11:869][602]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5864.733398, Update Interval: 334.388245
+[2026.03.23-14.45.23:889][718]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6237.107910
+[2026.03.23-14.45.24:888][721]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.23-14.45.24:889][721]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6237.774414, Update Interval: 305.108795
+[2026.03.23-14.47.41:962][133]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (WH-1000XM5), InstanceID=1
+[2026.03.23-14.47.41:962][133]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{46885530-b219-4faf-b462-d233403e05d9}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.03.23-14.47.42:227][133]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{46885530-b219-4faf-b462-d233403e05d9}]
+[2026.03.23-14.47.42:229][133]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.03.23-14.47.42:229][133]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.03.23-14.47.42:565][134]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{46885530-b219-4faf-b462-d233403e05d9}, Name=Headphones (WH-1000XM5)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=18.03
+[2026.03.23-14.47.42:565][134]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.03.23-14.47.42:565][134]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.23-14.47.42:568][134]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.23-14.49.47:653][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.03.23-14.49.47:719][703]LogStall: Shutdown...
+[2026.03.23-14.49.47:719][703]LogStall: Shutdown complete.
+[2026.03.23-14.49.47:754][703]LogSlate: Window 'MyProject3 - Unreal Editor' being destroyed
+[2026.03.23-14.49.47:836][703]Cmd: QUIT_EDITOR
+[2026.03.23-14.49.47:836][704]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.03.23-14.49.47:839][704]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.03.23-14.49.47:840][704]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.03.23-14.49.47:840][704]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.03.23-14.49.47:842][704]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.03.23-14.49.47:842][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.23-14.49.47:842][704]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.03.23-14.49.47:849][704]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.03.23-14.49.47:849][704]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.03.23-14.49.47:849][704]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.03.23-14.49.47:851][704]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.03.23-14.49.47:851][704]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.03.23-14.49.47:856][704]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.03.23-14.49.47:857][704]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.03.23-14.49.47:857][704]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.03.23-14.49.47:857][704]LogAudio: Display: Audio Device unregistered from world 'Lvl_ThirdPerson'.
+[2026.03.23-14.49.47:857][704]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.03.23-14.49.47:857][704]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.03.23-14.49.47:859][704]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.03.23-14.49.47:867][704]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.03.23-14.49.47:867][704]LogAudio: Display: Audio Device Manager Shutdown
+[2026.03.23-14.49.47:867][704]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2026.03.23-14.49.47:872][704]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.03.23-14.49.47:872][704]LogExit: Preparing to exit.
+[2026.03.23-14.49.47:905][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.03.23-14.49.48:118][704]LogEditorDataStorage: Deinitializing
+[2026.03.23-14.49.48:215][704]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.03.23-14.49.48:233][704]LogExit: Editor shut down
+[2026.03.23-14.49.48:238][704]LogExit: Transaction tracking system shut down
+[2026.03.23-14.49.48:340][704]LogExit: Object subsystem successfully closed.
+[2026.03.23-14.49.48:381][704]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.03.23-14.49.48:464][704]LogMemoryProfiler: Shutdown
+[2026.03.23-14.49.48:464][704]LogNetworkingProfiler: Shutdown
+[2026.03.23-14.49.48:464][704]LoadingProfiler: Shutdown
+[2026.03.23-14.49.48:464][704]LogTimingProfiler: Shutdown
+[2026.03.23-14.49.48:464][704]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.03.23-14.49.48:464][704]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.03.23-14.49.48:720][704]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.03.23-14.49.48:725][704]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.03.23-14.49.48:725][704]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA017E353-44C1-2307-4D74-FC97148CDABB%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=32b98dca4babd8ac6f3362857256e6ad%7Cdc22bf91edcb4030b3f1d10200472d02%7C3eba7a12-1a98-4f11-9d76-1833cb280630&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.03.23-14.49.49:286][704]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.03.23-14.49.49:292][704]RenderDocPlugin: plugin has been unloaded.
+[2026.03.23-14.49.49:292][704]LogNFORDenoise: NFORDenoise function shutting down
+[2026.03.23-14.49.49:294][704]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.03.23-14.49.49:294][704]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.03.23-14.49.49:294][704]LogPakFile: Destroying PakPlatformFile
+[2026.03.23-14.49.49:535][704]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.03.23-14.49.49:559][704]LogExit: Exiting.
+[2026.03.23-14.49.49:577][704]Log file closed, 03/23/26 14:49:49
