@@ -16043,3 +16043,191 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.26-13.50.27:552][770]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.03.26-13.50.27:553][770]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
 [2026.03.26-13.50.27:586][770]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.26-13.55.59:458][845]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3198.387451
+[2026.03.26-13.56.00:463][848]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.26-13.56.00:463][848]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3199.060547, Update Interval: 325.196075
+[2026.03.26-14.02.11:858][962]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3570.789795
+[2026.03.26-14.02.12:859][966]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.26-14.02.12:859][966]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3571.454102, Update Interval: 339.912720
+[2026.03.26-14.04.36:587][397]LogDerivedDataCache: C:/Users/S25189660/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.26-14.08.23:248][ 76]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3942.177979
+[2026.03.26-14.08.24:248][ 80]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.26-14.08.24:248][ 80]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3942.845215, Update Interval: 331.013519
+[2026.03.26-14.10.36:771][477]LogAudioMixer: Warning: FMixerPlatformXAudio2::OnCriticalError: 0x88880001: UNKNOWN
+[2026.03.26-14.10.36:790][477]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2026.03.26-14.10.36:790][477]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{00099c1d-c2db-4a52-83d3-ac0a8db29bad}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.03.26-14.10.36:931][477]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{00099c1d-c2db-4a52-83d3-ac0a8db29bad}]
+[2026.03.26-14.10.36:931][477]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.03.26-14.10.36:931][477]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.03.26-14.10.37:266][478]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{00099c1d-c2db-4a52-83d3-ac0a8db29bad}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=54.91
+[2026.03.26-14.10.37:266][478]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.03.26-14.10.37:267][478]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.26-14.10.37:269][478]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.26-14.10.38:206][480]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=T24v-10 (NVIDIA High Definition Audio), InstanceID=1
+[2026.03.26-14.10.38:206][480]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{3c628a6e-e790-4177-9b43-7b195eae9432}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.03.26-14.10.38:264][481]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{3c628a6e-e790-4177-9b43-7b195eae9432}]
+[2026.03.26-14.10.38:264][481]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.03.26-14.10.38:264][481]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.03.26-14.10.38:513][482]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=T24v-10 (NVIDIA High Definition Audio), InstanceID=1
+[2026.03.26-14.10.38:513][482]LogAudioMixer: Display: Ignoring device swap request, swap already requested.
+[2026.03.26-14.10.38:513][482]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '{0.0.0.00000000}.{a4a2b48f-2fce-4179-8fb1-ba8618d0e8c9}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.03.26-14.10.38:932][483]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{3c628a6e-e790-4177-9b43-7b195eae9432}, Name=T24v-10 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=344.06
+[2026.03.26-14.10.38:932][483]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.03.26-14.10.38:932][483]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.26-14.10.38:934][483]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.26-14.14.37:653][200]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4316.586426
+[2026.03.26-14.14.38:650][202]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.26-14.14.38:650][202]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4317.250977, Update Interval: 302.847382
+[2026.03.26-14.19.14:913][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.03.26-14.19.14:918][342]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.031
+[2026.03.26-14.19.14:918][342]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Blueprints/BP_platform_disappear] ([2] browsable assets)...
+[2026.03.26-14.19.14:952][342]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Blueprints/BP_platform_disappear.BP_platform_disappear]
+[2026.03.26-14.19.14:952][342]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Blueprints/BP_platform_disappear]
+[2026.03.26-14.19.14:961][342]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Blueprints/BP_platform_disappear_Auto3
+[2026.03.26-14.19.14:961][342]LogSavePackage: Moving '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/BP_platform_disappear_Auto363C607CA487029E6FC0F37B64AA2C66E.tmp' to '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/Autosaves/Game/_Blueprints/BP_platform_disappear_Auto3.uasset'
+[2026.03.26-14.19.14:961][342]LogFileHelpers: Auto-saving content packages took 0.045
+[2026.03.26-14.20.22:828][431]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4661.796875
+[2026.03.26-14.20.22:991][445]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.26-14.20.22:991][445]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4661.948730, Update Interval: 312.504639
+[2026.03.26-14.20.44:475][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.03.26-14.20.44:512][629]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.26-14.20.44:580][629]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Blueprints/BP_platform_disappear] ([2] browsable assets)...
+[2026.03.26-14.20.44:609][629]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Blueprints/BP_platform_disappear.BP_platform_disappear]
+[2026.03.26-14.20.44:609][629]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Blueprints/BP_platform_disappear]
+[2026.03.26-14.20.44:609][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/BP_platform_disappear" FILE="../../../../../../Users/S25189660/Documents/unreal/MyProject3/Content/_Blueprints/BP_platform_disappear.uasset" SILENT=true
+[2026.03.26-14.20.44:619][629]LogSavePackage: Moving output files for package: /Game/_Blueprints/BP_platform_disappear
+[2026.03.26-14.20.44:619][629]LogSavePackage: Moving '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/BP_platform_disappear8F7025434F04CAA35B88AD822E846B27.tmp' to '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Content/_Blueprints/BP_platform_disappear.uasset'
+[2026.03.26-14.20.44:627][629]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.474 ms (total: 2.02 sec)
+[2026.03.26-14.20.44:674][629]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.26-14.20.44:674][629]LogContentValidation: Enabled validators:
+[2026.03.26-14.20.44:674][629]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.26-14.20.44:674][629]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.26-14.20.44:674][629]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.26-14.20.44:674][629]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.26-14.20.44:674][629]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.26-14.20.44:674][629]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.26-14.20.44:674][629]AssetCheck: /Game/_Blueprints/BP_platform_disappear Validating asset
+[2026.03.26-14.20.46:361][800]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.26-14.20.46:367][800]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.26-14.20.46:367][800]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.03.26-14.20.46:369][800]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 1.189 ms (total: 33.729 ms)
+[2026.03.26-14.20.46:369][800]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.26-14.20.46:399][800]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.03.26-14.20.46:409][800]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.26-14.20.46:412][800]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.532 ms (total: 50.599 ms)
+[2026.03.26-14.20.46:412][800]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014288s)
+[2026.03.26-14.20.46:412][800]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.014327s)
+[2026.03.26-14.20.46:432][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.03.26-14.20.46:435][800]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.03.26-14.20.46:436][800]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.26-14.20.46:436][800]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.26-14.20.46:436][800]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.26-14.20.46:436][800]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.26-14.20.46:440][800]LogWorldPartition: Display: WorldPartition initialize took 2.911 ms (total: 204.306 ms)
+[2026.03.26-14.20.46:440][800]LogPlayLevel: PIE: World Init took: (0.004516s)
+[2026.03.26-14.20.46:440][800]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2026.03.26-14.20.46:440][800]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.26-14.20.46:440][800]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.26-14.20.46:440][800]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.26-14.20.46:440][800]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.26-14.20.46:440][800]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.26-14.20.46:440][800]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.26-14.20.46:441][800]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.26-14.20.46:441][800]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.26-14.20.46:441][800]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.26-14.20.46:441][800]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.26-14.20.46:441][800]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.26-14.20.46:442][800]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.26-14.20.46:467][800]LogAudioMixer: Display: Using Audio Hardware Device T24v-10 (NVIDIA High Definition Audio)
+[2026.03.26-14.20.46:467][800]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.26-14.20.46:467][800]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.26-14.20.46:467][800]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.26-14.20.46:468][800]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2026.03.26-14.20.46:468][800]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2026.03.26-14.20.46:469][800]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2026.03.26-14.20.46:469][800]LogInit: FAudioDevice initialized with ID 19.
+[2026.03.26-14.20.46:469][800]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2026.03.26-14.20.46:469][800]LogAudio: Display: Audio Device (ID: 19) registered with world 'Lvl_ThirdPerson'.
+[2026.03.26-14.20.46:469][800]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2026.03.26-14.20.46:473][800]LogLoad: Game class is 'BP_PlatformingGameMode_C'
+[2026.03.26-14.20.46:477][800]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.03.26-14.20.46
+[2026.03.26-14.20.46:477][800]LogWorld: Bringing up level for play took: 0.004222
+[2026.03.26-14.20.46:479][800]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2026.03.26-14.20.46:484][800]PIE: Server logged in
+[2026.03.26-14.20.46:485][800]PIE: Play in editor total start time 0.118 seconds.
+[2026.03.26-14.20.46:521][801]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.26-14.20.53:386][507]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.26-14.20.53:386][507]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.03.26-14.20.53:386][507]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.03.26-14.20.53:388][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.26-14.20.53:388][507]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.03.26-14.20.53:393][507]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.26-14.20.53:395][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.26-14.20.53:414][507]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.26-14.20.53:415][507]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2026.03.26-14.20.53:415][507]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=4
+[2026.03.26-14.20.53:417][507]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=2
+[2026.03.26-14.20.53:420][507]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.26-14.20.53:423][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.03.26-14.20.53:483][508]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2026.03.26-14.23.54:616][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.03.26-14.23.54:654][311]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.26-14.23.54:690][311]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Blueprints/BP_platform_disappear] ([2] browsable assets)...
+[2026.03.26-14.23.54:719][311]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Blueprints/BP_platform_disappear.BP_platform_disappear]
+[2026.03.26-14.23.54:719][311]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Blueprints/BP_platform_disappear]
+[2026.03.26-14.23.54:719][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/BP_platform_disappear" FILE="../../../../../../Users/S25189660/Documents/unreal/MyProject3/Content/_Blueprints/BP_platform_disappear.uasset" SILENT=true
+[2026.03.26-14.23.54:730][311]LogSavePackage: Moving output files for package: /Game/_Blueprints/BP_platform_disappear
+[2026.03.26-14.23.54:730][311]LogSavePackage: Moving '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/BP_platform_disappear949AA4B54704A882100358A80FE24B63.tmp' to '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Content/_Blueprints/BP_platform_disappear.uasset'
+[2026.03.26-14.23.54:737][311]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.330 ms (total: 2.10 sec)
+[2026.03.26-14.23.54:790][311]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.26-14.23.54:790][311]LogContentValidation: Enabled validators:
+[2026.03.26-14.23.54:790][311]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.26-14.23.54:790][311]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.26-14.23.54:790][311]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.26-14.23.54:790][311]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.26-14.23.54:790][311]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.26-14.23.54:790][311]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.26-14.23.54:790][311]AssetCheck: /Game/_Blueprints/BP_platform_disappear Validating asset
+[2026.03.26-14.24.06:766][502]LogEditorTransaction: Undo Delete current selection
+[2026.03.26-14.24.12:864][ 52]LogBlueprint: Error: [AssetLog] C:\Users\S25189660\Documents\unreal\MyProject3\Content\_Blueprints\BP_platform_disappear.uasset: [Compiler] The current value of the ' Target Map ' pin is invalid: Map inputs (like 'Target Map') must have an input wired into them (try connecting a MakeMap node).
+[2026.03.26-14.24.12:907][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.03.26-14.25.22:556][854]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UPrimitiveComponent::SetCollisionResponseToChannel' [Element not found.]
+[2026.03.26-14.26.18:224][744]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5017.197754
+[2026.03.26-14.26.18:375][759]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.26-14.26.18:375][759]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5017.337402, Update Interval: 326.325867
+[2026.03.26-14.28.05:039][ 72]LogBlueprint: Error: [AssetLog] C:\Users\S25189660\Documents\unreal\MyProject3\Content\_Blueprints\BP_platform_disappear.uasset: [Compiler] The current value of the ' Accessor ' pin is invalid: 'Accessor' in action 'Set Disable Collision' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2026.03.26-14.28.05:087][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.03.26-14.28.33:643][740]LogBlueprint: Error: [AssetLog] C:\Users\S25189660\Documents\unreal\MyProject3\Content\_Blueprints\BP_platform_disappear.uasset: [Compiler] The current value of the ' Accessor ' pin is invalid: 'Accessor' in action 'Set Disable Collision' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2026.03.26-14.28.33:687][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.03.26-14.28.40:413][209]LogSlate: Window 'Delete Variable' being destroyed
+[2026.03.26-14.30.13:517][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.03.26-14.30.13:520][563]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.026
+[2026.03.26-14.30.13:520][563]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Blueprints/BP_platform_disappear] ([2] browsable assets)...
+[2026.03.26-14.30.13:557][563]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Blueprints/BP_platform_disappear.BP_platform_disappear]
+[2026.03.26-14.30.13:557][563]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Blueprints/BP_platform_disappear]
+[2026.03.26-14.30.13:567][563]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Blueprints/BP_platform_disappear_Auto4
+[2026.03.26-14.30.13:567][563]LogSavePackage: Moving '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/BP_platform_disappear_Auto4F45A5B3B4829454339D2E58FE52DB623.tmp' to '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/Autosaves/Game/_Blueprints/BP_platform_disappear_Auto4.uasset'
+[2026.03.26-14.30.13:567][563]LogFileHelpers: Auto-saving content packages took 0.047
+[2026.03.26-14.30.22:153][412]LogBlueprint: Error: [AssetLog] C:\Users\S25189660\Documents\unreal\MyProject3\Content\_Blueprints\BP_platform_disappear.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2026.03.26-14.30.22:200][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.03.26-14.30.23:123][503]LogEditorTransaction: Undo Delete current selection
+[2026.03.26-14.30.24:330][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.03.26-14.30.24:369][574]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.26-14.30.24:428][574]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Blueprints/BP_platform_disappear] ([2] browsable assets)...
+[2026.03.26-14.30.24:458][574]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Blueprints/BP_platform_disappear.BP_platform_disappear]
+[2026.03.26-14.30.24:458][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Blueprints/BP_platform_disappear]
+[2026.03.26-14.30.24:458][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/BP_platform_disappear" FILE="../../../../../../Users/S25189660/Documents/unreal/MyProject3/Content/_Blueprints/BP_platform_disappear.uasset" SILENT=true
+[2026.03.26-14.30.24:467][574]LogSavePackage: Moving output files for package: /Game/_Blueprints/BP_platform_disappear
+[2026.03.26-14.30.24:468][574]LogSavePackage: Moving '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Saved/BP_platform_disappear7D97A0D3469FE443A64C8AB5FD7C78AC.tmp' to '../../../../../../Users/S25189660/Documents/unreal/MyProject3/Content/_Blueprints/BP_platform_disappear.uasset'
+[2026.03.26-14.30.24:475][574]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.200 ms (total: 2.21 sec)
+[2026.03.26-14.30.24:529][574]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.26-14.30.24:529][574]LogContentValidation: Enabled validators:
+[2026.03.26-14.30.24:529][574]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.26-14.30.24:529][574]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.26-14.30.24:529][574]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.26-14.30.24:529][574]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.26-14.30.24:529][574]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.26-14.30.24:529][574]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.26-14.30.24:529][574]AssetCheck: /Game/_Blueprints/BP_platform_disappear Validating asset
