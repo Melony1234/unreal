@@ -1223,3 +1223,19 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.03-11.51.05:038][340]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/Medieval_MWP/Texture/T_Medieval_Wall_01_Roughness.uasset
 [2026.04.03-11.51.05:038][340]LogFab: Display: Scanning 56 assets for plugin dependencies...
 
+[2026.04.03-11.53.13:197][950]LogFab: Display: Add listing to project - de87148f-4683-48bb-be42-e772a620fb35
+[2026.04.03-11.53.13:197][950]LogFab: Display: Listing type - glb
+[2026.04.03-11.53.13:495][959]LogStreaming: Display: FlushAsyncLoading(457): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.03-11.53.13:956][959]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.04.03-11.53.13:956][959]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Corey/AppData/Local/Temp/FabLibrary/de87148f-4683-48bb-be42-e772a620fb35/sm_skeleton_variant_1.glb]
+[2026.04.03-11.53.14:026][961]LogStreaming: Display: FlushAsyncLoading(500): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.03-11.53.14:032][962]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2026.04.03-11.53.14:052][963]LogStreaming: Display: FlushAsyncLoading(504): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.03-11.53.14:103][967]LogStreaming: Display: FlushAsyncLoading(505): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.03-11.53.14:149][968]LogTexture: Display: Building textures: /Game/Fab/Free_Stylized_Dark_Fantasy_Skeleton/sm_skeleton_variant_1/Textures/sm_skeleton_variant_1_texture_3.sm_skeleton_variant_1_texture_3 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 119.708323 MB), EncodeSpeed: Fast
+[2026.04.03-11.53.14:150][968]LogTexture: Display: Building textures: /Game/Fab/Free_Stylized_Dark_Fantasy_Skeleton/sm_skeleton_variant_1/Textures/sm_skeleton_variant_1_texture_0.sm_skeleton_variant_1_texture_0 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2026.04.03-11.53.14:150][968]LogTexture: Display: Building textures: /Game/Fab/Free_Stylized_Dark_Fantasy_Skeleton/sm_skeleton_variant_1/Textures/sm_skeleton_variant_1_texture_2.sm_skeleton_variant_1_texture_2 (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 214.499988 MB), EncodeSpeed: Fast
+[2026.04.03-11.53.14:150][968]LogTexture: Display: Building textures: /Game/Fab/Free_Stylized_Dark_Fantasy_Skeleton/sm_skeleton_variant_1/Textures/sm_skeleton_variant_1_texture_1.sm_skeleton_variant_1_texture_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2026.04.03-11.53.14:166][969]LogStaticMesh: Display: Building static mesh sm_skeleton_variant_1 (Required Memory Estimate: 13.658657 MB)...
+[2026.04.03-11.53.14:298][978]LogStaticMesh: Built static mesh [0.13s] /Game/Fab/Free_Stylized_Dark_Fantasy_Skeleton/sm_skeleton_variant_1/StaticMeshes/sm_skeleton_variant_1.sm_skeleton_variant_1
+[2026.04.03-11.53.14:354][980]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Corey/AppDa...bb-be42-e772a620fb35/sm_skeleton_variant_1.glb]
