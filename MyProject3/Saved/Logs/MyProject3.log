@@ -2944,3 +2944,16 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.07-16.20.11:181][270]LogContentBrowser: End creating deferred item columned-lava-rock_preview_Mat
 [2026.04.07-16.20.16:240][594]Cmd: TRANSACTION UNDO
 [2026.04.07-16.20.16:240][594]LogEditorTransaction: Undo Place Objects
+[2026.04.07-16.21.45:857][655]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.07-16.21.45:900][655]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/L0/6LIHDLU4AHJ2CLMJK39Z30
+[2026.04.07-16.21.45:901][655]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/6LIHDLU4AHJ2CLMJK39Z30342D7B7147036AAAFBC888A985EF25FD.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/L0/6LIHDLU4AHJ2CLMJK39Z30.uasset'
+[2026.04.07-16.21.45:910][655]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.332 ms (total: 2.59 sec)
+[2026.04.07-16.21.45:953][655]LogContentValidation: Display: Starting to validate 2 assets
+[2026.04.07-16.21.45:953][655]LogContentValidation: Enabled validators:
+[2026.04.07-16.21.45:953][655]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.07-16.21.45:953][655]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.07-16.21.45:953][655]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.07-16.21.45:953][655]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.07-16.21.45:953][655]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.07-16.21.45:953][655]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.07-16.21.45:953][655]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
