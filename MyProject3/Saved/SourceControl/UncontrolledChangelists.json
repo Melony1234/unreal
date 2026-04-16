@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/S25189660/Documents/GitHub/unreal/MyProject3/Content/_Blueprints/WBP_hud.uasset",
+				"C:/Users/S25189660/Documents/GitHub/unreal/MyProject3/Content/Variant_Platforming/Blueprints/BP_PlatformingCharacter.uasset",
+				"C:/Users/S25189660/Documents/GitHub/unreal/MyProject3/Content/Variant_Platforming/Blueprints/BP_PlatformingGameMode.uasset",
+				"C:/Users/S25189660/Documents/GitHub/unreal/MyProject3/Content/_Blueprints/Bp_CheckPoint.uasset",
 				"D:/dean uni stuff/unreal github/unreal/MyProject3/Content/Variant_Platforming/Blueprints/BP_PlatformingCharacter.uasset",
 				"D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Blueprints/Bp_test.uasset",
 				"D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Blueprints/Wbp_pausemenu.uasset",
