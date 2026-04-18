@@ -2191,3 +2191,828 @@ Sampler Limit: 32
 [2026.04.18-20.10.16:453][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
 [2026.04.18-20.10.16:500][552]LogPlayLevel: Display: Destroying online subsystem :Context_32
 [2026.04.18-20.10.25:788][179]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2026.04.18-20.11.05:508][126]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2026.04.18-20.11.05:517][126]LogContentBrowser: Creating deferred item: NewMaterial
+[2026.04.18-20.11.05:533][127]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2026.04.18-20.11.24:201][880]LogContentBrowser: Attempting asset rename: NewMaterial -> MA_brown
+[2026.04.18-20.11.24:201][880]LogContentBrowser: End creating deferred item NewMaterial
+[2026.04.18-20.11.25:909][995]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/_Materials/MA_brown.MA_brown
+[2026.04.18-20.11.25:913][995]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2026.04.18-20.11.26:512][995]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.18-20.11.26:512][995]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.18-20.11.26:512][995]MaterialEditorStats: Shader Count: 0
+[2026.04.18-20.11.26:512][995]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.18-20.11.26:603][997]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.04.18-20.11.26:603][997]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.18-20.11.26:603][997]MaterialEditorStats: Texture samplers: 1/16
+[2026.04.18-20.11.26:603][997]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.18-20.11.26:603][997]MaterialEditorStats: Shader Count: 5
+[2026.04.18-20.11.26:603][997]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.18-20.11.26:629][998]LogRenderer: Using fallback RTPSO
+[2026.04.18-20.11.42:210][ 76]LogSlate: Window 'Color Picker' being destroyed
+[2026.04.18-20.11.42:222][ 76]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.18-20.11.42:222][ 76]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.18-20.11.42:222][ 76]MaterialEditorStats: Shader Count: 0
+[2026.04.18-20.11.42:222][ 76]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.18-20.11.42:355][ 81]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.18-20.11.42:355][ 81]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.18-20.11.42:355][ 81]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.18-20.11.42:355][ 81]MaterialEditorStats: Shader Count: 2
+[2026.04.18-20.11.42:355][ 81]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.18-20.11.43:340][129]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.04.18-20.11.43:340][129]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.18-20.11.43:340][129]MaterialEditorStats: Texture samplers: 1/16
+[2026.04.18-20.11.43:340][129]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.18-20.11.43:340][129]MaterialEditorStats: Shader Count: 4
+[2026.04.18-20.11.43:340][129]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.18-20.11.43:975][164]LogRenderer: Using fallback RTPSO
+[2026.04.18-20.11.43:997][165]LogRenderer: Using fallback RTPSO
+[2026.04.18-20.11.44:023][166]LogRenderer: Using fallback RTPSO
+[2026.04.18-20.11.44:050][167]LogRenderer: Using fallback RTPSO
+[2026.04.18-20.11.44:068][168]LogD3D12RHI: Creating RTPSO with 34 shaders (0 cached, 1 new) took 91.50 ms. Compile time 90.35 ms, link time 1.12 ms.
+[2026.04.18-20.11.45:355][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2026.04.18-20.11.45:370][238]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/H9/YV7WX75FU7CANVOSKPLYH9_Auto1
+[2026.04.18-20.11.45:370][238]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/YV7WX75FU7CANVOSKPLYH9_Auto148CF932E42C672E44585E399256F5CC7.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/H9/YV7WX75FU7CANVOSKPLYH9_Auto1.uasset'
+[2026.04.18-20.11.45:379][238]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/C6/Q0WWWW4UB31J1Y0O26KEV8_Auto1
+[2026.04.18-20.11.45:379][238]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Q0WWWW4UB31J1Y0O26KEV8_Auto172A4D426438FB5FA85333982935E2845.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/C6/Q0WWWW4UB31J1Y0O26KEV8_Auto1.uasset'
+[2026.04.18-20.11.45:385][238]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/J2/BUVLMP916EX9VLGVDLWR3L_Auto1
+[2026.04.18-20.11.45:385][238]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/BUVLMP916EX9VLGVDLWR3L_Auto14A2DDEB54343072ACB98A293238CB46F.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/J2/BUVLMP916EX9VLGVDLWR3L_Auto1.uasset'
+[2026.04.18-20.11.45:393][238]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/11/HA6NTOQNBC8YUGI2ETH7V7_Auto1
+[2026.04.18-20.11.45:393][238]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/HA6NTOQNBC8YUGI2ETH7V7_Auto152E8E13B47C1DE8D7DCEBEA99C1FD9CF.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/11/HA6NTOQNBC8YUGI2ETH7V7_Auto1.uasset'
+[2026.04.18-20.11.45:401][238]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/B7/YJP0V637Y677OP0UHKO191_Auto1
+[2026.04.18-20.11.45:401][238]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/YJP0V637Y677OP0UHKO191_Auto1C7D434974D9911393695CA81F80C3D30.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/B7/YJP0V637Y677OP0UHKO191_Auto1.uasset'
+[2026.04.18-20.11.45:410][238]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/WL/BJ55P13XYIR7YP9QW2ZQEG_Auto1
+[2026.04.18-20.11.45:410][238]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/BJ55P13XYIR7YP9QW2ZQEG_Auto1400D91AA4D1175C4EF7E648BA014DCBC.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/WL/BJ55P13XYIR7YP9QW2ZQEG_Auto1.uasset'
+[2026.04.18-20.11.45:418][238]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/9X/473DQFCCTXRECDDMM4IT3B_Auto1
+[2026.04.18-20.11.45:418][238]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/473DQFCCTXRECDDMM4IT3B_Auto1D8870CDD451AB383E21FCFB50214D31E.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/9X/473DQFCCTXRECDDMM4IT3B_Auto1.uasset'
+[2026.04.18-20.11.45:425][238]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/10/VM69FFIV5FAI0FCAEZCHT7_Auto1
+[2026.04.18-20.11.45:425][238]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/VM69FFIV5FAI0FCAEZCHT7_Auto1033473B14F3251CD3A2C5F89EE08E826.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/10/VM69FFIV5FAI0FCAEZCHT7_Auto1.uasset'
+[2026.04.18-20.11.45:432][238]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/EK/JAJ0TZD2DSN1BE22Z7LLL0_Auto1
+[2026.04.18-20.11.45:432][238]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/JAJ0TZD2DSN1BE22Z7LLL0_Auto1C294E2224331C466B034C9881A69DDB8.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/EK/JAJ0TZD2DSN1BE22Z7LLL0_Auto1.uasset'
+[2026.04.18-20.11.45:439][238]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/AR/CG84P46QZT0TJ24UT8QA46_Auto1
+[2026.04.18-20.11.45:439][238]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/CG84P46QZT0TJ24UT8QA46_Auto1672889DC4E47206B0A35618A1598B8F2.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/AR/CG84P46QZT0TJ24UT8QA46_Auto1.uasset'
+[2026.04.18-20.11.45:446][238]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/TG/VM14YQRTCTB9DSIXAF5MDG_Auto1
+[2026.04.18-20.11.45:446][238]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/VM14YQRTCTB9DSIXAF5MDG_Auto15B822E8A48943E04CB4E8195BB9192E5.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/TG/VM14YQRTCTB9DSIXAF5MDG_Auto1.uasset'
+[2026.04.18-20.11.45:454][238]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/91/LEUB2A0BRG5YNIXYHU278R_Auto1
+[2026.04.18-20.11.45:454][238]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/LEUB2A0BRG5YNIXYHU278R_Auto1A85B7C0A431B35EDC99A8792E4ADF62C.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/91/LEUB2A0BRG5YNIXYHU278R_Auto1.uasset'
+[2026.04.18-20.11.45:463][238]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/EW/BFDP8OQBPN4393G99JB022_Auto1
+[2026.04.18-20.11.45:463][238]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/BFDP8OQBPN4393G99JB022_Auto1822F33DE46ED894ADE9DD192CFB1CC13.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/EW/BFDP8OQBPN4393G99JB022_Auto1.uasset'
+[2026.04.18-20.11.45:464][238]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.170
+[2026.04.18-20.11.45:464][238]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.170
+[2026.04.18-20.11.45:464][238]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Materials/grime-alley-bricks_1_albedo] ([1] browsable assets)...
+[2026.04.18-20.11.45:467][238]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/_Materials/grime-alley-bricks_1_albedo.grime-alley-bricks_1_albedo]
+[2026.04.18-20.11.45:467][238]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/grime-alley-bricks_1_albedo]
+[2026.04.18-20.11.45:486][238]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Materials/grime-alley-bricks_1_albedo_Auto1
+[2026.04.18-20.11.45:486][238]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/grime-alley-bricks_1_albedo_AutoC73EBD614B5E58238B1D1F88C104E64C.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Materials/grime-alley-bricks_1_albedo_Auto1.uasset'
+[2026.04.18-20.11.45:486][238]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Materials/grime-alley-bricks_1_ao] ([1] browsable assets)...
+[2026.04.18-20.11.45:489][238]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/_Materials/grime-alley-bricks_1_ao.grime-alley-bricks_1_ao]
+[2026.04.18-20.11.45:490][238]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/grime-alley-bricks_1_ao]
+[2026.04.18-20.11.45:502][238]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Materials/grime-alley-bricks_1_ao_Auto1
+[2026.04.18-20.11.45:502][238]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/grime-alley-bricks_1_ao_Auto16E31F1644187CDC4DB80E9AD6C5F5224.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Materials/grime-alley-bricks_1_ao_Auto1.uasset'
+[2026.04.18-20.11.45:503][238]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Materials/grime-alley-bricks_1_height] ([1] browsable assets)...
+[2026.04.18-20.11.45:505][238]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/_Materials/grime-alley-bricks_1_height.grime-alley-bricks_1_height]
+[2026.04.18-20.11.45:505][238]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/grime-alley-bricks_1_height]
+[2026.04.18-20.11.45:516][238]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Materials/grime-alley-bricks_1_height_Auto1
+[2026.04.18-20.11.45:516][238]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/grime-alley-bricks_1_height_AutoFC42C5C64902EF7A66DF67AE021E08D3.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Materials/grime-alley-bricks_1_height_Auto1.uasset'
+[2026.04.18-20.11.45:516][238]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Materials/grime-alley-bricks_1_metallic] ([1] browsable assets)...
+[2026.04.18-20.11.45:519][238]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/_Materials/grime-alley-bricks_1_metallic.grime-alley-bricks_1_metallic]
+[2026.04.18-20.11.45:519][238]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/grime-alley-bricks_1_metallic]
+[2026.04.18-20.11.45:530][238]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Materials/grime-alley-bricks_1_metallic_Auto1
+[2026.04.18-20.11.45:531][238]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/grime-alley-bricks_1_metallic_AuFA4D251A485A25352C0F6696BB13B1B8.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Materials/grime-alley-bricks_1_metallic_Auto1.uasset'
+[2026.04.18-20.11.45:531][238]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Materials/grime-alley-bricks_1_normal-dx] ([1] browsable assets)...
+[2026.04.18-20.11.45:533][238]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/_Materials/grime-alley-bricks_1_normal-dx.grime-alley-bricks_1_normal-dx]
+[2026.04.18-20.11.45:533][238]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/grime-alley-bricks_1_normal-dx]
+[2026.04.18-20.11.45:553][238]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Materials/grime-alley-bricks_1_normal-dx_Auto1
+[2026.04.18-20.11.45:553][238]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/grime-alley-bricks_1_normal-dx_A0281BEBB4A3E56C35AE93C9EACD1FCC5.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Materials/grime-alley-bricks_1_normal-dx_Auto1.uasset'
+[2026.04.18-20.11.45:554][238]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Materials/grime-alley-bricks_1_preview] ([1] browsable assets)...
+[2026.04.18-20.11.45:556][238]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/_Materials/grime-alley-bricks_1_preview.grime-alley-bricks_1_preview]
+[2026.04.18-20.11.45:556][238]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/grime-alley-bricks_1_preview]
+[2026.04.18-20.11.45:564][238]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Materials/grime-alley-bricks_1_preview_Auto1
+[2026.04.18-20.11.45:565][238]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/grime-alley-bricks_1_preview_Aut53A080B34DC8C244B74E2193371D83BC.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Materials/grime-alley-bricks_1_preview_Auto1.uasset'
+[2026.04.18-20.11.45:566][238]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Materials/grime-alley-bricks_1_roughness] ([1] browsable assets)...
+[2026.04.18-20.11.45:568][238]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/_Materials/grime-alley-bricks_1_roughness.grime-alley-bricks_1_roughness]
+[2026.04.18-20.11.45:568][238]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/grime-alley-bricks_1_roughness]
+[2026.04.18-20.11.45:580][238]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Materials/grime-alley-bricks_1_roughness_Auto1
+[2026.04.18-20.11.45:580][238]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/grime-alley-bricks_1_roughness_A86FB57FE4F2CBE38AC42228991D69965.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Materials/grime-alley-bricks_1_roughness_Auto1.uasset'
+[2026.04.18-20.11.45:581][238]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Materials/grime-alley-bricks_1_albedo_Mat] ([1] browsable assets)...
+[2026.04.18-20.11.45:626][238]OBJ SavePackage:     Rendered thumbnail for [Material /Game/_Materials/grime-alley-bricks_1_albedo_Mat.grime-alley-bricks_1_albedo_Mat]
+[2026.04.18-20.11.45:626][238]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/grime-alley-bricks_1_albedo_Mat]
+[2026.04.18-20.11.45:634][238]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Materials/grime-alley-bricks_1_albedo_Mat_Auto1
+[2026.04.18-20.11.45:634][238]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/grime-alley-bricks_1_albedo_Mat_F1262B71487ACB89EC8B0C813350D48F.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Materials/grime-alley-bricks_1_albedo_Mat_Auto1.uasset'
+[2026.04.18-20.11.45:636][238]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Materials/MI_grime-alley-bricks_1_albedo_Mat_Inst] ([1] browsable assets)...
+[2026.04.18-20.11.45:645][238]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/_Materials/MI_grime-alley-bricks_1_albedo_Mat_Inst.MI_grime-alley-bricks_1_albedo_Mat_Inst]
+[2026.04.18-20.11.45:645][238]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/MI_grime-alley-bricks_1_albedo_Mat_Inst]
+[2026.04.18-20.11.45:652][238]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Materials/MI_grime-alley-bricks_1_albedo_Mat_Inst_Auto1
+[2026.04.18-20.11.45:652][238]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/MI_grime-alley-bricks_1_albedo_M82B800B14C72434A8AAB8A9CBA1A53F5.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Materials/MI_grime-alley-bricks_1_albedo_Mat_Inst_Auto1.uasset'
+[2026.04.18-20.11.45:653][238]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Materials/MI_Bricks] ([1] browsable assets)...
+[2026.04.18-20.11.45:662][238]OBJ SavePackage:     Rendered thumbnail for [Material /Game/_Materials/MI_Bricks.MI_Bricks]
+[2026.04.18-20.11.45:662][238]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/MI_Bricks]
+[2026.04.18-20.11.45:662][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Materials/MI_Bricks" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Materials/MI_Bricks_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2026.04.18-20.11.45:671][238]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Materials/MI_Bricks_Auto1
+[2026.04.18-20.11.45:671][238]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/MI_Bricks_Auto13510AE824735D8FAF1B4378F2A4CDEB9.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Materials/MI_Bricks_Auto1.uasset'
+[2026.04.18-20.11.45:671][238]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Materials/MA_brown] ([1] browsable assets)...
+[2026.04.18-20.11.45:679][238]OBJ SavePackage:     Rendered thumbnail for [Material /Game/_Materials/MA_brown.MA_brown]
+[2026.04.18-20.11.45:679][238]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/MA_brown]
+[2026.04.18-20.11.45:679][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Materials/MA_brown" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Materials/MA_brown_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2026.04.18-20.11.45:687][238]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Materials/MA_brown_Auto1
+[2026.04.18-20.11.45:687][238]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/MA_brown_Auto181900DAE40A6DFE8B16AD4B5EE2A02C9.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Materials/MA_brown_Auto1.uasset'
+[2026.04.18-20.11.45:688][238]LogFileHelpers: Auto-saving content packages took 0.223
+[2026.04.18-20.11.45:709][239]LogShaderCompilers: Display: ================================================
+[2026.04.18-20.11.45:709][239]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.04.18-20.11.45:709][239]LogShaderCompilers: Display: Total job queries 921, among them cache hits 411 (44.63%), DDC hits 428 (46.47%), Duplicates 71 (7.71%)
+[2026.04.18-20.11.45:709][239]LogShaderCompilers: Display: Tracking 439 distinct input hashes that result in 327 distinct outputs (74.49%)
+[2026.04.18-20.11.45:709][239]LogShaderCompilers: Display: RAM used: 3.97 MiB of 3.20 GiB budget. Usage: 0.12%
+[2026.04.18-20.11.45:709][239]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.04.18-20.11.45:709][239]LogShaderCompilers: Display: Shaders Compiled: 11
+[2026.04.18-20.11.45:709][239]LogShaderCompilers: Display: Jobs assigned 11, completed 11 (100%)
+[2026.04.18-20.11.45:709][239]LogShaderCompilers: Display: Average time worker was idle: 276.69 s
+[2026.04.18-20.11.45:709][239]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.08 s
+[2026.04.18-20.11.45:709][239]LogShaderCompilers: Display: Job execution time: average 0.93 s, max 1.54 s
+[2026.04.18-20.11.45:709][239]LogShaderCompilers: Display: Job life time (pending + execution): average 0.98 s, max 1.61
+[2026.04.18-20.11.45:709][239]LogShaderCompilers: Display: Shader code size: total 90.601 KiB, numShaders 11, average 8.236 KiB, min 4.277 KiB, max 11.241 KiB
+[2026.04.18-20.11.45:709][239]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.04 s
+[2026.04.18-20.11.45:709][239]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2026.04.18-20.11.45:709][239]LogShaderCompilers: Display: Jobs were issued in 11 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.04.18-20.11.45:709][239]LogShaderCompilers: Display: Average processing rate: 2.18 jobs/sec
+[2026.04.18-20.11.45:709][239]LogShaderCompilers: Display: Total thread time: 7.846 s
+[2026.04.18-20.11.45:709][239]LogShaderCompilers: Display: Total thread preprocess time: 13.909 s
+[2026.04.18-20.11.45:709][239]LogShaderCompilers: Display: Percentage time preprocessing: 177.28%
+[2026.04.18-20.11.45:709][239]LogShaderCompilers: Display: Effective parallelization: 1.56 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.194733
+[2026.04.18-20.11.45:709][239]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.04.18-20.11.45:709][239]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 1.19 sec, max 1.24 sec, min 1.14 sec)
+[2026.04.18-20.11.45:709][239]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 0.99 sec, max 0.99 sec, min 0.99 sec)
+[2026.04.18-20.11.45:709][239]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    1 times, average 0.83 sec, max 0.83 sec, min 0.83 sec)
+[2026.04.18-20.11.45:709][239]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.62 sec, max 0.67 sec, min 0.58 sec)
+[2026.04.18-20.11.45:709][239]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.49 sec, max 0.49 sec, min 0.49 sec)
+[2026.04.18-20.11.45:709][239]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.04.18-20.11.45:709][239]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 30.24% of total time (compiled    2 times, average 1.19 sec, max 1.24 sec, min 1.14 sec)
+[2026.04.18-20.11.45:709][239]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.69% of total time (compiled    3 times, average 0.62 sec, max 0.67 sec, min 0.58 sec)
+[2026.04.18-20.11.45:709][239]LogShaderCompilers: Display:                                             FDebugViewModePS - 12.59% of total time (compiled    1 times, average 0.99 sec, max 0.99 sec, min 0.99 sec)
+[2026.04.18-20.11.45:709][239]LogShaderCompilers: Display:                                                 FLumenCardPS - 11.20% of total time (compiled    2 times, average 0.44 sec, max 0.46 sec, min 0.42 sec)
+[2026.04.18-20.11.45:709][239]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 10.53% of total time (compiled    1 times, average 0.83 sec, max 0.83 sec, min 0.83 sec)
+[2026.04.18-20.11.45:709][239]LogShaderCompilers: Display: === Material stats ===
+[2026.04.18-20.11.45:709][239]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.04.18-20.11.45:709][239]LogShaderCompilers: Display: Materials Translated:    234
+[2026.04.18-20.11.45:709][239]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2026.04.18-20.11.45:709][239]LogShaderCompilers: Display: Material Translation Only: 0.07 s (46%)
+[2026.04.18-20.11.45:709][239]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.04.18-20.11.45:710][239]LogShaderCompilers: Display: Material Cache Hits: 29 (12%)
+[2026.04.18-20.11.45:710][239]LogShaderCompilers: Display: ================================================
+[2026.04.18-20.11.52:101][558]LogMaterialEditor: Applying material MA_brown
+[2026.04.18-20.11.52:218][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2026.04.18-20.11.53:505][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.04.18-20.11.53:563][560]LogRenderer: Using fallback RTPSO
+[2026.04.18-20.12.08:694][615]LogStreaming: Display: FlushAsyncLoading(695): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.18-20.12.08:740][615]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.04.18-20.12.10:598][615]LogSlate: Window 'Delete Assets' being destroyed
+[2026.04.18-20.12.10:660][616]LogRenderer: Using fallback RTPSO
+[2026.04.18-20.12.16:930][ 62]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2026.04.18-20.12.16:950][ 62]LogContentBrowser: Creating deferred item: NewMaterial
+[2026.04.18-20.12.16:968][ 63]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2026.04.18-20.12.23:105][625]LogContentBrowser: Attempting asset rename: NewMaterial -> MA_Grey
+[2026.04.18-20.12.23:105][625]LogContentBrowser: End creating deferred item NewMaterial
+[2026.04.18-20.12.24:714][735]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/_Materials/MA_Grey.MA_Grey
+[2026.04.18-20.12.24:717][735]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2026.04.18-20.12.25:352][735]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.18-20.12.25:352][735]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.18-20.12.25:352][735]MaterialEditorStats: Shader Count: 0
+[2026.04.18-20.12.25:352][735]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.18-20.12.25:439][737]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.04.18-20.12.25:440][737]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.18-20.12.25:440][737]MaterialEditorStats: Texture samplers: 1/16
+[2026.04.18-20.12.25:440][737]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.18-20.12.25:440][737]MaterialEditorStats: Shader Count: 5
+[2026.04.18-20.12.25:440][737]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.18-20.12.25:472][738]LogRenderer: Using fallback RTPSO
+[2026.04.18-20.12.31:603][800]LogSlate: Window 'Color Picker' being destroyed
+[2026.04.18-20.12.31:614][800]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.18-20.12.31:614][800]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.18-20.12.31:614][800]MaterialEditorStats: Shader Count: 0
+[2026.04.18-20.12.31:614][800]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.18-20.12.31:632][801]LogRenderer: Using fallback RTPSO
+[2026.04.18-20.12.31:738][805]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.18-20.12.31:738][805]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.18-20.12.31:738][805]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.18-20.12.31:738][805]MaterialEditorStats: Shader Count: 2
+[2026.04.18-20.12.31:738][805]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.18-20.12.32:694][849]MaterialEditorStats: Base pass shader: 173 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.04.18-20.12.32:694][849]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.18-20.12.32:694][849]MaterialEditorStats: Texture samplers: 1/16
+[2026.04.18-20.12.32:694][849]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.18-20.12.32:694][849]MaterialEditorStats: Shader Count: 4
+[2026.04.18-20.12.32:694][849]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.18-20.12.33:236][879]LogRenderer: Using fallback RTPSO
+[2026.04.18-20.12.33:263][880]LogRenderer: Using fallback RTPSO
+[2026.04.18-20.12.33:286][881]LogRenderer: Using fallback RTPSO
+[2026.04.18-20.12.33:309][882]LogRenderer: Using fallback RTPSO
+[2026.04.18-20.12.33:325][883]LogD3D12RHI: Creating RTPSO with 35 shaders (0 cached, 1 new) took 88.45 ms. Compile time 87.66 ms, link time 0.76 ms.
+[2026.04.18-20.12.42:745][ 80]LogSlate: Window 'Color Picker' being destroyed
+[2026.04.18-20.12.42:760][ 80]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.18-20.12.42:760][ 80]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.18-20.12.42:760][ 80]MaterialEditorStats: Shader Count: 0
+[2026.04.18-20.12.42:760][ 80]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.18-20.12.42:847][ 84]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.18-20.12.42:848][ 84]MaterialEditorStats: Texture samplers: 0/16
+[2026.04.18-20.12.42:848][ 84]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.18-20.12.42:848][ 84]MaterialEditorStats: Shader Count: 2
+[2026.04.18-20.12.42:848][ 84]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.18-20.12.43:600][124]MaterialEditorStats: Base pass shader: 173 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.04.18-20.12.43:600][124]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.04.18-20.12.43:600][124]MaterialEditorStats: Texture samplers: 1/16
+[2026.04.18-20.12.43:600][124]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.04.18-20.12.43:600][124]MaterialEditorStats: Shader Count: 4
+[2026.04.18-20.12.43:600][124]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.04.18-20.12.44:143][153]LogRenderer: Using fallback RTPSO
+[2026.04.18-20.12.44:170][154]LogRenderer: Using fallback RTPSO
+[2026.04.18-20.12.44:193][155]LogRenderer: Using fallback RTPSO
+[2026.04.18-20.12.44:220][156]LogRenderer: Using fallback RTPSO
+[2026.04.18-20.12.44:243][157]LogD3D12RHI: Creating RTPSO with 35 shaders (0 cached, 1 new) took 98.90 ms. Compile time 98.06 ms, link time 0.81 ms.
+[2026.04.18-20.12.47:557][350]LogMaterialEditor: Applying material MA_Grey
+[2026.04.18-20.12.47:703][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.04.18-20.12.48:985][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2026.04.18-20.12.49:041][352]LogRenderer: Using fallback RTPSO
+[2026.04.18-20.13.13:879][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2026.04.18-20.13.13:925][576]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.18-20.13.13:964][576]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Blueprints/Bp_Switch] ([2] browsable assets)...
+[2026.04.18-20.13.13:975][576]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Blueprints/Bp_Switch.Bp_Switch]
+[2026.04.18-20.13.13:975][576]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Blueprints/Bp_Switch]
+[2026.04.18-20.13.13:975][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Bp_Switch" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Blueprints/Bp_Switch.uasset" SILENT=true
+[2026.04.18-20.13.13:990][576]LogSavePackage: Moving output files for package: /Game/_Blueprints/Bp_Switch
+[2026.04.18-20.13.13:990][576]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Bp_SwitchCE62C4DF4647804D371477947FB511EC.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Blueprints/Bp_Switch.uasset'
+[2026.04.18-20.13.14:000][576]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.349 ms (total: 263.243 ms)
+[2026.04.18-20.13.14:069][576]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.18-20.13.14:069][576]LogContentValidation: Enabled validators:
+[2026.04.18-20.13.14:069][576]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.18-20.13.14:069][576]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.18-20.13.14:069][576]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.18-20.13.14:069][576]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.18-20.13.14:069][576]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.18-20.13.14:069][576]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.18-20.13.14:069][576]AssetCheck: /Game/_Blueprints/Bp_Switch Validating asset
+[2026.04.18-20.13.21:366][133]Cmd: SELECT NONE
+[2026.04.18-20.13.51:445][314]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1035.546265
+[2026.04.18-20.13.52:445][317]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.18-20.13.52:445][317]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1036.213257, Update Interval: 307.829834
+[2026.04.18-20.14.45:776][477]LogShaderCompilers: Display: ================================================
+[2026.04.18-20.14.45:776][477]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.04.18-20.14.45:776][477]LogShaderCompilers: Display: Total job queries 981, among them cache hits 457 (46.59%), DDC hits 428 (43.63%), Duplicates 73 (7.44%)
+[2026.04.18-20.14.45:776][477]LogShaderCompilers: Display: Tracking 451 distinct input hashes that result in 339 distinct outputs (75.17%)
+[2026.04.18-20.14.45:776][477]LogShaderCompilers: Display: RAM used: 4.06 MiB of 3.20 GiB budget. Usage: 0.12%
+[2026.04.18-20.14.45:776][477]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.04.18-20.14.45:776][477]LogShaderCompilers: Display: Shaders Compiled: 23
+[2026.04.18-20.14.45:776][477]LogShaderCompilers: Display: Jobs assigned 23, completed 23 (100%)
+[2026.04.18-20.14.45:776][477]LogShaderCompilers: Display: Average time worker was idle: 119.94 s
+[2026.04.18-20.14.45:776][477]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.10 s
+[2026.04.18-20.14.45:776][477]LogShaderCompilers: Display: Job execution time: average 0.90 s, max 1.54 s
+[2026.04.18-20.14.45:776][477]LogShaderCompilers: Display: Job life time (pending + execution): average 0.96 s, max 1.61
+[2026.04.18-20.14.45:776][477]LogShaderCompilers: Display: Shader code size: total 196.212 KiB, numShaders 23, average 8.53 KiB, min 4.277 KiB, max 11.292 KiB
+[2026.04.18-20.14.45:776][477]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.01 s
+[2026.04.18-20.14.45:776][477]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2026.04.18-20.14.45:776][477]LogShaderCompilers: Display: Jobs were issued in 23 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.04.18-20.14.45:776][477]LogShaderCompilers: Display: Average processing rate: 2.30 jobs/sec
+[2026.04.18-20.14.45:776][477]LogShaderCompilers: Display: Total thread time: 17.119 s
+[2026.04.18-20.14.45:776][477]LogShaderCompilers: Display: Total thread preprocess time: 14.744 s
+[2026.04.18-20.14.45:776][477]LogShaderCompilers: Display: Percentage time preprocessing: 86.13%
+[2026.04.18-20.14.45:776][477]LogShaderCompilers: Display: Effective parallelization: 1.71 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.213740
+[2026.04.18-20.14.45:778][477]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.04.18-20.14.45:778][477]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    4 times, average 1.20 sec, max 1.24 sec, min 1.14 sec)
+[2026.04.18-20.14.45:778][477]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    3 times, average 0.98 sec, max 0.99 sec, min 0.98 sec)
+[2026.04.18-20.14.45:778][477]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    3 times, average 0.84 sec, max 0.84 sec, min 0.83 sec)
+[2026.04.18-20.14.45:778][477]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 0.64 sec, max 0.67 sec, min 0.58 sec)
+[2026.04.18-20.14.45:778][477]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    3 times, average 0.49 sec, max 0.49 sec, min 0.48 sec)
+[2026.04.18-20.14.45:778][477]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.04.18-20.14.45:778][477]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 27.95% of total time (compiled    4 times, average 1.20 sec, max 1.24 sec, min 1.14 sec)
+[2026.04.18-20.14.45:778][477]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.57% of total time (compiled    5 times, average 0.64 sec, max 0.67 sec, min 0.58 sec)
+[2026.04.18-20.14.45:778][477]LogShaderCompilers: Display:                                             FDebugViewModePS - 17.23% of total time (compiled    3 times, average 0.98 sec, max 0.99 sec, min 0.98 sec)
+[2026.04.18-20.14.45:778][477]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 14.65% of total time (compiled    3 times, average 0.84 sec, max 0.84 sec, min 0.83 sec)
+[2026.04.18-20.14.45:778][477]LogShaderCompilers: Display:                                                 FLumenCardPS - 10.55% of total time (compiled    4 times, average 0.45 sec, max 0.46 sec, min 0.42 sec)
+[2026.04.18-20.14.45:778][477]LogShaderCompilers: Display: === Material stats ===
+[2026.04.18-20.14.45:778][477]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.04.18-20.14.45:778][477]LogShaderCompilers: Display: Materials Translated:    244
+[2026.04.18-20.14.45:778][477]LogShaderCompilers: Display: Material Total Translate Time: 0.16 s
+[2026.04.18-20.14.45:778][477]LogShaderCompilers: Display: Material Translation Only: 0.07 s (45%)
+[2026.04.18-20.14.45:778][477]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.04.18-20.14.45:778][477]LogShaderCompilers: Display: Material Cache Hits: 29 (12%)
+[2026.04.18-20.14.45:778][477]LogShaderCompilers: Display: ================================================
+[2026.04.18-20.16.09:771][275]LogRenderer: Using fallback RTPSO
+[2026.04.18-20.16.09:796][276]LogRenderer: Using fallback RTPSO
+[2026.04.18-20.16.12:693][413]LogStreaming: Display: FlushAsyncLoading(696): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.18-20.16.14:424][458]LogRenderer: Using fallback RTPSO
+[2026.04.18-20.16.14:490][459]LogRenderer: Using fallback RTPSO
+[2026.04.18-20.16.14:521][460]LogRenderer: Using fallback RTPSO
+[2026.04.18-20.16.14:524][460]LogD3D12RHI: Creating RTPSO with 36 shaders (0 cached, 1 new) took 99.62 ms. Compile time 98.75 ms, link time 0.85 ms.
+[2026.04.18-20.16.24:400][943]LogStreaming: Display: FlushAsyncLoading(697): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.18-20.16.25:896][982]LogRenderer: Using fallback RTPSO
+[2026.04.18-20.16.25:969][983]LogRenderer: Using fallback RTPSO
+[2026.04.18-20.16.25:987][984]LogD3D12RHI: Creating RTPSO with 37 shaders (0 cached, 1 new) took 91.77 ms. Compile time 90.80 ms, link time 0.94 ms.
+[2026.04.18-20.16.27:291][ 37]LogRenderer: Using fallback RTPSO
+[2026.04.18-20.16.27:313][ 38]LogRenderer: Using fallback RTPSO
+[2026.04.18-20.16.28:040][ 69]LogRenderer: Using fallback RTPSO
+[2026.04.18-20.16.31:391][215]LogStreaming: Display: FlushAsyncLoading(698): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.18-20.16.33:035][258]LogRenderer: Using fallback RTPSO
+[2026.04.18-20.16.33:093][259]LogRenderer: Using fallback RTPSO
+[2026.04.18-20.16.33:119][260]LogRenderer: Using fallback RTPSO
+[2026.04.18-20.16.33:149][261]LogRenderer: Using fallback RTPSO
+[2026.04.18-20.16.33:170][262]LogRenderer: Using fallback RTPSO
+[2026.04.18-20.16.33:174][262]LogD3D12RHI: Creating RTPSO with 38 shaders (0 cached, 1 new) took 138.93 ms. Compile time 138.12 ms, link time 0.79 ms.
+[2026.04.18-20.16.38:962][544]LogStreaming: Display: FlushAsyncLoading(699): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.18-20.16.40:480][589]LogRenderer: Using fallback RTPSO
+[2026.04.18-20.16.40:539][590]LogRenderer: Using fallback RTPSO
+[2026.04.18-20.16.40:571][591]LogRenderer: Using fallback RTPSO
+[2026.04.18-20.16.40:596][592]LogRenderer: Using fallback RTPSO
+[2026.04.18-20.16.40:609][592]LogD3D12RHI: Creating RTPSO with 39 shaders (0 cached, 1 new) took 128.90 ms. Compile time 128.22 ms, link time 0.65 ms.
+[2026.04.18-20.16.42:467][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2026.04.18-20.16.42:515][682]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.18-20.16.42:559][682]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Blueprints/Bp_Switch] ([2] browsable assets)...
+[2026.04.18-20.16.42:570][682]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Blueprints/Bp_Switch.Bp_Switch]
+[2026.04.18-20.16.42:570][682]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Blueprints/Bp_Switch]
+[2026.04.18-20.16.42:570][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Bp_Switch" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Blueprints/Bp_Switch.uasset" SILENT=true
+[2026.04.18-20.16.42:583][682]LogSavePackage: Moving output files for package: /Game/_Blueprints/Bp_Switch
+[2026.04.18-20.16.42:583][682]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Bp_Switch49916DF4497C1D3D3DCEC7B265A7B662.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Blueprints/Bp_Switch.uasset'
+[2026.04.18-20.16.42:594][682]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.266 ms (total: 342.510 ms)
+[2026.04.18-20.16.42:661][682]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.18-20.16.42:661][682]LogContentValidation: Enabled validators:
+[2026.04.18-20.16.42:661][682]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.18-20.16.42:661][682]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.18-20.16.42:661][682]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.18-20.16.42:661][682]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.18-20.16.42:661][682]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.18-20.16.42:661][682]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.18-20.16.42:661][682]AssetCheck: /Game/_Blueprints/Bp_Switch Validating asset
+[2026.04.18-20.17.46:016][659]LogShaderCompilers: Display: ================================================
+[2026.04.18-20.17.46:016][659]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.04.18-20.17.46:016][659]LogShaderCompilers: Display: Total job queries 1,025, among them cache hits 475 (46.34%), DDC hits 441 (43.02%), Duplicates 73 (7.12%)
+[2026.04.18-20.17.46:016][659]LogShaderCompilers: Display: Tracking 477 distinct input hashes that result in 354 distinct outputs (74.21%)
+[2026.04.18-20.17.46:016][659]LogShaderCompilers: Display: RAM used: 4.19 MiB of 3.20 GiB budget. Usage: 0.13%
+[2026.04.18-20.17.46:016][659]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.04.18-20.17.46:016][659]LogShaderCompilers: Display: Shaders Compiled: 36
+[2026.04.18-20.17.46:016][659]LogShaderCompilers: Display: Jobs assigned 36, completed 36 (100%)
+[2026.04.18-20.17.46:016][659]LogShaderCompilers: Display: Average time worker was idle: 93.40 s
+[2026.04.18-20.17.46:016][659]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.10 s
+[2026.04.18-20.17.46:016][659]LogShaderCompilers: Display: Job execution time: average 0.86 s, max 1.54 s
+[2026.04.18-20.17.46:016][659]LogShaderCompilers: Display: Job life time (pending + execution): average 0.92 s, max 1.61
+[2026.04.18-20.17.46:016][659]LogShaderCompilers: Display: Shader code size: total 340.692 KiB, numShaders 36, average 9.463 KiB, min 4.277 KiB, max 16.621 KiB
+[2026.04.18-20.17.46:016][659]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 15.94 s
+[2026.04.18-20.17.46:016][659]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2026.04.18-20.17.46:016][659]LogShaderCompilers: Display: Jobs were issued in 36 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.04.18-20.17.46:016][659]LogShaderCompilers: Display: Average processing rate: 2.26 jobs/sec
+[2026.04.18-20.17.46:016][659]LogShaderCompilers: Display: Total thread time: 26.171 s
+[2026.04.18-20.17.46:016][659]LogShaderCompilers: Display: Total thread preprocess time: 15.329 s
+[2026.04.18-20.17.46:016][659]LogShaderCompilers: Display: Percentage time preprocessing: 58.57%
+[2026.04.18-20.17.46:016][659]LogShaderCompilers: Display: Effective parallelization: 1.64 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.205278
+[2026.04.18-20.17.46:016][659]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.04.18-20.17.46:016][659]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    8 times, average 1.16 sec, max 1.24 sec, min 1.08 sec)
+[2026.04.18-20.17.46:016][659]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    3 times, average 0.98 sec, max 0.99 sec, min 0.98 sec)
+[2026.04.18-20.17.46:016][659]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    3 times, average 0.84 sec, max 0.84 sec, min 0.83 sec)
+[2026.04.18-20.17.46:016][659]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   10 times, average 0.62 sec, max 0.67 sec, min 0.57 sec)
+[2026.04.18-20.17.46:016][659]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    3 times, average 0.49 sec, max 0.49 sec, min 0.48 sec)
+[2026.04.18-20.17.46:016][659]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.04.18-20.17.46:016][659]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 35.54% of total time (compiled    8 times, average 1.16 sec, max 1.24 sec, min 1.08 sec)
+[2026.04.18-20.17.46:016][659]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.63% of total time (compiled   10 times, average 0.62 sec, max 0.67 sec, min 0.57 sec)
+[2026.04.18-20.17.46:016][659]LogShaderCompilers: Display:                                             FDebugViewModePS - 11.27% of total time (compiled    3 times, average 0.98 sec, max 0.99 sec, min 0.98 sec)
+[2026.04.18-20.17.46:016][659]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 9.59% of total time (compiled    3 times, average 0.84 sec, max 0.84 sec, min 0.83 sec)
+[2026.04.18-20.17.46:016][659]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.49% of total time (compiled    5 times, average 0.39 sec, max 0.43 sec, min 0.37 sec)
+[2026.04.18-20.17.46:016][659]LogShaderCompilers: Display: === Material stats ===
+[2026.04.18-20.17.46:016][659]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.04.18-20.17.46:016][659]LogShaderCompilers: Display: Materials Translated:    248
+[2026.04.18-20.17.46:016][659]LogShaderCompilers: Display: Material Total Translate Time: 0.16 s
+[2026.04.18-20.17.46:016][659]LogShaderCompilers: Display: Material Translation Only: 0.08 s (46%)
+[2026.04.18-20.17.46:016][659]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.04.18-20.17.46:017][659]LogShaderCompilers: Display: Material Cache Hits: 29 (12%)
+[2026.04.18-20.17.46:017][659]LogShaderCompilers: Display: ================================================
+[2026.04.18-20.19.10:698][913]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1354.793823
+[2026.04.18-20.19.11:696][916]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.18-20.19.11:696][916]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1355.459351, Update Interval: 338.916595
+[2026.04.18-20.21.46:113][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2026.04.18-20.21.46:116][379]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.037
+[2026.04.18-20.21.46:117][379]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Materials/MA_brown] ([1] browsable assets)...
+[2026.04.18-20.21.46:246][379]OBJ SavePackage:     Rendered thumbnail for [Material /Game/_Materials/MA_brown.MA_brown]
+[2026.04.18-20.21.46:246][379]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/MA_brown]
+[2026.04.18-20.21.46:246][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Materials/MA_brown" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Materials/MA_brown_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2026.04.18-20.21.46:257][379]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Materials/MA_brown_Auto2
+[2026.04.18-20.21.46:257][379]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/MA_brown_Auto2358C2E6D41A683D28F84FAAB89370231.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Materials/MA_brown_Auto2.uasset'
+[2026.04.18-20.21.46:258][379]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Materials/MA_Grey] ([1] browsable assets)...
+[2026.04.18-20.21.46:290][379]OBJ SavePackage:     Rendered thumbnail for [Material /Game/_Materials/MA_Grey.MA_Grey]
+[2026.04.18-20.21.46:290][379]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/MA_Grey]
+[2026.04.18-20.21.46:290][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Materials/MA_Grey" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Materials/MA_Grey_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2026.04.18-20.21.46:299][379]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Materials/MA_Grey_Auto2
+[2026.04.18-20.21.46:299][379]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/MA_Grey_Auto25F2F93424CDA8809DCC9339898FC22AA.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Materials/MA_Grey_Auto2.uasset'
+[2026.04.18-20.21.46:299][379]LogFileHelpers: Auto-saving content packages took 0.182
+[2026.04.18-20.25.16:728][ 11]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1720.824829
+[2026.04.18-20.25.17:728][ 14]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.18-20.25.17:728][ 14]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1721.490845, Update Interval: 334.631805
+[2026.04.18-20.26.49:562][212]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.18-20.26.49:570][212]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.18-20.26.49:570][212]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.04.18-20.26.49:572][212]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 2.412 ms (total: 12.968 ms)
+[2026.04.18-20.26.49:573][212]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.18-20.26.49:573][212]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.18-20.26.49:596][212]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.18-20.26.49:602][212]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 5.295 ms (total: 31.756 ms)
+[2026.04.18-20.26.49:602][212]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028684s)
+[2026.04.18-20.26.49:602][212]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.028722s)
+[2026.04.18-20.26.49:632][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2026.04.18-20.26.49:634][212]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.04.18-20.26.49:637][212]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.18-20.26.49:637][212]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.18-20.26.49:637][212]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.18-20.26.49:637][212]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.18-20.26.49:642][212]LogWorldPartition: Display: WorldPartition initialize took 5.981 ms (total: 2.37 sec)
+[2026.04.18-20.26.49:642][212]LogPlayLevel: PIE: World Init took: (0.008156s)
+[2026.04.18-20.26.49:643][212]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.04.18-20.26.49:643][212]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.18-20.26.49:643][212]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.18-20.26.49:643][212]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.18-20.26.49:643][212]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.18-20.26.49:643][212]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.18-20.26.49:643][212]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.18-20.26.49:643][212]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.18-20.26.49:643][212]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.18-20.26.49:643][212]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.18-20.26.49:643][212]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.18-20.26.49:643][212]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.18-20.26.49:645][212]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.18-20.26.49:672][212]LogAudioMixer: Display: Using Audio Hardware Device Headphones (HyperX Cloud III)
+[2026.04.18-20.26.49:672][212]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.18-20.26.49:672][212]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.18-20.26.49:672][212]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.18-20.26.49:673][212]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2026.04.18-20.26.49:673][212]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2026.04.18-20.26.49:675][212]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2026.04.18-20.26.49:675][212]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2026.04.18-20.26.49:675][212]LogInit: FAudioDevice initialized with ID 7.
+[2026.04.18-20.26.49:675][212]LogAudio: Display: Audio Device (ID: 7) registered with world 'Lvl_ThirdPerson'.
+[2026.04.18-20.26.49:675][212]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2026.04.18-20.26.49:680][212]LogLoad: Game class is 'BP_PlatformingGameMode_C'
+[2026.04.18-20.26.49:688][212]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.04.18-21.26.49
+[2026.04.18-20.26.49:688][212]LogWorld: Bringing up level for play took: 0.008522
+[2026.04.18-20.26.49:690][212]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2026.04.18-20.26.49:699][212]PIE: Server logged in
+[2026.04.18-20.26.49:702][212]PIE: Play in editor total start time 0.132 seconds.
+[2026.04.18-20.26.49:761][213]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.18-20.26.51:569][333]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.04.18-20.26.51:569][333]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.04.18-20.27.13:904][953]LogBlueprintUserMessages: [Bp_lavatest_C_UAID_D843AEDEA7AD65C902_1504626529] 
+[2026.04.18-20.27.13:905][953]LogBlueprintUserMessages: game over
+[2026.04.18-20.27.13:905][953]LogBlueprintUserMessages: [Bp_lavatest_C_UAID_D843AEDEA7AD65C902_1504626529] ow
+[2026.04.18-20.27.15:365][ 67]LogScript: Warning: Attempted to access BP_PlatformingCharacter_C_0 via property K2Node_DynamicCast_AsBP_Platforming_Character_1, but BP_PlatformingCharacter_C_0 is not valid (pending kill or garbage)
+	BP_movement_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_movement_C_UAID_244BFE527C6963CF02_1299748511
+	Function /Game/_Blueprints/BP_movement.BP_movement_C:ExecuteUbergraph_BP_movement:0074
+[2026.04.18-20.27.15:365][ 67]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_PlatformingCharacter_C_0 via property K2Node_DynamicCast_AsBP_Platforming_Character_1, but BP_PlatformingCharacter_C_0 is not valid (pending kill or garbage)". Node:  Set MaxWalkSpeed Graph:  EventGraph Function:  Execute Ubergraph BP Movement Blueprint:  BP_movement
+[2026.04.18-20.27.15:365][ 67]LogScript: Warning: Accessed None
+	BP_movement_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_movement_C_UAID_244BFE527C6963CF02_1299748511
+	Function /Game/_Blueprints/BP_movement.BP_movement_C:ExecuteUbergraph_BP_movement:0089
+[2026.04.18-20.27.15:365][ 67]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set MaxWalkSpeed Graph:  EventGraph Function:  Execute Ubergraph BP Movement Blueprint:  BP_movement
+[2026.04.18-20.27.15:365][ 67]LogScript: Warning: Attempted to assign to None
+	BP_movement_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_movement_C_UAID_244BFE527C6963CF02_1299748511
+	Function /Game/_Blueprints/BP_movement.BP_movement_C:ExecuteUbergraph_BP_movement:009E
+[2026.04.18-20.27.15:365][ 67]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set MaxWalkSpeed Graph:  EventGraph Function:  Execute Ubergraph BP Movement Blueprint:  BP_movement
+[2026.04.18-20.27.17:137][198]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.04.18-20.27.17:137][198]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_1
+[2026.04.18-20.27.17:375][216]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.04.18-20.27.17:375][216]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_1
+[2026.04.18-20.27.22:138][566]LogBlueprintUserMessages: [Bp_lavatest_C_UAID_D843AEDEA7AD65C902_1504626529] 
+[2026.04.18-20.27.22:139][566]LogBlueprintUserMessages: game over
+[2026.04.18-20.27.22:139][566]LogBlueprintUserMessages: [Bp_lavatest_C_UAID_D843AEDEA7AD65C902_1504626529] ow
+[2026.04.18-20.27.27:222][939]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.04.18-20.27.27:222][939]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_2
+[2026.04.18-20.27.27:469][957]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.04.18-20.27.27:469][957]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_2
+[2026.04.18-20.27.42:411][ 48]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_1' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.04.18-20.27.42:411][ 48]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_2
+[2026.04.18-20.27.56:600][ 72]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.04.18-20.27.56:600][ 72]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_2
+[2026.04.18-20.27.56:839][ 91]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.04.18-20.27.56:839][ 91]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_2
+[2026.04.18-20.27.59:600][293]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_1' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.04.18-20.27.59:600][293]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_2
+[2026.04.18-20.28.02:556][514]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_1' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.04.18-20.28.02:556][514]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_2
+[2026.04.18-20.28.26:884][298]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_1' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.04.18-20.28.26:884][298]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_2
+[2026.04.18-20.28.26:884][298]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.04.18-20.28.26:884][298]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_2
+[2026.04.18-20.28.29:447][484]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_1' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.04.18-20.28.29:447][484]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_2
+[2026.04.18-20.28.48:468][863]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_1' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.04.18-20.28.48:468][863]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_2
+[2026.04.18-20.29.05:115][ 74]LogBlueprintUserMessages: [Bp_lavatest_C_UAID_244BFE527C6901CB02_1442954109] 
+[2026.04.18-20.29.05:115][ 74]LogBlueprintUserMessages: game over
+[2026.04.18-20.29.05:116][ 74]LogBlueprintUserMessages: [Bp_lavatest_C_UAID_244BFE527C6901CB02_1442954109] ow
+[2026.04.18-20.29.23:925][445]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_1' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.04.18-20.29.23:925][445]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_3
+[2026.04.18-20.29.46:785][122]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_1' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.04.18-20.29.46:785][122]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_3
+[2026.04.18-20.30.00:269][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.18-20.30.00:269][100]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.18-20.30.00:269][100]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.04.18-20.30.00:272][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-20.30.00:272][100]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.04.18-20.30.00:274][100]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.18-20.30.00:283][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-20.30.00:314][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.18-20.30.00:315][100]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2026.04.18-20.30.00:316][100]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2026.04.18-20.30.00:318][100]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2026.04.18-20.30.00:329][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2026.04.18-20.30.00:514][101]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2026.04.18-20.30.11:022][830]LogSlate: Window 'Message Log' being destroyed
+[2026.04.18-20.30.11:034][830]LogSlate: Window 'Message Log' being destroyed
+[2026.04.18-20.30.29:385][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2026.04.18-20.30.30:562][ 69]LogSlate: Window 'Save Content' being destroyed
+[2026.04.18-20.30.30:575][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.18-20.30.30:621][ 69]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/WL/BJ55P13XYIR7YP9QW2ZQEG
+[2026.04.18-20.30.30:622][ 69]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/BJ55P13XYIR7YP9QW2ZQEG38758BC94AAF5C466FDF74BED7866325.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/WL/BJ55P13XYIR7YP9QW2ZQEG.uasset'
+[2026.04.18-20.30.30:631][ 69]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/TG/VM14YQRTCTB9DSIXAF5MDG
+[2026.04.18-20.30.30:631][ 69]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/VM14YQRTCTB9DSIXAF5MDGAD1663024DD5FFEEC01A8F8DEB0D8431.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/TG/VM14YQRTCTB9DSIXAF5MDG.uasset'
+[2026.04.18-20.30.30:639][ 69]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/11/HA6NTOQNBC8YUGI2ETH7V7
+[2026.04.18-20.30.30:639][ 69]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/HA6NTOQNBC8YUGI2ETH7V7736BFD1049D53C4058E5098DE7C1F46D.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/11/HA6NTOQNBC8YUGI2ETH7V7.uasset'
+[2026.04.18-20.30.30:649][ 69]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/B7/YJP0V637Y677OP0UHKO191
+[2026.04.18-20.30.30:649][ 69]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/YJP0V637Y677OP0UHKO191480D72664414607A90000DB03F4904BA.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/B7/YJP0V637Y677OP0UHKO191.uasset'
+[2026.04.18-20.30.30:657][ 69]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/EK/JAJ0TZD2DSN1BE22Z7LLL0
+[2026.04.18-20.30.30:658][ 69]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/JAJ0TZD2DSN1BE22Z7LLL0EDC3501B4A5A8FCAD0B708A2AEBAD742.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/EK/JAJ0TZD2DSN1BE22Z7LLL0.uasset'
+[2026.04.18-20.30.30:666][ 69]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/91/LEUB2A0BRG5YNIXYHU278R
+[2026.04.18-20.30.30:666][ 69]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/LEUB2A0BRG5YNIXYHU278R5010B3344C7C816730E987A3626FA5B4.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/91/LEUB2A0BRG5YNIXYHU278R.uasset'
+[2026.04.18-20.30.30:676][ 69]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/H9/YV7WX75FU7CANVOSKPLYH9
+[2026.04.18-20.30.30:676][ 69]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/YV7WX75FU7CANVOSKPLYH9DAB4EEF4433E375C4C8AA2A54ACC0DAC.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/H9/YV7WX75FU7CANVOSKPLYH9.uasset'
+[2026.04.18-20.30.30:684][ 69]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/10/VM69FFIV5FAI0FCAEZCHT7
+[2026.04.18-20.30.30:685][ 69]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/VM69FFIV5FAI0FCAEZCHT76C49E6E4426CEC55D8122390281EFF95.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/10/VM69FFIV5FAI0FCAEZCHT7.uasset'
+[2026.04.18-20.30.30:693][ 69]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/AR/CG84P46QZT0TJ24UT8QA46
+[2026.04.18-20.30.30:694][ 69]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/CG84P46QZT0TJ24UT8QA468EA9E2EA4274CFF7B10297A0EA7C5AC8.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/AR/CG84P46QZT0TJ24UT8QA46.uasset'
+[2026.04.18-20.30.30:703][ 69]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/J2/BUVLMP916EX9VLGVDLWR3L
+[2026.04.18-20.30.30:703][ 69]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/BUVLMP916EX9VLGVDLWR3L1D93B3164FF5BF3DD0607E9185B3A570.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/J2/BUVLMP916EX9VLGVDLWR3L.uasset'
+[2026.04.18-20.30.30:712][ 69]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/9X/473DQFCCTXRECDDMM4IT3B
+[2026.04.18-20.30.30:713][ 69]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/473DQFCCTXRECDDMM4IT3BA270BD964E7E6BC434023D98A1DDEDFA.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/9X/473DQFCCTXRECDDMM4IT3B.uasset'
+[2026.04.18-20.30.30:721][ 69]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/EW/BFDP8OQBPN4393G99JB022
+[2026.04.18-20.30.30:721][ 69]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/BFDP8OQBPN4393G99JB022691D4E6045D3CBEC512656B85675EA2C.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/EW/BFDP8OQBPN4393G99JB022.uasset'
+[2026.04.18-20.30.30:730][ 69]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/C6/Q0WWWW4UB31J1Y0O26KEV8
+[2026.04.18-20.30.30:731][ 69]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Q0WWWW4UB31J1Y0O26KEV8230421364B94410CB399CBB0A85BCEC7.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/C6/Q0WWWW4UB31J1Y0O26KEV8.uasset'
+[2026.04.18-20.30.30:733][ 69]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Materials/MA_Grey] ([1] browsable assets)...
+[2026.04.18-20.30.30:733][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/MA_Grey]
+[2026.04.18-20.30.30:733][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Materials/MA_Grey" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/MA_Grey.uasset" SILENT=true
+[2026.04.18-20.30.30:741][ 69]LogSavePackage: Moving output files for package: /Game/_Materials/MA_Grey
+[2026.04.18-20.30.30:741][ 69]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/MA_GreyAFFB090F401DF704371872BE44E4A135.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/MA_Grey.uasset'
+[2026.04.18-20.30.30:745][ 69]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Materials/MA_brown] ([1] browsable assets)...
+[2026.04.18-20.30.30:745][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/MA_brown]
+[2026.04.18-20.30.30:745][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Materials/MA_brown" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/MA_brown.uasset" SILENT=true
+[2026.04.18-20.30.30:755][ 69]LogSavePackage: Moving output files for package: /Game/_Materials/MA_brown
+[2026.04.18-20.30.30:755][ 69]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/MA_brown792D2C2D4BCF44D62D9BEC819B95146D.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/MA_brown.uasset'
+[2026.04.18-20.30.30:756][ 69]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Materials/MI_Bricks] ([1] browsable assets)...
+[2026.04.18-20.30.30:756][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/MI_Bricks]
+[2026.04.18-20.30.30:756][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Materials/MI_Bricks" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/MI_Bricks.uasset" SILENT=true
+[2026.04.18-20.30.30:765][ 69]LogSavePackage: Moving output files for package: /Game/_Materials/MI_Bricks
+[2026.04.18-20.30.30:765][ 69]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/MI_Bricks3FB7FF4F4C875486B0F4D98C098C7402.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/MI_Bricks.uasset'
+[2026.04.18-20.30.30:766][ 69]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Materials/MI_grime-alley-bricks_1_albedo_Mat_Inst] ([1] browsable assets)...
+[2026.04.18-20.30.30:766][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/MI_grime-alley-bricks_1_albedo_Mat_Inst]
+[2026.04.18-20.30.30:774][ 69]LogSavePackage: Moving output files for package: /Game/_Materials/MI_grime-alley-bricks_1_albedo_Mat_Inst
+[2026.04.18-20.30.30:774][ 69]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/MI_grime-alley-bricks_1_albedo_MF0DE7DFD45879B9987911980F44C8BA1.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/MI_grime-alley-bricks_1_albedo_Mat_Inst.uasset'
+[2026.04.18-20.30.30:775][ 69]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Materials/grime-alley-bricks_1_albedo] ([1] browsable assets)...
+[2026.04.18-20.30.30:775][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/grime-alley-bricks_1_albedo]
+[2026.04.18-20.30.30:775][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Materials/grime-alley-bricks_1_albedo" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/grime-alley-bricks_1_albedo.uasset" SILENT=true
+[2026.04.18-20.30.30:842][ 69]LogSavePackage: Moving output files for package: /Game/_Materials/grime-alley-bricks_1_albedo
+[2026.04.18-20.30.30:842][ 69]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/grime-alley-bricks_1_albedo641921014005E1AC798D07A483726AA9.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/grime-alley-bricks_1_albedo.uasset'
+[2026.04.18-20.30.30:843][ 69]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Materials/grime-alley-bricks_1_albedo_Mat] ([1] browsable assets)...
+[2026.04.18-20.30.30:843][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/grime-alley-bricks_1_albedo_Mat]
+[2026.04.18-20.30.30:850][ 69]LogSavePackage: Moving output files for package: /Game/_Materials/grime-alley-bricks_1_albedo_Mat
+[2026.04.18-20.30.30:850][ 69]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/grime-alley-bricks_1_albedo_Mat05006F614BA741E54B0F6E8A873A4339.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/grime-alley-bricks_1_albedo_Mat.uasset'
+[2026.04.18-20.30.30:851][ 69]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Materials/grime-alley-bricks_1_ao] ([1] browsable assets)...
+[2026.04.18-20.30.30:851][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/grime-alley-bricks_1_ao]
+[2026.04.18-20.30.30:851][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Materials/grime-alley-bricks_1_ao" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/grime-alley-bricks_1_ao.uasset" SILENT=true
+[2026.04.18-20.30.30:871][ 69]LogSavePackage: Moving output files for package: /Game/_Materials/grime-alley-bricks_1_ao
+[2026.04.18-20.30.30:871][ 69]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/grime-alley-bricks_1_ao57568F5C492D6A10A22848AE00E94EE2.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/grime-alley-bricks_1_ao.uasset'
+[2026.04.18-20.30.30:872][ 69]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Materials/grime-alley-bricks_1_height] ([1] browsable assets)...
+[2026.04.18-20.30.30:872][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/grime-alley-bricks_1_height]
+[2026.04.18-20.30.30:872][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Materials/grime-alley-bricks_1_height" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/grime-alley-bricks_1_height.uasset" SILENT=true
+[2026.04.18-20.30.30:894][ 69]LogSavePackage: Moving output files for package: /Game/_Materials/grime-alley-bricks_1_height
+[2026.04.18-20.30.30:894][ 69]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/grime-alley-bricks_1_height4021B654474F5D86A5FC1F8C36D6885C.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/grime-alley-bricks_1_height.uasset'
+[2026.04.18-20.30.30:896][ 69]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Materials/grime-alley-bricks_1_metallic] ([1] browsable assets)...
+[2026.04.18-20.30.30:896][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/grime-alley-bricks_1_metallic]
+[2026.04.18-20.30.30:896][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Materials/grime-alley-bricks_1_metallic" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/grime-alley-bricks_1_metallic.uasset" SILENT=true
+[2026.04.18-20.30.30:909][ 69]LogSavePackage: Moving output files for package: /Game/_Materials/grime-alley-bricks_1_metallic
+[2026.04.18-20.30.30:909][ 69]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/grime-alley-bricks_1_metallic4ABD387A4A206327BF927994A51626F8.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/grime-alley-bricks_1_metallic.uasset'
+[2026.04.18-20.30.30:910][ 69]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Materials/grime-alley-bricks_1_normal-dx] ([1] browsable assets)...
+[2026.04.18-20.30.30:910][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/grime-alley-bricks_1_normal-dx]
+[2026.04.18-20.30.30:910][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Materials/grime-alley-bricks_1_normal-dx" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/grime-alley-bricks_1_normal-dx.uasset" SILENT=true
+[2026.04.18-20.30.30:980][ 69]LogSavePackage: Moving output files for package: /Game/_Materials/grime-alley-bricks_1_normal-dx
+[2026.04.18-20.30.30:980][ 69]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/grime-alley-bricks_1_normal-dx74EC6FB34273B42277AF8F88BFF9F19A.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/grime-alley-bricks_1_normal-dx.uasset'
+[2026.04.18-20.30.30:981][ 69]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Materials/grime-alley-bricks_1_preview] ([1] browsable assets)...
+[2026.04.18-20.30.30:981][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/grime-alley-bricks_1_preview]
+[2026.04.18-20.30.30:981][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Materials/grime-alley-bricks_1_preview" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/grime-alley-bricks_1_preview.uasset" SILENT=true
+[2026.04.18-20.30.30:990][ 69]LogSavePackage: Moving output files for package: /Game/_Materials/grime-alley-bricks_1_preview
+[2026.04.18-20.30.30:990][ 69]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/grime-alley-bricks_1_preview67CB4D1C4B6E956857CE21AF488B4F6C.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/grime-alley-bricks_1_preview.uasset'
+[2026.04.18-20.30.30:991][ 69]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Materials/grime-alley-bricks_1_roughness] ([1] browsable assets)...
+[2026.04.18-20.30.30:991][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/grime-alley-bricks_1_roughness]
+[2026.04.18-20.30.30:991][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Materials/grime-alley-bricks_1_roughness" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/grime-alley-bricks_1_roughness.uasset" SILENT=true
+[2026.04.18-20.30.31:015][ 69]LogSavePackage: Moving output files for package: /Game/_Materials/grime-alley-bricks_1_roughness
+[2026.04.18-20.30.31:015][ 69]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/grime-alley-bricks_1_roughnessBC758D2947969D312B10C78E53E839A1.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/grime-alley-bricks_1_roughness.uasset'
+[2026.04.18-20.30.31:028][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave took 453.479 ms (total: 795.989 ms)
+[2026.04.18-20.30.31:083][ 69]LogStall: Shutdown...
+[2026.04.18-20.30.31:083][ 69]LogStall: Shutdown complete.
+[2026.04.18-20.30.31:135][ 69]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2026.04.18-20.30.31:135][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-20.30.31:196][ 69]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2026.04.18-20.30.31:196][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-20.30.31:248][ 69]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2026.04.18-20.30.31:248][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-20.30.31:305][ 69]LogSlate: Window 'Bp_Light_Switch' being destroyed
+[2026.04.18-20.30.31:320][ 69]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.04.18-20.30.31:320][ 69]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2026.04.18-20.30.31:320][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-20.30.31:389][ 69]LogSlate: Window 'MyProject3 - Unreal Editor' being destroyed
+[2026.04.18-20.30.31:566][ 69]LogContentValidation: Display: Starting to validate 25 assets
+[2026.04.18-20.30.31:566][ 69]LogContentValidation: Enabled validators:
+[2026.04.18-20.30.31:566][ 69]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.18-20.30.31:566][ 69]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.18-20.30.31:566][ 69]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.18-20.30.31:566][ 69]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.18-20.30.31:566][ 69]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.18-20.30.31:566][ 69]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.18-20.30.31:566][ 69]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2026.04.18-20.30.31:566][ 69]AssetCheck: /Game/_Materials/MA_Grey Validating asset
+[2026.04.18-20.30.31:566][ 69]AssetCheck: /Game/_Materials/MA_brown Validating asset
+[2026.04.18-20.30.31:566][ 69]AssetCheck: /Game/_Materials/MI_Bricks Validating asset
+[2026.04.18-20.30.31:566][ 69]AssetCheck: /Game/_Materials/MI_grime-alley-bricks_1_albedo_Mat_Inst Validating asset
+[2026.04.18-20.30.31:566][ 69]AssetCheck: /Game/_Materials/grime-alley-bricks_1_albedo Validating asset
+[2026.04.18-20.30.31:566][ 69]AssetCheck: /Game/_Materials/grime-alley-bricks_1_albedo_Mat Validating asset
+[2026.04.18-20.30.31:566][ 69]AssetCheck: /Game/_Materials/grime-alley-bricks_1_ao Validating asset
+[2026.04.18-20.30.31:566][ 69]AssetCheck: /Game/_Materials/grime-alley-bricks_1_height Validating asset
+[2026.04.18-20.30.31:566][ 69]AssetCheck: /Game/_Materials/grime-alley-bricks_1_metallic Validating asset
+[2026.04.18-20.30.31:566][ 69]AssetCheck: /Game/_Materials/grime-alley-bricks_1_normal-dx Validating asset
+[2026.04.18-20.30.31:566][ 69]AssetCheck: /Game/_Materials/grime-alley-bricks_1_preview Validating asset
+[2026.04.18-20.30.31:566][ 69]AssetCheck: /Game/_Materials/grime-alley-bricks_1_roughness Validating asset
+[2026.04.18-20.30.31:638][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.04.18-20.30.31:664][ 69]Cmd: QUIT_EDITOR
+[2026.04.18-20.30.31:664][ 69]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.04.18-20.30.31:666][ 69]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.18-20.30.31:673][ 70]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.04.18-20.30.31:673][ 70]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.04.18-20.30.31:673][ 70]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.04.18-20.30.31:677][ 70]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.04.18-20.30.31:678][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-20.30.31:678][ 70]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.04.18-20.30.31:685][ 70]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.04.18-20.30.31:687][ 70]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.04.18-20.30.31:687][ 70]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.04.18-20.30.31:694][ 70]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.04.18-20.30.31:694][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-20.30.31:699][ 70]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.04.18-20.30.31:699][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-20.30.31:704][ 70]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.04.18-20.30.31:704][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-20.30.31:709][ 70]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.04.18-20.30.31:709][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-20.30.31:714][ 70]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.04.18-20.30.31:714][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-20.30.31:719][ 70]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.04.18-20.30.31:719][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-20.30.31:723][ 70]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.04.18-20.30.31:723][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-20.30.31:728][ 70]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.04.18-20.30.31:728][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-20.30.31:733][ 70]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.04.18-20.30.31:733][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-20.30.31:739][ 70]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.04.18-20.30.31:739][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-20.30.31:744][ 70]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.04.18-20.30.31:744][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-20.30.31:749][ 70]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.04.18-20.30.31:749][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-20.30.31:754][ 70]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.04.18-20.30.31:754][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-20.30.31:760][ 70]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.04.18-20.30.31:760][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-20.30.31:764][ 70]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.04.18-20.30.31:764][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-20.30.31:769][ 70]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.04.18-20.30.31:769][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-20.30.31:775][ 70]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.04.18-20.30.31:775][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-20.30.31:781][ 70]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2026.04.18-20.30.31:781][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-20.30.31:786][ 70]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.04.18-20.30.31:786][ 70]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.04.18-20.30.31:792][ 70]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.04.18-20.30.31:839][ 70]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.04.18-20.30.31:839][ 70]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.04.18-20.30.31:839][ 70]LogAudio: Display: Audio Device unregistered from world 'Lvl_ThirdPerson'.
+[2026.04.18-20.30.31:839][ 70]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.04.18-20.30.31:839][ 70]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.04.18-20.30.31:841][ 70]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.04.18-20.30.31:850][ 70]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.04.18-20.30.31:850][ 70]LogAudio: Display: Audio Device Manager Shutdown
+[2026.04.18-20.30.31:851][ 70]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2026.04.18-20.30.31:854][ 70]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.04.18-20.30.31:854][ 70]LogExit: Preparing to exit.
+[2026.04.18-20.30.31:901][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2026.04.18-20.30.31:905][ 70]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.18-20.30.31:905][ 70]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.18-20.30.31:905][ 70]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.18-20.30.31:905][ 70]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.18-20.30.31:905][ 70]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.18-20.30.31:905][ 70]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.18-20.30.31:905][ 70]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.18-20.30.31:905][ 70]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.18-20.30.31:905][ 70]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.18-20.30.31:905][ 70]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.18-20.30.31:905][ 70]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.18-20.30.31:905][ 70]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.18-20.30.31:905][ 70]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.18-20.30.31:905][ 70]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.18-20.30.31:905][ 70]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.18-20.30.31:905][ 70]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.18-20.30.31:905][ 70]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.18-20.30.31:905][ 70]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.18-20.30.31:905][ 70]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.18-20.30.31:905][ 70]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.18-20.30.31:905][ 70]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.18-20.30.32:205][ 70]LogEditorDataStorage: Deinitializing
+[2026.04.18-20.30.32:332][ 70]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.04.18-20.30.32:348][ 70]LogExit: Editor shut down
+[2026.04.18-20.30.32:353][ 70]LogExit: Transaction tracking system shut down
+[2026.04.18-20.30.32:540][ 70]LogExit: Object subsystem successfully closed.
+[2026.04.18-20.30.32:654][ 70]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.04.18-20.30.32:775][ 70]LogMemoryProfiler: Shutdown
+[2026.04.18-20.30.32:775][ 70]LogNetworkingProfiler: Shutdown
+[2026.04.18-20.30.32:775][ 70]LoadingProfiler: Shutdown
+[2026.04.18-20.30.32:775][ 70]LogTimingProfiler: Shutdown
+[2026.04.18-20.30.32:775][ 70]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.04.18-20.30.32:775][ 70]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.04.18-20.30.33:059][ 70]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.04.18-20.30.33:095][ 70]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.04.18-20.30.33:095][ 70]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBEA5B8F0-4822-C1A6-454C-D5BD747C4896%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=32b98dca4babd8ac6f3362857256e6ad%7Cdc22bf91edcb4030b3f1d10200472d02%7C3eba7a12-1a98-4f11-9d76-1833cb280630&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.04.18-20.30.33:652][ 70]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.04.18-20.30.33:660][ 70]RenderDocPlugin: plugin has been unloaded.
+[2026.04.18-20.30.33:660][ 70]LogNFORDenoise: NFORDenoise function shutting down
+[2026.04.18-20.30.33:665][ 70]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.04.18-20.30.33:665][ 70]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.04.18-20.30.33:665][ 70]LogPakFile: Destroying PakPlatformFile
+[2026.04.18-20.30.34:006][ 70]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.04.18-20.30.34:039][ 70]LogExit: Exiting.
+[2026.04.18-20.30.34:059][ 70]Log file closed, 04/18/26 21:30:34
