@@ -4,3 +4,9 @@
 2026/04/19-19:47:49.289 62b0 Level-0 table #5: started
 2026/04/19-19:47:49.363 62b0 Level-0 table #5: 64323 bytes OK
 2026/04/19-19:47:49.388 62b0 Delete type=0 #3
+2026/04/19-19:58:01.982 13f8 Level-0 table #7: started
+2026/04/19-19:58:02.035 13f8 Level-0 table #7: 70986 bytes OK
+2026/04/19-19:58:02.061 13f8 Delete type=0 #4
+2026/04/19-20:05:47.287 738 Level-0 table #9: started
+2026/04/19-20:05:47.379 738 Level-0 table #9: 63075 bytes OK
+2026/04/19-20:05:47.441 738 Delete type=0 #6
