@@ -6605,3 +6605,408 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.19-19.03.54:498][862]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4235.774414
 [2026.04.19-19.03.55:493][865]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.04.19-19.03.55:493][866]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4236.442383, Update Interval: 316.633820
+[2026.04.19-19.06.48:017][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.04.19-19.06.48:041][684]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Lvl_ThirdPerson_Auto5
+[2026.04.19-19.06.48:041][684]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Lvl_ThirdPerson_Auto5E0497747431444C79E6BAB8442C1BDA5.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/ThirdPerson/Lvl_ThirdPerson_Auto5.umap'
+[2026.04.19-19.06.48:042][684]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.055
+[2026.04.19-19.06.48:042][684]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.055
+[2026.04.19-19.07.55:286][358]LogStreaming: Display: FlushAsyncLoading(694): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.19-19.07.55:295][358]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Utility/Default_Normal.Default_Normal (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 82.499988 MB), EncodeSpeed: Fast
+[2026.04.19-19.07.55:295][358]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Utility/Default_Emissive.Default_Emissive (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 46.083323 MB), EncodeSpeed: Fast
+[2026.04.19-19.07.55:296][358]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Utility/Default_DET.Default_DET (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 46.083323 MB), EncodeSpeed: Fast
+[2026.04.19-19.07.55:296][358]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Utility/Default_Basecolor.Default_Basecolor (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 46.083323 MB), EncodeSpeed: Fast
+[2026.04.19-19.07.55:308][358]LogStaticMesh: Display: Building static mesh Utility_Box_2b (Required Memory Estimate: 0.63434 MB)...
+[2026.04.19-19.07.55:320][358]LogStaticMesh: Built static mesh [0.01s] /Game/Modular_Rural_Cabin/Meshes/Props/Utility_Box_2b.Utility_Box_2b
+[2026.04.19-19.07.55:375][358]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Unique/UtilityBoxes_2_Normal.UtilityBoxes_2_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 382.499988 MB), EncodeSpeed: Fast
+[2026.04.19-19.07.55:417][359]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Unique/UtilityBoxes_2_BaseColor.UtilityBoxes_2_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.04.19-19.07.55:436][359]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Unique/UtilityBoxes_2_DET.UtilityBoxes_2_DET (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.04.19-19.07.55:666][365]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Utility_Box_2b.Utility_Box_2b
+[2026.04.19-19.07.55:666][365]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Utility_Box_2b.Utility_Box_2b
+[2026.04.19-19.07.55:667][365]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Utility_Box_2b.Utility_Box_2b as actor: StaticMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.StaticMeshActor_0
+[2026.04.19-19.07.57:632][442]LogRenderer: Using fallback RTPSO
+[2026.04.19-19.07.57:647][443]LogRenderer: Using fallback RTPSO
+[2026.04.19-19.07.57:661][444]LogRenderer: Using fallback RTPSO
+[2026.04.19-19.07.57:678][445]LogRenderer: Using fallback RTPSO
+[2026.04.19-19.07.57:691][446]LogRenderer: Using fallback RTPSO
+[2026.04.19-19.07.57:712][447]LogRenderer: Using fallback RTPSO
+[2026.04.19-19.07.57:729][448]LogRenderer: Using fallback RTPSO
+[2026.04.19-19.07.57:753][449]LogRenderer: Using fallback RTPSO
+[2026.04.19-19.07.57:756][449]LogD3D12RHI: Creating RTPSO with 29 shaders (1 cached, 0 new) took 27.46 ms. Compile time 26.75 ms, link time 0.69 ms.
+[2026.04.19-19.07.57:757][449]LogD3D12RHI: Creating RTPSO with 29 shaders (0 cached, 1 new) took 126.34 ms. Compile time 124.31 ms, link time 1.96 ms.
+[2026.04.19-19.07.57:881][456]LogRenderer: Using fallback RTPSO
+[2026.04.19-19.07.58:295][467]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2026.04.19-19.07.58:358][467]LogEditorActor: Deleted 0 Actors (0.123 secs)
+[2026.04.19-19.08.16:940][798]LogShaderCompilers: Display: ================================================
+[2026.04.19-19.08.16:940][798]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.04.19-19.08.16:940][798]LogShaderCompilers: Display: Total job queries 10,774, among them cache hits 7,606 (70.60%), DDC hits 1,114 (10.34%), Duplicates 679 (6.30%)
+[2026.04.19-19.08.16:940][798]LogShaderCompilers: Display: Tracking 2,489 distinct input hashes that result in 1,255 distinct outputs (50.42%)
+[2026.04.19-19.08.16:940][798]LogShaderCompilers: Display: RAM used: 13.55 MiB of 3.20 GiB budget. Usage: 0.41%
+[2026.04.19-19.08.16:940][798]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.04.19-19.08.16:940][798]LogShaderCompilers: Display: Shaders Compiled: 1,375
+[2026.04.19-19.08.16:940][798]LogShaderCompilers: Display: Jobs assigned 1,375, completed 1,375 (100%)
+[2026.04.19-19.08.16:940][798]LogShaderCompilers: Display: Average time worker was idle: 4.77 s
+[2026.04.19-19.08.16:940][798]LogShaderCompilers: Display: Time job spent in pending queue: average 78.75 s, longest 191.50 s
+[2026.04.19-19.08.16:940][798]LogShaderCompilers: Display: Job execution time: average 1.17 s, max 5.08 s
+[2026.04.19-19.08.16:940][798]LogShaderCompilers: Display: Job life time (pending + execution): average 79.93 s, max 192.11
+[2026.04.19-19.08.16:940][798]LogShaderCompilers: Display: Shader code size: total 16.85 MiB, numShaders 1,403, average 12.298 KiB, min 1.199 KiB, max 33.121 KiB
+[2026.04.19-19.08.16:940][798]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 204.28 s
+[2026.04.19-19.08.16:940][798]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.58%
+[2026.04.19-19.08.16:940][798]LogShaderCompilers: Display: Jobs were issued in 1,375 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.04.19-19.08.16:940][798]LogShaderCompilers: Display: Average processing rate: 6.73 jobs/sec
+[2026.04.19-19.08.16:940][798]LogShaderCompilers: Display: Total thread time: 1,510.087 s
+[2026.04.19-19.08.16:940][798]LogShaderCompilers: Display: Total thread preprocess time: 169.339 s
+[2026.04.19-19.08.16:940][798]LogShaderCompilers: Display: Percentage time preprocessing: 11.21%
+[2026.04.19-19.08.16:940][798]LogShaderCompilers: Display: Effective parallelization: 7.39 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.924040
+[2026.04.19-19.08.16:940][798]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.04.19-19.08.16:940][798]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 3.40 sec, max 4.23 sec, min 2.58 sec)
+[2026.04.19-19.08.16:940][798]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    2 times, average 3.18 sec, max 3.84 sec, min 2.52 sec)
+[2026.04.19-19.08.16:940][798]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 3.14 sec, max 3.14 sec, min 3.14 sec)
+[2026.04.19-19.08.16:940][798]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled  440 times, average 2.23 sec, max 5.02 sec, min 0.00 sec)
+[2026.04.19-19.08.16:940][798]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.68 sec, max 1.68 sec, min 1.68 sec)
+[2026.04.19-19.08.16:940][798]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.04.19-19.08.16:940][798]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 65.04% of total time (compiled  440 times, average 2.23 sec, max 5.02 sec, min 0.00 sec)
+[2026.04.19-19.08.16:940][798]LogShaderCompilers: Display:                                               FHWRasterizeMS - 6.05% of total time (compiled  120 times, average 0.76 sec, max 0.96 sec, min 0.55 sec)
+[2026.04.19-19.08.16:940][798]LogShaderCompilers: Display:                                               FHWRasterizeVS - 3.56% of total time (compiled   84 times, average 0.64 sec, max 0.85 sec, min 0.44 sec)
+[2026.04.19-19.08.16:940][798]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 1.48% of total time (compiled   16 times, average 1.40 sec, max 2.99 sec, min 0.82 sec)
+[2026.04.19-19.08.16:940][798]LogShaderCompilers: Display:                                                  FVelocityPS - 1.43% of total time (compiled   27 times, average 0.80 sec, max 1.06 sec, min 0.53 sec)
+[2026.04.19-19.08.16:940][798]LogShaderCompilers: Display: === Material stats ===
+[2026.04.19-19.08.16:940][798]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.04.19-19.08.16:940][798]LogShaderCompilers: Display: Materials Translated:    212
+[2026.04.19-19.08.16:940][798]LogShaderCompilers: Display: Material Total Translate Time: 0.17 s
+[2026.04.19-19.08.16:940][798]LogShaderCompilers: Display: Material Translation Only: 0.08 s (50%)
+[2026.04.19-19.08.16:940][798]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.04.19-19.08.16:940][798]LogShaderCompilers: Display: Material Cache Hits: 31 (15%)
+[2026.04.19-19.08.16:940][798]LogShaderCompilers: Display: ================================================
+[2026.04.19-19.09.26:369][995]LogStreaming: Display: FlushAsyncLoading(695): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.19-19.09.26:373][995]LogStaticMesh: Display: Building static mesh Door_01 (Required Memory Estimate: 2.569845 MB)...
+[2026.04.19-19.09.26:401][995]LogStaticMesh: Adjacency [0.00s], tris: 1716, UVs 2
+[2026.04.19-19.09.26:406][995]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2026.04.19-19.09.26:406][995]LogStaticMesh: Leaves [0.00s]
+[2026.04.19-19.09.26:470][997]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Unique/Door_01_BaseColor.Door_01_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.04.19-19.09.26:477][997]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Unique/Door_01_Normal.Door_01_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 382.499988 MB), EncodeSpeed: Fast
+[2026.04.19-19.09.26:480][997]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Unique/Door_01_DET.Door_01_DET (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.04.19-19.09.26:499][997]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Modular/Door_01.Door_01
+[2026.04.19-19.09.26:499][997]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Modular/Door_01.Door_01
+[2026.04.19-19.09.26:501][997]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Modular/Door_01.Door_01 as actor: StaticMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.StaticMeshActor_1
+[2026.04.19-19.09.26:517][997]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Modular_Rural_Cabin/Meshes/Modular/Door_01) ...
+[2026.04.19-19.09.26:532][997]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Tiling/Wood_Detail_Normal.Wood_Detail_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 382.499988 MB), EncodeSpeed: Fast
+[2026.04.19-19.09.26:534][997]LogStaticMesh: Reduce [0.13s]
+[2026.04.19-19.09.26:605][997]LogStaticMesh: Fallback [0.07s], num tris: 645
+[2026.04.19-19.09.26:635][997]LogStaticMesh: Fallback [0.03s], num tris: 399
+[2026.04.19-19.09.26:642][997]LogStaticMesh: ConstrainClusters:
+[2026.04.19-19.09.26:642][997]LogStaticMesh:   Input: 28 Clusters, 3478 Triangles and 4528 Vertices
+[2026.04.19-19.09.26:642][997]LogStaticMesh:   Output without splits: 28 Clusters, 3478 Triangles and 4535 Vertices
+[2026.04.19-19.09.26:642][997]LogStaticMesh:   Output with splits: 28 Clusters, 3478 Triangles and 4535 Vertices
+[2026.04.19-19.09.26:642][997]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 28, Slow Path Clusters: 0, 1 Material: 28, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.04.19-19.09.26:644][997]LogStaticMesh: WritePages:
+[2026.04.19-19.09.26:644][997]LogStaticMesh:   Root: GPU size: 30196 bytes. 1 Pages. 30196.000 bytes per page (92.151% utilization).
+[2026.04.19-19.09.26:644][997]LogStaticMesh:   Streaming: GPU size: 38548 bytes. 1 Pages (1 with relative encoding). 38548.000 bytes per page (29.410% utilization).
+[2026.04.19-19.09.26:644][997]LogStaticMesh:   Page data disk size: 59160 bytes. Fixup data size: 240 bytes.
+[2026.04.19-19.09.26:644][997]LogStaticMesh:   Total GPU size: 68744 bytes, Total disk size: 59400 bytes.
+[2026.04.19-19.09.26:644][997]LogStaticMesh: Encode [0.01s]
+[2026.04.19-19.09.26:644][997]LogStaticMesh: NaniteBuild [0.24s]
+[2026.04.19-19.09.26:678][997]LogStaticMesh: Built static mesh [0.31s] /Game/Modular_Rural_Cabin/Meshes/Modular/Door_01.Door_01
+[2026.04.19-19.09.28:341][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2026.04.19-19.09.28:422][ 37]LogEditorActor: Deleted 0 Actors (0.122 secs)
+[2026.04.19-19.09.28:570][ 40]LogRenderer: Using fallback RTPSO
+[2026.04.19-19.10.07:930][ 53]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4609.216797
+[2026.04.19-19.10.08:104][ 67]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-19.10.08:104][ 67]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4609.378906, Update Interval: 354.221008
+[2026.04.19-19.10.17:375][637]LogStreaming: Display: FlushAsyncLoading(696): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.19-19.10.17:378][637]LogStaticMesh: Display: Building static mesh Pallet (Required Memory Estimate: 0.958133 MB)...
+[2026.04.19-19.10.17:397][637]LogStaticMesh: Built static mesh [0.02s] /Game/Modular_Rural_Cabin/Meshes/Props/Pallet.Pallet
+[2026.04.19-19.10.17:467][638]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Unique/Pallet_DET.Pallet_DET (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.04.19-19.10.17:486][638]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Unique/Pallet_BaseColor.Pallet_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.04.19-19.10.17:506][638]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Unique/Pallet_Normal.Pallet_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 382.499988 MB), EncodeSpeed: Fast
+[2026.04.19-19.10.17:567][638]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Pallet.Pallet
+[2026.04.19-19.10.17:567][638]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Pallet.Pallet
+[2026.04.19-19.10.17:567][638]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Pallet.Pallet as actor: StaticMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.StaticMeshActor_2
+[2026.04.19-19.10.18:163][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2026.04.19-19.10.18:222][667]LogEditorActor: Deleted 0 Actors (0.089 secs)
+[2026.04.19-19.10.18:229][667]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Pallet.Pallet
+[2026.04.19-19.10.18:229][667]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Pallet.Pallet
+[2026.04.19-19.10.18:232][667]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Pallet.Pallet as actor: StaticMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.StaticMeshActor_UAID_244BFE527C6934D302_1130675473
+[2026.04.19-19.10.19:994][758]LogStreaming: Display: FlushAsyncLoading(697): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.19-19.10.19:997][758]LogStaticMesh: Display: Building static mesh Rocking_Chair (Required Memory Estimate: 5.846355 MB)...
+[2026.04.19-19.10.20:058][758]LogStaticMesh: Built static mesh [0.06s] /Game/Modular_Rural_Cabin/Meshes/Props/Rocking_Chair.Rocking_Chair
+[2026.04.19-19.10.20:082][759]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Unique/Rocking_Chair_DET.Rocking_Chair_DET (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.04.19-19.10.20:106][759]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Unique/Rocking_Chair_BaseColor.Rocking_Chair_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.04.19-19.10.20:112][759]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Rocking_Chair.Rocking_Chair
+[2026.04.19-19.10.20:112][759]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Rocking_Chair.Rocking_Chair
+[2026.04.19-19.10.20:114][759]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Rocking_Chair.Rocking_Chair as actor: StaticMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.StaticMeshActor_3
+[2026.04.19-19.10.20:119][759]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Unique/Rocking_Chair_Normal.Rocking_Chair_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 382.499988 MB), EncodeSpeed: Fast
+[2026.04.19-19.10.20:562][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2026.04.19-19.10.20:567][780]LogEditorActor: Deleted 0 Actors (0.034 secs)
+[2026.04.19-19.10.20:572][780]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Rocking_Chair.Rocking_Chair
+[2026.04.19-19.10.20:574][780]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Rocking_Chair.Rocking_Chair
+[2026.04.19-19.10.20:577][780]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Rocking_Chair.Rocking_Chair as actor: StaticMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.StaticMeshActor_UAID_244BFE527C6934D302_1133020474
+[2026.04.19-19.10.23:513][944]LogStreaming: Display: FlushAsyncLoading(698): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.19-19.10.23:640][945]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Unique/Wooden_Boat_DMAR.Wooden_Boat_DMAR (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.04.19-19.10.23:661][945]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Tiling/Wooden_Planks_DET.Wooden_Planks_DET (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.04.19-19.10.23:664][945]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Tiling/Dirt_Basecolor.Dirt_Basecolor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.04.19-19.10.23:667][945]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Tiling/Dirt_DET.Dirt_DET (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.04.19-19.10.23:669][945]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Tiling/Wooden_Planks_basecolor.Wooden_Planks_basecolor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.04.19-19.10.23:703][946]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Wooden_Boat.Wooden_Boat
+[2026.04.19-19.10.23:703][946]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Wooden_Boat.Wooden_Boat
+[2026.04.19-19.10.23:703][946]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Tiling/Dirt_Normal.Dirt_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 382.499988 MB), EncodeSpeed: Fast
+[2026.04.19-19.10.23:704][946]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Wooden_Boat.Wooden_Boat as actor: StaticMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.StaticMeshActor_4
+[2026.04.19-19.10.23:708][946]LogStaticMesh: Display: Building static mesh Wooden_Boat (Required Memory Estimate: 6.837586 MB)...
+[2026.04.19-19.10.23:714][946]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Tiling/Wooden_Planks_normal.Wooden_Planks_normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 382.499988 MB), EncodeSpeed: Fast
+[2026.04.19-19.10.23:721][946]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Modular_Rural_Cabin/Meshes/Props/Wooden_Boat) ...
+[2026.04.19-19.10.23:773][946]LogStaticMesh: Built static mesh [0.07s] /Game/Modular_Rural_Cabin/Meshes/Props/Wooden_Boat.Wooden_Boat
+[2026.04.19-19.10.24:233][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2026.04.19-19.10.24:238][962]LogEditorActor: Deleted 0 Actors (0.040 secs)
+[2026.04.19-19.10.24:247][962]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Wooden_Boat.Wooden_Boat
+[2026.04.19-19.10.24:247][962]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Wooden_Boat.Wooden_Boat
+[2026.04.19-19.10.24:252][962]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Wooden_Boat.Wooden_Boat as actor: StaticMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.StaticMeshActor_UAID_244BFE527C6934D302_1136693475
+[2026.04.19-19.10.24:294][962]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Tiling/Rust_Generic_DET.Rust_Generic_DET (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.04.19-19.10.24:315][962]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Tiling/Moss_DET.Moss_DET (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.04.19-19.10.24:336][962]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Tiling/Rust_Generic_BaseColor.Rust_Generic_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.04.19-19.10.24:353][962]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Tiling/Moss_BaseColor.Moss_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.04.19-19.10.24:375][962]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Tiling/Rust_Generic_Normal.Rust_Generic_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 382.499988 MB), EncodeSpeed: Fast
+[2026.04.19-19.10.24:412][963]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Tiling/Moss_Normal.Moss_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 382.499988 MB), EncodeSpeed: Fast
+[2026.04.19-19.10.25:654][ 22]LogStreaming: Display: FlushAsyncLoading(699): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.19-19.10.25:657][ 22]LogStaticMesh: Display: Building static mesh Wheel_Barrow (Required Memory Estimate: 8.680152 MB)...
+[2026.04.19-19.10.25:750][ 23]LogStaticMesh: Built static mesh [0.09s] /Game/Modular_Rural_Cabin/Meshes/Props/Wheel_Barrow.Wheel_Barrow
+[2026.04.19-19.10.25:763][ 23]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Unique/Wheel_Barrow_BaseColor.Wheel_Barrow_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.04.19-19.10.25:769][ 23]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Unique/Wheel_Barrow_DET.Wheel_Barrow_DET (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.04.19-19.10.25:790][ 23]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Unique/Wheel_Barrow_Normal.Wheel_Barrow_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 382.499988 MB), EncodeSpeed: Fast
+[2026.04.19-19.10.25:815][ 23]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Wheel_Barrow.Wheel_Barrow
+[2026.04.19-19.10.25:815][ 23]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Wheel_Barrow.Wheel_Barrow
+[2026.04.19-19.10.25:816][ 23]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Wheel_Barrow.Wheel_Barrow as actor: StaticMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.StaticMeshActor_5
+[2026.04.19-19.10.26:225][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.04.19-19.10.26:229][ 42]LogEditorActor: Deleted 0 Actors (0.034 secs)
+[2026.04.19-19.10.26:235][ 42]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Wheel_Barrow.Wheel_Barrow
+[2026.04.19-19.10.26:235][ 42]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Wheel_Barrow.Wheel_Barrow
+[2026.04.19-19.10.26:239][ 42]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Wheel_Barrow.Wheel_Barrow as actor: StaticMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.StaticMeshActor_UAID_244BFE527C6934D302_1138681476
+[2026.04.19-19.10.26:333][ 43]LogRenderer: Using fallback RTPSO
+[2026.04.19-19.10.26:416][ 45]LogRenderer: Using fallback RTPSO
+[2026.04.19-19.10.26:428][ 46]LogRenderer: Using fallback RTPSO
+[2026.04.19-19.10.26:442][ 46]LogRenderer: Using fallback RTPSO
+[2026.04.19-19.10.26:450][ 46]LogD3D12RHI: Creating RTPSO with 30 shaders (0 cached, 1 new) took 116.97 ms. Compile time 116.12 ms, link time 0.83 ms.
+[2026.04.19-19.10.27:991][142]LogStreaming: Display: FlushAsyncLoading(700): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.19-19.10.27:995][142]LogStaticMesh: Display: Building static mesh Wooden_Crate_2 (Required Memory Estimate: 0.441312 MB)...
+[2026.04.19-19.10.28:004][142]LogStaticMesh: Built static mesh [0.01s] /Game/Modular_Rural_Cabin/Meshes/Props/Wooden_Crate_2.Wooden_Crate_2
+[2026.04.19-19.10.28:091][143]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Unique/Wooden_Crates_BaseColor.Wooden_Crates_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.04.19-19.10.28:094][143]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Unique/Wooden_Crates_DET.Wooden_Crates_DET (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.04.19-19.10.28:122][143]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Unique/Wooden_Crates_Normal.Wooden_Crates_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 382.499988 MB), EncodeSpeed: Fast
+[2026.04.19-19.10.28:235][145]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Wooden_Crate_2.Wooden_Crate_2
+[2026.04.19-19.10.28:235][145]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Wooden_Crate_2.Wooden_Crate_2
+[2026.04.19-19.10.28:236][145]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Wooden_Crate_2.Wooden_Crate_2 as actor: StaticMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.StaticMeshActor_6
+[2026.04.19-19.10.28:632][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2026.04.19-19.10.28:635][168]LogEditorActor: Deleted 0 Actors (0.032 secs)
+[2026.04.19-19.10.28:640][168]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Wooden_Crate_2.Wooden_Crate_2
+[2026.04.19-19.10.28:642][168]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Wooden_Crate_2.Wooden_Crate_2
+[2026.04.19-19.10.28:644][168]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Wooden_Crate_2.Wooden_Crate_2 as actor: StaticMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.StaticMeshActor_UAID_244BFE527C6934D302_1141088477
+[2026.04.19-19.10.29:105][193]LogStreaming: Display: FlushAsyncLoading(701): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.19-19.10.29:109][193]LogStaticMesh: Display: Building static mesh Wooden_Stairs (Required Memory Estimate: 1.810569 MB)...
+[2026.04.19-19.10.29:126][193]LogStaticMesh: Built static mesh [0.02s] /Game/Modular_Rural_Cabin/Meshes/Props/Wooden_Stairs.Wooden_Stairs
+[2026.04.19-19.10.29:190][194]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Unique/Wooden_Stairs_DET.Wooden_Stairs_DET (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.04.19-19.10.29:216][194]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Unique/Wooden_Stairs_BaseColor.Wooden_Stairs_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.04.19-19.10.29:216][194]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Unique/Wooden_Stairs_Normal.Wooden_Stairs_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 382.499988 MB), EncodeSpeed: Fast
+[2026.04.19-19.10.29:352][195]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Wooden_Stairs.Wooden_Stairs
+[2026.04.19-19.10.29:352][195]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Wooden_Stairs.Wooden_Stairs
+[2026.04.19-19.10.29:356][195]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Wooden_Stairs.Wooden_Stairs as actor: StaticMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.StaticMeshActor_UAID_244BFE527C6934D302_1141798478
+[2026.04.19-19.10.30:806][287]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Wooden_Stairs.Wooden_Stairs
+[2026.04.19-19.10.30:806][287]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Wooden_Stairs.Wooden_Stairs
+[2026.04.19-19.10.30:808][287]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Wooden_Stairs.Wooden_Stairs as actor: StaticMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.StaticMeshActor_UAID_244BFE527C6934D302_1143252479
+[2026.04.19-19.10.35:938][653]Cmd: DELETE
+[2026.04.19-19.10.35:938][653]Cmd: ACTOR DELETE
+[2026.04.19-19.10.35:944][653]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.19-19.10.35:973][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.04.19-19.10.35:977][653]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2026.04.19-19.10.57:443][ 62]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.19-19.10.57:451][ 62]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.19-19.10.57:451][ 62]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.04.19-19.10.57:455][ 62]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 3.049 ms (total: 15.632 ms)
+[2026.04.19-19.10.57:455][ 62]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.19-19.10.57:482][ 62]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.19-19.10.57:508][ 62]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.19-19.10.57:513][ 62]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 5.709 ms (total: 39.176 ms)
+[2026.04.19-19.10.57:515][ 62]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033855s)
+[2026.04.19-19.10.57:515][ 62]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.033900s)
+[2026.04.19-19.10.57:544][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2026.04.19-19.10.57:549][ 62]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.04.19-19.10.57:551][ 62]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.19-19.10.57:551][ 62]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.19-19.10.57:551][ 62]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.19-19.10.57:551][ 62]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.19-19.10.57:557][ 62]LogWorldPartition: Display: WorldPartition initialize took 7.129 ms (total: 2.89 sec)
+[2026.04.19-19.10.57:559][ 62]LogPlayLevel: PIE: World Init took: (0.010104s)
+[2026.04.19-19.10.57:559][ 62]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2026.04.19-19.10.57:559][ 62]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.19-19.10.57:559][ 62]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.19-19.10.57:559][ 62]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.19-19.10.57:559][ 62]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.19-19.10.57:559][ 62]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.19-19.10.57:559][ 62]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.19-19.10.57:559][ 62]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.19-19.10.57:559][ 62]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.19-19.10.57:561][ 62]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.19-19.10.57:561][ 62]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.19-19.10.57:561][ 62]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.19-19.10.57:563][ 62]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.19-19.10.57:592][ 62]LogAudioMixer: Display: Using Audio Hardware Device Headphones (HyperX Cloud III)
+[2026.04.19-19.10.57:592][ 62]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.19-19.10.57:592][ 62]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.19-19.10.57:592][ 62]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.19-19.10.57:593][ 62]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2026.04.19-19.10.57:593][ 62]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2026.04.19-19.10.57:595][ 62]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2026.04.19-19.10.57:595][ 62]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2026.04.19-19.10.57:595][ 62]LogInit: FAudioDevice initialized with ID 8.
+[2026.04.19-19.10.57:595][ 62]LogAudio: Display: Audio Device (ID: 8) registered with world 'Lvl_ThirdPerson'.
+[2026.04.19-19.10.57:596][ 62]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2026.04.19-19.10.57:603][ 62]LogLoad: Game class is 'BP_PlatformingGameMode_C'
+[2026.04.19-19.10.57:614][ 62]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.04.19-20.10.57
+[2026.04.19-19.10.57:614][ 62]LogWorld: Bringing up level for play took: 0.010305
+[2026.04.19-19.10.57:616][ 62]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2026.04.19-19.10.57:623][ 62]LogBlueprintUserMessages: [BP_PlatformingCharacter_C_0] load
+[2026.04.19-19.10.57:624][ 62]PIE: Server logged in
+[2026.04.19-19.10.57:627][ 62]PIE: Play in editor total start time 0.175 seconds.
+[2026.04.19-19.10.57:679][ 63]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.19-19.11.03:117][436]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_1' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.04.19-19.11.03:117][436]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.04.19-19.11.03:117][436]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.04.19-19.11.03:117][436]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.04.19-19.11.04:921][570]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_1' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.04.19-19.11.04:921][570]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.04.19-19.11.11:333][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.19-19.11.11:333][ 23]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.04.19-19.11.11:333][ 23]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.04.19-19.11.11:335][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.19-19.11.11:336][ 23]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.04.19-19.11.11:337][ 23]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.19-19.11.11:346][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.19-19.11.11:376][ 23]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.19-19.11.11:376][ 23]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2026.04.19-19.11.11:376][ 23]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2026.04.19-19.11.11:377][ 23]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2026.04.19-19.11.11:383][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.19-19.11.11:389][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2026.04.19-19.11.11:493][ 24]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2026.04.19-19.11.16:948][394]LogShaderCompilers: Display: ================================================
+[2026.04.19-19.11.16:948][394]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.04.19-19.11.16:948][394]LogShaderCompilers: Display: Total job queries 10,787, among them cache hits 7,608 (70.53%), DDC hits 1,114 (10.33%), Duplicates 679 (6.29%)
+[2026.04.19-19.11.16:948][394]LogShaderCompilers: Display: Tracking 2,500 distinct input hashes that result in 1,264 distinct outputs (50.56%)
+[2026.04.19-19.11.16:948][394]LogShaderCompilers: Display: RAM used: 13.64 MiB of 3.20 GiB budget. Usage: 0.42%
+[2026.04.19-19.11.16:948][394]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.04.19-19.11.16:948][394]LogShaderCompilers: Display: Shaders Compiled: 1,386
+[2026.04.19-19.11.16:948][394]LogShaderCompilers: Display: Jobs assigned 1,386, completed 1,386 (100%)
+[2026.04.19-19.11.16:948][394]LogShaderCompilers: Display: Average time worker was idle: 5.32 s
+[2026.04.19-19.11.16:948][394]LogShaderCompilers: Display: Time job spent in pending queue: average 78.13 s, longest 191.50 s
+[2026.04.19-19.11.16:948][394]LogShaderCompilers: Display: Job execution time: average 1.18 s, max 5.08 s
+[2026.04.19-19.11.16:948][394]LogShaderCompilers: Display: Job life time (pending + execution): average 79.31 s, max 192.11
+[2026.04.19-19.11.16:948][394]LogShaderCompilers: Display: Shader code size: total 16.985 MiB, numShaders 1,414, average 12.301 KiB, min 1.199 KiB, max 33.121 KiB
+[2026.04.19-19.11.16:948][394]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 211.29 s
+[2026.04.19-19.11.16:948][394]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.58%
+[2026.04.19-19.11.16:948][394]LogShaderCompilers: Display: Jobs were issued in 1,386 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.04.19-19.11.16:948][394]LogShaderCompilers: Display: Average processing rate: 6.56 jobs/sec
+[2026.04.19-19.11.16:948][394]LogShaderCompilers: Display: Total thread time: 1,528.343 s
+[2026.04.19-19.11.16:948][394]LogShaderCompilers: Display: Total thread preprocess time: 169.559 s
+[2026.04.19-19.11.16:948][394]LogShaderCompilers: Display: Percentage time preprocessing: 11.09%
+[2026.04.19-19.11.16:948][394]LogShaderCompilers: Display: Effective parallelization: 7.23 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.904163
+[2026.04.19-19.11.16:948][394]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.04.19-19.11.16:948][394]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    2 times, average 3.18 sec, max 3.84 sec, min 2.52 sec)
+[2026.04.19-19.11.16:948][394]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    3 times, average 3.11 sec, max 4.23 sec, min 2.52 sec)
+[2026.04.19-19.11.16:948][394]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    2 times, average 2.56 sec, max 3.14 sec, min 1.97 sec)
+[2026.04.19-19.11.16:948][394]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS (compiled  442 times, average 2.24 sec, max 5.02 sec, min 0.00 sec)
+[2026.04.19-19.11.16:948][394]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.68 sec, max 1.68 sec, min 1.68 sec)
+[2026.04.19-19.11.16:948][394]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.04.19-19.11.16:948][394]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 64.76% of total time (compiled  442 times, average 2.24 sec, max 5.02 sec, min 0.00 sec)
+[2026.04.19-19.11.16:948][394]LogShaderCompilers: Display:                                               FHWRasterizeMS - 5.98% of total time (compiled  120 times, average 0.76 sec, max 0.96 sec, min 0.55 sec)
+[2026.04.19-19.11.16:948][394]LogShaderCompilers: Display:                                               FHWRasterizeVS - 3.52% of total time (compiled   84 times, average 0.64 sec, max 0.85 sec, min 0.44 sec)
+[2026.04.19-19.11.16:948][394]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 1.55% of total time (compiled   17 times, average 1.40 sec, max 2.99 sec, min 0.82 sec)
+[2026.04.19-19.11.16:948][394]LogShaderCompilers: Display:                                                  FVelocityPS - 1.41% of total time (compiled   27 times, average 0.80 sec, max 1.06 sec, min 0.53 sec)
+[2026.04.19-19.11.16:948][394]LogShaderCompilers: Display: === Material stats ===
+[2026.04.19-19.11.16:949][394]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.04.19-19.11.16:949][394]LogShaderCompilers: Display: Materials Translated:    214
+[2026.04.19-19.11.16:949][394]LogShaderCompilers: Display: Material Total Translate Time: 0.17 s
+[2026.04.19-19.11.16:949][394]LogShaderCompilers: Display: Material Translation Only: 0.09 s (51%)
+[2026.04.19-19.11.16:949][394]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.04.19-19.11.16:949][394]LogShaderCompilers: Display: Material Cache Hits: 31 (14%)
+[2026.04.19-19.11.16:949][394]LogShaderCompilers: Display: ================================================
+[2026.04.19-19.11.16:974][396]Cmd: DELETE
+[2026.04.19-19.11.16:974][396]Cmd: ACTOR DELETE
+[2026.04.19-19.11.16:978][396]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.19-19.11.17:005][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2026.04.19-19.11.17:008][396]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2026.04.19-19.11.18:553][514]Cmd: DELETE
+[2026.04.19-19.11.18:553][514]Cmd: ACTOR DELETE
+[2026.04.19-19.11.18:556][514]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.19-19.11.18:585][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.04.19-19.11.18:588][514]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2026.04.19-19.11.22:733][796]Cmd: DELETE
+[2026.04.19-19.11.22:733][796]Cmd: ACTOR DELETE
+[2026.04.19-19.11.22:736][796]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.19-19.11.22:766][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.04.19-19.11.22:771][796]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2026.04.19-19.11.23:970][885]Cmd: DELETE
+[2026.04.19-19.11.23:970][885]Cmd: ACTOR DELETE
+[2026.04.19-19.11.23:974][885]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.19-19.11.24:005][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.04.19-19.11.24:009][885]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2026.04.19-19.11.26:299][ 65]Cmd: DELETE
+[2026.04.19-19.11.26:299][ 65]Cmd: ACTOR DELETE
+[2026.04.19-19.11.26:303][ 65]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.19-19.11.26:333][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.04.19-19.11.26:336][ 65]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2026.04.19-19.12.56:423][583]Cmd: TRANSACTION UNDO
+[2026.04.19-19.12.56:423][583]LogEditorTransaction: Undo Move Elements
+[2026.04.19-19.14.12:678][597]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.19-19.14.12:748][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2026.04.19-19.14.12:782][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.04.19-19.14.12:811][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.04.19-19.14.12:872][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.04.19-19.14.12:893][597]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Lvl_ThirdPerson
+[2026.04.19-19.14.12:893][597]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Lvl_ThirdPerson4E7A27A7471B8DF2C34893934071457D.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/ThirdPerson/Lvl_ThirdPerson.umap'
+[2026.04.19-19.14.12:904][597]LogFileHelpers: Saving map 'Lvl_ThirdPerson' took 0.089
+[2026.04.19-19.14.12:912][597]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/6U/RSD4PSVSPYXPSVY7NOHNIA
+[2026.04.19-19.14.12:912][597]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/RSD4PSVSPYXPSVY7NOHNIAE7A55C1C43F780DC0876788C919465D3.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/6U/RSD4PSVSPYXPSVY7NOHNIA.uasset'
+[2026.04.19-19.14.12:920][597]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/F2/B9XV1520LP8EH0XZSI41MM
+[2026.04.19-19.14.12:920][597]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/B9XV1520LP8EH0XZSI41MMF7E2E1C34D68AAFEE7C111A3BA56DC5F.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/F2/B9XV1520LP8EH0XZSI41MM.uasset'
+[2026.04.19-19.14.12:932][597]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/L4/R83L28THY0HW4VCGHHA9ZO
+[2026.04.19-19.14.12:932][597]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/R83L28THY0HW4VCGHHA9ZOD93A6A184182B0E0218425B535700A97.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/L4/R83L28THY0HW4VCGHHA9ZO.uasset'
+[2026.04.19-19.14.12:940][597]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/26/1RQFZJ967O55IMUM2KB8BJ
+[2026.04.19-19.14.12:940][597]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/1RQFZJ967O55IMUM2KB8BJ960ADADD404FF0A6C3D04198B7B83CA6.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/26/1RQFZJ967O55IMUM2KB8BJ.uasset'
+[2026.04.19-19.14.12:950][597]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/8V/J15MZW7KZ7GBL6UWE0NP2Q
+[2026.04.19-19.14.12:950][597]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/J15MZW7KZ7GBL6UWE0NP2Q1902EDA64AFD13CAD672DC8CD450EB7F.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/8V/J15MZW7KZ7GBL6UWE0NP2Q.uasset'
+[2026.04.19-19.14.12:959][597]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/3K/PVSH0TDMXQTD48P1AOQ078
+[2026.04.19-19.14.12:959][597]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/PVSH0TDMXQTD48P1AOQ0782901DA9E464E9938651BE99E1E16CC41.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/3K/PVSH0TDMXQTD48P1AOQ078.uasset'
+[2026.04.19-19.14.13:001][597]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/SM/UB0ALM3PLVP493NN6F6CEG
+[2026.04.19-19.14.13:001][597]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/UB0ALM3PLVP493NN6F6CEG45C2A12745D4CF17050F6FAC3F1A6B49.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/SM/UB0ALM3PLVP493NN6F6CEG.uasset'
+[2026.04.19-19.14.13:008][597]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/FJ/2IAS43ZWIPEVED3SVAHJ8K
+[2026.04.19-19.14.13:008][597]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/2IAS43ZWIPEVED3SVAHJ8K97C35F7A421142F84509068465A257D9.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/FJ/2IAS43ZWIPEVED3SVAHJ8K.uasset'
+[2026.04.19-19.14.13:020][597]LogFileHelpers: InternalPromptForCheckoutAndSave took 341.358 ms (total: 2.06 sec)
+[2026.04.19-19.14.13:064][597]LogContentValidation: Display: Starting to validate 9 assets
+[2026.04.19-19.14.13:064][597]LogContentValidation: Enabled validators:
+[2026.04.19-19.14.13:064][597]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.19-19.14.13:064][597]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.19-19.14.13:064][597]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.19-19.14.13:064][597]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.19-19.14.13:064][597]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.19-19.14.13:064][597]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.19-19.14.13:064][597]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2026.04.19-19.14.13:110][597]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.19-19.14.29:936][704]Cmd: EDIT COPY
+[2026.04.19-19.14.30:200][724]Cmd: EDIT PASTE
+[2026.04.19-19.15.32:660][768]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.19-19.15.32:735][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2026.04.19-19.15.32:766][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.04.19-19.15.32:796][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.04.19-19.15.32:853][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.04.19-19.15.32:874][768]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Lvl_ThirdPerson
+[2026.04.19-19.15.32:875][768]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Lvl_ThirdPerson49FFC3DC45B78F25E21FB9A82C336718.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/ThirdPerson/Lvl_ThirdPerson.umap'
+[2026.04.19-19.15.32:884][768]LogFileHelpers: Saving map 'Lvl_ThirdPerson' took 0.087
+[2026.04.19-19.15.32:897][768]LogFileHelpers: InternalPromptForCheckoutAndSave took 237.341 ms (total: 2.30 sec)
+[2026.04.19-19.15.32:955][768]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.19-19.15.32:955][768]LogContentValidation: Enabled validators:
+[2026.04.19-19.15.32:955][768]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.19-19.15.32:955][768]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.19-19.15.32:955][768]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.19-19.15.32:955][768]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.19-19.15.32:955][768]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.19-19.15.32:955][768]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.19-19.15.32:955][768]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
