@@ -1,3 +1,45 @@
-2026/04/20-19:23:47.663 9ec Reusing MANIFEST D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/04/20-19:23:47.713 9ec Recovering log #8
-2026/04/20-19:23:47.714 9ec Reusing old log D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/webcache_4430\Local Storage\leveldb/000008.log 
+2026/04/21-16:36:55.622 7754 Reusing MANIFEST D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/04/21-16:36:55.689 7754 Recovering log #8
+2026/04/21-16:36:55.690 7754 Reusing old log D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/webcache_4430\Local Storage\leveldb/000008.log 
+2026/04/21-16:42:38.671 3efc Level-0 table #12: started
+2026/04/21-16:42:38.720 3efc Level-0 table #12: 70078 bytes OK
+2026/04/21-16:42:38.746 3efc Delete type=0 #8
+2026/04/21-16:43:07.114 7754 Level-0 table #14: started
+2026/04/21-16:43:07.148 7754 Level-0 table #14: 77798 bytes OK
+2026/04/21-16:43:07.180 7754 Delete type=0 #11
+2026/04/21-16:45:01.750 1758 Level-0 table #16: started
+2026/04/21-16:45:01.814 1758 Level-0 table #16: 66918 bytes OK
+2026/04/21-16:45:01.862 1758 Delete type=0 #13
+2026/04/21-16:45:01.863 1758 Compacting 4@0 + 1@1 files
+2026/04/21-16:45:01.894 1758 Generated table #17@0: 3 keys, 23152 bytes
+2026/04/21-16:45:01.894 1758 Compacted 4@0 + 1@1 files => 23152 bytes
+2026/04/21-16:45:01.962 1758 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/21-16:45:01.963 1758 Delete type=2 #7
+2026/04/21-16:45:01.963 1758 Delete type=2 #9
+2026/04/21-16:45:01.963 1758 Delete type=2 #12
+2026/04/21-16:45:01.963 1758 Delete type=2 #14
+2026/04/21-16:45:01.963 1758 Delete type=2 #16
+2026/04/21-16:48:01.749 5ab8 Level-0 table #19: started
+2026/04/21-16:48:01.789 5ab8 Level-0 table #19: 73166 bytes OK
+2026/04/21-16:48:01.824 5ab8 Delete type=0 #15
+2026/04/21-16:52:43.960 5320 Level-0 table #21: started
+2026/04/21-16:52:44.004 5320 Level-0 table #21: 90470 bytes OK
+2026/04/21-16:52:44.035 5320 Delete type=0 #18
+2026/04/21-16:53:01.926 5ab8 Level-0 table #23: started
+2026/04/21-16:53:01.979 5ab8 Level-0 table #23: 66371 bytes OK
+2026/04/21-16:53:02.009 5ab8 Delete type=0 #20
+2026/04/21-16:55:01.748 3dcc Level-0 table #25: started
+2026/04/21-16:55:01.794 3dcc Level-0 table #25: 70998 bytes OK
+2026/04/21-16:55:01.830 3dcc Delete type=0 #22
+2026/04/21-16:55:01.831 3dcc Compacting 4@0 + 1@1 files
+2026/04/21-16:55:01.855 3dcc Generated table #26@0: 4 keys, 36787 bytes
+2026/04/21-16:55:01.855 3dcc Compacted 4@0 + 1@1 files => 36787 bytes
+2026/04/21-16:55:01.880 3dcc compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/21-16:55:01.881 3dcc Delete type=2 #17
+2026/04/21-16:55:01.881 3dcc Delete type=2 #19
+2026/04/21-16:55:01.881 3dcc Delete type=2 #21
+2026/04/21-16:55:01.881 3dcc Delete type=2 #23
+2026/04/21-16:55:01.881 3dcc Delete type=2 #25
+2026/04/21-16:57:01.750 45f4 Level-0 table #28: started
+2026/04/21-16:57:01.798 45f4 Level-0 table #28: 75555 bytes OK
+2026/04/21-16:57:01.828 45f4 Delete type=0 #24
