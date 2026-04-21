@@ -1429,3 +1429,316 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.21-15.42.04:136][429]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 319.565430
 [2026.04.21-15.42.04:389][449]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.04.21-15.42.04:389][449]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 319.789764, Update Interval: 329.056061
+[2026.04.21-15.42.22:612][839]LogFab: Display: Logging in using persist
+[2026.04.21-15.42.22:796][848]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: dc2...d02 Access[Expires: 2026.04.21-17.42.21 Remaining: 7200.80] Refresh[Expires: 2026-10-17T18:23:48.627Z Remaining: 15475287.63] State: Valid
+[2026.04.21-15.42.22:811][849]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Received FUserAuthToken
+[2026.04.21-15.42.22:985][861]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Login complete: EOS_Success
+[2026.04.21-15.42.22:985][861]LogFab: Display: User logged in
+[2026.04.21-15.42.22:985][861]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
+[2026.04.21-15.42.56:301][273]LogShaderCompilers: Display: ================================================
+[2026.04.21-15.42.56:301][273]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.04.21-15.42.56:301][273]LogShaderCompilers: Display: Total job queries 567, among them cache hits 72 (12.70%), DDC hits 403 (71.08%), Duplicates 71 (12.52%)
+[2026.04.21-15.42.56:301][273]LogShaderCompilers: Display: Tracking 424 distinct input hashes that result in 315 distinct outputs (74.29%)
+[2026.04.21-15.42.56:301][273]LogShaderCompilers: Display: RAM used: 3.89 MiB of 3.20 GiB budget. Usage: 0.12%
+[2026.04.21-15.42.56:301][273]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.04.21-15.42.56:301][273]LogShaderCompilers: Display: Shaders Compiled: 21
+[2026.04.21-15.42.56:301][273]LogShaderCompilers: Display: Jobs assigned 21, completed 21 (100%)
+[2026.04.21-15.42.56:301][273]LogShaderCompilers: Display: Average time worker was idle: 19.97 s
+[2026.04.21-15.42.56:301][273]LogShaderCompilers: Display: Time job spent in pending queue: average 0.22 s, longest 1.18 s
+[2026.04.21-15.42.56:301][273]LogShaderCompilers: Display: Job execution time: average 1.33 s, max 2.49 s
+[2026.04.21-15.42.56:301][273]LogShaderCompilers: Display: Job life time (pending + execution): average 1.55 s, max 2.89
+[2026.04.21-15.42.56:301][273]LogShaderCompilers: Display: Shader code size: total 202.863 KiB, numShaders 23, average 8.819 KiB, min 3.266 KiB, max 14.926 KiB
+[2026.04.21-15.42.56:301][273]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 7.02 s
+[2026.04.21-15.42.56:301][273]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.04.21-15.42.56:301][273]LogShaderCompilers: Display: Jobs were issued in 21 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.04.21-15.42.56:301][273]LogShaderCompilers: Display: Average processing rate: 2.99 jobs/sec
+[2026.04.21-15.42.56:301][273]LogShaderCompilers: Display: Total thread time: 18.409 s
+[2026.04.21-15.42.56:301][273]LogShaderCompilers: Display: Total thread preprocess time: 9.574 s
+[2026.04.21-15.42.56:301][273]LogShaderCompilers: Display: Percentage time preprocessing: 52.01%
+[2026.04.21-15.42.56:301][273]LogShaderCompilers: Display: Effective parallelization: 2.62 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.327802
+[2026.04.21-15.42.56:301][273]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.04.21-15.42.56:301][273]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.91 sec, max 1.91 sec, min 1.91 sec)
+[2026.04.21-15.42.56:301][273]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 1.47 sec, max 1.51 sec, min 1.44 sec)
+[2026.04.21-15.42.56:301][273]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 1.01 sec, max 1.01 sec, min 1.01 sec)
+[2026.04.21-15.42.56:301][273]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 0.98 sec, max 0.98 sec, min 0.98 sec)
+[2026.04.21-15.42.56:301][273]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.84 sec, max 0.92 sec, min 0.74 sec)
+[2026.04.21-15.42.56:301][273]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.04.21-15.42.56:301][273]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 16.00% of total time (compiled    2 times, average 1.47 sec, max 1.51 sec, min 1.44 sec)
+[2026.04.21-15.42.56:301][273]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.75% of total time (compiled    3 times, average 0.84 sec, max 0.92 sec, min 0.74 sec)
+[2026.04.21-15.42.56:301][273]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 10.38% of total time (compiled    1 times, average 1.91 sec, max 1.91 sec, min 1.91 sec)
+[2026.04.21-15.42.56:301][273]LogShaderCompilers: Display:                                                 FLumenCardPS - 10.12% of total time (compiled    3 times, average 0.62 sec, max 0.63 sec, min 0.61 sec)
+[2026.04.21-15.42.56:301][273]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.79% of total time (compiled    3 times, average 0.60 sec, max 0.67 sec, min 0.55 sec)
+[2026.04.21-15.42.56:301][273]LogShaderCompilers: Display: === Material stats ===
+[2026.04.21-15.42.56:301][273]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.04.21-15.42.56:301][273]LogShaderCompilers: Display: Materials Translated:    164
+[2026.04.21-15.42.56:301][273]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2026.04.21-15.42.56:301][273]LogShaderCompilers: Display: Material Translation Only: 0.06 s (48%)
+[2026.04.21-15.42.56:301][273]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2026.04.21-15.42.56:301][273]LogShaderCompilers: Display: Material Cache Hits: 31 (19%)
+[2026.04.21-15.42.56:301][273]LogShaderCompilers: Display: ================================================
+[2026.04.21-15.43.00:247][556]LogFab: Display: Add listing to project - a29147fa-a931-44ab-9870-4573988b8245
+[2026.04.21-15.43.00:247][556]LogFab: Display: Listing type - unreal-engine
+[2026.04.21-15.43.00:247][556]LogFab: Display: Base Url https://egdownload.fastly-edge.com/Builds/Rocket/Automated/PostSoviaf015efee058V2/CloudDir,https://epicgames-download1.akamaized.net/Builds/Rocket/Automated/PostSoviaf015efee058V2/CloudDir,https://download.epicgames.com/Builds/Rocket/Automated/PostSoviaf015efee058V2/CloudDir,https://cloudflare.epicgamescdn.com/Builds/Rocket/Automated/PostSoviaf015efee058V2/CloudDir
+[2026.04.21-15.44.31:785][483]LogDirectoryWatcher: Display: A directory notification failed for 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2026.04.21-15.44.31:785][483]LogDirectoryWatcher: Display: A directory notification failed for 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2026.04.21-15.44.31:785][483]LogDirectoryWatcher: Display: A directory notification failed for 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/Developers/Corey/Collections/' because it could not be accessed. Aborting watch request...
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Blueprints/BP_FireExtinguisher_01.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Blueprints/BP_HospitalDoor_01.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Blueprints/BP_HospitalDoor_02.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Blueprints/BP_HospitalDoor_03.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Blueprints/BP_HospitalDoor_04.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Blueprints/BP_HospitalLamps_01_A.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Blueprints/BP_HospitalLamps_02_B.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Blueprints/BP_HospitalLamps_03_C.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Blueprints/BP_HospitalLamps_03_D.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Blueprints/BP_HospitalLamps_03_E.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Blueprints/BP_Registry_01.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Maps/Environment_Corridor_BuiltData.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Maps/Overview_BuiltData.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Decals/M_DecalCirsle_01.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Decals/M_DecalPuddle_02_A.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Decals/M_DecalPuddle_03.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Decals/M_DecalSquare_02.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Decals/M_GlassWall_Frame_01.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Decals/MI_DecalDamage_01.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Decals/MI_DecalDirt_02.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Decals/MI_DecalDirt_03.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Decals/MI_DecalDirt_04.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Decals/MI_DecalWallCrack_01.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Envionment/M_ConcreteFloor_01.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Envionment/M_Linnolium_01.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Envionment/M_WallPainted_01.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Envionment/MI_Linnolium_01.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Envionment/MI_Linnolium_02.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Envionment/MI_Linnolium_03.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Envionment/MI_Linnolium_04.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Envionment/MI_WallPainted_01.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Envionment/MI_WallPainted_02.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Glass/M_Glass_03.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Glass/M_WindowGlass_01.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Glass/M_WindowGlass_02.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Masters/Functions/MF_VertexBlend.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Masters/M_Decal.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Masters/M_Decal_Normal.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Masters/M_Grey.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Masters/M_MasterRGB.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Masters/M_MasterRGB_Emissive.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Masters/M_MasterRGB_Masked.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Masters/M_MasterRGB_TwoSide.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Masters/M_MasterTwoside_SS.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Masters/M_White.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Objects/M_Radiator_03.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Objects/MI_FireExtinguisher_01.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Objects/MI_GlassLamp_01_A.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Objects/MI_GlassLamp_01_B.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Objects/MI_HospitalBench_01.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Objects/MI_HospitalDoor_01.uasset
+[2026.04.21-15.44.31:980][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Objects/MI_HospitalDoor_02.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Objects/MI_HospitalDoor_03.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Objects/MI_HospitalDoor_04.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Objects/MI_HospitalLamps_01_A.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Objects/MI_HospitalLamps_01_A_Skin.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Objects/MI_HospitalLamps_01_B.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Objects/MI_HospitalLamps_01_B_Skin.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Objects/MI_HospitalPosters_01.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Objects/MI_HospitalPosters_02.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Objects/MI_InformationStand_01.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Objects/MI_Radiator_03.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Objects/MI_Registry_01.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Objects/MI_UtilityElectronics_01.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Trims/MI_TrimConer_01.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Trims/MI_TrimConer_02.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Trims/MI_TrimLinoleum_01_A.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Trims/MI_TrimLinoleum_01_B.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Trims/MI_TrimMold_01_A.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Trims/MI_TrimMold_01_B.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Materials/Trims/MI_TrimMold_01_C.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Environment/SM_CablesSet.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Environment/SM_HospitalConers.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Environment/SM_HospitalCorridor_01.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Environment/SM_HospitalCorridor_01_Background.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Environment/SM_linoleumPatches.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_FireExtinguisher_01.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_FireExtinguisher_01_Stand.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_GlassLamps_01_A.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_GlassLamps_01_B.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalBench_01.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalDoor_01.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalDoor_01_Frame.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalDoor_02.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalDoor_02_Frame.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalDoor_03_A.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalDoor_03_B.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalDoor_03_Frame.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalDoor_04_A.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalDoor_04_B.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalDoor_04_Frame.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalDoor_04_Frame_Glass.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalDoor_04_Glass.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalLamps_01_A01.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalLamps_01_A02.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalLamps_01_A03.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalLamps_01_B01.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalLamps_01_B02.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalLamps_01_C01.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalLamps_01_C02.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalLamps_01_D01.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalLamps_01_D02.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalLamps_01_E.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_01_A.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_01_B.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_01_C.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_01_D.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_01_E.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_01_F.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_01_G.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_01_H.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_01_I.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_01_J.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_01_K.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_01_L.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_01_M.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_01_N.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_01_O.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_01_P.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_02_A.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_02_B.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_02_C.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_02_D.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_02_E.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_02_F.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_02_G.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_02_H.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_02_I.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_02_K.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_02_L.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_02_M.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_02_N.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_02_O.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_02_P.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_02_R.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_02_S.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_02_T.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_02_U.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_HospitalPosters_02_V.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_InformationStand_01.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_Radiator_03.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_Registry_01.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_Registry_01_Glass.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_UtilityElectronics_01_A.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_UtilityElectronics_01_B.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_UtilityElectronics_01_C.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_UtilityElectronics_01_D.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_UtilityElectronics_01_E.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_UtilityElectronics_01_F.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_UtilityElectronics_01_G.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_UtilityElectronics_01_H.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_UtilityElectronics_01_I.uasset
+[2026.04.21-15.44.31:981][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_UtilityElectronics_01_K.uasset
+[2026.04.21-15.44.31:982][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_UtilityElectronics_01_L.uasset
+[2026.04.21-15.44.31:982][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_UtilityElectronics_01_M.uasset
+[2026.04.21-15.44.31:982][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_UtilityElectronics_01_N.uasset
+[2026.04.21-15.44.31:982][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_UtilityElectronics_01_O.uasset
+[2026.04.21-15.44.31:982][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_UtilityElectronics_01_P.uasset
+[2026.04.21-15.44.31:982][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_UtilityElectronics_01_R.uasset
+[2026.04.21-15.44.31:982][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_UtilityElectronics_01_S.uasset
+[2026.04.21-15.44.31:982][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Objects/SM_UtilityElectronics_01_T.uasset
+[2026.04.21-15.44.31:982][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Trims/SM_GlassWalll_01.uasset
+[2026.04.21-15.44.31:982][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Trims/SM_TrimLinoleum_01_Plinth.uasset
+[2026.04.21-15.44.31:982][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Trims/SM_UtilityElectronics_01_Trim_A.uasset
+[2026.04.21-15.44.31:982][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Trims/SM_UtilityElectronics_01_Trim_B.uasset
+[2026.04.21-15.44.31:982][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Trims/SM_UtilityElectronics_01_Trim_C.uasset
+[2026.04.21-15.44.31:982][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Trims/SM_UtilityElectronics_01_Trim_D.uasset
+[2026.04.21-15.44.31:982][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Meshes/Trims/SM_UtilityElectronics_01_Trim_E.uasset
+[2026.04.21-15.44.31:982][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Decals/T_DecalCrack_01_A.uasset
+[2026.04.21-15.44.31:982][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Decals/T_DecalCrack_01_N.uasset
+[2026.04.21-15.44.31:982][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Decals/T_DecalDamage_01_A.uasset
+[2026.04.21-15.44.31:982][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Decals/T_DecalDamage_01_N.uasset
+[2026.04.21-15.44.31:982][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Decals/T_DecalDirt_02_A.uasset
+[2026.04.21-15.44.31:982][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Decals/T_DecalDirt_03_A.uasset
+[2026.04.21-15.44.31:982][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Decals/T_DecalDirt_04_A.uasset
+[2026.04.21-15.44.31:982][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Decals/T_FloorStain_01_A.uasset
+[2026.04.21-15.44.31:982][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Decals/T_FloorStain_01_N.uasset
+[2026.04.21-15.44.31:982][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Decals/T_GlassWall_Frame_01_M.uasset
+[2026.04.21-15.44.31:982][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Decals/T_Mask_01.uasset
+[2026.04.21-15.44.31:982][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Decals/T_Mask_02.uasset
+[2026.04.21-15.44.31:982][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Decals/T_Puddle_02_M.uasset
+[2026.04.21-15.44.31:982][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Decals/T_PuddleBig_01_M.uasset
+[2026.04.21-15.44.31:982][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Environment/T_ConcreteFloor_01_BC.uasset
+[2026.04.21-15.44.31:982][486]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Environment/T_ConcreteFloor_01_M.uasset
+[2026.04.21-15.44.31:982][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Environment/T_ConcreteFloor_01_N.uasset
+[2026.04.21-15.44.31:982][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Environment/T_ConcreteRough_01_BC.uasset
+[2026.04.21-15.44.31:982][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Environment/T_ConcreteRough_01_M.uasset
+[2026.04.21-15.44.31:982][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Environment/T_ConcreteRough_01_N.uasset
+[2026.04.21-15.44.31:982][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Environment/T_CrackedPlaster_01_N.uasset
+[2026.04.21-15.44.31:982][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Environment/T_linoleum_01_A.uasset
+[2026.04.21-15.44.31:982][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Environment/T_linoleum_01_H.uasset
+[2026.04.21-15.44.31:982][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Environment/T_linoleum_01_M.uasset
+[2026.04.21-15.44.31:982][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Environment/T_linoleum_01_N.uasset
+[2026.04.21-15.44.31:982][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Environment/T_linoleum_02_A.uasset
+[2026.04.21-15.44.31:982][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Environment/T_linoleum_02_H.uasset
+[2026.04.21-15.44.31:982][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Environment/T_linoleum_03_A.uasset
+[2026.04.21-15.44.31:982][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Environment/T_linoleum_04_A.uasset
+[2026.04.21-15.44.31:982][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Environment/T_LinoleumOld_01_A.uasset
+[2026.04.21-15.44.31:982][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Environment/T_PeelingMask_01_H.uasset
+[2026.04.21-15.44.31:982][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Environment/T_Stucco_01_A.uasset
+[2026.04.21-15.44.31:982][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Environment/T_Stucco_01_N.uasset
+[2026.04.21-15.44.31:982][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Environment/T_WallPainted_01_M.uasset
+[2026.04.21-15.44.31:982][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Environment/T_WallPainted_01_N.uasset
+[2026.04.21-15.44.31:982][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Glass/T_Door_01_Glass_01_R.uasset
+[2026.04.21-15.44.31:982][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Glass/T_Door_Glass_02_N.uasset
+[2026.04.21-15.44.31:982][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Glass/T_GlassCurves_01_N.uasset
+[2026.04.21-15.44.31:982][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Glass/T_GlassWall_01_M.uasset
+[2026.04.21-15.44.31:982][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Glass/T_GlassWall_01_N.uasset
+[2026.04.21-15.44.31:982][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Objects/T_FireExtinguisher_01_A.uasset
+[2026.04.21-15.44.31:982][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Objects/T_FireExtinguisher_01_N.uasset
+[2026.04.21-15.44.31:982][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Objects/T_FireExtinguisher_01_RGB.uasset
+[2026.04.21-15.44.31:982][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Objects/T_GlassLamps_01_A.uasset
+[2026.04.21-15.44.31:982][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Objects/T_GlassLamps_01_N.uasset
+[2026.04.21-15.44.31:982][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Objects/T_GlassLamps_01_RGB.uasset
+[2026.04.21-15.44.31:982][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Objects/T_HospitalBench_01_A.uasset
+[2026.04.21-15.44.31:982][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Objects/T_HospitalBench_01_N.uasset
+[2026.04.21-15.44.31:982][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Objects/T_HospitalBench_01_RGB.uasset
+[2026.04.21-15.44.31:982][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Objects/T_HospitalDoor_01_A.uasset
+[2026.04.21-15.44.31:982][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Objects/T_HospitalDoor_01_N.uasset
+[2026.04.21-15.44.31:982][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Objects/T_HospitalDoor_01_RGB.uasset
+[2026.04.21-15.44.31:982][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Objects/T_HospitalDoor_02_A.uasset
+[2026.04.21-15.44.31:982][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Objects/T_HospitalDoor_02_N.uasset
+[2026.04.21-15.44.31:983][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Objects/T_HospitalDoor_02_RGB.uasset
+[2026.04.21-15.44.31:983][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Objects/T_HospitalDoor_03_A.uasset
+[2026.04.21-15.44.31:983][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Objects/T_HospitalDoor_03_N.uasset
+[2026.04.21-15.44.31:983][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Objects/T_HospitalDoor_03_RGB.uasset
+[2026.04.21-15.44.31:983][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Objects/T_HospitalDoor_04_A.uasset
+[2026.04.21-15.44.31:983][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Objects/T_HospitalDoor_04_N.uasset
+[2026.04.21-15.44.31:983][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Objects/T_HospitalDoor_04_RGB.uasset
+[2026.04.21-15.44.31:983][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Objects/T_HospitalLamps_01_A.uasset
+[2026.04.21-15.44.31:983][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Objects/T_HospitalLamps_01_A_Skin.uasset
+[2026.04.21-15.44.31:983][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Objects/T_HospitalLamps_01_N.uasset
+[2026.04.21-15.44.31:983][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Objects/T_HospitalLamps_01_RGB.uasset
+[2026.04.21-15.44.31:983][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Objects/T_HospitalPosters_01_A.uasset
+[2026.04.21-15.44.31:983][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Objects/T_HospitalPosters_02_A.uasset
+[2026.04.21-15.44.31:983][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Objects/T_InformationStand_01_A.uasset
+[2026.04.21-15.44.31:983][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Objects/T_InformationStand_01_N.uasset
+[2026.04.21-15.44.31:983][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Objects/T_InformationStand_01_RGB.uasset
+[2026.04.21-15.44.31:983][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Objects/T_Radiator_03_A.uasset
+[2026.04.21-15.44.31:983][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Objects/T_Radiator_03_N.uasset
+[2026.04.21-15.44.31:983][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Objects/T_Radiator_03_RGB.uasset
+[2026.04.21-15.44.31:983][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Objects/T_Registry_01_A.uasset
+[2026.04.21-15.44.31:983][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Objects/T_Registry_01_N.uasset
+[2026.04.21-15.44.31:983][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Objects/T_Registry_01_RGB.uasset
+[2026.04.21-15.44.31:983][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Objects/T_UtilityElectronics_01_A.uasset
+[2026.04.21-15.44.31:983][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Objects/T_UtilityElectronics_01_N.uasset
+[2026.04.21-15.44.31:983][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Objects/T_UtilityElectronics_01_RGB.uasset
+[2026.04.21-15.44.31:983][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Trims/T_PaperTile_01_A.uasset
+[2026.04.21-15.44.31:983][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Trims/T_PaperTile_01_N.uasset
+[2026.04.21-15.44.31:983][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Trims/T_PaperTile_02_N.uasset
+[2026.04.21-15.44.31:983][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Trims/T_TrimConcreteConer_01_N.uasset
+[2026.04.21-15.44.31:983][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Trims/T_TrimConcreteCorner_01_M.uasset
+[2026.04.21-15.44.31:983][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Trims/T_TrimCorner_02_M.uasset
+[2026.04.21-15.44.31:983][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Trims/T_TrimCorner_0_N.uasset
+[2026.04.21-15.44.31:983][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Trims/T_TrimModl_01_M.uasset
+[2026.04.21-15.44.31:983][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Trims/T_TrimsLinoleum_01_A.uasset
+[2026.04.21-15.44.31:984][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Trims/T_TrimsLinoleum_01_N.uasset
+[2026.04.21-15.44.31:984][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Trims/T_TrimsLinoleum_01_RGB.uasset
+[2026.04.21-15.44.31:984][487]LogFab: Display: Scanning 258 assets for plugin dependencies...
+
