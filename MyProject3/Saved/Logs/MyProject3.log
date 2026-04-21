@@ -4119,3 +4119,80 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2026.04.21-15.54.26:305][345]LogTexture: Display: Building textures: /Game/Fab/Hospital_Props/hospital_props/Textures/hospital_props_texture_53.hospital_props_texture_53 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
 [2026.04.21-15.54.27:384][409]LogMeshUtilities: Finished mesh card build in 1.1s hospital_props tris:0 surfels:1351
 [2026.04.21-15.54.28:111][413]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Corey/AppDa...2e-b4d3-203a7daf4134/hospital_props.glb]
+[2026.04.21-15.54.57:152][553]LogShaderCompilers: Display: ================================================
+[2026.04.21-15.54.57:152][553]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.04.21-15.54.57:152][553]LogShaderCompilers: Display: Total job queries 589, among them cache hits 79 (13.41%), DDC hits 405 (68.76%), Duplicates 71 (12.05%)
+[2026.04.21-15.54.57:152][553]LogShaderCompilers: Display: Tracking 439 distinct input hashes that result in 328 distinct outputs (74.72%)
+[2026.04.21-15.54.57:152][553]LogShaderCompilers: Display: RAM used: 4.00 MiB of 3.20 GiB budget. Usage: 0.12%
+[2026.04.21-15.54.57:152][553]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.04.21-15.54.57:152][553]LogShaderCompilers: Display: Shaders Compiled: 34
+[2026.04.21-15.54.57:152][553]LogShaderCompilers: Display: Jobs assigned 34, completed 34 (100%)
+[2026.04.21-15.54.57:152][553]LogShaderCompilers: Display: Average time worker was idle: 226.56 s
+[2026.04.21-15.54.57:152][553]LogShaderCompilers: Display: Time job spent in pending queue: average 0.17 s, longest 1.18 s
+[2026.04.21-15.54.57:152][553]LogShaderCompilers: Display: Job execution time: average 1.26 s, max 2.49 s
+[2026.04.21-15.54.57:152][553]LogShaderCompilers: Display: Job life time (pending + execution): average 1.43 s, max 2.89
+[2026.04.21-15.54.57:152][553]LogShaderCompilers: Display: Shader code size: total 313.945 KiB, numShaders 38, average 8.262 KiB, min 2.934 KiB, max 14.926 KiB
+[2026.04.21-15.54.57:152][553]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.78 s
+[2026.04.21-15.54.57:152][553]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.04.21-15.54.57:152][553]LogShaderCompilers: Display: Jobs were issued in 34 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.04.21-15.54.57:152][553]LogShaderCompilers: Display: Average processing rate: 3.15 jobs/sec
+[2026.04.21-15.54.57:152][553]LogShaderCompilers: Display: Total thread time: 29.113 s
+[2026.04.21-15.54.57:152][553]LogShaderCompilers: Display: Total thread preprocess time: 9.861 s
+[2026.04.21-15.54.57:152][553]LogShaderCompilers: Display: Percentage time preprocessing: 33.87%
+[2026.04.21-15.54.57:152][553]LogShaderCompilers: Display: Effective parallelization: 2.70 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.337536
+[2026.04.21-15.54.57:152][553]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.04.21-15.54.57:152][553]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.91 sec, max 1.91 sec, min 1.91 sec)
+[2026.04.21-15.54.57:152][553]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 1.40 sec, max 1.51 sec, min 1.27 sec)
+[2026.04.21-15.54.57:152][553]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    1 times, average 1.11 sec, max 1.11 sec, min 1.11 sec)
+[2026.04.21-15.54.57:152][553]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    2 times, average 1.07 sec, max 1.13 sec, min 1.01 sec)
+[2026.04.21-15.54.57:152][553]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 0.98 sec, max 0.98 sec, min 0.98 sec)
+[2026.04.21-15.54.57:152][553]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.04.21-15.54.57:152][553]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 14.47% of total time (compiled    3 times, average 1.40 sec, max 1.51 sec, min 1.27 sec)
+[2026.04.21-15.54.57:152][553]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.20% of total time (compiled    5 times, average 0.83 sec, max 0.92 sec, min 0.72 sec)
+[2026.04.21-15.54.57:152][553]LogShaderCompilers: Display:                                                 FLumenCardPS - 10.42% of total time (compiled    5 times, average 0.61 sec, max 0.68 sec, min 0.49 sec)
+[2026.04.21-15.54.57:152][553]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.96% of total time (compiled    5 times, average 0.58 sec, max 0.67 sec, min 0.47 sec)
+[2026.04.21-15.54.57:152][553]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.48% of total time (compiled    5 times, average 0.55 sec, max 0.66 sec, min 0.45 sec)
+[2026.04.21-15.54.57:152][553]LogShaderCompilers: Display: === Material stats ===
+[2026.04.21-15.54.57:152][553]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.04.21-15.54.57:152][553]LogShaderCompilers: Display: Materials Translated:    217
+[2026.04.21-15.54.57:152][553]LogShaderCompilers: Display: Material Total Translate Time: 0.26 s
+[2026.04.21-15.54.57:152][553]LogShaderCompilers: Display: Material Translation Only: 0.17 s (65%)
+[2026.04.21-15.54.57:152][553]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.04.21-15.54.57:152][553]LogShaderCompilers: Display: Material Cache Hits: 37 (17%)
+[2026.04.21-15.54.57:152][553]LogShaderCompilers: Display: ================================================
+[2026.04.21-15.55.29:871][782]LogFab: Display: Add listing to project - 8e3cae03-337e-41cb-9262-66495b5db5d9
+[2026.04.21-15.55.29:871][782]LogFab: Display: Listing type - glb
+[2026.04.21-15.55.33:520][ 34]LogStreaming: Display: FlushAsyncLoading(863): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.21-15.55.33:521][ 34]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.04.21-15.55.33:521][ 34]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Corey/AppData/Local/Temp/FabLibrary/8e3cae03-337e-41cb-9262-66495b5db5d9/hospital_waiting_room.glb]
+[2026.04.21-15.55.33:617][ 38]LogStreaming: Display: FlushAsyncLoading(864): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.21-15.55.33:716][ 39]LogStreaming: Display: FlushAsyncLoading(881): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.21-15.55.33:744][ 40]LogStreaming: Display: FlushAsyncLoading(894): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.21-15.55.33:774][ 42]LogStreaming: Display: FlushAsyncLoading(901): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.21-15.55.33:794][ 43]LogStreaming: Display: FlushAsyncLoading(909): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.21-15.55.33:821][ 45]LogStreaming: Display: FlushAsyncLoading(913): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.21-15.55.33:838][ 46]LogStreaming: Display: FlushAsyncLoading(915): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.21-15.55.33:853][ 47]LogStreaming: Display: FlushAsyncLoading(916): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.21-15.55.33:867][ 48]LogStreaming: Display: FlushAsyncLoading(917): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.21-15.55.33:883][ 49]LogStreaming: Display: FlushAsyncLoading(918): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.21-15.55.34:244][ 68]LogStreaming: Display: FlushAsyncLoading(919): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.21-15.55.36:636][157]LogTexture: Display: Building textures: /Game/Fab/Hospital_waiting_room/hospital_waiting_room/Textures/hospital_waiting_room_texture_11.hospital_waiting_room_texture_11 (TFO_AutoDXT, 256x1024 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2026.04.21-15.55.36:636][157]LogTexture: Display: Building textures: /Game/Fab/Hospital_waiting_room/hospital_waiting_room/Textures/hospital_waiting_room_texture_6.hospital_waiting_room_texture_6 (TFO_AutoDXT, 128x128 x1x1x1) (Required Memory Estimate: 2.864554 MB), EncodeSpeed: Fast
+[2026.04.21-15.55.36:639][157]LogTexture: Display: Building textures: /Game/Fab/Hospital_waiting_room/hospital_waiting_room/Textures/hospital_waiting_room_texture_10.hospital_waiting_room_texture_10 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2026.04.21-15.55.36:640][157]LogTexture: Display: Building textures: /Game/Fab/Hospital_waiting_room/hospital_waiting_room/Textures/hospital_waiting_room_texture_4.hospital_waiting_room_texture_4 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2026.04.21-15.55.36:642][157]LogTexture: Display: Building textures: /Game/Fab/Hospital_waiting_room/hospital_waiting_room/Textures/hospital_waiting_room_texture_2.hospital_waiting_room_texture_2 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2026.04.21-15.55.36:644][157]LogTexture: Display: Building textures: /Game/Fab/Hospital_waiting_room/hospital_waiting_room/Textures/hospital_waiting_room_texture_3.hospital_waiting_room_texture_3 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2026.04.21-15.55.36:647][157]LogTexture: Display: Building textures: /Game/Fab/Hospital_waiting_room/hospital_waiting_room/Textures/hospital_waiting_room_texture_1.hospital_waiting_room_texture_1 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2026.04.21-15.55.36:657][157]LogTexture: Display: Building textures: /Game/Fab/Hospital_waiting_room/hospital_waiting_room/Textures/hospital_waiting_room_texture_7.hospital_waiting_room_texture_7 (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2026.04.21-15.55.36:694][157]LogStaticMesh: Display: Building static mesh hospital_waiting_room (Required Memory Estimate: 1023.010944 MB)...
+[2026.04.21-15.55.36:769][159]LogTexture: Display: Building textures: /Game/Fab/Hospital_waiting_room/hospital_waiting_room/Textures/hospital_waiting_room_texture_9.hospital_waiting_room_texture_9 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2026.04.21-15.55.36:770][159]LogTexture: Display: Building textures: /Game/Fab/Hospital_waiting_room/hospital_waiting_room/Textures/hospital_waiting_room_texture_5.hospital_waiting_room_texture_5 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2026.04.21-15.55.36:772][159]LogTexture: Display: Building textures: /Game/Fab/Hospital_waiting_room/hospital_waiting_room/Textures/hospital_waiting_room_texture_0.hospital_waiting_room_texture_0 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2026.04.21-15.55.36:937][159]LogTexture: Display: Building textures: /Game/Fab/Hospital_waiting_room/hospital_waiting_room/Textures/hospital_waiting_room_texture_8.hospital_waiting_room_texture_8 (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2026.04.21-15.55.40:019][168]LogStaticMesh: Built static mesh [3.33s] /Game/Fab/Hospital_waiting_room/hospital_waiting_room/StaticMeshes/hospital_waiting_room.hospital_waiting_room
+[2026.04.21-15.55.41:129][175]LogStaticMesh: Warning: hospital_waiting_room has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2026.04.21-15.55.41:129][175]LogStaticMesh: Warning: hospital_waiting_room has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2026.04.21-15.55.41:129][175]LogStaticMesh: Warning: hospital_waiting_room has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2026.04.21-15.55.43:007][176]LogMeshUtilities: Finished distance field build in 1.8s - 126x126x98 sparse distance field, 2.2Mb total, 0.0Mb always loaded, 84% occupied, 0 triangles, hospital_waiting_room
+[2026.04.21-15.55.43:075][177]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Corey/AppDa...cb-9262-66495b5db5d9/hospital_waiting_room.glb]
+[2026.04.21-15.55.46:769][377]LogMeshUtilities: Finished distance field build in 2.4s - 126x126x98 sparse distance field, 2.2Mb total, 0.0Mb always loaded, 84% occupied, 0 triangles, hospital_waiting_room
