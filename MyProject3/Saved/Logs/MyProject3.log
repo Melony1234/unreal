@@ -1742,3 +1742,12 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.21-15.44.31:984][487]LogFab: Found D:/dean uni stuff/unreal github/unreal/MyProject3/Content/HospitalCorridor/Textures/Trims/T_TrimsLinoleum_01_RGB.uasset
 [2026.04.21-15.44.31:984][487]LogFab: Display: Scanning 258 assets for plugin dependencies...
 
+[2026.04.21-15.47.10:448][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.04.21-15.47.10:479][343]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Lvl_ThirdPerson_Auto1
+[2026.04.21-15.47.10:479][343]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Lvl_ThirdPerson_Auto13E2D60114399C82F15D613B1AAEE468A.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/ThirdPerson/Lvl_ThirdPerson_Auto1.umap'
+[2026.04.21-15.47.10:492][343]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/RV/2W9G1SNLVTF0SCDTGN3Q3D_Auto1
+[2026.04.21-15.47.10:492][343]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/2W9G1SNLVTF0SCDTGN3Q3D_Auto18EFE8C8748383C2417BC21A0330EC684.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/RV/2W9G1SNLVTF0SCDTGN3Q3D_Auto1.uasset'
+[2026.04.21-15.47.10:500][343]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/2E/UWT369HP6Z6LA2T33IYUBN_Auto1
+[2026.04.21-15.47.10:500][343]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/UWT369HP6Z6LA2T33IYUBN_Auto14B6FFC2145FA11DBC587BCAB970B02F2.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/2E/UWT369HP6Z6LA2T33IYUBN_Auto1.uasset'
+[2026.04.21-15.47.10:500][343]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.076
+[2026.04.21-15.47.10:500][343]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.076
