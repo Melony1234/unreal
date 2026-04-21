@@ -1381,3 +1381,51 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.21-15.41.36:576][650]LogEditorActor: Deleted Actor: StaticMeshActor
 [2026.04.21-15.41.36:595][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
 [2026.04.21-15.41.36:598][650]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2026.04.21-15.41.55:006][950]LogStreaming: Display: FlushAsyncLoading(480): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.21-15.41.55:639][950]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Tiling/Corrugated_Sheet_DET.Corrugated_Sheet_DET (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.04.21-15.41.55:648][950]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Caravan.Caravan
+[2026.04.21-15.41.55:648][950]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Caravan.Caravan
+[2026.04.21-15.41.55:648][950]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Caravan.Caravan as actor: StaticMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.StaticMeshActor_7
+[2026.04.21-15.41.55:649][950]LogStaticMesh: Display: Building static mesh Caravan (Required Memory Estimate: 25.134888 MB)...
+[2026.04.21-15.41.55:667][950]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Modular_Rural_Cabin/Meshes/Props/Caravan) ...
+[2026.04.21-15.41.55:687][950]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Tiling/Corrugated_Sheet_BaseColor.Corrugated_Sheet_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.04.21-15.41.55:846][950]LogStaticMesh: Built static mesh [0.20s] /Game/Modular_Rural_Cabin/Meshes/Props/Caravan.Caravan
+[2026.04.21-15.41.55:889][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.04.21-15.41.55:895][950]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2026.04.21-15.41.55:900][950]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Unique/Caravan_addons_Normal.Caravan_addons_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 382.499988 MB), EncodeSpeed: Fast
+[2026.04.21-15.41.55:931][950]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Caravan.Caravan
+[2026.04.21-15.41.55:931][950]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Caravan.Caravan
+[2026.04.21-15.41.55:932][950]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Caravan.Caravan as actor: StaticMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.StaticMeshActor_8
+[2026.04.21-15.41.55:970][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.04.21-15.41.55:972][950]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2026.04.21-15.41.55:984][950]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Caravan.Caravan
+[2026.04.21-15.41.55:984][950]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Caravan.Caravan
+[2026.04.21-15.41.55:989][950]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Caravan.Caravan as actor: StaticMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.StaticMeshActor_UAID_244BFE527C69C9D302_1440898693
+[2026.04.21-15.41.56:011][950]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Unique/Caravan_Windows_Normal.Caravan_Windows_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 382.499988 MB), EncodeSpeed: Fast
+[2026.04.21-15.41.56:037][950]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Tiling/Corrugated_Sheet_Normal.Corrugated_Sheet_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 382.499988 MB), EncodeSpeed: Fast
+[2026.04.21-15.41.56:073][950]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Unique/Caravan_addons_DET.Caravan_addons_DET (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.04.21-15.41.56:074][950]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Unique/Caravan_addons_BaseColor.Caravan_addons_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.04.21-15.41.56:166][951]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Unique/Caravan_Windows_BaseColor.Caravan_Windows_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.04.21-15.41.56:171][951]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Unique/Caravan_Windows_DET.Caravan_Windows_DET (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.04.21-15.41.56:247][952]LogTexture: Display: Building textures: /Game/Modular_Rural_Cabin/Textures/Unique/Caravan_DMAR.Caravan_DMAR (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.04.21-15.41.56:444][955]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Caravan.Caravan
+[2026.04.21-15.41.56:444][955]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Caravan.Caravan
+[2026.04.21-15.41.56:444][955]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Caravan.Caravan as actor: StaticMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.StaticMeshActor_9
+[2026.04.21-15.41.57:120][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.04.21-15.41.57:121][980]LogEditorActor: Deleted 0 Actors (0.057 secs)
+[2026.04.21-15.41.57:131][980]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Caravan.Caravan
+[2026.04.21-15.41.57:131][980]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Caravan.Caravan
+[2026.04.21-15.41.57:137][980]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modular_Rural_Cabin/Meshes/Props/Caravan.Caravan as actor: StaticMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.StaticMeshActor_UAID_244BFE527C69C9D302_1442045694
+[2026.04.21-15.41.58:543][ 47]Cmd: DELETE
+[2026.04.21-15.41.58:543][ 47]Cmd: ACTOR DELETE
+[2026.04.21-15.41.58:546][ 47]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.21-15.41.58:565][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.04.21-15.41.58:568][ 47]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2026.04.21-15.42.01:332][221]Cmd: DELETE
+[2026.04.21-15.42.01:332][221]Cmd: ACTOR DELETE
+[2026.04.21-15.42.01:335][221]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.04.21-15.42.01:354][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.04.21-15.42.01:357][221]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2026.04.21-15.42.04:136][429]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 319.565430
+[2026.04.21-15.42.04:389][449]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.21-15.42.04:389][449]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 319.789764, Update Interval: 329.056061
