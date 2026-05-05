@@ -6525,3 +6525,64 @@ Sampler Limit: 32
 [2026.05.05-16.50.50:299][169]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31, StreamState=2
 [2026.05.05-16.50.50:314][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
 [2026.05.05-16.50.50:398][170]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2026.05.05-16.51.52:773][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.05.05-16.51.52:785][726]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/SF/8NUFR18R1PDA032FFYVNOR_Auto5
+[2026.05.05-16.51.52:785][726]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/8NUFR18R1PDA032FFYVNOR_Auto5857342524E092D2D4DBA228C702E2DA4.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/SF/8NUFR18R1PDA032FFYVNOR_Auto5.uasset'
+[2026.05.05-16.51.52:793][726]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/CP/GUR8CWQQHZR5I0RTUNPABK_Auto5
+[2026.05.05-16.51.52:793][726]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/GUR8CWQQHZR5I0RTUNPABK_Auto5A8891DF64EC9D8CCC68B1780DBEE2F65.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/CP/GUR8CWQQHZR5I0RTUNPABK_Auto5.uasset'
+[2026.05.05-16.51.52:801][726]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/YZ/I38YXA9AVBLSPP6GQ218B4_Auto5
+[2026.05.05-16.51.52:801][726]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/I38YXA9AVBLSPP6GQ218B4_Auto504202C9D44CACB9FFF5F8EB730C122ED.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/YZ/I38YXA9AVBLSPP6GQ218B4_Auto5.uasset'
+[2026.05.05-16.51.52:810][726]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/5O/69O9T3MNMMDKGVM36CBAKF_Auto5
+[2026.05.05-16.51.52:810][726]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/69O9T3MNMMDKGVM36CBAKF_Auto5D918E2E74D75EA0868777883CD5FA487.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/5O/69O9T3MNMMDKGVM36CBAKF_Auto5.uasset'
+[2026.05.05-16.51.52:810][726]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.065
+[2026.05.05-16.51.52:810][726]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.065
+[2026.05.05-16.55.14:698][332]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11202.343750
+[2026.05.05-16.55.15:698][335]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-16.55.15:698][335]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11203.009766, Update Interval: 302.323669
+[2026.05.05-17.01.16:397][417]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11563.823242
+[2026.05.05-17.01.17:397][420]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-17.01.17:397][420]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11564.489258, Update Interval: 338.819550
+[2026.05.05-17.07.37:763][561]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11944.970703
+[2026.05.05-17.07.38:763][564]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-17.07.38:763][564]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11945.637695, Update Interval: 319.700928
+[2026.05.05-17.13.30:795][620]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12297.756836
+[2026.05.05-17.13.31:794][623]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-17.13.31:794][623]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12298.422852, Update Interval: 329.056061
+[2026.05.05-17.19.59:494][786]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12686.246094
+[2026.05.05-17.20.00:493][789]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-17.20.00:494][789]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12686.913086, Update Interval: 332.502197
+[2026.05.05-17.22.22:863][217]LogAudioMixer: Warning: FMixerPlatformXAudio2::OnCriticalError: 0x88880001: UNKNOWN
+[2026.05.05-17.22.22:890][217]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Steam Streaming Speakers), InstanceID=1
+[2026.05.05-17.22.22:890][217]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{5b6f99d8-819c-4a94-8be7-b36f225420b4}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.05.05-17.22.23:171][217]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{5b6f99d8-819c-4a94-8be7-b36f225420b4}]
+[2026.05.05-17.22.23:171][217]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.05.05-17.22.23:171][217]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.05.05-17.22.23:507][218]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{5b6f99d8-819c-4a94-8be7-b36f225420b4}, Name=Speakers (Steam Streaming Speakers)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=9.99
+[2026.05.05-17.22.23:507][218]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.05.05-17.22.23:507][218]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.05.05-17.22.23:509][218]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.05.05-17.26.18:524][923]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13065.051758
+[2026.05.05-17.26.19:524][926]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-17.26.19:524][926]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13065.717773, Update Interval: 355.235443
+[2026.05.05-17.32.59:220][125]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13465.474609
+[2026.05.05-17.33.00:220][128]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-17.33.00:220][128]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13466.140625, Update Interval: 350.447083
+[2026.05.05-17.39.27:251][289]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13853.344727
+[2026.05.05-17.39.28:251][292]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-17.39.28:251][292]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13854.011719, Update Interval: 330.044861
+[2026.05.05-17.45.31:185][379]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14217.092773
+[2026.05.05-17.45.32:185][382]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-17.45.32:185][382]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14217.759766, Update Interval: 354.653168
+[2026.05.05-17.46.34:862][570]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (HyperX Cloud III), InstanceID=1
+[2026.05.05-17.46.34:862][570]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{dc7a3314-33a7-41c0-a6e1-67a05870f63b}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.05.05-17.46.35:179][571]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{dc7a3314-33a7-41c0-a6e1-67a05870f63b}]
+[2026.05.05-17.46.35:179][571]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.05.05-17.46.35:179][571]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.05.05-17.46.35:515][572]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{dc7a3314-33a7-41c0-a6e1-67a05870f63b}, Name=Headphones (HyperX Cloud III)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=26.61
+[2026.05.05-17.46.35:515][572]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.05.05-17.46.35:515][572]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.05.05-17.46.35:516][572]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.05.05-17.50.28:320][271]LogDerivedDataCache: C:/Users/Corey/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.05-17.52.16:546][595]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14622.441406
+[2026.05.05-17.52.17:550][598]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-17.52.17:550][598]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14623.107422, Update Interval: 325.955994
