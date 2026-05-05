@@ -6190,3 +6190,171 @@ Sampler Limit: 32
 [2026.05.05-14.44.44:133][973]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Materials/MA_bricks/MA_bricks_Auto2
 [2026.05.05-14.44.44:133][973]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/MA_bricks_Auto2C3AAA04145770F0BF3FFBCA7AD804ADF.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Materials/MA_bricks/MA_bricks_Auto2.uasset'
 [2026.05.05-14.44.44:133][973]LogFileHelpers: Auto-saving content packages took 0.008
+[2026.05.05-14.49.08:963][950]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.05-14.49.09:033][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2026.05.05-14.49.09:065][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.05.05-14.49.09:095][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.05.05-14.49.09:149][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.05.05-14.49.09:302][950]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Lvl_ThirdPerson
+[2026.05.05-14.49.09:302][950]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Lvl_ThirdPerson3F4A38474B15200B8AB7E2B0BB8789BC.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/ThirdPerson/Lvl_ThirdPerson.umap'
+[2026.05.05-14.49.09:315][950]LogFileHelpers: Saving map 'Lvl_ThirdPerson' took 0.217
+[2026.05.05-14.49.09:322][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/84/3FWXKFZ0U8OB4S4GLBOR86
+[2026.05.05-14.49.09:323][950]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/3FWXKFZ0U8OB4S4GLBOR86E95205E4408DD75CC0B5518CE5818B04.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/84/3FWXKFZ0U8OB4S4GLBOR86.uasset'
+[2026.05.05-14.49.09:370][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/DJ/YP314B0UU85HSJ16HYIRL1
+[2026.05.05-14.49.09:370][950]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/YP314B0UU85HSJ16HYIRL1DC2B78254FA0DA87F5F3DBB9B7498F9E.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/DJ/YP314B0UU85HSJ16HYIRL1.uasset'
+[2026.05.05-14.49.09:377][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/IY/EUZEBPSRS1ZM4BVJQQX7JW
+[2026.05.05-14.49.09:377][950]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/EUZEBPSRS1ZM4BVJQQX7JWDA5D2D654B807F181EB550B4B8EB0415.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/IY/EUZEBPSRS1ZM4BVJQQX7JW.uasset'
+[2026.05.05-14.49.09:387][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/PH/PW63YJH6OR12SV4RE59F13
+[2026.05.05-14.49.09:387][950]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/PW63YJH6OR12SV4RE59F13A26BF2E84F4308909C0E8A97D2BDCB6A.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/PH/PW63YJH6OR12SV4RE59F13.uasset'
+[2026.05.05-14.49.09:396][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/ZZ/5I3AYP8MICSB4VVTJM2G8M
+[2026.05.05-14.49.09:397][950]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/5I3AYP8MICSB4VVTJM2G8M196F574348E1933EF46768A720A83755.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/ZZ/5I3AYP8MICSB4VVTJM2G8M.uasset'
+[2026.05.05-14.49.09:411][950]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/HZ/8O08DS0Y6WVFPIBZU18JYW
+[2026.05.05-14.49.09:411][950]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/8O08DS0Y6WVFPIBZU18JYW81115BE8476CD597ED4B9E91A94D7088.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/HZ/8O08DS0Y6WVFPIBZU18JYW.uasset'
+[2026.05.05-14.49.09:425][950]LogFileHelpers: InternalPromptForCheckoutAndSave took 461.800 ms (total: 4.50 sec)
+[2026.05.05-14.49.09:464][950]LogContentValidation: Display: Starting to validate 7 assets
+[2026.05.05-14.49.09:464][950]LogContentValidation: Enabled validators:
+[2026.05.05-14.49.09:464][950]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.05-14.49.09:464][950]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.05-14.49.09:464][950]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.05-14.49.09:464][950]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.05-14.49.09:464][950]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.05-14.49.09:464][950]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.05-14.49.09:464][950]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2026.05.05-14.49.09:523][950]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.05-14.49.32:163][788]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3659.845947
+[2026.05.05-14.49.33:162][791]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-14.49.33:162][791]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3660.511230, Update Interval: 343.721436
+[2026.05.05-14.50.28:317][779]LogDerivedDataCache: C:/Users/Corey/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.05-14.55.49:513][530]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4037.184570
+[2026.05.05-14.55.49:668][541]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-14.55.49:669][541]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4037.325684, Update Interval: 308.150269
+[2026.05.05-14.56.14:050][123]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/BP_Red_Coins.BP_Red_Coins_C
+[2026.05.05-14.56.14:050][123]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/BP_Red_Coins.BP_Red_Coins_C
+[2026.05.05-14.56.14:052][123]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/BP_Red_Coins.BP_Red_Coins as actor: BP_Red_Coins_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Red_Coins_C_1
+[2026.05.05-14.56.14:053][123]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/BP_Red_Coins.BP_Red_Coins as actor: BP_Red_Coins_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Red_Coins_C_1
+[2026.05.05-14.56.14:650][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2026.05.05-14.56.14:652][140]LogEditorActor: Deleted 0 Actors (0.037 secs)
+[2026.05.05-14.56.14:661][140]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/BP_Red_Coins.BP_Red_Coins_C
+[2026.05.05-14.56.14:661][140]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/BP_Red_Coins.BP_Red_Coins_C
+[2026.05.05-14.56.14:692][140]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/BP_Red_Coins.BP_Red_Coins as actor: BP_Red_Coins_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Red_Coins_C_UAID_244BFE527C692DD802_1413765531
+[2026.05.05-14.56.14:695][140]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/BP_Red_Coins.BP_Red_Coins as actor: BP_Red_Coins_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Red_Coins_C_UAID_244BFE527C692DD802_1413765531
+[2026.05.05-14.59.25:534][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2026.05.05-14.59.25:545][150]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/2G/HM73W2MKSRVFGOFRH0SMCO_Auto3
+[2026.05.05-14.59.25:545][150]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/HM73W2MKSRVFGOFRH0SMCO_Auto38D5C74E64A3AEE8A80CF94A391C26EE9.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/2G/HM73W2MKSRVFGOFRH0SMCO_Auto3.uasset'
+[2026.05.05-14.59.25:546][150]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.044
+[2026.05.05-14.59.25:546][150]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.044
+[2026.05.05-15.01.57:684][ 96]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4405.333008
+[2026.05.05-15.01.58:687][ 99]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-15.01.58:687][ 99]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4406.002441, Update Interval: 335.682861
+[2026.05.05-15.05.09:347][349]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/BP_Red_Coins.BP_Red_Coins_C
+[2026.05.05-15.05.09:348][349]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/BP_Red_Coins.BP_Red_Coins_C
+[2026.05.05-15.05.09:349][349]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/BP_Red_Coins.BP_Red_Coins as actor: BP_Red_Coins_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Red_Coins_C_2
+[2026.05.05-15.05.09:351][349]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/BP_Red_Coins.BP_Red_Coins as actor: BP_Red_Coins_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Red_Coins_C_2
+[2026.05.05-15.05.10:449][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2026.05.05-15.05.10:533][389]LogEditorActor: Deleted 0 Actors (0.118 secs)
+[2026.05.05-15.05.10:541][389]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/BP_Red_Coins.BP_Red_Coins_C
+[2026.05.05-15.05.10:541][389]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/BP_Red_Coins.BP_Red_Coins_C
+[2026.05.05-15.05.10:571][389]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/BP_Red_Coins.BP_Red_Coins as actor: BP_Red_Coins_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Red_Coins_C_UAID_244BFE527C692DD802_1949645532
+[2026.05.05-15.05.10:574][389]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/BP_Red_Coins.BP_Red_Coins as actor: BP_Red_Coins_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Red_Coins_C_UAID_244BFE527C692DD802_1949645532
+[2026.05.05-15.07.04:930][759]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/BP_Red_Coins.BP_Red_Coins_C
+[2026.05.05-15.07.04:930][759]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/BP_Red_Coins.BP_Red_Coins_C
+[2026.05.05-15.07.04:933][759]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/BP_Red_Coins.BP_Red_Coins as actor: BP_Red_Coins_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Red_Coins_C_3
+[2026.05.05-15.07.04:935][759]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/BP_Red_Coins.BP_Red_Coins as actor: BP_Red_Coins_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Red_Coins_C_3
+[2026.05.05-15.07.05:633][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2026.05.05-15.07.05:637][782]LogEditorActor: Deleted 0 Actors (0.033 secs)
+[2026.05.05-15.07.05:646][782]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/BP_Red_Coins.BP_Red_Coins_C
+[2026.05.05-15.07.05:646][782]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/BP_Red_Coins.BP_Red_Coins_C
+[2026.05.05-15.07.05:677][782]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/BP_Red_Coins.BP_Red_Coins as actor: BP_Red_Coins_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Red_Coins_C_UAID_244BFE527C692DD802_2064750533
+[2026.05.05-15.07.05:678][782]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/BP_Red_Coins.BP_Red_Coins as actor: BP_Red_Coins_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Red_Coins_C_UAID_244BFE527C692DD802_2064750533
+[2026.05.05-15.08.15:801][125]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4783.446777
+[2026.05.05-15.08.15:983][137]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-15.08.15:983][137]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4783.611816, Update Interval: 351.818604
+[2026.05.05-15.10.09:886][999]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/BP_Red_Coins.BP_Red_Coins_C
+[2026.05.05-15.10.09:886][999]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/BP_Red_Coins.BP_Red_Coins_C
+[2026.05.05-15.10.09:888][999]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/BP_Red_Coins.BP_Red_Coins as actor: BP_Red_Coins_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Red_Coins_C_4
+[2026.05.05-15.10.09:890][999]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/BP_Red_Coins.BP_Red_Coins as actor: BP_Red_Coins_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Red_Coins_C_4
+[2026.05.05-15.10.10:737][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.05.05-15.10.10:739][ 25]LogEditorActor: Deleted 0 Actors (0.034 secs)
+[2026.05.05-15.10.10:747][ 25]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/BP_Red_Coins.BP_Red_Coins_C
+[2026.05.05-15.10.10:747][ 25]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/BP_Red_Coins.BP_Red_Coins_C
+[2026.05.05-15.10.10:779][ 25]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/BP_Red_Coins.BP_Red_Coins as actor: BP_Red_Coins_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Red_Coins_C_UAID_244BFE527C692ED802_1176109710
+[2026.05.05-15.10.10:781][ 25]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/BP_Red_Coins.BP_Red_Coins as actor: BP_Red_Coins_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Red_Coins_C_UAID_244BFE527C692ED802_1176109710
+[2026.05.05-15.10.28:922][497]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/BP_Red_Coins.BP_Red_Coins_C
+[2026.05.05-15.10.28:922][497]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/BP_Red_Coins.BP_Red_Coins_C
+[2026.05.05-15.10.28:925][497]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/BP_Red_Coins.BP_Red_Coins as actor: BP_Red_Coins_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Red_Coins_C_5
+[2026.05.05-15.10.28:926][497]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/BP_Red_Coins.BP_Red_Coins as actor: BP_Red_Coins_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Red_Coins_C_5
+[2026.05.05-15.10.30:922][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.05.05-15.10.30:925][577]LogEditorActor: Deleted 0 Actors (0.033 secs)
+[2026.05.05-15.10.30:931][577]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/BP_Red_Coins.BP_Red_Coins_C
+[2026.05.05-15.10.30:931][577]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/BP_Red_Coins.BP_Red_Coins_C
+[2026.05.05-15.10.30:961][577]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/BP_Red_Coins.BP_Red_Coins as actor: BP_Red_Coins_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Red_Coins_C_UAID_244BFE527C692ED802_1196293711
+[2026.05.05-15.10.30:963][577]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/BP_Red_Coins.BP_Red_Coins as actor: BP_Red_Coins_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Red_Coins_C_UAID_244BFE527C692ED802_1196293711
+[2026.05.05-15.10.56:154][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.05.05-15.10.56:171][859]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/ED/7ES7X0O1A8XVVPGW2H46FM_Auto4
+[2026.05.05-15.10.56:171][859]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/7ES7X0O1A8XVVPGW2H46FM_Auto4DFFE01C54F8DBF6C2B4969BEB7CB9D64.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/ED/7ES7X0O1A8XVVPGW2H46FM_Auto4.uasset'
+[2026.05.05-15.10.56:181][859]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/LD/OB4U4PAL883T6AFT33CHNF_Auto4
+[2026.05.05-15.10.56:181][859]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/OB4U4PAL883T6AFT33CHNF_Auto4B1A02C884DEFBAC3F54936BDD9E73D55.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/LD/OB4U4PAL883T6AFT33CHNF_Auto4.uasset'
+[2026.05.05-15.10.56:192][859]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/3E/YJC7LTI09P7VWNDELZ6KKJ_Auto4
+[2026.05.05-15.10.56:192][859]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/YJC7LTI09P7VWNDELZ6KKJ_Auto4E680DDFF41DC7B04DAD5D2900CD6DDDC.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/3E/YJC7LTI09P7VWNDELZ6KKJ_Auto4.uasset'
+[2026.05.05-15.10.56:202][859]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/8L/N2BXENNJBX69MD93J3YQKD_Auto4
+[2026.05.05-15.10.56:202][859]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/N2BXENNJBX69MD93J3YQKD_Auto46E29DFF2493FBFE1633263A5F6281390.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/8L/N2BXENNJBX69MD93J3YQKD_Auto4.uasset'
+[2026.05.05-15.10.56:203][859]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.085
+[2026.05.05-15.10.56:203][859]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.085
+[2026.05.05-15.11.01:864][138]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.05-15.11.01:922][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.05.05-15.11.01:951][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.05.05-15.11.01:981][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.05.05-15.11.02:005][138]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/2G/HM73W2MKSRVFGOFRH0SMCO
+[2026.05.05-15.11.02:006][138]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/HM73W2MKSRVFGOFRH0SMCO62E60D2444EE26378147F6B4749C0827.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/2G/HM73W2MKSRVFGOFRH0SMCO.uasset'
+[2026.05.05-15.11.02:015][138]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/ED/7ES7X0O1A8XVVPGW2H46FM
+[2026.05.05-15.11.02:015][138]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/7ES7X0O1A8XVVPGW2H46FME01C6B244B835D214147AB8A36427B6D.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/ED/7ES7X0O1A8XVVPGW2H46FM.uasset'
+[2026.05.05-15.11.02:025][138]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/LD/OB4U4PAL883T6AFT33CHNF
+[2026.05.05-15.11.02:025][138]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/OB4U4PAL883T6AFT33CHNFAA889B8D4D4C754923945DB29C49F7A8.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/LD/OB4U4PAL883T6AFT33CHNF.uasset'
+[2026.05.05-15.11.02:032][138]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/3E/YJC7LTI09P7VWNDELZ6KKJ
+[2026.05.05-15.11.02:032][138]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/YJC7LTI09P7VWNDELZ6KKJ6E6880E24816091C0C763E80D42A52B4.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/3E/YJC7LTI09P7VWNDELZ6KKJ.uasset'
+[2026.05.05-15.11.02:041][138]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/8L/N2BXENNJBX69MD93J3YQKD
+[2026.05.05-15.11.02:041][138]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/N2BXENNJBX69MD93J3YQKD0B74E4CF409F6CE44173859A1E05F28F.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/8L/N2BXENNJBX69MD93J3YQKD.uasset'
+[2026.05.05-15.11.02:059][138]LogFileHelpers: InternalPromptForCheckoutAndSave took 195.741 ms (total: 4.70 sec)
+[2026.05.05-15.11.02:104][138]LogContentValidation: Display: Starting to validate 5 assets
+[2026.05.05-15.11.02:104][138]LogContentValidation: Enabled validators:
+[2026.05.05-15.11.02:104][138]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.05-15.11.02:104][138]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.05-15.11.02:104][138]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.05-15.11.02:104][138]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.05-15.11.02:104][138]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.05-15.11.02:104][138]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.05-15.11.02:105][138]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2026.05.05-15.11.02:170][138]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.05-15.12.32:771][595]LogEOSSDK: Warning: LogHttp: 0000023AE9E3A800: request has been successfully processed. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B4F431AEB-491F-C13D-19C8-17AD8360D7DE%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 503, content length: 81, actual payload size: 81, elapsed: 0.11s
+[2026.05.05-15.12.32:771][595]LogEOSSDK: Warning: LogHttp: 0000023AE9E3A800 Response Header Date: Tue, 05 May 2026 15:12:27 GMT
+[2026.05.05-15.12.32:771][595]LogEOSSDK: Warning: LogHttp: 0000023AE9E3A800 Response Header Content-Type: text/plain
+[2026.05.05-15.12.32:771][595]LogEOSSDK: Warning: LogHttp: 0000023AE9E3A800 Response Header Content-Length: 81
+[2026.05.05-15.12.32:771][595]LogEOSSDK: Warning: LogHttp: 0000023AE9E3A800 Response Header Connection: keep-alive
+[2026.05.05-15.12.32:771][595]LogEOSSDK: Warning: LogHttp: 0000023AE9E3A800 Response Header x-epic-correlation-id: fd80acc1-1087-4827-9602-f744b2551bf9
+[2026.05.05-15.12.32:771][595]LogEOSSDK: Warning: LogHttp: 0000023AE9E3A800 Response Header Server: cloudflare
+[2026.05.05-15.12.32:771][595]LogEOSSDK: Warning: LogHttp: 0000023AE9E3A800 Response Header cf-cache-status: DYNAMIC
+[2026.05.05-15.12.32:771][595]LogEOSSDK: Warning: LogHttp: 0000023AE9E3A800 Response Header CF-RAY: 9f70aefda945b5af-LHR
+[2026.05.05-15.12.32:771][595]LogEOSSDK: Warning: LogHttp: 0000023AE9E3A800 Response Header alt-svc: h3=":443"; ma=86400
+[2026.05.05-15.12.44:107][629]LogEOSSDK: Warning: LogHttp: 0000023AE9E34800: request has been successfully processed. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=96C119644175C4D915F2DEACC9F2CDCD, HTTP code: 502, content length: 2058, actual payload size: 2058, elapsed: 8.86s
+[2026.05.05-15.12.44:107][629]LogEOSSDK: Warning: LogHttp: 0000023AE9E34800 Response Header Date: Tue, 05 May 2026 15:12:39 GMT
+[2026.05.05-15.12.44:107][629]LogEOSSDK: Warning: LogHttp: 0000023AE9E34800 Response Header Content-Type: text/html; charset=UTF-8
+[2026.05.05-15.12.44:107][629]LogEOSSDK: Warning: LogHttp: 0000023AE9E34800 Response Header Content-Length: 2058
+[2026.05.05-15.12.44:107][629]LogEOSSDK: Warning: LogHttp: 0000023AE9E34800 Response Header Connection: keep-alive
+[2026.05.05-15.12.44:107][629]LogEOSSDK: Warning: LogHttp: 0000023AE9E34800 Response Header Cache-Control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+[2026.05.05-15.12.44:107][629]LogEOSSDK: Warning: LogHttp: 0000023AE9E34800 Response Header Expires: Thu, 01 Jan 1970 00:00:01 GMT
+[2026.05.05-15.12.44:107][629]LogEOSSDK: Warning: LogHttp: 0000023AE9E34800 Response Header Referrer-Policy: same-origin
+[2026.05.05-15.12.44:107][629]LogEOSSDK: Warning: LogHttp: 0000023AE9E34800 Response Header X-Frame-Options: SAMEORIGIN
+[2026.05.05-15.12.44:107][629]LogEOSSDK: Warning: LogHttp: 0000023AE9E34800 Response Header Server: cloudflare
+[2026.05.05-15.12.44:107][629]LogEOSSDK: Warning: LogHttp: 0000023AE9E34800 Response Header CF-RAY: 9f70af0e78f2b5af-LHR
+[2026.05.05-15.12.44:107][629]LogEOSSDK: Warning: LogHttp: 0000023AE9E34800 Response Header alt-svc: h3=":443"; ma=86400
+[2026.05.05-15.12.44:107][629]LogEOSSDK: Warning: LogEOS: Error response received from backend. Response is not JSON. ServiceName=[Metrics], OperationName=[SendBackendEvent], Url=[<Redacted>], HttpStatus=[502], CorrId=[]
+[2026.05.05-15.13.32:779][775]LogEOSSDK: Warning: LogHttp: 0000023AE9E30000: request has been successfully processed. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B4F431AEB-491F-C13D-19C8-17AD8360D7DE%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 503, content length: 81, actual payload size: 81, elapsed: 0.10s
+[2026.05.05-15.13.32:779][775]LogEOSSDK: Warning: LogHttp: 0000023AE9E30000 Response Header Date: Tue, 05 May 2026 15:13:27 GMT
+[2026.05.05-15.13.32:779][775]LogEOSSDK: Warning: LogHttp: 0000023AE9E30000 Response Header Content-Type: text/plain
+[2026.05.05-15.13.32:779][775]LogEOSSDK: Warning: LogHttp: 0000023AE9E30000 Response Header Content-Length: 81
+[2026.05.05-15.13.32:779][775]LogEOSSDK: Warning: LogHttp: 0000023AE9E30000 Response Header Connection: keep-alive
+[2026.05.05-15.13.32:779][775]LogEOSSDK: Warning: LogHttp: 0000023AE9E30000 Response Header x-epic-correlation-id: bc9cf8e5-17e8-4a5f-9f68-819e93a5196d
+[2026.05.05-15.13.32:780][776]LogEOSSDK: Warning: LogHttp: 0000023AE9E30000 Response Header Server: cloudflare
+[2026.05.05-15.13.32:780][776]LogEOSSDK: Warning: LogHttp: 0000023AE9E30000 Response Header cf-cache-status: DYNAMIC
+[2026.05.05-15.13.32:780][776]LogEOSSDK: Warning: LogHttp: 0000023AE9E30000 Response Header CF-RAY: 9f70b074cd9fb5af-LHR
+[2026.05.05-15.13.32:780][776]LogEOSSDK: Warning: LogHttp: 0000023AE9E30000 Response Header alt-svc: h3=":443"; ma=86400
