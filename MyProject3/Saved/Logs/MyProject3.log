@@ -6358,3 +6358,170 @@ Sampler Limit: 32
 [2026.05.05-15.13.32:780][776]LogEOSSDK: Warning: LogHttp: 0000023AE9E30000 Response Header cf-cache-status: DYNAMIC
 [2026.05.05-15.13.32:780][776]LogEOSSDK: Warning: LogHttp: 0000023AE9E30000 Response Header CF-RAY: 9f70b074cd9fb5af-LHR
 [2026.05.05-15.13.32:780][776]LogEOSSDK: Warning: LogHttp: 0000023AE9E30000 Response Header alt-svc: h3=":443"; ma=86400
+[2026.05.05-15.14.44:116][989]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5171.751953
+[2026.05.05-15.14.45:116][992]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-15.14.45:116][992]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5172.418457, Update Interval: 325.783875
+[2026.05.05-15.20.58:130][111]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5545.765625
+[2026.05.05-15.20.59:130][114]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-15.20.59:130][114]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5546.432129, Update Interval: 353.219391
+[2026.05.05-15.27.26:821][277]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5934.472168
+[2026.05.05-15.27.27:821][280]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-15.27.27:821][280]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5935.138672, Update Interval: 343.340546
+[2026.05.05-15.33.46:180][415]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6313.844238
+[2026.05.05-15.33.47:180][418]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-15.33.47:180][418]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6314.510742, Update Interval: 350.097351
+[2026.05.05-15.40.24:535][610]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6712.206055
+[2026.05.05-15.40.25:535][613]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-15.40.25:535][613]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6712.873535, Update Interval: 313.066803
+[2026.05.05-15.46.15:238][662]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7062.916016
+[2026.05.05-15.46.16:238][665]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-15.46.16:238][665]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7063.583008, Update Interval: 309.721375
+[2026.05.05-15.50.28:318][422]LogDerivedDataCache: C:/Users/Corey/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.05-15.52.07:254][718]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7414.940918
+[2026.05.05-15.52.08:254][721]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-15.52.08:254][721]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7415.608887, Update Interval: 343.781860
+[2026.05.05-15.58.35:940][884]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7803.639648
+[2026.05.05-15.58.36:940][887]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-15.58.36:940][887]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7804.306152, Update Interval: 342.164978
+[2026.05.05-16.04.56:740][ 26]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8184.446289
+[2026.05.05-16.04.57:740][ 29]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-16.04.57:740][ 29]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8185.114746, Update Interval: 322.984100
+[2026.05.05-16.11.17:457][168]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8565.165039
+[2026.05.05-16.11.18:456][171]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-16.11.18:456][171]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8565.831055, Update Interval: 306.678070
+[2026.05.05-16.17.00:495][197]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8908.223633
+[2026.05.05-16.17.01:495][200]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-16.17.01:495][200]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8908.890625, Update Interval: 349.247711
+[2026.05.05-16.23.35:872][383]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9303.605469
+[2026.05.05-16.23.36:873][386]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-16.23.36:873][387]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9304.273438, Update Interval: 358.033386
+[2026.05.05-16.30.30:260][626]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9717.994141
+[2026.05.05-16.30.31:261][629]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-16.30.31:261][629]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9718.659180, Update Interval: 324.225586
+[2026.05.05-16.36.28:641][701]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10076.377930
+[2026.05.05-16.36.29:643][704]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-16.36.29:643][704]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10077.044922, Update Interval: 349.683533
+[2026.05.05-16.42.55:022][860]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10462.769531
+[2026.05.05-16.42.56:024][863]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-16.42.56:024][863]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10463.436523, Update Interval: 356.198608
+[2026.05.05-16.49.31:751][ 50]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10859.494141
+[2026.05.05-16.49.32:752][ 53]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.05-16.49.32:752][ 53]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10860.161133, Update Interval: 300.657379
+[2026.05.05-16.50.28:319][ 48]LogDerivedDataCache: C:/Users/Corey/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.05-16.50.34:939][470]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/BP_Coin.BP_Coin_C
+[2026.05.05-16.50.34:940][470]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/BP_Coin.BP_Coin_C
+[2026.05.05-16.50.34:942][470]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/BP_Coin.BP_Coin as actor: BP_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Coin_C_6
+[2026.05.05-16.50.34:944][470]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/BP_Coin.BP_Coin as actor: BP_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Coin_C_6
+[2026.05.05-16.50.35:063][471]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2026.05.05-16.50.35:071][471]LogEditorActor: Deleted 0 Actors (0.065 secs)
+[2026.05.05-16.50.35:078][471]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/BP_Coin.BP_Coin_C
+[2026.05.05-16.50.35:078][471]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/BP_Coin.BP_Coin_C
+[2026.05.05-16.50.35:111][471]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/BP_Coin.BP_Coin as actor: BP_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Coin_C_UAID_244BFE527C6933D802_1831731592
+[2026.05.05-16.50.35:113][471]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/BP_Coin.BP_Coin as actor: BP_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Coin_C_UAID_244BFE527C6933D802_1831731592
+[2026.05.05-16.50.35:868][498]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/BP_Coin.BP_Coin_C
+[2026.05.05-16.50.35:868][498]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/BP_Coin.BP_Coin_C
+[2026.05.05-16.50.35:870][498]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/BP_Coin.BP_Coin as actor: BP_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Coin_C_7
+[2026.05.05-16.50.35:872][498]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/BP_Coin.BP_Coin as actor: BP_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Coin_C_7
+[2026.05.05-16.50.36:017][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2026.05.05-16.50.36:019][501]LogEditorActor: Deleted 0 Actors (0.036 secs)
+[2026.05.05-16.50.36:027][501]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/BP_Coin.BP_Coin_C
+[2026.05.05-16.50.36:027][501]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/BP_Coin.BP_Coin_C
+[2026.05.05-16.50.36:058][501]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/BP_Coin.BP_Coin as actor: BP_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Coin_C_UAID_244BFE527C6933D802_1832680593
+[2026.05.05-16.50.36:060][501]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/BP_Coin.BP_Coin as actor: BP_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Coin_C_UAID_244BFE527C6933D802_1832680593
+[2026.05.05-16.50.36:764][526]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/BP_Coin.BP_Coin_C
+[2026.05.05-16.50.36:764][526]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/BP_Coin.BP_Coin_C
+[2026.05.05-16.50.36:766][526]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/BP_Coin.BP_Coin as actor: BP_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Coin_C_8
+[2026.05.05-16.50.36:769][526]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/BP_Coin.BP_Coin as actor: BP_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Coin_C_8
+[2026.05.05-16.50.36:959][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.05.05-16.50.36:962][532]LogEditorActor: Deleted 0 Actors (0.035 secs)
+[2026.05.05-16.50.36:969][532]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/BP_Coin.BP_Coin_C
+[2026.05.05-16.50.36:969][532]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/BP_Coin.BP_Coin_C
+[2026.05.05-16.50.36:999][532]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/BP_Coin.BP_Coin as actor: BP_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Coin_C_UAID_244BFE527C6933D802_1833622594
+[2026.05.05-16.50.37:002][532]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/BP_Coin.BP_Coin as actor: BP_Coin_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Coin_C_UAID_244BFE527C6933D802_1833622594
+[2026.05.05-16.50.39:746][642]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/Bp_gold_coin_door1.Bp_gold_coin_door1_C
+[2026.05.05-16.50.39:746][642]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/Bp_gold_coin_door1.Bp_gold_coin_door1_C
+[2026.05.05-16.50.39:748][642]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/Bp_gold_coin_door1.Bp_gold_coin_door1 as actor: Bp_gold_coin_door1_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Bp_gold_coin_door1_C_2
+[2026.05.05-16.50.39:751][642]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/Bp_gold_coin_door1.Bp_gold_coin_door1 as actor: Bp_gold_coin_door1_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Bp_gold_coin_door1_C_2
+[2026.05.05-16.50.40:371][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.05.05-16.50.40:374][654]LogEditorActor: Deleted 0 Actors (0.033 secs)
+[2026.05.05-16.50.40:382][654]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/Bp_gold_coin_door1.Bp_gold_coin_door1_C
+[2026.05.05-16.50.40:382][654]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/Bp_gold_coin_door1.Bp_gold_coin_door1_C
+[2026.05.05-16.50.40:409][654]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/Bp_gold_coin_door1.Bp_gold_coin_door1 as actor: Bp_gold_coin_door1_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Bp_gold_coin_door1_C_UAID_244BFE527C6933D802_1837035595
+[2026.05.05-16.50.40:412][654]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/Bp_gold_coin_door1.Bp_gold_coin_door1 as actor: Bp_gold_coin_door1_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.Bp_gold_coin_door1_C_UAID_244BFE527C6933D802_1837035595
+[2026.05.05-16.50.43:789][834]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.05-16.50.43:801][834]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.05-16.50.43:801][834]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.05.05-16.50.43:819][834]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 18.415 ms (total: 517.175 ms)
+[2026.05.05-16.50.43:820][834]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.05-16.50.43:820][834]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.05.05-16.50.43:939][834]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.05-16.50.43:958][834]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 18.550 ms (total: 492.136 ms)
+[2026.05.05-16.50.44:114][834]LogPlayLevel: PIE: StaticDuplicateObject took: (0.293839s)
+[2026.05.05-16.50.44:114][834]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.293889s)
+[2026.05.05-16.50.44:144][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2026.05.05-16.50.44:146][834]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.05.05-16.50.44:149][834]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.05-16.50.44:149][834]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.05-16.50.44:149][834]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.05-16.50.44:149][834]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.05-16.50.44:173][834]LogWorldPartition: Display: WorldPartition initialize took 24.191 ms (total: 1.34 sec)
+[2026.05.05-16.50.44:174][834]LogPlayLevel: PIE: World Init took: (0.026782s)
+[2026.05.05-16.50.44:175][834]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2026.05.05-16.50.44:175][834]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.05-16.50.44:175][834]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.05-16.50.44:175][834]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.05-16.50.44:175][834]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.05-16.50.44:175][834]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.05-16.50.44:175][834]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.05-16.50.44:175][834]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.05-16.50.44:175][834]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.05-16.50.44:175][834]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.05-16.50.44:175][834]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.05-16.50.44:175][834]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.05-16.50.44:179][834]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.05-16.50.44:204][834]LogAudioMixer: Display: Using Audio Hardware Device Headphones (HyperX Cloud III)
+[2026.05.05-16.50.44:204][834]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.05-16.50.44:204][834]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.05-16.50.44:204][834]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.05-16.50.44:205][834]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2026.05.05-16.50.44:205][834]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2026.05.05-16.50.44:207][834]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2026.05.05-16.50.44:207][834]LogInit: FAudioDevice initialized with ID 31.
+[2026.05.05-16.50.44:207][834]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2026.05.05-16.50.44:207][834]LogAudio: Display: Audio Device (ID: 31) registered with world 'Lvl_ThirdPerson'.
+[2026.05.05-16.50.44:207][834]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2026.05.05-16.50.44:214][834]LogLoad: Game class is 'BP_PlatformingGameMode_C'
+[2026.05.05-16.50.44:237][834]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.05.05-17.50.44
+[2026.05.05-16.50.44:239][834]LogWorld: Bringing up level for play took: 0.024338
+[2026.05.05-16.50.44:242][834]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2026.05.05-16.50.44:251][834]LogBlueprintUserMessages: [BP_PlatformingCharacter_C_0] load
+[2026.05.05-16.50.44:254][834]PIE: Server logged in
+[2026.05.05-16.50.44:256][834]PIE: Play in editor total start time 0.455 seconds.
+[2026.05.05-16.50.44:318][835]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.05.05-16.50.44:474][836]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2026.05.05-16.50.49:758][143]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_4' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.05-16.50.49:759][143]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.05-16.50.49:759][143]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_3' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.05-16.50.49:759][143]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.05-16.50.49:759][143]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_2' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.05-16.50.49:759][143]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.05-16.50.49:759][143]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_1' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.05-16.50.49:759][143]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.05-16.50.49:759][143]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.05-16.50.49:759][143]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.05-16.50.50:244][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.05-16.50.50:244][169]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.05.05-16.50.50:244][169]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.05-16.50.50:247][169]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.05.05-16.50.50:250][169]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.05-16.50.50:251][169]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.05.05-16.50.50:252][169]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.05-16.50.50:263][169]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.05-16.50.50:296][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.05-16.50.50:297][169]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2026.05.05-16.50.50:297][169]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31, StreamState=4
+[2026.05.05-16.50.50:299][169]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31, StreamState=2
+[2026.05.05-16.50.50:314][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2026.05.05-16.50.50:398][170]LogPlayLevel: Display: Destroying online subsystem :Context_62
