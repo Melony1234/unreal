@@ -1,3 +1,5 @@
-2026/04/21-17:06:22.519 3b08 Reusing MANIFEST D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/04/21-17:06:22.520 3b08 Recovering log #27
-2026/04/21-17:06:22.520 3b08 Reusing old log D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/webcache_4430\Local Storage\leveldb/000027.log 
+2026/05/06-19:37:54.849 65ec Reusing MANIFEST D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/05/06-19:37:54.870 65ec Recovering log #27
+2026/05/06-19:37:54.870 65ec Level-0 table #30: started
+2026/05/06-19:37:54.914 65ec Level-0 table #30: 76170 bytes OK
+2026/05/06-19:37:54.954 65ec Delete type=0 #27
