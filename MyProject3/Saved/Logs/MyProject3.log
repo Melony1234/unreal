@@ -1393,3 +1393,165 @@ FPackageName: Skipped package /Game/_Materials/MA_bricks/Mi_bricks_Inst2 has a v
 [2026.05.06-13.48.24:905][183]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1703.290405
 [2026.05.06-13.48.25:906][186]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.05.06-13.48.25:906][186]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1703.958374, Update Interval: 332.212891
+[2026.05.06-13.54.58:030][362]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2096.415527
+[2026.05.06-13.54.59:030][365]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.06-13.54.59:030][365]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2097.082520, Update Interval: 322.691132
+[2026.05.06-13.55.17:101][589]LogStreaming: Display: FlushAsyncLoading(527): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.06-13.55.17:115][589]LogInterchangeEngine: [Pending] Importing
+[2026.05.06-13.55.17:115][589]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Corey/Downloads/e6ca5cc4981887b8d539c029c3bf5864.png]
+[2026.05.06-13.55.17:176][591]LogStreaming: Display: FlushAsyncLoading(532): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.06-13.55.17:190][593]LogTexture: Display: Building textures: /Game/_Materials/_Jumpscare_test/e6ca5cc4981887b8d539c029c3bf5864.e6ca5cc4981887b8d539c029c3bf5864 (TFO_AutoDXT, 500x500 x1x1x1) (Required Memory Estimate: 29.451255 MB), EncodeSpeed: Fast
+[2026.05.06-13.55.17:247][593]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Corey/Downloads/e6ca5cc4981887b8d539c029c3bf5864.png]
+[2026.05.06-13.55.17:247][593]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.05.06-13.55.17:247][593]LogInterchangeEngine: [Success] Import Done
+[2026.05.06-13.55.27:473][415]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.05.06-13.55.27:498][415]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.05.06-13.55.27:504][415]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.05.06-13.55.27:529][416]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.05.06-13.55.31:218][816]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_J
+[2026.05.06-13.55.31:227][816]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.05.06-13.55.33:839][ 72]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.05.06-13.55.33:923][ 73]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.05.06-13.55.33:968][ 74]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.05.06-13.55.34:608][134]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Materials/_Jumpscare_test/BP_J.BP_J
+[2026.05.06-13.55.34:609][134]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2026.05.06-13.55.34:678][134]LogStreaming: Display: FlushAsyncLoading(533): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.06-13.55.36:179][134]LogSlate: Took 0.000355 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.05.06-13.55.36:965][171]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2026.05.06-13.55.37:041][173]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2026.05.06-13.55.37:067][174]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2026.05.06-13.55.37:105][175]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2026.05.06-13.55.37:166][177]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2026.05.06-13.55.37:195][178]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2026.05.06-13.55.37:581][190]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2026.05.06-13.55.37:660][192]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2026.05.06-13.55.37:716][194]LogRenderer: Using fallback RTPSO
+[2026.05.06-13.55.37:767][196]LogRenderer: Using fallback RTPSO
+[2026.05.06-13.55.37:867][200]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2026.05.06-13.55.38:095][208]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2026.05.06-13.55.42:399][486]LogContentBrowser: Attempting asset rename: BP_J -> BP_Jumpscare
+[2026.05.06-13.55.42:522][486]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.06-13.55.42:522][486]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Materials/_Jumpscare_test/BP_Jumpscare] ([2] browsable assets)...
+[2026.05.06-13.55.42:522][486]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/_Jumpscare_test/BP_Jumpscare]
+[2026.05.06-13.55.42:522][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Materials/_Jumpscare_test/BP_Jumpscare" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/_Jumpscare_test/BP_Jumpscare.uasset" SILENT=true
+[2026.05.06-13.55.42:532][486]LogSavePackage: Moving output files for package: /Game/_Materials/_Jumpscare_test/BP_Jumpscare
+[2026.05.06-13.55.42:532][486]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/BP_JumpscareEDC2F7D747667FBADF9E0480FF6C62F3.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/_Jumpscare_test/BP_Jumpscare.uasset'
+[2026.05.06-13.55.42:539][486]LogFileHelpers: InternalPromptForCheckoutAndSave took 15.730 ms
+[2026.05.06-13.55.42:620][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.05.06-13.55.42:648][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.05.06-13.55.42:673][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.05.06-13.55.42:731][486]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.06-13.55.42:731][486]LogContentValidation: Enabled validators:
+[2026.05.06-13.55.42:731][486]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.06-13.55.42:731][486]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.06-13.55.42:731][486]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.06-13.55.42:731][486]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.06-13.55.42:731][486]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.06-13.55.42:731][486]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.06-13.55.42:731][486]AssetCheck: /Game/_Materials/_Jumpscare_test/BP_Jumpscare Validating asset
+[2026.05.06-13.55.42:783][486]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.06-13.56.05:715][373]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2026.05.06-13.56.05:869][375]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2026.05.06-13.56.09:895][536]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Materials/_Jumpscare_test/BP_Jumpscare.BP_Jumpscare_C
+[2026.05.06-13.56.09:895][536]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Materials/_Jumpscare_test/BP_Jumpscare.BP_Jumpscare_C
+[2026.05.06-13.56.09:897][536]LogActorFactory: Actor Factory spawned Blueprint /Game/_Materials/_Jumpscare_test/BP_Jumpscare.BP_Jumpscare as actor: BP_Jumpscare_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Jumpscare_C_0
+[2026.05.06-13.56.09:897][536]LogActorFactory: Actor Factory spawned Blueprint /Game/_Materials/_Jumpscare_test/BP_Jumpscare.BP_Jumpscare as actor: BP_Jumpscare_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Jumpscare_C_0
+[2026.05.06-13.56.10:425][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2026.05.06-13.56.10:428][550]LogEditorActor: Deleted 0 Actors (0.031 secs)
+[2026.05.06-13.56.10:435][550]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Materials/_Jumpscare_test/BP_Jumpscare.BP_Jumpscare_C
+[2026.05.06-13.56.10:435][550]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Materials/_Jumpscare_test/BP_Jumpscare.BP_Jumpscare_C
+[2026.05.06-13.56.10:468][550]LogActorFactory: Actor Factory spawned Blueprint /Game/_Materials/_Jumpscare_test/BP_Jumpscare.BP_Jumpscare as actor: BP_Jumpscare_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Jumpscare_C_UAID_244BFE527C697AD802_1531420063
+[2026.05.06-13.56.10:470][550]LogActorFactory: Actor Factory spawned Blueprint /Game/_Materials/_Jumpscare_test/BP_Jumpscare.BP_Jumpscare as actor: BP_Jumpscare_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Jumpscare_C_UAID_244BFE527C697AD802_1531420063
+[2026.05.06-13.56.50:184][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2026.05.06-13.56.50:196][448]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/3Z/9C7OYGPUBB990MFWOHO043_Auto2
+[2026.05.06-13.56.50:196][448]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/9C7OYGPUBB990MFWOHO043_Auto2D678F97E4E7AE4003376A3AC407A1776.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/3Z/9C7OYGPUBB990MFWOHO043_Auto2.uasset'
+[2026.05.06-13.56.50:197][448]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.052
+[2026.05.06-13.56.50:197][448]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.052
+[2026.05.06-13.56.50:197][448]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Materials/_Jumpscare_test/e6ca5cc4981887b8d539c029c3bf5864] ([1] browsable assets)...
+[2026.05.06-13.56.50:203][448]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/_Materials/_Jumpscare_test/e6ca5cc4981887b8d539c029c3bf5864.e6ca5cc4981887b8d539c029c3bf5864]
+[2026.05.06-13.56.50:203][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/_Jumpscare_test/e6ca5cc4981887b8d539c029c3bf5864]
+[2026.05.06-13.56.50:215][448]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Materials/_Jumpscare_test/e6ca5cc4981887b8d539c029c3bf5864_Auto2
+[2026.05.06-13.56.50:215][448]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/e6ca5cc4981887b8d539c029c3bf5864C5847E8F452DAAF88CC484BF5862BDB6.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Materials/_Jumpscare_test/e6ca5cc4981887b8d539c029c3bf5864_Auto2.uasset'
+[2026.05.06-13.56.50:215][448]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Materials/_Jumpscare_test/BP_Jumpscare] ([2] browsable assets)...
+[2026.05.06-13.56.50:292][448]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Materials/_Jumpscare_test/BP_Jumpscare.BP_Jumpscare]
+[2026.05.06-13.56.50:292][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/_Jumpscare_test/BP_Jumpscare]
+[2026.05.06-13.56.50:305][448]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Materials/_Jumpscare_test/BP_Jumpscare_Auto2
+[2026.05.06-13.56.50:305][448]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/BP_Jumpscare_Auto260E16F464F5A77FB6C2E17854E83FAC1.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Materials/_Jumpscare_test/BP_Jumpscare_Auto2.uasset'
+[2026.05.06-13.56.50:306][448]LogFileHelpers: Auto-saving content packages took 0.108
+[2026.05.06-13.56.53:539][481]LogStreaming: Display: FlushAsyncLoading(688): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.06-13.56.53:551][481]LogInterchangeEngine: [Pending] Importing
+[2026.05.06-13.56.53:551][481]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Corey/Downloads/91769719a3d8e79463569daf8e8f3e0c.png]
+[2026.05.06-13.56.54:242][483]LogStreaming: Display: FlushAsyncLoading(689): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.06-13.56.54:552][485]LogTexture: Display: Building textures: /Game/_Materials/_Jumpscare_test/91769719a3d8e79463569daf8e8f3e0c.91769719a3d8e79463569daf8e8f3e0c (BGRA8, 735x679 x1x1x1) (Required Memory Estimate: 18.134037 MB), EncodeSpeed: Fast
+[2026.05.06-13.56.54:903][485]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Corey/Downloads/91769719a3d8e79463569daf8e8f3e0c.png]
+[2026.05.06-13.56.54:913][485]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.05.06-13.56.54:913][485]LogInterchangeEngine: [Success] Import Done
+[2026.05.06-13.57.02:439][705]LogEditor: Attempting to add actor of class 'MediaPlate' to level at -9327.61,-24946.81,121.20
+[2026.05.06-13.57.02:470][705]LogStreaming: Display: FlushAsyncLoading(690): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.06-13.57.04:215][747]LogRenderer: Using fallback RTPSO
+[2026.05.06-13.57.04:296][748]LogD3D12RHI: Creating RTPSO with 37 shaders (0 cached, 1 new) took 81.04 ms. Compile time 80.00 ms, link time 1.00 ms.
+[2026.05.06-13.57.04:380][750]LogRenderer: Using fallback RTPSO
+[2026.05.06-13.57.04:474][751]LogRenderer: Using fallback RTPSO
+[2026.05.06-13.57.04:803][766]Cmd: DELETE
+[2026.05.06-13.57.04:803][766]Cmd: ACTOR DELETE
+[2026.05.06-13.57.04:823][766]LogEditorActor: Deleted Actor: MediaPlate
+[2026.05.06-13.57.04:856][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2026.05.06-13.57.04:857][766]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2026.05.06-13.57.24:695][894]LogEditor: Attempting to add actor of class 'MediaPlate' to level at -9467.96,-25057.41,16.59
+[2026.05.06-13.57.36:824][636]LogAssetEditorSubsystem: Opening Asset editor for MediaPlateComponent /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.MediaPlate_UAID_244BFE527C697AD802_1605679065.MediaPlateComponent0
+[2026.05.06-13.57.43:446][996]LogSlate: Window 'MediaPlateComponent0' being destroyed
+[2026.05.06-13.57.43:455][996]LogSlate: Window 'MediaPlateComponent0' being destroyed
+[2026.05.06-13.57.43:461][996]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2026.05.06-13.57.43:461][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.06-13.57.43:571][996]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2026.05.06-13.59.00:697][822]LogRenderer: Using fallback RTPSO
+[2026.05.06-13.59.00:720][823]LogRenderer: Using fallback RTPSO
+[2026.05.06-13.59.01:002][832]LogRenderer: Using fallback RTPSO
+[2026.05.06-13.59.12:688][669]LogShaderCompilers: Display: ================================================
+[2026.05.06-13.59.12:688][669]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.05.06-13.59.12:688][669]LogShaderCompilers: Display: Total job queries 665, among them cache hits 126 (18.95%), DDC hits 468 (70.38%), Duplicates 66 (9.92%)
+[2026.05.06-13.59.12:688][669]LogShaderCompilers: Display: Tracking 473 distinct input hashes that result in 347 distinct outputs (73.36%)
+[2026.05.06-13.59.12:688][669]LogShaderCompilers: Display: RAM used: 4.17 MiB of 3.20 GiB budget. Usage: 0.13%
+[2026.05.06-13.59.12:688][669]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.05.06-13.59.12:688][669]LogShaderCompilers: Display: Shaders Compiled: 5
+[2026.05.06-13.59.12:688][669]LogShaderCompilers: Display: Jobs assigned 5, completed 5 (100%)
+[2026.05.06-13.59.12:688][669]LogShaderCompilers: Display: Average time worker was idle: 33.49 s
+[2026.05.06-13.59.12:688][669]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.07 s
+[2026.05.06-13.59.12:688][669]LogShaderCompilers: Display: Job execution time: average 0.99 s, max 1.64 s
+[2026.05.06-13.59.12:688][669]LogShaderCompilers: Display: Job life time (pending + execution): average 1.05 s, max 1.70
+[2026.05.06-13.59.12:688][669]LogShaderCompilers: Display: Shader code size: total 38.215 KiB, numShaders 6, average 6.369 KiB, min 3.777 KiB, max 10.641 KiB
+[2026.05.06-13.59.12:688][669]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.29 s
+[2026.05.06-13.59.12:688][669]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.03%
+[2026.05.06-13.59.12:688][669]LogShaderCompilers: Display: Jobs were issued in 5 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.05.06-13.59.12:688][669]LogShaderCompilers: Display: Average processing rate: 2.18 jobs/sec
+[2026.05.06-13.59.12:688][669]LogShaderCompilers: Display: Total thread time: 3.791 s
+[2026.05.06-13.59.12:688][669]LogShaderCompilers: Display: Total thread preprocess time: 11.498 s
+[2026.05.06-13.59.12:688][669]LogShaderCompilers: Display: Percentage time preprocessing: 303.28%
+[2026.05.06-13.59.12:688][669]LogShaderCompilers: Display: Effective parallelization: 1.65 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.206751
+[2026.05.06-13.59.12:688][669]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.05.06-13.59.12:688][669]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 1.18 sec, max 1.18 sec, min 1.18 sec)
+[2026.05.06-13.59.12:688][669]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.93 sec, max 0.93 sec, min 0.93 sec)
+[2026.05.06-13.59.12:688][669]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.70 sec, max 0.70 sec, min 0.70 sec)
+[2026.05.06-13.59.12:688][669]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    1 times, average 0.48 sec, max 0.48 sec, min 0.48 sec)
+[2026.05.06-13.59.12:688][669]LogShaderCompilers: Display:                                TSlateMaterialShaderPSDefault (compiled    1 times, average 0.28 sec, max 0.28 sec, min 0.28 sec)
+[2026.05.06-13.59.12:688][669]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.05.06-13.59.12:688][669]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 31.05% of total time (compiled    1 times, average 1.18 sec, max 1.18 sec, min 1.18 sec)
+[2026.05.06-13.59.12:688][669]LogShaderCompilers: Display:                                                  FVelocityPS - 24.54% of total time (compiled    1 times, average 0.93 sec, max 0.93 sec, min 0.93 sec)
+[2026.05.06-13.59.12:688][669]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.44% of total time (compiled    1 times, average 0.70 sec, max 0.70 sec, min 0.70 sec)
+[2026.05.06-13.59.12:688][669]LogShaderCompilers: Display:                                                  FVelocityVS - 12.74% of total time (compiled    1 times, average 0.48 sec, max 0.48 sec, min 0.48 sec)
+[2026.05.06-13.59.12:688][669]LogShaderCompilers: Display:                                TSlateMaterialShaderPSDefault - 7.44% of total time (compiled    1 times, average 0.28 sec, max 0.28 sec, min 0.28 sec)
+[2026.05.06-13.59.12:688][669]LogShaderCompilers: Display: === Material stats ===
+[2026.05.06-13.59.12:688][669]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.05.06-13.59.12:688][669]LogShaderCompilers: Display: Materials Translated:    168
+[2026.05.06-13.59.12:688][669]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2026.05.06-13.59.12:688][669]LogShaderCompilers: Display: Material Translation Only: 0.05 s (43%)
+[2026.05.06-13.59.12:688][669]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2026.05.06-13.59.12:688][669]LogShaderCompilers: Display: Material Cache Hits: 34 (20%)
+[2026.05.06-13.59.12:688][669]LogShaderCompilers: Display: ================================================
+[2026.05.06-13.59.33:370][ 44]LogAssetEditorSubsystem: Opening Asset editor for MediaPlateComponent /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.MediaPlate_UAID_244BFE527C697AD802_1605679065.MediaPlateComponent0
+[2026.05.06-13.59.46:173][877]Cmd: DELETE
+[2026.05.06-13.59.46:173][877]Cmd: ACTOR DELETE
+[2026.05.06-13.59.46:187][877]LogEditorActor: Deleted Actor: MediaPlate
+[2026.05.06-13.59.46:192][877]LogSlate: Window 'MediaPlateComponent0' being destroyed
+[2026.05.06-13.59.46:303][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2026.05.06-13.59.46:306][877]LogEditorActor: Deleted 1 Actors (0.133 secs)
