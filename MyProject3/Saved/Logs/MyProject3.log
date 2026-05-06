@@ -1203,3 +1203,136 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.05.06-18.38.24:592][220]LogFab: Display: Add listing to project - 85698ecb-e60c-4882-a7e1-746345602c12
 [2026.05.06-18.38.24:592][220]LogFab: Display: Listing type - unreal-engine
 [2026.05.06-18.38.24:592][220]LogFab: Display: Base Url https://egdownload.fastly-edge.com/Builds/Rocket/Automated/Mechanic5c711a18cec2V1/CloudDir,https://epicgames-download1.akamaized.net/Builds/Rocket/Automated/Mechanic5c711a18cec2V1/CloudDir,https://download.epicgames.com/Builds/Rocket/Automated/Mechanic5c711a18cec2V1/CloudDir,https://cloudflare.epicgamescdn.com/Builds/Rocket/Automated/Mechanic5c711a18cec2V1/CloudDir
+[2026.05.06-18.40.35:639][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2026.05.06-18.40.35:785][758]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Lvl_ThirdPerson_Auto1
+[2026.05.06-18.40.35:785][758]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Lvl_ThirdPerson_Auto1D73460534FE0C2647BDC40BB58202739.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/ThirdPerson/Lvl_ThirdPerson_Auto1.umap'
+[2026.05.06-18.40.35:787][758]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.197
+[2026.05.06-18.40.35:787][758]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.197
+[2026.05.06-18.40.44:215][784]LogDirectoryWatcher: Display: A directory notification failed for 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2026.05.06-18.40.44:215][784]LogDirectoryWatcher: Display: A directory notification failed for 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2026.05.06-18.40.44:215][784]LogDirectoryWatcher: Display: A directory notification failed for 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/Developers/Corey/Collections/' because it could not be accessed. Aborting watch request...
+[2026.05.06-18.40.48:421][795]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 620.165283
+[2026.05.06-18.40.49:420][798]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.06-18.40.49:420][798]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 620.832397, Update Interval: 315.890381
+[2026.05.06-18.41.35:605][104]LogStreaming: Display: FlushAsyncLoading(650): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.06-18.41.35:728][104]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/Base/T_EYES_Cornea_01.T_EYES_Cornea_01 (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 46.083323 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.35:757][104]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/Base/T_EYES_Emissive_01.T_EYES_Emissive_01 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.35:765][104]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/Base/T_EYES_GLOSS.T_EYES_GLOSS (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.35:830][104]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/Base/Mist/T_EYES_MIST_noAO_BaseColor_08.T_EYES_MIST_noAO_BaseColor_08 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.35:943][104]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/Base/T_BODY_DetailWeight_01.T_BODY_DetailWeight_01 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.36:133][104]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/Base/T_BODY_Mask_Blood_01.T_BODY_Mask_Blood_01 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.36:186][104]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/Base/T_BODY_F_BaseColor.T_BODY_F_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.36:336][104]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/Base/T_BODY_Mask_Dirt_02.T_BODY_Mask_Dirt_02 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.36:402][104]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/Base/T_BODY_Normal_02.T_BODY_Normal_02 (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.36:418][104]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/Base/T_BODY_Normal_01.T_BODY_Normal_01 (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.36:464][104]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/Base/T_BODY_Roughness.T_BODY_Roughness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.36:567][104]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/Base/T_BODY_SSS.T_BODY_SSS (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.36:833][104]LogSkeletalMesh: Building Skeletal Mesh SK_MechanicGirl_01...
+[2026.05.06-18.41.36:951][104]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/IdaFaber/Meshes/Girl/PA_UE5_F.PA_UE5_F as actor: SkeletalMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.SkeletalMeshActor_0
+[2026.05.06-18.41.36:968][104]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_MechanicGirl_01) ...
+[2026.05.06-18.41.37:349][104]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/Base/T_Placeholder.T_Placeholder (TFO_AutoDXT, 32x32 x1x1x1) (Required Memory Estimate: 1.16142 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.37:349][104]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/Base/T_Placeholder_White.T_Placeholder_White (TFO_AutoDXT, 32x32 x1x1x1) (Required Memory Estimate: 1.16142 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.37:502][104]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/Base/T_HEAD_F_Roughness.T_HEAD_F_Roughness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.37:581][104]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/Base/T_HEAD_DetailWeight.T_HEAD_DetailWeight (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.37:746][104]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/Base/T_HEAD_Mask_Blood_01.T_HEAD_Mask_Blood_01 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.37:832][104]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/Base/T_SKIN_Specular.T_SKIN_Specular (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.37:869][104]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/Base/T_HEAD_Mask_Dirt_01.T_HEAD_Mask_Dirt_01 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.37:900][104]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/Base/T_HEAD_F_BaseColor_06.T_HEAD_F_BaseColor_06 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.38:952][104]LogSkeletalMesh: Built Skeletal Mesh [2.13s] /Game/IdaFaber/Meshes/Girl/SK_MechanicGirl_01.SK_MechanicGirl_01
+[2026.05.06-18.41.38:954][104]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/Base/T_LASHES_07.T_LASHES_07 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 125.083323 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.38:969][104]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_0. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2026.05.06-18.41.38:972][104]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/IdaFaber/Meshes/Girl/PA_UE5_F.PA_UE5_F as actor: SkeletalMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.SkeletalMeshActor_0
+[2026.05.06-18.41.39:076][104]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2026.05.06-18.41.39:093][104]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/Base/T_HEAD_MatID.T_HEAD_MatID (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.39:173][104]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/Base/Straight/T_HAIR_STRAIGHT_alpha.T_HAIR_STRAIGHT_alpha (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.39:235][104]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/Base/Straight/T_HAIR_STRAIGHT_ID.T_HAIR_STRAIGHT_ID (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.39:246][104]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/Base/Straight/T_HAIR_STRAIGHT_albedo.T_HAIR_STRAIGHT_albedo (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.39:327][104]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/Base/T_HEAD_SSS.T_HEAD_SSS (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.39:339][104]LogEditorActor: Deleted 0 Actors (0.334 secs)
+[2026.05.06-18.41.39:432][104]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/IdaFaber/Meshes/Girl/PA_UE5_F.PA_UE5_F as actor: SkeletalMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.SkeletalMeshActor_UAID_244BFE527C698AD802_1480485879
+[2026.05.06-18.41.39:433][104]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_UAID_244BFE527C698AD802_1480485879. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2026.05.06-18.41.39:436][104]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/IdaFaber/Meshes/Girl/PA_UE5_F.PA_UE5_F as actor: SkeletalMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.SkeletalMeshActor_UAID_244BFE527C698AD802_1480485879
+[2026.05.06-18.41.39:540][104]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/Base/T_HEAD_Normal_01.T_HEAD_Normal_01 (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.39:661][104]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/Base/T_HEAD_Normal_02.T_HEAD_Normal_02 (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.39:749][104]LoadErrors: Warning: While trying to load package /Game/IdaFaber/Meshes/Girl/SKEL_UE5_F, a dependent package /Engine/EngineMeshes/Humanoid was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Engine/EngineMeshes/Humanoid has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Program Files/Epic Games/UE_5.6/Engine/Content/EngineMeshes/Humanoid'. Perhaps it has been deleted or was not synced?
+
+[2026.05.06-18.41.39:923][105]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/Base/Straight/T_HAIR_STRAIGHT_normal.T_HAIR_STRAIGHT_normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.40:643][131]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/Base/Straight/T_HAIR_STRAIGHT_root.T_HAIR_STRAIGHT_root (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.40:709][132]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/Base/Straight/T_HAIR_STRAIGHT_wind.T_HAIR_STRAIGHT_wind (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.40:751][133]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/T_MECHANICGIRL_CLOTHES_MatID.T_MECHANICGIRL_CLOTHES_MatID (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.40:939][139]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/T_MECHANICGIRL_CLOTHES_BaseColor_Orange.T_MECHANICGIRL_CLOTHES_BaseColor_Orange (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.41:119][144]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/T_MECHANICGIRL_CLOTHES_BloodMask.T_MECHANICGIRL_CLOTHES_BloodMask (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.41:270][151]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/T_MECHANICGIRL_CLOTHES_DirtMask.T_MECHANICGIRL_CLOTHES_DirtMask (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.41:688][172]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/T_MECHANICGIRL_CLOTHES_Normal.T_MECHANICGIRL_CLOTHES_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1216.999984 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.42:510][211]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/T_MECHANICGIRL_SHOES_MatID.T_MECHANICGIRL_SHOES_MatID (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.42:779][221]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/T_MECHANICGIRL_SHOES_DirtMask.T_MECHANICGIRL_SHOES_DirtMask (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.42:811][222]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/T_MECHANICGIRL_SHOES_BaseColor.T_MECHANICGIRL_SHOES_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.42:952][224]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/Base/Mist/T_EYES_MIST_noAO_BaseColor_01.T_EYES_MIST_noAO_BaseColor_01 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.42:952][224]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/T_MECHANICGIRL_SHOES_BloodMask.T_MECHANICGIRL_SHOES_BloodMask (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.43:083][229]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/T_MECHANICGIRL_SHOES_OcclusionRoughnessMetallic.T_MECHANICGIRL_SHOES_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.43:138][231]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/T_MECHANICGIRL_CLOTHES_OcclusionRoughnessMetallic.T_MECHANICGIRL_CLOTHES_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.43:415][242]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/T_MECHANICGIRL_SHOES_Normal.T_MECHANICGIRL_SHOES_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1216.999984 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.44:398][287]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/Base/T_Placeholder_Black.T_Placeholder_Black (TFO_AutoDXT, 32x32 x1x1x1) (Required Memory Estimate: 1.16142 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.44:399][287]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/Base/T_Placeholder_Normal.T_Placeholder_Normal (TFO_BC5, 32x32 x1x1x1) (Required Memory Estimate: 1.288993 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.44:446][289]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/Base/T_EYES_DepthMask.T_EYES_DepthMask (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.44:455][289]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/Base/T_EYES_AO.T_EYES_AO (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.44:566][292]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/Other/T_MatID_Sample.T_MatID_Sample (TFO_AutoDXT, 1000x1000 x1x1x1) (Required Memory Estimate: 122.983226 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.44:608][294]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/Base/Straight/T_HAIR_STRAIGHT_depth.T_HAIR_STRAIGHT_depth (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.44:695][295]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/Base/T_EYES_Normal_01.T_EYES_Normal_01 (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 382.499988 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.44:734][295]LogTexture: Display: Building textures: /Game/IdaFaber/Textures/Base/Straight/T_HAIR_STRAIGHT_direction.T_HAIR_STRAIGHT_direction (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.05.06-18.41.48:694][379]LogRenderer: Using fallback RTPSO
+[2026.05.06-18.41.48:799][380]LogRenderer: Using fallback RTPSO
+[2026.05.06-18.41.48:818][380]LogD3D12RHI: Creating RTPSO with 36 shaders (0 cached, 2 new) took 123.70 ms. Compile time 122.95 ms, link time 0.73 ms.
+[2026.05.06-18.41.48:912][382]LogRenderer: Using fallback RTPSO
+[2026.05.06-18.41.48:927][383]LogRenderer: Using fallback RTPSO
+[2026.05.06-18.41.48:939][384]LogRenderer: Using fallback RTPSO
+[2026.05.06-18.41.48:982][385]LogRenderer: Using fallback RTPSO
+[2026.05.06-18.41.49:033][385]LogD3D12RHI: Creating RTPSO with 37 shaders (0 cached, 1 new) took 121.09 ms. Compile time 120.43 ms, link time 0.64 ms.
+[2026.05.06-18.41.49:068][386]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.05.06-18.41.49:098][386]LogD3D12RHI: Creating RTPSO with 39 shaders (1 cached, 2 new) took 115.11 ms. Compile time 114.34 ms, link time 0.74 ms.
+[2026.05.06-18.41.49:233][389]Cmd: TRANSACTION UNDO
+[2026.05.06-18.41.49:233][389]LogEditorTransaction: Undo Place Objects
+[2026.05.06-18.41.54:900][391]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.05.06-18.41.54:929][391]LogRenderer: Using fallback RTPSO
+[2026.05.06-18.42.35:903][514]LogShaderCompilers: Display: ================================================
+[2026.05.06-18.42.35:903][514]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.05.06-18.42.35:903][514]LogShaderCompilers: Display: Total job queries 549, among them cache hits 89 (16.21%), DDC hits 354 (64.48%), Duplicates 66 (12.02%)
+[2026.05.06-18.42.35:903][514]LogShaderCompilers: Display: Tracking 394 distinct input hashes that result in 253 distinct outputs (64.21%)
+[2026.05.06-18.42.35:903][514]LogShaderCompilers: Display: RAM used: 2.16 MiB of 3.20 GiB budget. Usage: 0.07%
+[2026.05.06-18.42.35:903][514]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.05.06-18.42.35:903][514]LogShaderCompilers: Display: Shaders Compiled: 40
+[2026.05.06-18.42.35:903][514]LogShaderCompilers: Display: Jobs assigned 40, completed 40 (100%)
+[2026.05.06-18.42.35:903][514]LogShaderCompilers: Display: Average time worker was idle: 0.04 s
+[2026.05.06-18.42.35:903][514]LogShaderCompilers: Display: Time job spent in pending queue: average 5.32 s, longest 8.00 s
+[2026.05.06-18.42.35:903][514]LogShaderCompilers: Display: Job execution time: average 1.87 s, max 6.66 s
+[2026.05.06-18.42.35:903][514]LogShaderCompilers: Display: Job life time (pending + execution): average 7.19 s, max 8.84
+[2026.05.06-18.42.35:903][514]LogShaderCompilers: Display: Shader code size: total 356.797 KiB, numShaders 45, average 7.929 KiB, min 1.727 KiB, max 14.422 KiB
+[2026.05.06-18.42.35:903][514]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.55 s
+[2026.05.06-18.42.35:903][514]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.25%
+[2026.05.06-18.42.35:903][514]LogShaderCompilers: Display: Jobs were issued in 40 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.05.06-18.42.35:903][514]LogShaderCompilers: Display: Average processing rate: 3.79 jobs/sec
+[2026.05.06-18.42.35:903][514]LogShaderCompilers: Display: Total thread time: 50.535 s
+[2026.05.06-18.42.35:903][514]LogShaderCompilers: Display: Total thread preprocess time: 8.702 s
+[2026.05.06-18.42.35:903][514]LogShaderCompilers: Display: Percentage time preprocessing: 17.22%
+[2026.05.06-18.42.35:903][514]LogShaderCompilers: Display: Effective parallelization: 4.79 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.599011
+[2026.05.06-18.42.35:903][514]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.05.06-18.42.35:903][514]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    2 times, average 3.44 sec, max 4.64 sec, min 2.24 sec)
+[2026.05.06-18.42.35:903][514]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 2.43 sec, max 4.68 sec, min 0.52 sec)
+[2026.05.06-18.42.35:903][514]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    5 times, average 1.67 sec, max 2.84 sec, min 0.47 sec)
+[2026.05.06-18.42.35:903][514]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    3 times, average 1.57 sec, max 1.59 sec, min 1.55 sec)
+[2026.05.06-18.42.35:903][514]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 1.24 sec, max 1.26 sec, min 1.22 sec)
+[2026.05.06-18.42.35:903][514]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.05.06-18.42.35:903][514]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 24.00% of total time (compiled    5 times, average 2.43 sec, max 4.68 sec, min 0.52 sec)
+[2026.05.06-18.42.35:903][514]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.52% of total time (compiled    5 times, average 1.67 sec, max 2.84 sec, min 0.47 sec)
+[2026.05.06-18.42.35:903][514]LogShaderCompilers: Display:                                                 FDepthOnlyPS - 13.61% of total time (compiled    2 times, average 3.44 sec, max 4.64 sec, min 2.24 sec)
+[2026.05.06-18.42.35:903][514]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 9.33% of total time (compiled    3 times, average 1.57 sec, max 1.59 sec, min 1.55 sec)
+[2026.05.06-18.42.35:903][514]LogShaderCompilers: Display:                                                  FVelocityPS - 5.70% of total time (compiled    3 times, average 0.96 sec, max 0.98 sec, min 0.94 sec)
+[2026.05.06-18.42.35:903][514]LogShaderCompilers: Display: === Material stats ===
+[2026.05.06-18.42.35:903][514]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.05.06-18.42.35:903][514]LogShaderCompilers: Display: Materials Translated:    172
+[2026.05.06-18.42.35:903][514]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2026.05.06-18.42.35:903][514]LogShaderCompilers: Display: Material Translation Only: 0.07 s (48%)
+[2026.05.06-18.42.35:903][514]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2026.05.06-18.42.35:903][514]LogShaderCompilers: Display: Material Cache Hits: 36 (21%)
+[2026.05.06-18.42.35:903][514]LogShaderCompilers: Display: ================================================
