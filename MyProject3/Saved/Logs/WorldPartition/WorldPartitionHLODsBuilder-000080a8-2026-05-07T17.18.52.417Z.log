@@ -896,3 +896,428 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.05.07-16.19.12:853][  0]LogShaderCompilers: Error: Job 1 [Single] Failed: DefaultLightFunctionMaterial_80b654ecd87d175/Default/FLocalVertexFactory/TVirtualTextureVSDisplacement/0:/Engine/Private/VirtualTextureMaterial.usf|MainVS VF 'FLocalVertexFactory' Type 'TVirtualTextureVSDisplacement' '/Engine/Private/VirtualTextureMaterial.usf' Entry 'MainVS' Permutation 0 
 [2026.05.07-16.19.12:853][  0]LogShaderCompilers: Error: Job 2 [Single] Failed: DefaultLightFunctionMaterial_80b654ecd87d175/Default/FLocalVertexFactory/TVirtualTextureVSBaseColorNormalRoughness/0:/Engine/Private/VirtualTextureMaterial.usf|MainVS VF 'FLocalVertexFactory' Type 'TVirtualTextureVSBaseColorNormalRoughness' '/Engine/Private/VirtualTextureMaterial.usf' Entry 'MainVS' Permutation 0 
 [2026.05.07-16.19.12:853][  0]LogShaderCompilers: Error: Job 3 [Single] Failed: DefaultLightFunctionMaterial_80b654ecd87d175/Default/FLocalVertexFactory/TVirtualTexturePSBaseColor/0:/Engine/Private/VirtualTextureMaterial.usf|MainPS VF 'FLocalVertexFactory' Type 'TVirtualTexturePSBaseColor' '/Engine/Private/VirtualTextureMaterial.usf' Entry 'MainPS' Permutation 0 
+[2026.05.07-16.19.43:246][  0]LogStreaming: Display: Package /Engine/EngineMaterials/WorldGridMaterial is adding a dynamic import to package /Engine/EngineMaterials/DefaultDeferredDecalMaterial because of a recursive sync load
+[2026.05.07-16.19.43:246][  0]LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: DeferredPostLoad) recursively from another package /Engine/EngineMaterials/WorldGridMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2026.05.07-16.19.43:262][  0]LogMaterial: Display: Missing cached shadermap for DefaultDeferredDecalMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: f4a5b8c16c89641974f0f3fcb2766ae027470930), compiling. 
+[2026.05.07-16.20.15:184][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultTextMaterialOpaque is adding a dynamic import to package /Engine/EngineMaterials/WorldGridMaterial because of a recursive sync load
+[2026.05.07-16.20.15:184][  0]LogStreaming: Display: Flushing package /Engine/EngineMaterials/WorldGridMaterial (state: DeferredPostLoad) recursively from another package /Engine/EngineMaterials/DefaultTextMaterialOpaque (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2026.05.07-16.20.15:292][  0]LogMaterial: Display: Missing cached shadermap for WorldGridMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: bb9f905618dd60d06991d401f4e926eda9355a21), compiling. Is special engine material.
+[2026.05.07-16.20.56:055][  0]LogDerivedDataCache: C:/Users/Corey/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.07-16.37.30:822][  0]LogMaterial: Display: Missing cached shadermap for DefaultTextMaterialOpaque in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 02f8cbf139c656b76b61e101a82dac4499d717a7), compiling. 
+[2026.05.07-16.37.30:856][  0]LogMeshReduction: Display: Using QuadricMeshReduction for automatic static mesh reduction
+[2026.05.07-16.37.30:856][  0]LogMeshReduction: Display: Using SkeletalMeshReduction for automatic skeletal mesh reduction
+[2026.05.07-16.37.30:857][  0]LogMeshReduction: Display: Using ProxyLODMeshReduction for automatic mesh merging
+[2026.05.07-16.37.30:857][  0]LogMeshReduction: Display: No distributed automatic mesh merging module available
+[2026.05.07-16.37.30:857][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2026.05.07-16.37.30:887][  0]LogStaticMesh: Display: Building static mesh Sphere (Required Memory Estimate: 0.756426 MB)...
+[2026.05.07-16.37.30:892][  0]LogStaticMesh: Built static mesh [0.01s] /Engine/EngineMeshes/Sphere.Sphere
+[2026.05.07-16.37.30:941][  0]LogMaterial: Display: Missing cached shadermap for Main in PCD3D_SM6, Default, SM6, Editor (DDC key hash: c5313aa82a39d8cd9a83acc365f20c1cb35a4314), compiling. 
+[2026.05.07-16.37.30:946][  0]LogMaterial: Display: Missing cached shadermap for Xray in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 5ecba82acc912afb7ca62cfd80fe6b298bbd7b73), compiling. 
+[2026.05.07-16.37.30:952][  0]LogStaticMesh: Display: Building static mesh SM_Sequencer_Node (Required Memory Estimate: 0.08356 MB)...
+[2026.05.07-16.37.30:967][  0]LogStaticMesh: Built static mesh [0.02s] /Engine/VREditor/TransformGizmo/SM_Sequencer_Node.SM_Sequencer_Node
+[2026.05.07-16.37.30:981][  0]LogMaterial: Display: Missing cached shadermap for M_VolumeRenderSphereTracePP in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 9c3218766152034e69702b8eea291e1ebdf8a658), compiling. 
+[2026.05.07-16.37.30:991][  0]LogMaterial: Display: Missing cached shadermap for CineMat in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 5f3634551ebc6a54bb6aa2a8fd923e236c12ffcf), compiling. 
+[2026.05.07-16.37.30:997][  0]LogStaticMesh: Display: Building static mesh SM_CraneRig_Base (Required Memory Estimate: 1.522692 MB)...
+[2026.05.07-16.37.31:014][  0]LogStaticMesh: Built static mesh [0.02s] /Engine/EditorMeshes/Camera/SM_CraneRig_Base.SM_CraneRig_Base
+[2026.05.07-16.37.31:020][  0]LogStaticMesh: Display: Building static mesh SM_CraneRig_Arm (Required Memory Estimate: 0.0249 MB)...
+[2026.05.07-16.37.31:026][  0]LogStaticMesh: Built static mesh [0.01s] /Engine/EditorMeshes/Camera/SM_CraneRig_Arm.SM_CraneRig_Arm
+[2026.05.07-16.37.31:029][  0]LogStaticMesh: Display: Building static mesh SM_CraneRig_Mount (Required Memory Estimate: 0.292356 MB)...
+[2026.05.07-16.37.31:033][  0]LogStaticMesh: Built static mesh [0.01s] /Engine/EditorMeshes/Camera/SM_CraneRig_Mount.SM_CraneRig_Mount
+[2026.05.07-16.37.31:036][  0]LogStaticMesh: Display: Building static mesh SM_CraneRig_Body (Required Memory Estimate: 1.454466 MB)...
+[2026.05.07-16.37.31:059][  0]LogStaticMesh: Built static mesh [0.02s] /Engine/EditorMeshes/Camera/SM_CraneRig_Body.SM_CraneRig_Body
+[2026.05.07-16.37.31:061][  0]LogStaticMesh: Display: Building static mesh SM_RailRig_Track (Required Memory Estimate: 2.117645 MB)...
+[2026.05.07-16.37.31:082][  0]LogStaticMesh: Built static mesh [0.02s] /Engine/EditorMeshes/Camera/SM_RailRig_Track.SM_RailRig_Track
+[2026.05.07-16.37.31:086][  0]LogStaticMesh: Display: Building static mesh SM_RailRig_Mount (Required Memory Estimate: 2.380135 MB)...
+[2026.05.07-16.37.31:131][  0]LogStaticMesh: Built static mesh [0.04s] /Engine/EditorMeshes/Camera/SM_RailRig_Mount.SM_RailRig_Mount
+[2026.05.07-16.37.31:147][  0]LogMaterial: Display: Missing cached shadermap for SplineEditorMeshMat in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 9365d36ee35ec9c48495123aa8c8b7e9e93d3cee), compiling. 
+[2026.05.07-16.37.31:152][  0]LogStaticMesh: Display: Building static mesh SplineEditorMesh (Required Memory Estimate: 0.094715 MB)...
+[2026.05.07-16.37.31:153][  0]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorLandscapeResources/SplineEditorMesh.SplineEditorMesh
+[2026.05.07-16.37.31:163][  0]LogStaticMesh: Display: Building static mesh Cube (Required Memory Estimate: 0.083707 MB)...
+[2026.05.07-16.37.31:165][  0]LogStaticMesh: Built static mesh [0.00s] /Engine/BasicShapes/Cube.Cube
+[2026.05.07-16.37.31:171][  0]LogMaterial: Display: Missing cached shadermap for M_DefaultOddSquare in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 774c28f1129cf4d7ca1b2dd722b4543cf187b11a), compiling. 
+[2026.05.07-16.37.31:178][  0]LogMaterial: Display: Missing cached shadermap for M_DefaultEvenSquare in PCD3D_SM6, Default, SM6, Editor (DDC key hash: d0b90924bd6f86f397403a4e8e08fb5642ccdc40), compiling. 
+[2026.05.07-16.37.31:226][  0]LogMaterial: Display: Missing cached shadermap for HairDebugMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: b33ba02edc2f89f02cc8b6b13c33c359b76fb8aa), compiling. 
+[2026.05.07-16.37.31:242][  0]LogMaterial: Display: Missing cached shadermap for HairDefaultMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 8ae5dfbc85e101f31529ddff3ef08ca692801996), compiling. 
+[2026.05.07-16.37.31:255][  0]LogMaterial: Display: Missing cached shadermap for HairCardsDefaultMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: c852b7a2e957a68690527e9c5e70a3ca8ce09a98), compiling. 
+[2026.05.07-16.37.31:274][  0]LogMaterial: Display: Missing cached shadermap for HairMeshesDefaultMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 2bc118f00967ec122792388d3a60f65bec0fa017), compiling. 
+[2026.05.07-16.37.31:288][  0]LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 3917e6880655772e47692671c7391ec0e9c9dd02), compiling. 
+[2026.05.07-16.37.31:296][  0]LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough_Translucent in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 299cbda974faf2ce314d905e11862f5600c2df1b), compiling. 
+[2026.05.07-16.37.31:305][  0]LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough_Opaque in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 42b300c15813bef805b29d1c793dec647f3be8d8), compiling. 
+[2026.05.07-16.37.31:314][  0]LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough_Opaque_OneSided in PCD3D_SM6, Default, SM6, Editor (DDC key hash: ff3d335adb69b82b2abc10588f99ec2777e6ab31), compiling. 
+[2026.05.07-16.37.31:323][  0]LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough_Masked in PCD3D_SM6, Default, SM6, Editor (DDC key hash: da3f9ffcaac4d3d90404cba7f889dd39e74f4293), compiling. 
+[2026.05.07-16.37.31:332][  0]LogMaterial: Display: Missing cached shadermap for Widget3DPassThrough_Masked_OneSided in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 829f20c6d4183a08c68425a11f90e2c6c1993584), compiling. 
+[2026.05.07-16.37.31:371][  0]LogMaterial: Display: Missing cached shadermap for TranslucentTransformGizmoMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 38eb39bb6d76efce64806dea67655063916895e7), compiling. 
+[2026.05.07-16.37.31:379][  0]LogMaterial: Display: Missing cached shadermap for SnapGridMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 3f3671c03321db3f0473f7afd627c45934fe0851), compiling. 
+[2026.05.07-16.37.31:387][  0]LogStaticMesh: Display: Building static mesh SnapGridPlaneMesh (Required Memory Estimate: 0.059454 MB)...
+[2026.05.07-16.37.31:388][  0]LogStaticMesh: Built static mesh [0.00s] /Engine/VREditor/SnapGrid/SnapGridPlaneMesh.SnapGridPlaneMesh
+[2026.05.07-16.37.31:392][  0]LogMaterial: Display: Missing cached shadermap for TransformGizmoMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: a7e05bcda6159bf503528fd6aa835ea88d4017cd), compiling. 
+[2026.05.07-16.37.31:396][  0]LogStaticMesh: Display: Building static mesh PlaneTranslationHandle (Required Memory Estimate: 0.189357 MB)...
+[2026.05.07-16.37.31:399][  0]LogStaticMesh: Built static mesh [0.00s] /Engine/VREditor/TransformGizmo/PlaneTranslationHandle.PlaneTranslationHandle
+[2026.05.07-16.37.31:402][  0]LogStaticMesh: Display: Building static mesh RotationHandleFull (Required Memory Estimate: 6.20107 MB)...
+[2026.05.07-16.37.31:444][  0]LogStaticMesh: Built static mesh [0.04s] /Engine/VREditor/TransformGizmo/RotationHandleFull.RotationHandleFull
+[2026.05.07-16.37.31:448][  0]LogStaticMesh: Display: Building static mesh RotationHandleIndicator (Required Memory Estimate: 0.419229 MB)...
+[2026.05.07-16.37.31:452][  0]LogStaticMesh: Built static mesh [0.00s] /Engine/VREditor/TransformGizmo/RotationHandleIndicator.RotationHandleIndicator
+[2026.05.07-16.37.31:454][  0]LogStaticMesh: Display: Building static mesh RotationHandleQuarter (Required Memory Estimate: 1.44741 MB)...
+[2026.05.07-16.37.31:465][  0]LogStaticMesh: Built static mesh [0.01s] /Engine/VREditor/TransformGizmo/RotationHandleQuarter.RotationHandleQuarter
+[2026.05.07-16.37.31:467][  0]LogStaticMesh: Display: Building static mesh StartRotationHandleIndicator (Required Memory Estimate: 0.830293 MB)...
+[2026.05.07-16.37.31:474][  0]LogStaticMesh: Built static mesh [0.01s] /Engine/VREditor/TransformGizmo/StartRotationHandleIndicator.StartRotationHandleIndicator
+[2026.05.07-16.37.31:475][  0]LogStaticMesh: Display: Building static mesh TransformGizmoFreeRotation (Required Memory Estimate: 43.612814 MB)...
+[2026.05.07-16.37.32:391][  0]LogStaticMesh: Built static mesh [0.92s] /Engine/VREditor/TransformGizmo/TransformGizmoFreeRotation.TransformGizmoFreeRotation
+[2026.05.07-16.37.32:440][  0]LogStaticMesh: Display: Building static mesh TranslateArrowHandle (Required Memory Estimate: 0.240406 MB)...
+[2026.05.07-16.37.32:454][  0]LogStaticMesh: Built static mesh [0.01s] /Engine/VREditor/TransformGizmo/TranslateArrowHandle.TranslateArrowHandle
+[2026.05.07-16.37.32:455][  0]LogStaticMesh: Display: Building static mesh UniformScaleHandle (Required Memory Estimate: 0.140998 MB)...
+[2026.05.07-16.37.32:462][  0]LogStaticMesh: Built static mesh [0.01s] /Engine/VREditor/TransformGizmo/UniformScaleHandle.UniformScaleHandle
+[2026.05.07-16.37.32:467][  0]LogStaticMesh: Display: Building static mesh BoundingBoxCorner (Required Memory Estimate: 0.240406 MB)...
+[2026.05.07-16.37.32:469][  0]LogStaticMesh: Built static mesh [0.00s] /Engine/VREditor/TransformGizmo/BoundingBoxCorner.BoundingBoxCorner
+[2026.05.07-16.37.32:471][  0]LogStaticMesh: Display: Building static mesh BoundingBoxEdge (Required Memory Estimate: 0.08356 MB)...
+[2026.05.07-16.37.32:472][  0]LogStaticMesh: Built static mesh [0.00s] /Engine/VREditor/TransformGizmo/BoundingBoxEdge.BoundingBoxEdge
+[2026.05.07-16.37.32:475][  0]LogStaticMesh: Display: Building static mesh S_1_Unit_Plane (Required Memory Estimate: 0.054254 MB)...
+[2026.05.07-16.37.32:475][  0]LogStaticMesh: Built static mesh [0.00s] /Engine/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.S_1_Unit_Plane
+[2026.05.07-16.37.32:478][  0]LogMaterial: Display: Missing cached shadermap for M_SimpleUnlitTranslucent in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 58e0d7acd3b38245aa264a99e4e20a42b9211710), compiling. 
+[2026.05.07-16.37.32:489][  0]LogConfig: Applying CVar settings from Section [/Script/CQTest.CQTestSettings] File [Engine]
+[2026.05.07-16.37.32:517][  0]LogVirtualization: Display: VirtualizationSystem name found in ini file: None
+[2026.05.07-16.37.32:517][  0]LogVirtualization: Display: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2026.05.07-16.37.32:517][  0]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: NetActorFactory name: NetActorFactory id: 0
+[2026.05.07-16.37.32:517][  0]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: NetSubObjectFactory name: NetSubObjectFactory id: 1
+[2026.05.07-16.37.32:540][  0]LogSlate: Border
+[2026.05.07-16.37.32:540][  0]LogSlate: BreadcrumbButton
+[2026.05.07-16.37.32:540][  0]LogSlate: Brushes.Title
+[2026.05.07-16.37.32:540][  0]LogSlate: ColorPicker.ColorThemes
+[2026.05.07-16.37.32:540][  0]LogSlate: Default
+[2026.05.07-16.37.32:540][  0]LogSlate: Icons.Save
+[2026.05.07-16.37.32:540][  0]LogSlate: Icons.Toolbar.Settings
+[2026.05.07-16.37.32:540][  0]LogSlate: ListView
+[2026.05.07-16.37.32:540][  0]LogSlate: SoftwareCursor_CardinalCross
+[2026.05.07-16.37.32:540][  0]LogSlate: SoftwareCursor_Grab
+[2026.05.07-16.37.32:540][  0]LogSlate: TableView.DarkRow
+[2026.05.07-16.37.32:540][  0]LogSlate: TableView.Row
+[2026.05.07-16.37.32:540][  0]LogSlate: TreeView
+[2026.05.07-16.37.32:571][  0]LogMaterial: Display: Missing cached shadermap for BaseColor in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 0f2eaf0a170eaccb2b01c07d23eb471c930fed66), compiling. 
+[2026.05.07-16.37.32:575][  0]LogMaterial: Display: Missing cached shadermap for CustomDepth in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 99cab216111c0280399df87a0f8b3c2a79bdf5b8), compiling. 
+[2026.05.07-16.37.32:589][  0]LogMaterial: Display: Missing cached shadermap for CustomStencil in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 13e232edca473eebf6c2c56ea06c127fbe51f914), compiling. 
+[2026.05.07-16.37.32:594][  0]LogMaterial: Display: Missing cached shadermap for FinalImage in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 3032396b39f00bcfe659e6cec5c21747b767d54e), compiling. 
+[2026.05.07-16.37.32:600][  0]LogMaterial: Display: Missing cached shadermap for LightingModel in PCD3D_SM6, Default, SM6, Editor (DDC key hash: c2831734f3388f402b8a28d433f67da1237e71ed), compiling. 
+[2026.05.07-16.37.32:605][  0]LogMaterial: Display: Missing cached shadermap for MaterialAO in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 52991e3b0cd76b81d60d1bbc8098d72403306c4b), compiling. 
+[2026.05.07-16.37.32:611][  0]LogMaterial: Display: Missing cached shadermap for Metallic in PCD3D_SM6, Default, SM6, Editor (DDC key hash: de269ab88f0c7209e39460dffe650b4b6062bc37), compiling. 
+[2026.05.07-16.37.32:616][  0]LogMaterial: Display: Missing cached shadermap for Opacity in PCD3D_SM6, Default, SM6, Editor (DDC key hash: d9ae63c16cb284c652425d9199e7d7de2c964596), compiling. 
+[2026.05.07-16.37.32:622][  0]LogMaterial: Display: Missing cached shadermap for Roughness in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 90f657524cc9549160a5b8c9883ee192a016e1ec), compiling. 
+[2026.05.07-16.37.32:631][  0]LogMaterial: Display: Missing cached shadermap for Anisotropy in PCD3D_SM6, Default, SM6, Editor (DDC key hash: c07f4fb5fd815cf1b1daf8cd14b264c04895cace), compiling. 
+[2026.05.07-16.37.32:636][  0]LogMaterial: Display: Missing cached shadermap for SceneColor in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 188129ece2d192fe2e3ed77b0f4c36e560c2b544), compiling. 
+[2026.05.07-16.37.32:642][  0]LogMaterial: Display: Missing cached shadermap for SceneDepth in PCD3D_SM6, Default, SM6, Editor (DDC key hash: fd935886ec662bc55c9b05773f17588b1948191e), compiling. 
+[2026.05.07-16.37.32:649][  0]LogMaterial: Display: Missing cached shadermap for SeparateTranslucencyRGB in PCD3D_SM6, Default, SM6, Editor (DDC key hash: e39bd0e2b8655f1922397a935748f4af0842a984), compiling. 
+[2026.05.07-16.37.32:657][  0]LogMaterial: Display: Missing cached shadermap for SeparateTranslucencyA in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 1dc5d6cbbd812d9e886bd482cd3d66e7084259b2), compiling. 
+[2026.05.07-16.37.32:662][  0]LogMaterial: Display: Missing cached shadermap for Specular in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 819686c33b47380038e86786d1a44e8f5d0a4225), compiling. 
+[2026.05.07-16.37.32:668][  0]LogMaterial: Display: Missing cached shadermap for SubsurfaceColor in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 477462399bf50ee925b3868f99f75ac7201ce358), compiling. 
+[2026.05.07-16.37.32:673][  0]LogMaterial: Display: Missing cached shadermap for WorldNormal in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 371207c8e6cfdb2c9434691331c1a0bf409dfdc4), compiling. 
+[2026.05.07-16.37.32:680][  0]LogMaterial: Display: Missing cached shadermap for WorldTangent in PCD3D_SM6, Default, SM6, Editor (DDC key hash: d357485d0bf9663fbfc1187f8c94342679d80185), compiling. 
+[2026.05.07-16.37.32:687][  0]LogMaterial: Display: Missing cached shadermap for AmbientOcclusion in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 056f8d1951352510a31a9cf696369790821c77a8), compiling. 
+[2026.05.07-16.37.32:695][  0]LogMaterial: Display: Missing cached shadermap for CustomDepthWorldUnits in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 4e4e0cc8f5209be73c4d1e10a49def6cc1ccbfc3), compiling. 
+[2026.05.07-16.37.32:700][  0]LogMaterial: Display: Missing cached shadermap for SceneDepthWorldUnits in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 3b057176ffbbdf7036ab8e3597332c6dee1000c9), compiling. 
+[2026.05.07-16.37.32:707][  0]LogMaterial: Display: Missing cached shadermap for Velocity in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 3c5a745d685637e30771180dd1ff82806d774913), compiling. 
+[2026.05.07-16.37.32:714][  0]LogMaterial: Display: Missing cached shadermap for PreTonemapHDRColor in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 2c65dc3c1042a0d3a27015bd80f1d0a5a2878184), compiling. 
+[2026.05.07-16.37.32:720][  0]LogMaterial: Display: Missing cached shadermap for PostTonemapHDRColor in PCD3D_SM6, Default, SM6, Editor (DDC key hash: a712861c23fb5ff518d4f804780d90a0c956c9c6), compiling. 
+[2026.05.07-16.37.32:769][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize started...
+[2026.05.07-16.37.32:772][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize took 3.538 ms
+[2026.05.07-16.37.32:795][  0]LogInit: XR: Instanced Stereo Rendering is Disabled
+[2026.05.07-16.37.32:795][  0]LogInit: XR: MultiViewport is Disabled
+[2026.05.07-16.37.32:795][  0]LogInit: XR: Mobile Multiview is Disabled
+[2026.05.07-16.37.32:822][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2026.05.07-16.37.32:966][  0]LogMaterial: Display: Missing cached shadermap for ControlRigXRayMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 55989c47ae7e79008c10b96754b845877e0d756f), compiling. 
+[2026.05.07-16.37.33:005][  0]LogNNERuntimeORT: Available graphics and compute adapters:
+[2026.05.07-16.37.33:005][  0]LogNNERuntimeORT: Selecting NPU adapter: NVIDIA GeForce RTX 3080
+[2026.05.07-16.37.33:005][  0]LogNNERuntimeORT: MakeRuntimeORTDml:
+[2026.05.07-16.37.33:005][  0]LogNNERuntimeORT:   DirectML:  yes
+[2026.05.07-16.37.33:005][  0]LogNNERuntimeORT:   RHI D3D12: yes
+[2026.05.07-16.37.33:005][  0]LogNNERuntimeORT:   D3D12:     yes
+[2026.05.07-16.37.33:005][  0]LogNNERuntimeORT:   NPU:       yes
+[2026.05.07-16.37.33:005][  0]LogNNERuntimeORT: Interface availability:
+[2026.05.07-16.37.33:005][  0]LogNNERuntimeORT:   GPU: yes
+[2026.05.07-16.37.33:005][  0]LogNNERuntimeORT:   RDG: yes
+[2026.05.07-16.37.33:005][  0]LogNNERuntimeORT:   NPU: yes
+[2026.05.07-16.37.33:005][  0]LogNNERuntimeORT: Available graphics and compute adapters:
+[2026.05.07-16.37.33:005][  0]LogNNERuntimeORT: Selecting NPU adapter: NVIDIA GeForce RTX 3080
+[2026.05.07-16.37.33:020][  0]LogMaterial: Display: Missing cached shadermap for DefaultSpriteMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: a9fa8842824a306bb71af0b5bf6226c763bb3cbd), compiling. 
+[2026.05.07-16.37.33:029][  0]LogMaterial: Display: Missing cached shadermap for OpaqueUnlitSpriteMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 2427329b1d95ae4cb4105a515eafb000c0d85725), compiling. 
+[2026.05.07-16.37.33:048][  0]LogMaterial: Display: Missing cached shadermap for M_Manip in PCD3D_SM6, Default, SM6, Editor (DDC key hash: b5e182bb408a7f4401dd39566a30b07471ed6e94), compiling. 
+[2026.05.07-16.37.33:108][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 7C630E0A579741CA800000000000F100 | Instance: 0BA2AAC14865EC56012D25B6621B44AD (DESKTOP-9MP1JNG-27448).
+[2026.05.07-16.37.33:215][  0]LogMetaSound: Display: MetaSound Page Target Initialized to 'Default'
+[2026.05.07-16.37.33:217][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2026.05.07-16.37.33:220][  0]LogMetaSound: MetaSound Engine Initialized
+[2026.05.07-16.37.33:275][  0]LogChaosVDEditor: [FChaosVDExtensionsManager::RegisterExtension] Registering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.05.07-16.37.33:275][  0]LogChaosVDEditor: [FChaosVDExtensionsManager::RegisterExtension] Registering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.05.07-16.37.33:280][  0]LogTimingProfiler: Initialize
+[2026.05.07-16.37.33:281][  0]LogTimingProfiler: OnSessionChanged
+[2026.05.07-16.37.33:281][  0]LoadingProfiler: Initialize
+[2026.05.07-16.37.33:281][  0]LoadingProfiler: OnSessionChanged
+[2026.05.07-16.37.33:281][  0]LogNetworkingProfiler: Initialize
+[2026.05.07-16.37.33:281][  0]LogNetworkingProfiler: OnSessionChanged
+[2026.05.07-16.37.33:281][  0]LogMemoryProfiler: Initialize
+[2026.05.07-16.37.33:281][  0]LogMemoryProfiler: OnSessionChanged
+[2026.05.07-16.37.33:299][  0]SourceControl: Revision control is disabled
+[2026.05.07-16.37.33:307][  0]SourceControl: Revision control is disabled
+[2026.05.07-16.37.33:439][  0]LogMaterial: Display: Missing cached shadermap for SpeedTreeMaster in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 5d59ef72d846ee76bb3b75d21ab351fb8c00b7a8), compiling. 
+[2026.05.07-16.37.33:456][  0]LogMaterial: Display: Missing cached shadermap for SpeedTreeBillboardMaster in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 05da6d472548708e9e533f33cba41bc1a49a8994), compiling. 
+[2026.05.07-16.37.33:575][  0]LogStaticMesh: Display: Building static mesh SM_MediaPlateScreen (Required Memory Estimate: 0.010915 MB)...
+[2026.05.07-16.37.33:582][  0]LogStaticMesh: Built static mesh [0.01s] /MediaPlate/SM_MediaPlateScreen.SM_MediaPlateScreen
+[2026.05.07-16.37.33:636][  0]LogConfig: Applying CVar settings from Section [/Script/NNEDenoiser.NNEDenoiserSettings] File [Engine]
+[2026.05.07-16.37.33:685][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2026.05.07-16.37.33:691][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2026.05.07-16.37.33:691][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2026.05.07-16.37.33:776][  0]LogMaterial: Display: Missing cached shadermap for BasicShapeMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 4fe1b9defd722a1e98282f3e3d09928df0910294), compiling. 
+[2026.05.07-16.37.33:785][  0]LogMaterial: Display: Missing cached shadermap for DataflowVertexMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 892d0b50b4ae79990cf8c65aab87fab6da632c45), compiling. 
+[2026.05.07-16.37.33:798][  0]LogMaterial: Display: Missing cached shadermap for DataflowTwoSidedVertexMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: b200f78e6aa19b5b175fee0b33463c92be031e49), compiling. 
+[2026.05.07-16.37.33:802][  0]LogMaterial: Display: Missing cached shadermap for SculptMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: f1747c0e155eba2d74025c4ca67cf5dc267a1762), compiling. 
+[2026.05.07-16.37.33:847][  0]LogUObjectArray: 41525 objects as part of root set at end of initial load.
+[2026.05.07-16.37.33:847][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2026.05.07-16.37.33:920][  0]LogInit: Executing Class /Script/UnrealEd.WorldPartitionBuilderCommandlet
+[2026.05.07-16.37.33:920][  0]LogInit: Initializing Editor Engine...
+[2026.05.07-16.37.33:920][  0]LogEngine: Initializing Engine...
+[2026.05.07-16.37.33:927][  0]LogMaterial: Display: Missing cached shadermap for LayerVisMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 7b4dd287e4fef8d6696653df350233685397cf8a), compiling. 
+[2026.05.07-16.37.33:933][  0]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_LayerVisMaterial_0 in PCD3D_SM6, Default, SM6, Editor (DDC key hash: e8bde8b14719a1fb28db52f8250d423004d63204), compiling. 
+[2026.05.07-16.37.33:947][  0]LogMaterial: Display: Missing cached shadermap for SelectBrushMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 46349544714e353ce130b1d69317913c98a6006b), compiling. 
+[2026.05.07-16.37.33:955][  0]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_SelectBrushMaterial_Selected_0 in PCD3D_SM6, Default, SM6, Editor (DDC key hash: b1599cb8e1a62a9d4f0aa1b5374772891d7e6fb8), compiling. 
+[2026.05.07-16.37.33:965][  0]LogMaterial: Display: Missing cached shadermap for SelectBrushMaterial_SelectedRegion in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 2ef9e88395c8bd6b91d145c0ff3d533d5b65a509), compiling. 
+[2026.05.07-16.37.33:970][  0]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_SelectBrushMaterial_SelectedRegion_0 in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 5df238153f2c39a387c37acae587e256f04403ef), compiling. 
+[2026.05.07-16.37.33:983][  0]LogMaterial: Display: Missing cached shadermap for MaskBrushMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 1ad975948bbfb186165b324d4503b3c1daa1ec56), compiling. 
+[2026.05.07-16.37.33:991][  0]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_MaskBrushMaterial_MaskedRegion_0 in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 45fcd6c3586e4704fe66d67ee832eae56309e37b), compiling. 
+[2026.05.07-16.37.34:001][  0]LogMaterial: Display: Missing cached shadermap for ColorMaskBrushMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 24cf3cc3f8b83a657086dd72e6cc667229e13e2d), compiling. 
+[2026.05.07-16.37.34:007][  0]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_ColorMaskBrushMaterial_MaskedRegion_0 in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 07d8d8d0ed9e1275630ccad60df8edb17ef6820d), compiling. 
+[2026.05.07-16.37.34:017][  0]LogMaterial: Display: Missing cached shadermap for LandscapeDirtyMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 6458e66c7b2a1f1c23dad0bd7d4ef18ca479dd65), compiling. 
+[2026.05.07-16.37.34:024][  0]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_LandscapeDirtyMaterial_0 in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 6f5fa3553cd82f51ad6020238ac5d94e5ab1cb52), compiling. 
+[2026.05.07-16.37.34:043][  0]LogMaterial: Display: Missing cached shadermap for LandscapeLayerUsageMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 882f7b3732242b6c13e4778a9f7aa51bcb5b0f05), compiling. 
+[2026.05.07-16.37.34:052][  0]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_LandscapeLayerUsageMaterial_0 in PCD3D_SM6, Default, SM6, Editor (DDC key hash: d38beb9ed59e7b9fa95071f54c2829589115ecbf), compiling. 
+[2026.05.07-16.37.34:069][  0]LogTedsSettings: UTedsSettingsEditorSubsystem::Initialize
+[2026.05.07-16.37.34:078][  0]LogMaterial: Display: Missing cached shadermap for WireframeMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 5651d1fbe3d5afbc86062079dbd4e07d234ec411), compiling. Is special engine material.
+[2026.05.07-16.37.34:149][  0]LogMaterial: Display: Missing cached shadermap for LevelColorationLitMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: eab11f43d29f4b1407c0dd0f9eb5060f713df210), compiling. Is special engine material.
+[2026.05.07-16.37.34:215][  0]LogMaterial: Display: Missing cached shadermap for LevelColorationUnlitMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: b102de64ef4ac6ff42e6f0120587ba30d00b9863), compiling. Is special engine material.
+[2026.05.07-16.37.34:276][  0]LogMaterial: Display: Missing cached shadermap for MAT_LevelColorationLitLightmapUV in PCD3D_SM6, Default, SM6, Editor (DDC key hash: bd6eb8f392737f08b58ad3b0b6297b8ef304ea38), compiling. Is special engine material.
+[2026.05.07-16.37.34:340][  0]LogMaterial: Display: Missing cached shadermap for ShadedLevelColorationLitMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: c1fb8a2846830d738db87f833acb433455f85198), compiling. Is special engine material.
+[2026.05.07-16.37.34:403][  0]LogMaterial: Display: Missing cached shadermap for ShadedLevelColorationUnlitMateri in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 607e159be7594d49aef25f793086cec3eae556e7), compiling. Is special engine material.
+[2026.05.07-16.37.34:461][  0]LogMaterial: Display: Missing cached shadermap for VertexColorMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 6103b395979f688ee0c08077963f24fb900960fb), compiling. 
+[2026.05.07-16.37.34:478][  0]LogMaterial: Display: Missing cached shadermap for VertexColorViewMode_ColorOnly in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 31b49f5494e8f53acc6af655dfef7d6aa03baa79), compiling. 
+[2026.05.07-16.37.34:490][  0]LogMaterial: Display: Missing cached shadermap for VertexColorViewMode_AlphaAsColor in PCD3D_SM6, Default, SM6, Editor (DDC key hash: a499cc65bc2ef9058a52f54dfdc6b6780f405288), compiling. 
+[2026.05.07-16.37.34:499][  0]LogMaterial: Display: Missing cached shadermap for VertexColorViewMode_RedOnly in PCD3D_SM6, Default, SM6, Editor (DDC key hash: c382d630cab50cdf75ac4bf7c478801fa3592807), compiling. 
+[2026.05.07-16.37.34:510][  0]LogMaterial: Display: Missing cached shadermap for VertexColorViewMode_GreenOnly in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 84c278b32c39f237f69c081171fdc157574326b6), compiling. 
+[2026.05.07-16.37.34:519][  0]LogMaterial: Display: Missing cached shadermap for VertexColorViewMode_BlueOnly in PCD3D_SM6, Default, SM6, Editor (DDC key hash: a9c8479a8d83e2cc49cca080b117dd307c1877bc), compiling. 
+[2026.05.07-16.37.34:534][  0]LogMaterial: Display: Missing cached shadermap for TextureColorViewMode in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 4fd8e401a7fa18aea5ebf5e6fe45c586ddc37984), compiling. 
+[2026.05.07-16.37.34:545][  0]LogMaterial: Display: Missing cached shadermap for NaniteHiddenSectionMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: e5a8aa788882f151d944b49b15d6681dc2f253d9), compiling. 
+[2026.05.07-16.37.34:554][  0]LogMaterial: Display: Missing cached shadermap for RemoveSurfaceMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 8d50b7b1d87d873472c38b64e2629207483b2e0d), compiling. 
+[2026.05.07-16.37.34:561][  0]LogMaterial: Display: Missing cached shadermap for DebugMeshMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 756702638803b4738c5ffdc27d1e8a3ada138dff), compiling. 
+[2026.05.07-16.37.34:571][  0]LogMaterial: Display: Missing cached shadermap for EmissiveMeshMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: e9a445b7d5ede7073dfd261bbf2d120fb21af207), compiling. 
+[2026.05.07-16.37.34:582][  0]LogMaterial: Display: Missing cached shadermap for M_InvalidLightmapSettings in PCD3D_SM6, Default, SM6, Editor (DDC key hash: efce6cd942ffd700fdb1748137778684106808dd), compiling. 
+[2026.05.07-16.37.34:591][  0]LogMaterial: Display: Missing cached shadermap for GizmoMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: eb589cc2b336b071b017b560ec49e7784678d49a), compiling. 
+[2026.05.07-16.37.34:601][  0]LogMaterial: Display: Missing cached shadermap for PhAT_JointLimitMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: f833359c67e5441b17893b21bd58cbbc1015ca5e), compiling. 
+[2026.05.07-16.37.34:617][  0]LogMaterial: Display: Missing cached shadermap for FlattenMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 69276ae63c54fa5732484d10b120b15acd4cf9de), compiling. 
+[2026.05.07-16.37.34:629][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.11.dll
+[2026.05.07-16.37.34:638][  0]LogMaterial: Display: Missing cached shadermap for FlattenMaterial_VT in PCD3D_SM6, Default, SM6, Editor (DDC key hash: daab466dc45da8024152d634e5a16fd73b9c47e0), compiling. 
+[2026.05.07-16.37.34:649][  0]LogMaterial: Display: Missing cached shadermap for FlattenMaterial_WS_Normal_VT in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 1a28162e3d5aac0a089482efe2335329fc6e0e1e), compiling. 
+[2026.05.07-16.37.34:661][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.12.dll
+[2026.05.07-16.37.34:672][  0]LogChaosDD: Not creating Chaos Debug Draw Scene for world Untitled
+[2026.05.07-16.37.34:689][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2026.05.07-16.37.34:689][  0]LogInit: Texture streaming: Enabled
+[2026.05.07-16.37.34:697][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2026.05.07-16.37.34:703][  0]LogInit: Initializing Editor Engine Completed
+[2026.05.07-16.37.34:723][  0]LogMaterial: Display: Missing cached shadermap for M_DynamicMeshComponentVtxColor in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 098ae22a2789095002a1a23c41e07b7849a3e533), compiling. 
+[2026.05.07-16.37.34:755][  0]LogMaterial: Display: Missing cached shadermap for DefaultMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: d5fd719711880b467929c7dcff19cefcff36b8d9), compiling. 
+[2026.05.07-16.37.34:783][  0]LogPython: Python enabled via CVar 'Engine.Python.IsEnabledByDefault'
+[2026.05.07-16.37.34:783][  0]LogPython: Using Python 3.11.8
+[2026.05.07-16.37.34:832][  0]LogPython: Display: No pip-enabled plugins with python dependencies found, skipping
+[2026.05.07-16.37.35:691][  0]LogComputeFramework: Loading shader for kernel DG_LinearBlendSkin_Morph_Cloth/UpdateGraph_ComputeGraph/LinearBlendSkin_Morph_Cloth_OptimusNode_ComputeKernel_1 from DDC failed. Shader needs recompile.
+[2026.05.07-16.37.35:692][  0]LogComputeFramework: Missing cached shader map for kernel DG_LinearBlendSkin_Morph_Cloth/UpdateGraph_ComputeGraph/LinearBlendSkin_Morph_Cloth_OptimusNode_ComputeKernel_1, compiling.
+[2026.05.07-16.37.36:257][  0]LogStaticMesh: Display: Building static mesh Sphere (Required Memory Estimate: 1.522765 MB)...
+[2026.05.07-16.37.36:258][  0]LogStaticMesh: Display: Building static mesh Plane (Required Memory Estimate: 0.010915 MB)...
+[2026.05.07-16.37.36:259][  0]LogStaticMesh: Display: Building static mesh Cylinder (Required Memory Estimate: 0.815833 MB)...
+[2026.05.07-16.37.36:262][  0]LogStaticMesh: Display: Building static mesh Cone (Required Memory Estimate: 0.410497 MB)...
+[2026.05.07-16.37.36:263][  0]LogStaticMesh: Built static mesh [0.01s] /Engine/BasicShapes/Plane.Plane
+[2026.05.07-16.37.36:264][  0]LogStaticMesh: Built static mesh [0.01s] /Engine/BasicShapes/Cylinder.Cylinder
+[2026.05.07-16.37.36:267][  0]LogStaticMesh: Built static mesh [0.01s] /Engine/BasicShapes/Sphere.Sphere
+[2026.05.07-16.37.36:268][  0]LogStaticMesh: Built static mesh [0.01s] /Engine/BasicShapes/Cone.Cone
+[2026.05.07-16.38.01:476][  0]LogComputeFramework: DG_LinearBlendSkin_Morph_Cloth/UpdateGraph_ComputeGraph/LinearBlendSkin_Morph_Cloth_OptimusNode_ComputeKernel_1: PCD3D_SM6 shader compilation success!
+[2026.05.07-16.38.01:506][  0]LogComputeFramework: Loading shader for kernel DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals/UpdateGraph_ComputeGraph/LinearBlendSkin_Morph_Cloth_PositionOnly_OptimusNode_ComputeKernel_1 from DDC failed. Shader needs recompile.
+[2026.05.07-16.38.01:506][  0]LogComputeFramework: Missing cached shader map for kernel DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals/UpdateGraph_ComputeGraph/LinearBlendSkin_Morph_Cloth_PositionOnly_OptimusNode_ComputeKernel_1, compiling.
+[2026.05.07-16.39.21:116][  0]LogComputeFramework: DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals/UpdateGraph_ComputeGraph/LinearBlendSkin_Morph_Cloth_PositionOnly_OptimusNode_ComputeKernel_1: PCD3D_SM6 shader compilation success!
+[2026.05.07-16.39.21:134][  0]LogComputeFramework: Loading shader for kernel DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals/UpdateGraph_ComputeGraph/ComputeNormalsTangents_OptimusNode_CustomComputeKernel_0 from DDC failed. Shader needs recompile.
+[2026.05.07-16.39.21:134][  0]LogComputeFramework: Missing cached shader map for kernel DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals/UpdateGraph_ComputeGraph/ComputeNormalsTangents_OptimusNode_CustomComputeKernel_0, compiling.
+[2026.05.07-16.41.34:291][  0]LogComputeFramework: DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals/UpdateGraph_ComputeGraph/ComputeNormalsTangents_OptimusNode_CustomComputeKernel_0: PCD3D_SM6 shader compilation success!
+[2026.05.07-16.41.34:331][  0]LogMaterial: Display: Missing cached shadermap for PhAT_UnselectedMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 05af32e01258574f98326045cc4fe47279d643f6), compiling. 
+[2026.05.07-16.41.34:336][  0]LogMaterial: Display: Missing cached shadermap for PhAT_NoCollisionMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 8c8c3f805cda4635bbf7e26776299a6dc419159c), compiling. 
+[2026.05.07-16.41.34:360][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2026.05.07-16.41.34:423][  0]LogEditorDataStorage: Initializing
+[2026.05.07-16.41.34:427][  0]LogEditorDataStorage: Initialized
+[2026.05.07-16.41.34:428][  0]SourceControl: Revision control is disabled
+[2026.05.07-16.41.34:428][  0]LogWorldPartitionBuilderCommandlet: Display: Execution started...
+[2026.05.07-16.41.34:454][  0]LogAssetRegistry: Display: Triggering cache save on discovery complete
+[2026.05.07-16.41.34:550][  0]LogCollectionManager: Loaded 0 collections in 0.118751 seconds
+[2026.05.07-16.41.34:552][  0]LogFileCache: Scanning file cache for directory 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Collections/' took 0.00s
+[2026.05.07-16.41.34:554][  0]LogFileCache: Scanning file cache for directory 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/Developers/Corey/Collections/' took 0.00s
+[2026.05.07-16.41.34:557][  0]LogFileCache: Scanning file cache for directory 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/Collections/' took 0.00s
+[2026.05.07-16.41.34:558][  0]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ThirdPerson/Lvl_ThirdPerson.
+[2026.05.07-16.41.34:558][  0]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ThirdPerson/Lvl_ThirdPerson.
+[2026.05.07-16.41.35:401][  0]LogMaterial: Display: Missing cached shadermap for MA_bricks in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 947f1278b4b0d5a1fa609b733b61ec05f4fbe053), compiling. 
+[2026.05.07-16.41.35:692][  0]LogMaterial: Display: Missing cached shadermap for DefaultRibbonMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 7db584594540a32d4b05632bb00b6a47de2a7f2e), compiling. 
+[2026.05.07-16.41.35:829][  0]LogAssetRegistry: Display: Asset registry cache written as 73.7 MiB to D:/dean uni stuff/unreal github/unreal/MyProject3/Intermediate/CachedAssetRegistry_*.bin
+[2026.05.07-16.41.35:830][  0]LogMaterial: Display: Missing cached shadermap for M_Glass in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 991c7eec61ea954af356115f2fe754e681c12703), compiling. 
+[2026.05.07-16.41.35:838][  0]LogMaterial: Display: Missing cached shadermap for M_CobbleStone_Rough in PCD3D_SM6, Default, SM6, Editor (DDC key hash: f8b782b33fde6311726a1bcda23a552117c1eed0), compiling. 
+[2026.05.07-16.41.35:849][  0]LogMaterial: Display: Missing cached shadermap for M_Wood_Floor_Walnut_Polished in PCD3D_SM6, Default, SM6, Editor (DDC key hash: db8fa99588110e46002c61c8caf755a135c66e1f), compiling. 
+[2026.05.07-16.41.35:858][  0]LogMaterial: Display: Missing cached shadermap for M_SKIN in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 1b74ee79dca5dcbdd25f5f7e7e23f847b0643ed0), compiling. 
+[2026.05.07-16.41.35:913][  0]LogMaterial: Display: Missing cached shadermap for M_LASHES in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 6d0b0ff6dd83bf1866e9bdde2231d0d877fdb3e8), compiling. 
+[2026.05.07-16.41.35:926][  0]LogMaterial: Display: Missing cached shadermap for M_Door in PCD3D_SM6, Default, SM6, Editor (DDC key hash: d9897c080013aa49f527c263a691794c8204f49d), compiling. 
+[2026.05.07-16.41.35:971][  0]LogMaterial: Display: Missing cached shadermap for M_EYES in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 35d82929f0cb66ae66627eb3454af395f91042a4), compiling. 
+[2026.05.07-16.41.35:976][  0]LogStaticMesh: Display: Building static mesh SM_Door (Required Memory Estimate: 2.335407 MB)...
+[2026.05.07-16.41.35:981][  0]LogMaterial: Display: Missing cached shadermap for M_HAIR in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 75e5d87aa71437c39e7969d752faaf7357042994), compiling. 
+[2026.05.07-16.41.35:995][  0]LogMaterial: Display: Missing cached shadermap for MI_HAIR_Straight_03 in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 2a7febdfa4a857a067a17587a540ec30e0075ddc), compiling. 
+[2026.05.07-16.41.36:011][  0]LogMaterial: Display: Missing cached shadermap for M_MasterRGB in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 52d88dfe7dcfd90dfa9545705ac8dccfcd7da86c), compiling. 
+[2026.05.07-16.41.36:023][  0]LogMaterial: Display: Missing cached shadermap for M_CLOTHES in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 97097e1f225d7eb09afa09bcc4221664817a5f8a), compiling. 
+[2026.05.07-16.41.36:101][  0]LogStaticMesh: Built static mesh [0.13s] /Game/StarterContent/Props/SM_Door.SM_Door
+[2026.05.07-16.41.36:255][  0]LogStaticMesh: Display: Building static mesh SM_HospitalDoor_03_A (Required Memory Estimate: 0.672112 MB)...
+[2026.05.07-16.41.36:312][  0]LogStaticMesh: Built static mesh [0.06s] /Game/HospitalCorridor/Meshes/Objects/SM_HospitalDoor_03_A.SM_HospitalDoor_03_A
+[2026.05.07-16.41.36:973][  0]LogAssetRegistry: AssetRegistryGather time 0.1929s: AssetDataDiscovery 0.0197s, AssetDataGather 0.0470s, StoreResults 0.1261s. Wall time 1359.1890s.
+	NumCachedDirectories 1963. NumUncachedDirectories 101. NumCachedFiles 9551. NumUncachedFiles 76.
+	BackgroundTickInterruptions 68.
+[2026.05.07-16.41.36:984][  0]LogPlacementMode: Display: The Asset Registry is done with its initial scan, the list of placeable classes has been updated.
+[2026.05.07-16.41.36:985][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000001 seconds (updated 0 objects)
+[2026.05.07-16.41.36:985][  0]SourceControl: Revision control is disabled
+[2026.05.07-16.41.36:985][  0]LogChaosDD: Not creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.05.07-16.41.36:988][  0]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.05.07-16.41.36:988][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.07-16.41.36:988][  0]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.07-16.41.37:781][  0]LogStaticMesh: Display: Building static mesh SM_Template_Map_Floor (Required Memory Estimate: 0.159396 MB)...
+[2026.05.07-16.41.37:783][  0]LogStaticMesh: Built static mesh [0.00s] /Engine/MapTemplates/SM_Template_Map_Floor.SM_Template_Map_Floor
+[2026.05.07-16.41.37:784][  0]LogMaterial: Display: Missing cached shadermap for MA_yellow in PCD3D_SM6, Default, SM6, Editor (DDC key hash: b903165e2c654834347069e0e03965f860040a0e), compiling. 
+[2026.05.07-16.41.37:789][  0]LogMaterial: Display: Missing cached shadermap for Mi_woodfloor in PCD3D_SM6, Default, SM6, Editor (DDC key hash: a4d8e2a54c459c572195dbf685e45f32877d81bf), compiling. 
+[2026.05.07-16.41.37:793][  0]LogMaterial: Display: Missing cached shadermap for wornpaintedwoodsiding-albedo_Mat in PCD3D_SM6, Default, SM6, Editor (DDC key hash: c4a3ccabfae9522974bdc34411af41d36aaea40b), compiling. 
+[2026.05.07-16.41.37:800][  0]LogMaterial: Display: Missing cached shadermap for MI_Bricks in PCD3D_SM6, Default, SM6, Editor (DDC key hash: a654cef29a59e06647776708dfdbf4542ac80a8d), compiling. 
+[2026.05.07-16.41.37:807][  0]LogMaterial: Display: Missing cached shadermap for M_Metal_Copper in PCD3D_SM6, Default, SM6, Editor (DDC key hash: e35e0adcb05a60f2b49f0645d7a8daef9ca77912), compiling. 
+[2026.05.07-16.41.37:814][  0]LogMaterial: Display: Missing cached shadermap for M_Metal_Gold in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 3b4aa3a8b90474bda9264108f07b9163003691b7), compiling. 
+[2026.05.07-16.41.37:823][  0]LogMaterial: Display: Missing cached shadermap for teleporter1_teleporter_BaseColor_Mat in PCD3D_SM6, Default, SM6, Editor (DDC key hash: b88d92c67676931ae8e10964d76d974b07a0a171), compiling. 
+[2026.05.07-16.41.37:833][  0]LogMaterial: Display: Missing cached shadermap for M_Glass_03 in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 5831a508979150e1ecd3c2335b42c73e12ecbbc4), compiling. 
+[2026.05.07-16.41.37:841][  0]LogMaterial: Display: Missing cached shadermap for rusty-metal_albedo_Mat in PCD3D_SM6, Default, SM6, Editor (DDC key hash: a46354f5d4f2cf8a67927da7b666203ce77843b8), compiling. 
+[2026.05.07-16.41.37:848][  0]LogMaterial: Display: Missing cached shadermap for M_Basic_Wall in PCD3D_SM6, Default, SM6, Editor (DDC key hash: aacae773d99cd6a6657aacb908a82b32e033b018), compiling. 
+[2026.05.07-16.41.37:868][  0]LogMaterial: Display: Missing cached shadermap for m_SimpleVolumetricCloud in PCD3D_SM6, Default, SM6, Editor (DDC key hash: b5e63223ba5bac0d4e52806a684644469fe1eba1), compiling. 
+[2026.05.07-16.41.37:893][  0]LogMaterial: Display: Missing cached shadermap for M_PrototypeGrid in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 962538490380e83c8a55c666912564d72eed9671), compiling. 
+[2026.05.07-16.41.37:909][  0]LogMaterial: Display: Missing cached shadermap for Material_001 in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 5cedc9573eec7f626344a126a06773ab3702e624), compiling. 
+[2026.05.07-16.41.37:918][  0]LogMaterial: Display: Missing cached shadermap for Material_001 in PCD3D_SM6, Default, SM6, Editor (DDC key hash: b8169a7d33e69a6989dbc7d2871e28bc16148735), compiling. 
+[2026.05.07-16.41.37:924][  0]LogMaterial: Display: Missing cached shadermap for teleporter in PCD3D_SM6, Default, SM6, Editor (DDC key hash: d44cb09fc747fb690bbe78ef20fbd5b3c231be33), compiling. 
+[2026.05.07-16.41.37:931][  0]LogMaterial: Display: Missing cached shadermap for columned-lava-rock_albedo_Mat in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 5e3ab5394f76751c00b2477eceb050ef3e2a8871), compiling. 
+[2026.05.07-16.41.37:937][  0]LogMaterial: Display: Missing cached shadermap for M_Metal_Burnished_Steel in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 80cb4524978491e0386bed501673ae4d225dce68), compiling. 
+[2026.05.07-16.41.37:942][  0]LogMaterial: Display: Missing cached shadermap for Baltica in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 54b14d9048f5cb7e1bb248841bf0b674a21f4d1a), compiling. 
+[2026.05.07-16.41.37:949][  0]LogMaterial: Display: Missing cached shadermap for medkitColor_Mat in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 87db5b1fa3e68ce25bc6c49bdf7165e909069431), compiling. 
+[2026.05.07-16.41.37:955][  0]LogMaterial: Display: Missing cached shadermap for medkit in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 5092e65ac4443cbf9c9f8638fcad76d01ddcaee4), compiling. 
+[2026.05.07-16.41.37:966][  0]LogMaterial: Display: Missing cached shadermap for goomba_Mat in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 1d48da044a28427cfffc5e6e347f28d0e6ead6db), compiling. 
+[2026.05.07-16.41.37:985][  0]LogMaterial: Display: Missing cached shadermap for Material_002 in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 8007f161c2bb7f23bfb8d34e27fb752d5d409610), compiling. 
+[2026.05.07-16.41.37:994][  0]LogMaterial: Display: Missing cached shadermap for M_MasterRGB_TwoSide in PCD3D_SM6, Default, SM6, Editor (DDC key hash: ca89e1b7652d457c754c93a8ebd35859124c4657), compiling. 
+[2026.05.07-16.41.38:002][  0]LogMaterial: Display: Missing cached shadermap for gross-dirty-tiles_albedo_Mat in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 0a3bd730084231eb6bbe80651512c9dfd7f43521), compiling. 
+[2026.05.07-16.41.38:049][  0]LogMaterial: Display: Missing cached shadermap for MM_Basic in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 1252963706a45d71ee55594538cdf4edcee9c3e2), compiling. 
+[2026.05.07-16.41.38:070][  0]LogMaterial: Display: Missing cached shadermap for M_NiagaraUVDebug in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 822738274441ad311ecffe9870f033c5296dcbca), compiling. 
+[2026.05.07-16.41.38:103][  0]LogMaterial: Display: Missing cached shadermap for M_MasterTwoside_SS in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 5912350630c0217d5b376941fd68864a5de77cf0), compiling. 
+[2026.05.07-16.41.38:231][  0]LogWorldPartition: Display: WorldPartition initialize took 1.24 sec
+[2026.05.07-16.41.38:529][  0]LogWorldPartitionHLODsBuilder: Display: #### World HLOD actors ####
+[2026.05.07-16.41.38:530][  0]LogWorldPartitionHLODsBuilder: Display: #### World contains 0 HLOD actors ####
+[2026.05.07-16.41.38:590][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2026.05.07-16.41.38:593][  0]LogWorldPartition: GC Performed - Available Physical: 31.62GB, Available Virtual: 22.52GB
+[2026.05.07-16.41.38:594][  0]LogWorldPartitionHLODsBuilder: Display: #### Building 0 HLOD actors ####
+[2026.05.07-16.41.38:594][  0]LogWorldPartitionHLODsBuilder: Display: #### Built 0 HLOD actors ####
+[2026.05.07-16.41.38:631][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.05.07-16.41.38:634][  0]LogStaticMesh: Display: Building static mesh Shape_Cube (Required Memory Estimate: 0.083673 MB)...
+[2026.05.07-16.41.38:635][  0]LogStaticMesh: Display: Building static mesh SM_Cylinder (Required Memory Estimate: 4.310633 MB)...
+[2026.05.07-16.41.38:635][  0]LogStaticMesh: Display: Building static mesh SM_HospitalBench_01 (Required Memory Estimate: 1.3176 MB)...
+[2026.05.07-16.41.38:635][  0]LogStaticMesh: Display: Building static mesh 3D_RightArrow (Required Memory Estimate: 1.033682 MB)...
+[2026.05.07-16.41.38:635][  0]LogStaticMesh: Display: Building static mesh Curve_004 (Required Memory Estimate: 0.203222 MB)...
+[2026.05.07-16.41.38:635][  0]LogStaticMesh: Display: Building static mesh Baltica0_can (Required Memory Estimate: 5.598039 MB)...
+[2026.05.07-16.41.38:635][  0]LogStaticMesh: Display: Building static mesh Cylinder_054 (Required Memory Estimate: 7.873792 MB)...
+[2026.05.07-16.41.38:637][  0]LogStaticMesh: Adjacency [0.00s], tris: 128, UVs 1
+[2026.05.07-16.41.38:637][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube
+[2026.05.07-16.41.38:637][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.05.07-16.41.38:637][  0]LogStaticMesh: Leaves [0.00s]
+[2026.05.07-16.41.38:637][  0]LogStaticMesh: Reduce [0.00s]
+[2026.05.07-16.41.38:637][  0]LogStaticMesh: Fallback [0.00s], num tris: 128
+[2026.05.07-16.41.38:637][  0]LogStaticMesh: Fallback [0.00s], num tris: 128
+[2026.05.07-16.41.38:638][  0]LogStaticMesh: ConstrainClusters:
+[2026.05.07-16.41.38:638][  0]LogStaticMesh:   Input: 1 Clusters, 128 Triangles and 66 Vertices
+[2026.05.07-16.41.38:638][  0]LogStaticMesh:   Output without splits: 1 Clusters, 128 Triangles and 79 Vertices
+[2026.05.07-16.41.38:638][  0]LogStaticMesh:   Output with splits: 1 Clusters, 128 Triangles and 79 Vertices
+[2026.05.07-16.41.38:638][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.05.07-16.41.38:638][  0]LogStaticMesh: WritePages:
+[2026.05.07-16.41.38:638][  0]LogStaticMesh:   Root: GPU size: 1032 bytes. 1 Pages. 1032.000 bytes per page (3.149% utilization).
+[2026.05.07-16.41.38:638][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.05.07-16.41.38:638][  0]LogStaticMesh:   Page data disk size: 1168 bytes. Fixup data size: 24 bytes.
+[2026.05.07-16.41.38:638][  0]LogStaticMesh:   Total GPU size: 1032 bytes, Total disk size: 1192 bytes.
+[2026.05.07-16.41.38:638][  0]LogStaticMesh: Encode [0.00s]
+[2026.05.07-16.41.38:638][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.05.07-16.41.38:639][  0]LogStaticMesh: Display: Building static mesh medkit1 (Required Memory Estimate: 0.062037 MB)...
+[2026.05.07-16.41.38:640][  0]LogStaticMesh: Adjacency [0.00s], tris: 34, UVs 1
+[2026.05.07-16.41.38:640][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.05.07-16.41.38:640][  0]LogStaticMesh: Leaves [0.00s]
+[2026.05.07-16.41.38:640][  0]LogStaticMesh: Reduce [0.00s]
+[2026.05.07-16.41.38:640][  0]LogStaticMesh: Fallback [0.00s], num tris: 34
+[2026.05.07-16.41.38:640][  0]LogStaticMesh: Fallback [0.00s], num tris: 34
+[2026.05.07-16.41.38:640][  0]LogStaticMesh: ConstrainClusters:
+[2026.05.07-16.41.38:640][  0]LogStaticMesh:   Input: 1 Clusters, 34 Triangles and 52 Vertices
+[2026.05.07-16.41.38:640][  0]LogStaticMesh:   Output without splits: 1 Clusters, 34 Triangles and 52 Vertices
+[2026.05.07-16.41.38:640][  0]LogStaticMesh:   Output with splits: 1 Clusters, 34 Triangles and 52 Vertices
+[2026.05.07-16.41.38:640][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.05.07-16.41.38:640][  0]LogStaticMesh: WritePages:
+[2026.05.07-16.41.38:640][  0]LogStaticMesh:   Root: GPU size: 712 bytes. 1 Pages. 712.000 bytes per page (2.173% utilization).
+[2026.05.07-16.41.38:641][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.05.07-16.41.38:641][  0]LogStaticMesh:   Page data disk size: 928 bytes. Fixup data size: 24 bytes.
+[2026.05.07-16.41.38:641][  0]LogStaticMesh:   Total GPU size: 712 bytes, Total disk size: 952 bytes.
+[2026.05.07-16.41.38:641][  0]LogStaticMesh: Encode [0.00s]
+[2026.05.07-16.41.38:641][  0]LogStaticMesh: NaniteBuild [0.00s]
+[2026.05.07-16.41.38:641][  0]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.05.07-16.41.38:641][  0]LogStaticMesh: Built static mesh [0.00s] /Game/_Models/medkit1.medkit1
+[2026.05.07-16.41.38:643][  0]LogWorldPartitionBuilderCommandlet: Display: Execution took 4.21 sec
+[2026.05.07-16.41.38:643][  0]LogCore: Engine exit requested (reason: Commandlet WorldPartitionBuilderCommandlet_0 finished execution (result 0))
+[2026.05.07-16.41.38:643][  0]LogInit: Display: 
+[2026.05.07-16.41.38:643][  0]LogInit: Display: Warning/Error Summary (Unique only)
+[2026.05.07-16.41.38:643][  0]LogInit: Display: -----------------------------------
+[2026.05.07-16.41.38:643][  0]LogInit: Display: LogShaderCompilers: Error: ShaderCompileWorker terminated unexpectedly, return code -1073741819! Falling back to directly compiling which will be very slow.  Thread 2.
+[2026.05.07-16.41.38:643][  0]LogInit: Display: LogShaderCompilers: Error: SCW 3 Queued Jobs, Unknown number of processed jobs!
+[2026.05.07-16.41.38:643][  0]LogInit: Display: LogShaderCompilers: Error: Job 0 [Single] Failed: DefaultPostProcessMaterial_e85690c1b86331d4/Default/TGPUSkinVertexFactoryDefault/TVirtualTexturePSMask4/0:/Engine/Private/VirtualTextureMaterial.usf|MainPS VF 'TGPUSkinVertexFactoryDefault' Type 'TVirtualTexturePSMask4' '/Engine/Private/VirtualTextureMaterial.usf' Entry 'MainPS' Permutation 0 
+[2026.05.07-16.41.38:644][  0]LogInit: Display: LogShaderCompilers: Error: Job 1 [Single] Failed: DefaultPostProcessMaterial_e85690c1b86331d4/Default/TGPUSkinVertexFactoryDefault/TVirtualTextureVSWorldHeight/0:/Engine/Private/VirtualTextureMaterial.usf|MainVS VF 'TGPUSkinVertexFactoryDefault' Type 'TVirtualTextureVSWorldHeight' '/Engine/Private/VirtualTextureMaterial.usf' Entry 'MainVS' Permutation 0 
+[2026.05.07-16.41.38:644][  0]LogInit: Display: LogShaderCompilers: Error: Job 2 [Single] Failed: DefaultPostProcessMaterial_e85690c1b86331d4/Default/TGPUSkinVertexFactoryDefault/TBasePassPSFNoLightMapPolicy/0:/Engine/Private/BasePassPixelShader.usf|MainPS VF 'TGPUSkinVertexFactoryDefault' Type 'TBasePassPSFNoLightMapPolicy' '/Engine/Private/BasePassPixelShader.usf' Entry 'MainPS' Permutation 0 
+[2026.05.07-16.41.38:645][  0]LogInit: Display: LogShaderCompilers: Error: ShaderCompileWorker terminated unexpectedly, return code -1073741819! Falling back to directly compiling which will be very slow.  Thread 0.
+[2026.05.07-16.41.38:645][  0]LogInit: Display: LogShaderCompilers: Error: SCW 4 Queued Jobs, Unknown number of processed jobs!
+[2026.05.07-16.41.38:645][  0]LogInit: Display: LogShaderCompilers: Error: Job 0 [Single] Failed: DefaultLightFunctionMaterial_80b654ecd87d175/Default/FLocalVertexFactory/TVirtualTexturePSWorldHeight/0:/Engine/Private/VirtualTextureMaterial.usf|MainPS VF 'FLocalVertexFactory' Type 'TVirtualTexturePSWorldHeight' '/Engine/Private/VirtualTextureMaterial.usf' Entry 'MainPS' Permutation 0 
+[2026.05.07-16.41.38:645][  0]LogInit: Display: LogShaderCompilers: Error: Job 1 [Single] Failed: DefaultLightFunctionMaterial_80b654ecd87d175/Default/FLocalVertexFactory/TVirtualTextureVSDisplacement/0:/Engine/Private/VirtualTextureMaterial.usf|MainVS VF 'FLocalVertexFactory' Type 'TVirtualTextureVSDisplacement' '/Engine/Private/VirtualTextureMaterial.usf' Entry 'MainVS' Permutation 0 
+[2026.05.07-16.41.38:646][  0]LogInit: Display: LogShaderCompilers: Error: Job 2 [Single] Failed: DefaultLightFunctionMaterial_80b654ecd87d175/Default/FLocalVertexFactory/TVirtualTextureVSBaseColorNormalRoughness/0:/Engine/Private/VirtualTextureMaterial.usf|MainVS VF 'FLocalVertexFactory' Type 'TVirtualTextureVSBaseColorNormalRoughness' '/Engine/Private/VirtualTextureMaterial.usf' Entry 'MainVS' Permutation 0 
+[2026.05.07-16.41.38:729][  0]LogInit: Display: LogShaderCompilers: Error: Job 3 [Single] Failed: DefaultLightFunctionMaterial_80b654ecd87d175/Default/FLocalVertexFactory/TVirtualTexturePSBaseColor/0:/Engine/Private/VirtualTextureMaterial.usf|MainPS VF 'FLocalVertexFactory' Type 'TVirtualTexturePSBaseColor' '/Engine/Private/VirtualTextureMaterial.usf' Entry 'MainPS' Permutation 0 
+[2026.05.07-16.41.38:730][  0]LogInit: Display: 
+[2026.05.07-16.41.38:730][  0]LogInit: Display: Failure - 11 error(s), 0 warning(s)
+[2026.05.07-16.41.38:730][  0]LogInit: Display: 
+Execution of commandlet took:  4.21 seconds
+[2026.05.07-16.41.38:730][  0]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 0, <NoCallSiteInfo>)
+[2026.05.07-16.41.38:730][  0]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
+[2026.05.07-16.41.38:730][  0]LogStaticMesh: Adjacency [0.00s], tris: 672, UVs 1
+[2026.05.07-16.41.38:730][  0]LogStaticMesh: Display: Building static mesh SM_UtilityElectronics_01_D (Required Memory Estimate: 0.596309 MB)...
+[2026.05.07-16.41.38:730][  0]LogStaticMesh: Built static mesh [0.01s] /Game/_testmodels/Curve_004.Curve_004
+[2026.05.07-16.41.38:730][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.666667
+[2026.05.07-16.41.38:730][  0]LogStaticMesh: Leaves [0.00s]
+[2026.05.07-16.41.38:730][  0]LogStaticMesh: Adjacency [0.00s], tris: 2812, UVs 2
+[2026.05.07-16.41.38:730][  0]LogStaticMesh: Adjacency [0.00s], tris: 3653, UVs 1
+[2026.05.07-16.41.38:730][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.045455
+[2026.05.07-16.41.38:730][  0]LogStaticMesh: Leaves [0.00s]
+[2026.05.07-16.41.38:730][  0]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2026.05.07-16.41.38:730][  0]LogStaticMesh: Leaves [0.00s]
+[2026.05.07-16.41.38:730][  0]LogStaticMesh: Adjacency [0.00s], tris: 5068, UVs 1
+[2026.05.07-16.41.38:730][  0]LogStaticMesh: Reduce [0.03s]
+[2026.05.07-16.41.38:730][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.05.07-16.41.38:730][  0]LogStaticMesh: Leaves [0.00s]
+[2026.05.07-16.41.38:730][  0]LogStaticMesh: Fallback [0.02s], num tris: 298
+[2026.05.07-16.41.38:730][  0]LogStaticMesh: Fallback [0.01s], num tris: 256
+[2026.05.07-16.41.38:730][  0]LogStaticMesh: ConstrainClusters:
+[2026.05.07-16.41.38:730][  0]LogStaticMesh:   Input: 16 Clusters, 1428 Triangles and 883 Vertices
+[2026.05.07-16.41.38:730][  0]LogStaticMesh:   Output without splits: 16 Clusters, 1428 Triangles and 915 Vertices
+[2026.05.07-16.41.38:730][  0]LogStaticMesh:   Output with splits: 16 Clusters, 1428 Triangles and 915 Vertices
+[2026.05.07-16.41.38:730][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 16, Slow Path Clusters: 0, 1 Material: 16, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.05.07-16.41.38:730][  0]LogStaticMesh: WritePages:
+[2026.05.07-16.41.38:730][  0]LogStaticMesh:   Root: GPU size: 13900 bytes. 1 Pages. 13900.000 bytes per page (42.419% utilization).
+[2026.05.07-16.41.38:730][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2026.05.07-16.41.38:730][  0]LogStaticMesh:   Page data disk size: 11780 bytes. Fixup data size: 72 bytes.
+[2026.05.07-16.41.38:730][  0]LogStaticMesh:   Total GPU size: 13900 bytes, Total disk size: 11852 bytes.
+[2026.05.07-16.41.38:730][  0]LogStaticMesh: Encode [0.00s]
+[2026.05.07-16.41.38:730][  0]LogStaticMesh: NaniteBuild [0.06s]
+[2026.05.07-16.41.38:730][  0]LogStaticMesh: Built static mesh [0.07s] /Game/HospitalCorridor/Meshes/Objects/SM_UtilityElectronics_01_D.SM_UtilityElectronics_01_D
+[2026.05.07-16.41.38:730][  0]LogStaticMesh: Built static mesh [0.09s] /Game/_Models/3D_RightArrow.3D_RightArrow
+[2026.05.07-16.41.38:730][  0]LogStaticMesh: Display: Building static mesh Cardboard_Box_4 (Required Memory Estimate: 0.36099 MB)...
+[2026.05.07-16.41.38:730][  0]LogStaticMesh: Display: Building static mesh Cardboard_Box_5 (Required Memory Estimate: 0.441512 MB)...
+[2026.05.07-16.41.38:730][  0]LogStaticMesh: Display: Building static mesh Cardboard_Box_1 (Required Memory Estimate: 0.488676 MB)...
