@@ -1753,3 +1753,259 @@ FPackageName: Skipped package /Engine/EngineMeshes/Humanoid has a valid, mounted
 [2026.05.07-11.21.16:697][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2026.05.07-11.21.16:706][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
 [2026.05.07-11.21.16:779][318]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2026.05.07-11.23.02:419][365]LogFab: Display: Logging in using persist
+[2026.05.07-11.23.02:528][365]LogWebBrowser: Loaded CEF3 version 90.6.7.2358 from C:/Program Files/Epic Games/UE_5.6/Engine/Binaries/ThirdParty/CEF3/Win64/
+[2026.05.07-11.23.02:528][365]LogCEFBrowser: CEF GPU acceleration enabled
+[2026.05.07-11.23.02:765][374]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: dc2...d02 Access[Expires: 2026.05.07-13.22.56 Remaining: 7200.81] Refresh[Expires: 2026-11-02T18:37:49.268Z Remaining: 15491693.27] State: Valid
+[2026.05.07-11.23.02:779][375]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Received FUserAuthToken
+[2026.05.07-11.23.02:974][388]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Login complete: EOS_Success
+[2026.05.07-11.23.02:974][388]LogFab: Display: User logged in
+[2026.05.07-11.23.02:974][388]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
+[2026.05.07-11.23.03:161][399]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-N6Vy0KI9x0OQDxmVQbZHHg-LhGSmxa1xUOivegA_kYAmg]
+[2026.05.07-11.23.53:475][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.05.07-11.23.53:625][343]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Lvl_ThirdPerson_Auto1
+[2026.05.07-11.23.53:626][343]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Lvl_ThirdPerson_Auto1AA4E346E4FD1709B1606F3A5178FD9D0.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/ThirdPerson/Lvl_ThirdPerson_Auto1.umap'
+[2026.05.07-11.23.53:635][343]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/VS/XX060WNO6GEZU5BZQCLZPP_Auto1
+[2026.05.07-11.23.53:635][343]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/XX060WNO6GEZU5BZQCLZPP_Auto171260C53409A32A65517B6BD22DEE4A1.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/VS/XX060WNO6GEZU5BZQCLZPP_Auto1.uasset'
+[2026.05.07-11.23.53:644][343]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/85/G2EGYRNTLD4TYMOAZEO9Y5_Auto1
+[2026.05.07-11.23.53:644][343]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/G2EGYRNTLD4TYMOAZEO9Y5_Auto1764085274F401DE24375F2B5DA96D153.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/85/G2EGYRNTLD4TYMOAZEO9Y5_Auto1.uasset'
+[2026.05.07-11.23.53:651][343]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/PC/BJVYGAGIYBUVFTHABCBVP5_Auto1
+[2026.05.07-11.23.53:651][343]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/BJVYGAGIYBUVFTHABCBVP5_Auto1CC9F8A764D662E0E01135E9B2288097D.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/PC/BJVYGAGIYBUVFTHABCBVP5_Auto1.uasset'
+[2026.05.07-11.23.53:662][343]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/XW/OMWFN2FE5G4XDO27VY21V8_Auto1
+[2026.05.07-11.23.53:662][343]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/OMWFN2FE5G4XDO27VY21V8_Auto11908CD34423EE25B72E90AA0A4CE13B7.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/XW/OMWFN2FE5G4XDO27VY21V8_Auto1.uasset'
+[2026.05.07-11.23.53:671][343]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/1T/PZZ21CDBVN10832A3Q8AP1_Auto1
+[2026.05.07-11.23.53:671][343]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/PZZ21CDBVN10832A3Q8AP1_Auto1531CBE054E1D8F12F54339B52C9D1DAA.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/1T/PZZ21CDBVN10832A3Q8AP1_Auto1.uasset'
+[2026.05.07-11.23.53:679][343]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/80/NE7X5KP5DLN7HG96ZIYXJK_Auto1
+[2026.05.07-11.23.53:679][343]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/NE7X5KP5DLN7HG96ZIYXJK_Auto147A64D5F4158263B9B7EA8ABCE5A68DC.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/80/NE7X5KP5DLN7HG96ZIYXJK_Auto1.uasset'
+[2026.05.07-11.23.53:689][343]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/SW/RZISGZ2ULL4N6TJ4TSMDX1_Auto1
+[2026.05.07-11.23.53:689][343]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/RZISGZ2ULL4N6TJ4TSMDX1_Auto1A76330E44A16C4645D4E5F9A3C51838F.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/SW/RZISGZ2ULL4N6TJ4TSMDX1_Auto1.uasset'
+[2026.05.07-11.23.53:697][343]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/KB/KWHB7XLQM8KLCDVPBW3PLU_Auto1
+[2026.05.07-11.23.53:697][343]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/KWHB7XLQM8KLCDVPBW3PLU_Auto1CBB5AA73482113060BE0009A78F1E11E.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/KB/KWHB7XLQM8KLCDVPBW3PLU_Auto1.uasset'
+[2026.05.07-11.23.53:705][343]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/AC/QZK3GHXO42KACM63FJTUO7_Auto1
+[2026.05.07-11.23.53:705][343]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/QZK3GHXO42KACM63FJTUO7_Auto1B8FF07EA44120FE122E4B5B4A3380625.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/AC/QZK3GHXO42KACM63FJTUO7_Auto1.uasset'
+[2026.05.07-11.23.53:714][343]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/X1/2DJ3J10LWHIAN37G2MB793_Auto1
+[2026.05.07-11.23.53:714][343]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/2DJ3J10LWHIAN37G2MB793_Auto1C6E8C613446E71041B3D6DA4E8FA0FA3.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/X1/2DJ3J10LWHIAN37G2MB793_Auto1.uasset'
+[2026.05.07-11.23.53:723][343]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/6Y/SH6WP8JITG0LPOBU8O08NJ_Auto1
+[2026.05.07-11.23.53:723][343]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/SH6WP8JITG0LPOBU8O08NJ_Auto199703A1F41CF4DACF69C77B13B410AC0.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/6Y/SH6WP8JITG0LPOBU8O08NJ_Auto1.uasset'
+[2026.05.07-11.23.53:732][343]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/HP/DPC7TXAODFOYOM57LOJA3P_Auto1
+[2026.05.07-11.23.53:732][343]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/DPC7TXAODFOYOM57LOJA3P_Auto1AC35752742312D30918301A548E8BC46.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/HP/DPC7TXAODFOYOM57LOJA3P_Auto1.uasset'
+[2026.05.07-11.23.53:741][343]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/2V/LLZ9IMH6MNMFN56P2UQ9E6_Auto1
+[2026.05.07-11.23.53:741][343]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/LLZ9IMH6MNMFN56P2UQ9E6_Auto1CA2ED0904CDBEA575BDB858B0073969B.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/2V/LLZ9IMH6MNMFN56P2UQ9E6_Auto1.uasset'
+[2026.05.07-11.23.53:749][343]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/5K/RLFOWJZGNJ07YZ0ZLQMLUX_Auto1
+[2026.05.07-11.23.53:749][343]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/RLFOWJZGNJ07YZ0ZLQMLUX_Auto16AEF9EE94C18437EE866BBB588CD7171.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/5K/RLFOWJZGNJ07YZ0ZLQMLUX_Auto1.uasset'
+[2026.05.07-11.23.53:758][343]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/TI/27W027P2JHX3KF4SN5KH7L_Auto1
+[2026.05.07-11.23.53:758][343]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/27W027P2JHX3KF4SN5KH7L_Auto11A3EFFEC48E78BB723DBFABA9F53B38C.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/TI/27W027P2JHX3KF4SN5KH7L_Auto1.uasset'
+[2026.05.07-11.23.53:766][343]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/AH/MA0LOAR310U0FIZLKEZCI6_Auto1
+[2026.05.07-11.23.53:766][343]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/MA0LOAR310U0FIZLKEZCI6_Auto159091EA042F77FCDA05CCB81167F89DC.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/AH/MA0LOAR310U0FIZLKEZCI6_Auto1.uasset'
+[2026.05.07-11.23.53:773][343]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/B3/HO4QH2JYZLL5FZB6I2K39D_Auto1
+[2026.05.07-11.23.53:773][343]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/HO4QH2JYZLL5FZB6I2K39D_Auto1E7BECC9C426B8E274DF00E88E5516868.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/B3/HO4QH2JYZLL5FZB6I2K39D_Auto1.uasset'
+[2026.05.07-11.23.53:781][343]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/SK/P1XH0FMBXJTFTW1LSGSTHH_Auto1
+[2026.05.07-11.23.53:781][343]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/P1XH0FMBXJTFTW1LSGSTHH_Auto10F8720A347E8FD9E128A9788913ED855.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/SK/P1XH0FMBXJTFTW1LSGSTHH_Auto1.uasset'
+[2026.05.07-11.23.53:789][343]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/TZ/ETE03P875MHO13R7A7MYUQ_Auto1
+[2026.05.07-11.23.53:789][343]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/ETE03P875MHO13R7A7MYUQ_Auto15FF2F0B64AB3172C6C346A91695A097F.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/TZ/ETE03P875MHO13R7A7MYUQ_Auto1.uasset'
+[2026.05.07-11.23.53:796][343]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/AQ/UZ0EOSCJTDFHKIHV3S6010_Auto1
+[2026.05.07-11.23.53:797][343]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/UZ0EOSCJTDFHKIHV3S6010_Auto1A79FF1A5499E1AD9390E84AB086006AB.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/AQ/UZ0EOSCJTDFHKIHV3S6010_Auto1.uasset'
+[2026.05.07-11.23.53:804][343]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/8V/Q3Q9L8BE4RM62XAJIZQ3ZY_Auto1
+[2026.05.07-11.23.53:804][343]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Q3Q9L8BE4RM62XAJIZQ3ZY_Auto1BD03DF6B4E71486FE18B8A8B98E25E12.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/8V/Q3Q9L8BE4RM62XAJIZQ3ZY_Auto1.uasset'
+[2026.05.07-11.23.53:812][343]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/2Q/7OAGO58G1WAZL99YF2Z6DY_Auto1
+[2026.05.07-11.23.53:812][343]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/7OAGO58G1WAZL99YF2Z6DY_Auto1EFCBEAAD46F8AA0B0746AB96D6E39386.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/2Q/7OAGO58G1WAZL99YF2Z6DY_Auto1.uasset'
+[2026.05.07-11.23.53:819][343]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/9Z/ZYS26PFK96D8QKRZXZKDO6_Auto1
+[2026.05.07-11.23.53:819][343]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/ZYS26PFK96D8QKRZXZKDO6_Auto146D5605C42460AA9CC9EB98403297FD6.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/9Z/ZYS26PFK96D8QKRZXZKDO6_Auto1.uasset'
+[2026.05.07-11.23.53:827][343]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/SO/D2J5AR9CGR8TZ53O4IEQ73_Auto1
+[2026.05.07-11.23.53:827][343]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/D2J5AR9CGR8TZ53O4IEQ73_Auto1C394E4F04C2BEF3B3CE08AA47B6D34FD.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/SO/D2J5AR9CGR8TZ53O4IEQ73_Auto1.uasset'
+[2026.05.07-11.23.53:833][343]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/OI/Q2XUQ87D2PFH00HJ4O0KJV_Auto1
+[2026.05.07-11.23.53:833][343]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Q2XUQ87D2PFH00HJ4O0KJV_Auto13F64E6374703275AEE2CC0ACCC31CED4.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/OI/Q2XUQ87D2PFH00HJ4O0KJV_Auto1.uasset'
+[2026.05.07-11.23.53:841][343]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/6U/2DYE0GW47UNN6N6NB9H15K_Auto1
+[2026.05.07-11.23.53:841][343]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/2DYE0GW47UNN6N6NB9H15K_Auto19750FD004525A128263DD88AAD74F734.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/6U/2DYE0GW47UNN6N6NB9H15K_Auto1.uasset'
+[2026.05.07-11.23.53:849][343]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/O5/51MGAVIRODJHGO1305X44J_Auto1
+[2026.05.07-11.23.53:849][343]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/51MGAVIRODJHGO1305X44J_Auto15E69B149446ED8BC29837994858E278D.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/O5/51MGAVIRODJHGO1305X44J_Auto1.uasset'
+[2026.05.07-11.23.53:855][343]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/9F/T27TWDQHKZ0FCRONZXUCPT_Auto1
+[2026.05.07-11.23.53:855][343]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/T27TWDQHKZ0FCRONZXUCPT_Auto15870110F47D87F5C75621082A5DBD913.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/9F/T27TWDQHKZ0FCRONZXUCPT_Auto1.uasset'
+[2026.05.07-11.23.53:864][343]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/LB/43XWMZNX2S8QM4Q7N1TT2B_Auto1
+[2026.05.07-11.23.53:864][343]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/43XWMZNX2S8QM4Q7N1TT2B_Auto1A2778E0D4F6F50C1C3E7C0B22F94D138.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/LB/43XWMZNX2S8QM4Q7N1TT2B_Auto1.uasset'
+[2026.05.07-11.23.53:871][343]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/CO/VB52RTSJ4YVRFVN5480OEI_Auto1
+[2026.05.07-11.23.53:872][343]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/VB52RTSJ4YVRFVN5480OEI_Auto18B6268504407FB6004D5AE8F0B6ED1F0.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/CO/VB52RTSJ4YVRFVN5480OEI_Auto1.uasset'
+[2026.05.07-11.23.53:872][343]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.419
+[2026.05.07-11.23.53:872][343]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.419
+[2026.05.07-11.25.44:373][807]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1024.454102
+[2026.05.07-11.25.45:373][810]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.07-11.25.45:373][810]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1025.120850, Update Interval: 306.255066
+[2026.05.07-11.29.03:021][923]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.07-11.29.03:141][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.05.07-11.29.03:355][923]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Lvl_ThirdPerson
+[2026.05.07-11.29.03:355][923]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Lvl_ThirdPerson4A65E0464389C6BB57C614B59373B6F8.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/ThirdPerson/Lvl_ThirdPerson.umap'
+[2026.05.07-11.29.03:375][923]LogFileHelpers: Saving map 'Lvl_ThirdPerson' took 0.298
+[2026.05.07-11.29.03:388][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/VS/XX060WNO6GEZU5BZQCLZPP
+[2026.05.07-11.29.03:389][923]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/XX060WNO6GEZU5BZQCLZPP4BD3FEFE45DE6E0444022199DBDA9DBC.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/VS/XX060WNO6GEZU5BZQCLZPP.uasset'
+[2026.05.07-11.29.03:404][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/85/G2EGYRNTLD4TYMOAZEO9Y5
+[2026.05.07-11.29.03:404][923]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/G2EGYRNTLD4TYMOAZEO9Y599B6F65E45B3C6D6F098F08482683AE4.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/85/G2EGYRNTLD4TYMOAZEO9Y5.uasset'
+[2026.05.07-11.29.03:418][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/PC/BJVYGAGIYBUVFTHABCBVP5
+[2026.05.07-11.29.03:418][923]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/BJVYGAGIYBUVFTHABCBVP59A8A25DE45ABDA90AAFC1D834BBF2704.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/PC/BJVYGAGIYBUVFTHABCBVP5.uasset'
+[2026.05.07-11.29.03:431][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/XW/OMWFN2FE5G4XDO27VY21V8
+[2026.05.07-11.29.03:431][923]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/OMWFN2FE5G4XDO27VY21V881F41857473EC9BE524F52977DA41B88.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/XW/OMWFN2FE5G4XDO27VY21V8.uasset'
+[2026.05.07-11.29.03:444][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/1T/PZZ21CDBVN10832A3Q8AP1
+[2026.05.07-11.29.03:444][923]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/PZZ21CDBVN10832A3Q8AP1451EFFF84C8D0A2DF471DE866F3AD7AA.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/1T/PZZ21CDBVN10832A3Q8AP1.uasset'
+[2026.05.07-11.29.03:458][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/80/NE7X5KP5DLN7HG96ZIYXJK
+[2026.05.07-11.29.03:458][923]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/NE7X5KP5DLN7HG96ZIYXJKE6028F44448B95B196E61EB603D9EDBD.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/80/NE7X5KP5DLN7HG96ZIYXJK.uasset'
+[2026.05.07-11.29.03:470][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/SW/RZISGZ2ULL4N6TJ4TSMDX1
+[2026.05.07-11.29.03:471][923]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/RZISGZ2ULL4N6TJ4TSMDX1E3A016F942AD265E63763885287ADAEE.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/SW/RZISGZ2ULL4N6TJ4TSMDX1.uasset'
+[2026.05.07-11.29.03:489][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/KB/KWHB7XLQM8KLCDVPBW3PLU
+[2026.05.07-11.29.03:489][923]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/KWHB7XLQM8KLCDVPBW3PLU1FB5A7F247453F7B9108D3900FD1C65F.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/KB/KWHB7XLQM8KLCDVPBW3PLU.uasset'
+[2026.05.07-11.29.03:500][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/AC/QZK3GHXO42KACM63FJTUO7
+[2026.05.07-11.29.03:500][923]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/QZK3GHXO42KACM63FJTUO7D8F3D4324FEAA9368DEBDFB318A11470.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/AC/QZK3GHXO42KACM63FJTUO7.uasset'
+[2026.05.07-11.29.03:514][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/X1/2DJ3J10LWHIAN37G2MB793
+[2026.05.07-11.29.03:514][923]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/2DJ3J10LWHIAN37G2MB793EBF4665341C0EC31A00DEFA11859F72E.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/X1/2DJ3J10LWHIAN37G2MB793.uasset'
+[2026.05.07-11.29.03:525][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/6Y/SH6WP8JITG0LPOBU8O08NJ
+[2026.05.07-11.29.03:525][923]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/SH6WP8JITG0LPOBU8O08NJ2F1363434A79F380798640B90EE8BCF0.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/6Y/SH6WP8JITG0LPOBU8O08NJ.uasset'
+[2026.05.07-11.29.03:536][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/HP/DPC7TXAODFOYOM57LOJA3P
+[2026.05.07-11.29.03:536][923]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/DPC7TXAODFOYOM57LOJA3P7C0F249F4D3107DDBC8DC7A21B0CF895.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/HP/DPC7TXAODFOYOM57LOJA3P.uasset'
+[2026.05.07-11.29.03:546][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/2V/LLZ9IMH6MNMFN56P2UQ9E6
+[2026.05.07-11.29.03:546][923]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/LLZ9IMH6MNMFN56P2UQ9E6C91D7A2B45D6BC015880EDB3DB2FB530.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/2V/LLZ9IMH6MNMFN56P2UQ9E6.uasset'
+[2026.05.07-11.29.03:560][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/5K/RLFOWJZGNJ07YZ0ZLQMLUX
+[2026.05.07-11.29.03:560][923]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/RLFOWJZGNJ07YZ0ZLQMLUX33651FB241D2AD0D7E9DEF8BEE628647.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/5K/RLFOWJZGNJ07YZ0ZLQMLUX.uasset'
+[2026.05.07-11.29.03:590][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/TI/27W027P2JHX3KF4SN5KH7L
+[2026.05.07-11.29.03:590][923]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/27W027P2JHX3KF4SN5KH7L705297144656286D35878A978544DF89.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/TI/27W027P2JHX3KF4SN5KH7L.uasset'
+[2026.05.07-11.29.03:605][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/AH/MA0LOAR310U0FIZLKEZCI6
+[2026.05.07-11.29.03:605][923]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/MA0LOAR310U0FIZLKEZCI6DAC31B874C0F9E9ECA0B898CC43867BA.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/AH/MA0LOAR310U0FIZLKEZCI6.uasset'
+[2026.05.07-11.29.03:617][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/B3/HO4QH2JYZLL5FZB6I2K39D
+[2026.05.07-11.29.03:617][923]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/HO4QH2JYZLL5FZB6I2K39D5FD603D8482ADC6108545D86D48BE8E9.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/B3/HO4QH2JYZLL5FZB6I2K39D.uasset'
+[2026.05.07-11.29.03:629][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/SK/P1XH0FMBXJTFTW1LSGSTHH
+[2026.05.07-11.29.03:629][923]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/P1XH0FMBXJTFTW1LSGSTHHBDB067464F41C71275B12F925A3C3D3D.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/SK/P1XH0FMBXJTFTW1LSGSTHH.uasset'
+[2026.05.07-11.29.03:641][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/TZ/ETE03P875MHO13R7A7MYUQ
+[2026.05.07-11.29.03:641][923]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/ETE03P875MHO13R7A7MYUQ9FBAFBFE4332BB24A822CCB4B146234F.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/TZ/ETE03P875MHO13R7A7MYUQ.uasset'
+[2026.05.07-11.29.03:654][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/AQ/UZ0EOSCJTDFHKIHV3S6010
+[2026.05.07-11.29.03:654][923]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/UZ0EOSCJTDFHKIHV3S601035210BFD466D5351813383AAE25E0D94.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/AQ/UZ0EOSCJTDFHKIHV3S6010.uasset'
+[2026.05.07-11.29.03:667][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/8V/Q3Q9L8BE4RM62XAJIZQ3ZY
+[2026.05.07-11.29.03:667][923]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Q3Q9L8BE4RM62XAJIZQ3ZY8771D2254E8048BA9E50A0BBE23536A4.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/8V/Q3Q9L8BE4RM62XAJIZQ3ZY.uasset'
+[2026.05.07-11.29.03:679][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/2Q/7OAGO58G1WAZL99YF2Z6DY
+[2026.05.07-11.29.03:681][923]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/7OAGO58G1WAZL99YF2Z6DY7B4105114F8DC2B6C3762ABDC26679A4.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/2Q/7OAGO58G1WAZL99YF2Z6DY.uasset'
+[2026.05.07-11.29.03:698][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/9Z/ZYS26PFK96D8QKRZXZKDO6
+[2026.05.07-11.29.03:698][923]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/ZYS26PFK96D8QKRZXZKDO6D157A6814851E4C62FCB66B60CA14F3E.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/9Z/ZYS26PFK96D8QKRZXZKDO6.uasset'
+[2026.05.07-11.29.03:711][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/SO/D2J5AR9CGR8TZ53O4IEQ73
+[2026.05.07-11.29.03:711][923]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/D2J5AR9CGR8TZ53O4IEQ73FCD8988B438E30C880D4A999C0880AC3.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/SO/D2J5AR9CGR8TZ53O4IEQ73.uasset'
+[2026.05.07-11.29.03:724][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/OI/Q2XUQ87D2PFH00HJ4O0KJV
+[2026.05.07-11.29.03:724][923]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Q2XUQ87D2PFH00HJ4O0KJV53CEE2A64D04D328C555988D9D774D1A.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/OI/Q2XUQ87D2PFH00HJ4O0KJV.uasset'
+[2026.05.07-11.29.03:735][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/6U/2DYE0GW47UNN6N6NB9H15K
+[2026.05.07-11.29.03:735][923]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/2DYE0GW47UNN6N6NB9H15K213F22584B90846E3E45B4BFA6B95D1B.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/6U/2DYE0GW47UNN6N6NB9H15K.uasset'
+[2026.05.07-11.29.03:747][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/O5/51MGAVIRODJHGO1305X44J
+[2026.05.07-11.29.03:747][923]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/51MGAVIRODJHGO1305X44J947B5D6449910FF0362F5A9BBBCE110A.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/O5/51MGAVIRODJHGO1305X44J.uasset'
+[2026.05.07-11.29.03:759][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/9F/T27TWDQHKZ0FCRONZXUCPT
+[2026.05.07-11.29.03:759][923]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/T27TWDQHKZ0FCRONZXUCPT461CCE63471C2840B4FA79A4F9D5F451.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/9F/T27TWDQHKZ0FCRONZXUCPT.uasset'
+[2026.05.07-11.29.03:770][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/LB/43XWMZNX2S8QM4Q7N1TT2B
+[2026.05.07-11.29.03:770][923]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/43XWMZNX2S8QM4Q7N1TT2BDB2937544A0211201255A2A016CF3630.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/LB/43XWMZNX2S8QM4Q7N1TT2B.uasset'
+[2026.05.07-11.29.03:787][923]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/CO/VB52RTSJ4YVRFVN5480OEI
+[2026.05.07-11.29.03:787][923]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/VB52RTSJ4YVRFVN5480OEID6FC3A7B4CB896469F79E1A6C97A7CAB.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/CO/VB52RTSJ4YVRFVN5480OEI.uasset'
+[2026.05.07-11.29.03:807][923]LogFileHelpers: InternalPromptForCheckoutAndSave took 785.850 ms
+[2026.05.07-11.29.03:877][923]LogContentValidation: Display: Starting to validate 31 assets
+[2026.05.07-11.29.03:877][923]LogContentValidation: Enabled validators:
+[2026.05.07-11.29.03:877][923]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.07-11.29.03:877][923]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.07-11.29.03:877][923]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.07-11.29.03:877][923]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.07-11.29.03:877][923]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.07-11.29.03:877][923]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.07-11.29.03:878][923]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2026.05.07-11.29.04:009][923]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.07-11.29.04:666][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.05.07-11.29.04:764][957]LogStall: Shutdown...
+[2026.05.07-11.29.04:764][957]LogStall: Shutdown complete.
+[2026.05.07-11.29.04:838][957]LogSlate: Window 'Fab' being destroyed
+[2026.05.07-11.29.04:843][957]LogSlate: Window 'MyProject3 - Unreal Editor' being destroyed
+[2026.05.07-11.29.05:011][957]Cmd: QUIT_EDITOR
+[2026.05.07-11.29.05:011][958]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.05.07-11.29.05:018][958]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.05.07-11.29.05:019][958]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.05.07-11.29.05:019][958]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.05.07-11.29.05:025][958]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-11.29.05:027][958]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.07-11.29.05:029][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-11.29.05:029][958]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.05.07-11.29.05:040][958]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.05.07-11.29.05:040][958]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.05.07-11.29.05:040][958]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.05.07-11.29.05:043][958]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-11.29.05:043][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-11.29.05:044][958]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-11.29.05:044][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-11.29.05:044][958]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-11.29.05:044][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-11.29.05:044][958]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-11.29.05:045][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-11.29.05:045][958]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-11.29.05:045][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-11.29.05:045][958]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-11.29.05:045][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-11.29.05:045][958]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-11.29.05:047][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-11.29.05:047][958]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-11.29.05:047][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-11.29.05:047][958]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-11.29.05:047][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-11.29.05:047][958]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-11.29.05:047][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-11.29.05:047][958]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-11.29.05:048][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-11.29.05:048][958]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-11.29.05:048][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-11.29.05:048][958]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-11.29.05:048][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-11.29.05:048][958]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-11.29.05:048][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-11.29.05:048][958]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-11.29.05:048][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-11.29.05:049][958]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-11.29.05:049][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-11.29.05:049][958]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-11.29.05:049][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-11.29.05:049][958]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-11.29.05:049][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-11.29.05:049][958]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-11.29.05:049][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-11.29.05:051][958]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-11.29.05:051][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-11.29.05:051][958]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-11.29.05:051][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-11.29.05:051][958]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-11.29.05:051][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-11.29.05:051][958]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-11.29.05:051][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-11.29.05:051][958]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.05.07-11.29.05:051][958]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.05.07-11.29.05:057][958]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.05.07-11.29.06:002][958]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.05.07-11.29.06:002][958]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.05.07-11.29.06:002][958]LogAudio: Display: Audio Device unregistered from world 'Lvl_ThirdPerson'.
+[2026.05.07-11.29.06:002][958]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.05.07-11.29.06:002][958]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.05.07-11.29.06:004][958]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.05.07-11.29.06:013][958]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.05.07-11.29.06:013][958]LogAudio: Display: Audio Device Manager Shutdown
+[2026.05.07-11.29.06:025][958]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.05.07-11.29.06:025][958]LogExit: Preparing to exit.
+[2026.05.07-11.29.06:077][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.05.07-11.29.06:927][958]LogEditorDataStorage: Deinitializing
+[2026.05.07-11.29.07:136][958]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.05.07-11.29.07:160][958]LogExit: Editor shut down
+[2026.05.07-11.29.07:167][958]LogExit: Transaction tracking system shut down
+[2026.05.07-11.29.07:340][958]LogExit: Object subsystem successfully closed.
+[2026.05.07-11.29.07:371][958]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.05.07-11.29.07:658][958]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/listings/cdcb9d1c-1190-4f45-b472-b7499e8da869.
+[2026.05.07-11.29.07:662][958]LogMemoryProfiler: Shutdown
+[2026.05.07-11.29.07:662][958]LogNetworkingProfiler: Shutdown
+[2026.05.07-11.29.07:662][958]LoadingProfiler: Shutdown
+[2026.05.07-11.29.07:662][958]LogTimingProfiler: Shutdown
+[2026.05.07-11.29.07:662][958]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.05.07-11.29.07:662][958]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.05.07-11.29.07:939][958]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.05.07-11.29.07:946][958]LogNFORDenoise: NFORDenoise function shutting down
+[2026.05.07-11.29.07:947][958]RenderDocPlugin: plugin has been unloaded.
+[2026.05.07-11.29.07:957][958]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.05.07-11.29.07:957][958]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5738F5DC-4B36-6235-2EBC-98876877A09E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=32b98dca4babd8ac6f3362857256e6ad%7Cdc22bf91edcb4030b3f1d10200472d02%7C3eba7a12-1a98-4f11-9d76-1833cb280630&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.05.07-11.29.08:536][958]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.05.07-11.29.08:536][958]LogXGEController: Cleaning working directory: C:/Users/Corey/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.05.07-11.29.08:538][958]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.05.07-11.29.08:538][958]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.05.07-11.29.08:538][958]LogPakFile: Destroying PakPlatformFile
+[2026.05.07-11.29.08:999][958]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.05.07-11.29.09:072][958]LogExit: Exiting.
+[2026.05.07-11.29.09:126][958]Log file closed, 05/07/26 12:29:09
