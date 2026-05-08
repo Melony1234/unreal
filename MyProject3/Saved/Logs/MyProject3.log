@@ -3855,3 +3855,367 @@ Sampler Limit: 32
 [2026.05.08-17.58.24:910][ 26]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.05.08-17.58.24:910][ 26]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
 [2026.05.08-17.58.24:985][ 26]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.08-17.59.07:545][454]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2026.05.08-17.59.25:050][498]Cmd: EDIT COPY
+[2026.05.08-17.59.26:034][567]Cmd: EDIT PASTE
+[2026.05.08-17.59.49:756][930]Cmd: EDIT COPY
+[2026.05.08-17.59.50:163][957]Cmd: EDIT PASTE
+[2026.05.08-18.00.33:885][330]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3178.823486
+[2026.05.08-18.00.34:040][340]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.08-18.00.34:040][340]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3178.963867, Update Interval: 307.227386
+[2026.05.08-18.00.55:289][150]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-18.00.55:368][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.05.08-18.00.55:414][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.05.08-18.00.55:457][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.05.08-18.00.55:525][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.05.08-18.00.55:750][150]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Lvl_ThirdPerson
+[2026.05.08-18.00.55:750][150]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Lvl_ThirdPerson7E2D542A4A86D41835A1DABB14C165FE.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/ThirdPerson/Lvl_ThirdPerson.umap'
+[2026.05.08-18.00.55:766][150]LogFileHelpers: Saving map 'Lvl_ThirdPerson' took 0.307
+[2026.05.08-18.00.55:774][150]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/4Z/XOKMQPLQE0A1EVLT1NPESW
+[2026.05.08-18.00.55:774][150]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/XOKMQPLQE0A1EVLT1NPESW3A27F0F44111ADAB8A5B96963A5001CC.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/4Z/XOKMQPLQE0A1EVLT1NPESW.uasset'
+[2026.05.08-18.00.55:797][150]LogFileHelpers: InternalPromptForCheckoutAndSave took 507.987 ms (total: 1.73 sec)
+[2026.05.08-18.00.55:845][150]LogContentValidation: Display: Starting to validate 2 assets
+[2026.05.08-18.00.55:845][150]LogContentValidation: Enabled validators:
+[2026.05.08-18.00.55:845][150]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-18.00.55:845][150]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-18.00.55:845][150]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-18.00.55:845][150]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-18.00.55:845][150]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-18.00.55:845][150]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-18.00.55:845][150]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2026.05.08-18.00.55:903][150]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.08-18.01.03:201][601]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.08-18.01.03:212][601]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.08-18.01.03:212][601]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.05.08-18.01.03:231][601]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 18.628 ms (total: 165.953 ms)
+[2026.05.08-18.01.03:231][601]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.08-18.01.03:231][601]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.05.08-18.01.03:347][601]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-18.01.03:347][601]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-18.01.03:347][601]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-18.01.03:365][601]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.08-18.01.03:387][601]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 22.157 ms (total: 189.318 ms)
+[2026.05.08-18.01.03:649][601]LogPlayLevel: PIE: StaticDuplicateObject took: (0.418921s)
+[2026.05.08-18.01.03:649][601]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.418956s)
+[2026.05.08-18.01.03:692][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.05.08-18.01.03:694][601]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.05.08-18.01.03:696][601]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.08-18.01.03:696][601]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.08-18.01.03:696][601]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.08-18.01.03:696][601]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.08-18.01.03:727][601]LogWorldPartition: Display: WorldPartition initialize took 31.071 ms (total: 1.11 sec)
+[2026.05.08-18.01.03:728][601]LogPlayLevel: PIE: World Init took: (0.033395s)
+[2026.05.08-18.01.03:728][601]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.05.08-18.01.03:729][601]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.08-18.01.03:729][601]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.08-18.01.03:729][601]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.08-18.01.03:729][601]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.08-18.01.03:729][601]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.08-18.01.03:729][601]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.08-18.01.03:729][601]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.08-18.01.03:729][601]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.08-18.01.03:729][601]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.08-18.01.03:729][601]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.08-18.01.03:729][601]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.08-18.01.03:731][601]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.08-18.01.03:757][601]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-1000XM5)
+[2026.05.08-18.01.03:757][601]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.08-18.01.03:757][601]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.08-18.01.03:758][601]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.08-18.01.03:759][601]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2026.05.08-18.01.03:759][601]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2026.05.08-18.01.03:760][601]LogInit: FAudioDevice initialized with ID 10.
+[2026.05.08-18.01.03:760][601]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2026.05.08-18.01.03:760][601]LogAudio: Display: Audio Device (ID: 10) registered with world 'Lvl_ThirdPerson'.
+[2026.05.08-18.01.03:761][601]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2026.05.08-18.01.03:761][601]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2026.05.08-18.01.03:765][601]LogLoad: Game class is 'BP_PlatformingGameMode_C'
+[2026.05.08-18.01.03:784][601]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-18.01.03:784][601]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-18.01.03:784][601]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-18.01.03:784][601]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-18.01.03:798][601]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-18.01.03:798][601]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-18.01.03:798][601]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-18.01.03:798][601]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-18.01.03:798][601]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-18.01.03:798][601]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-18.01.03:798][601]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-18.01.03:798][601]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-18.01.03:798][601]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-18.01.03:798][601]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-18.01.03:798][601]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-18.01.03:798][601]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-18.01.03:798][601]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-18.01.03:798][601]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-18.01.03:798][601]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-18.01.03:802][601]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.05.08-19.01.03
+[2026.05.08-18.01.03:804][601]LogWorld: Bringing up level for play took: 0.038508
+[2026.05.08-18.01.03:807][601]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2026.05.08-18.01.03:821][601]PIE: Server logged in
+[2026.05.08-18.01.03:824][601]PIE: Play in editor total start time 0.612 seconds.
+[2026.05.08-18.01.03:836][601]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-18.01.03:836][601]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-18.01.03:886][602]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.05.08-18.01.04:471][603]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2026.05.08-18.01.07:534][773]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_6' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-18.01.07:534][773]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-18.01.07:534][773]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_5' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-18.01.07:534][773]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-18.01.07:534][773]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_4' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-18.01.07:534][773]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-18.01.07:534][773]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_3' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-18.01.07:534][773]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-18.01.07:534][773]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_1' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-18.01.07:534][773]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-18.01.07:534][773]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-18.01.07:534][773]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-18.01.10:712][956]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_6' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-18.01.10:712][956]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-18.01.10:712][956]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_5' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-18.01.10:712][956]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-18.01.10:712][956]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_4' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-18.01.10:712][956]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-18.01.10:712][956]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_3' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-18.01.10:712][956]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-18.01.10:712][956]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_2' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-18.01.10:712][956]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-18.01.10:712][956]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_1' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-18.01.10:712][956]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-18.01.16:985][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.08-18.01.16:985][312]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.05.08-18.01.16:985][312]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.08-18.01.16:986][312]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-18.01.16:992][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-18.01.16:993][312]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.05.08-18.01.16:995][312]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.08-18.01.17:003][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-18.01.17:059][312]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.08-18.01.17:063][312]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2026.05.08-18.01.17:063][312]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2026.05.08-18.01.17:065][312]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2026.05.08-18.01.17:069][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.08-18.01.17:082][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.05.08-18.01.17:234][313]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2026.05.08-18.03.57:364][356]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Steam Streaming Speakers), InstanceID=1
+[2026.05.08-18.03.57:364][356]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{5b6f99d8-819c-4a94-8be7-b36f225420b4}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.05.08-18.03.57:626][356]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{5b6f99d8-819c-4a94-8be7-b36f225420b4}]
+[2026.05.08-18.03.57:626][356]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.05.08-18.03.57:626][356]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.05.08-18.03.57:961][357]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{5b6f99d8-819c-4a94-8be7-b36f225420b4}, Name=Speakers (Steam Streaming Speakers)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=17.37
+[2026.05.08-18.03.57:961][357]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.05.08-18.03.57:961][357]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.05.08-18.03.57:963][357]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.05.08-18.06.16:644][773]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3521.582520
+[2026.05.08-18.06.17:644][776]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.08-18.06.17:645][776]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3522.249268, Update Interval: 318.294617
+[2026.05.08-18.09.30:811][356]LogDerivedDataCache: C:/Users/Corey/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.08-18.11.09:499][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.05.08-18.11.09:503][651]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.046
+[2026.05.08-18.11.09:503][651]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Models/_chairs/office_swivel_chair/SkeletalMeshes/office_swivel_chair_Skeleton] ([1] browsable assets)...
+[2026.05.08-18.11.09:679][651]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/_Models/_chairs/office_swivel_chair/SkeletalMeshes/office_swivel_chair_Skeleton.office_swivel_chair_Skeleton]
+[2026.05.08-18.11.09:679][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/_chairs/office_swivel_chair/SkeletalMeshes/office_swivel_chair_Skeleton]
+[2026.05.08-18.11.09:689][651]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Models/_chairs/office_swivel_chair/SkeletalMeshes/office_swivel_chair_Skeleton_Auto4
+[2026.05.08-18.11.09:689][651]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/office_swivel_chair_Skeleton_AutB81762AE44267C8787EA38A90740E155.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/_chairs/office_swivel_chair/SkeletalMeshes/office_swivel_chair_Skeleton_Auto4.uasset'
+[2026.05.08-18.11.09:690][651]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Models/_chairs/office_swivel_chair/Textures/office_swivel_chair_texture_0] ([1] browsable assets)...
+[2026.05.08-18.11.09:690][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/_chairs/office_swivel_chair/Textures/office_swivel_chair_texture_0]
+[2026.05.08-18.11.10:094][651]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Models/_chairs/office_swivel_chair/Textures/office_swivel_chair_texture_0_Auto4
+[2026.05.08-18.11.10:094][651]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/office_swivel_chair_texture_0_AuA8ED9BAA4FA0B6003DD780BF81D0317E.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/_chairs/office_swivel_chair/Textures/office_swivel_chair_texture_0_Auto4.uasset'
+[2026.05.08-18.11.10:095][651]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Models/_chairs/office_swivel_chair/Textures/office_swivel_chair_texture_1] ([1] browsable assets)...
+[2026.05.08-18.11.10:095][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/_chairs/office_swivel_chair/Textures/office_swivel_chair_texture_1]
+[2026.05.08-18.11.10:509][651]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Models/_chairs/office_swivel_chair/Textures/office_swivel_chair_texture_1_Auto4
+[2026.05.08-18.11.10:509][651]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/office_swivel_chair_texture_1_AuFBF9DBD047218B078AA2598D0D8351E7.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/_chairs/office_swivel_chair/Textures/office_swivel_chair_texture_1_Auto4.uasset'
+[2026.05.08-18.11.10:510][651]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Models/_chairs/office_swivel_chair/Textures/office_swivel_chair_texture_2] ([1] browsable assets)...
+[2026.05.08-18.11.10:510][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/_chairs/office_swivel_chair/Textures/office_swivel_chair_texture_2]
+[2026.05.08-18.11.10:912][651]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Models/_chairs/office_swivel_chair/Textures/office_swivel_chair_texture_2_Auto4
+[2026.05.08-18.11.10:912][651]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/office_swivel_chair_texture_2_Au1EFB20964404F76CA2618AB22B78DEF1.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/_chairs/office_swivel_chair/Textures/office_swivel_chair_texture_2_Auto4.uasset'
+[2026.05.08-18.11.10:913][651]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Models/_chairs/office_swivel_chair/Materials/SwivelChair] ([1] browsable assets)...
+[2026.05.08-18.11.10:939][651]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/_Models/_chairs/office_swivel_chair/Materials/SwivelChair.SwivelChair]
+[2026.05.08-18.11.10:939][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/_chairs/office_swivel_chair/Materials/SwivelChair]
+[2026.05.08-18.11.10:947][651]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Models/_chairs/office_swivel_chair/Materials/SwivelChair_Auto4
+[2026.05.08-18.11.10:947][651]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/SwivelChair_Auto44DC5332942BE7F6551B722A037AFE632.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/_chairs/office_swivel_chair/Materials/SwivelChair_Auto4.uasset'
+[2026.05.08-18.11.10:948][651]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Models/_chairs/office_swivel_chair/SkeletalMeshes/office_swivel_chair] ([1] browsable assets)...
+[2026.05.08-18.11.10:969][651]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/_Models/_chairs/office_swivel_chair/SkeletalMeshes/office_swivel_chair.office_swivel_chair]
+[2026.05.08-18.11.10:969][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/_chairs/office_swivel_chair/SkeletalMeshes/office_swivel_chair]
+[2026.05.08-18.11.10:998][651]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Models/_chairs/office_swivel_chair/SkeletalMeshes/office_swivel_chair_Auto4
+[2026.05.08-18.11.10:998][651]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/office_swivel_chair_Auto4EDA40FF546FB230213E51998135FE948.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/_chairs/office_swivel_chair/SkeletalMeshes/office_swivel_chair_Auto4.uasset'
+[2026.05.08-18.11.11:018][651]LogFileHelpers: Auto-saving content packages took 1.515
+[2026.05.08-18.12.07:724][822]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3872.663574
+[2026.05.08-18.12.08:724][825]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.08-18.12.08:725][825]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3873.330566, Update Interval: 353.878601
+[2026.05.08-18.16.07:236][541]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (WH-1000XM5), InstanceID=1
+[2026.05.08-18.16.07:236][541]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{b29bcf13-6d0b-4922-9d72-a036015aa5b5}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.05.08-18.16.07:395][541]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{b29bcf13-6d0b-4922-9d72-a036015aa5b5}]
+[2026.05.08-18.16.07:395][541]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.05.08-18.16.07:395][541]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.05.08-18.16.07:730][542]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{b29bcf13-6d0b-4922-9d72-a036015aa5b5}, Name=Headphones (WH-1000XM5)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=19.05
+[2026.05.08-18.16.07:730][542]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.05.08-18.16.07:730][542]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.05.08-18.16.07:732][542]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.05.08-18.16.12:907][603]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-18.16.12:985][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.05.08-18.16.13:026][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.05.08-18.16.13:064][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.05.08-18.16.13:084][603]LogFileHelpers: InternalPromptForCheckoutAndSave took 176.773 ms (total: 1.90 sec)
+[2026.05.08-18.16.14:365][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.05.08-18.16.15:857][691]LogSlate: Window 'Save Content' being destroyed
+[2026.05.08-18.16.15:869][691]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-18.16.15:913][691]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Models/_chairs/office_swivel_chair/Materials/SwivelChair] ([1] browsable assets)...
+[2026.05.08-18.16.15:913][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/_chairs/office_swivel_chair/Materials/SwivelChair]
+[2026.05.08-18.16.15:922][691]LogSavePackage: Moving output files for package: /Game/_Models/_chairs/office_swivel_chair/Materials/SwivelChair
+[2026.05.08-18.16.15:922][691]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/SwivelChairF6AF6752499A5BB81E43529A880B17D5.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Models/_chairs/office_swivel_chair/Materials/SwivelChair.uasset'
+[2026.05.08-18.16.15:944][691]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Models/_chairs/office_swivel_chair/SkeletalMeshes/office_swivel_chair] ([1] browsable assets)...
+[2026.05.08-18.16.15:944][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/_chairs/office_swivel_chair/SkeletalMeshes/office_swivel_chair]
+[2026.05.08-18.16.15:972][691]LogSavePackage: Moving output files for package: /Game/_Models/_chairs/office_swivel_chair/SkeletalMeshes/office_swivel_chair
+[2026.05.08-18.16.15:972][691]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/office_swivel_chairC832EFFE43A01D5E70EF098E6BD3A021.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Models/_chairs/office_swivel_chair/SkeletalMeshes/office_swivel_chair.uasset'
+[2026.05.08-18.16.15:973][691]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Models/_chairs/office_swivel_chair/SkeletalMeshes/office_swivel_chair_Skeleton] ([1] browsable assets)...
+[2026.05.08-18.16.15:973][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/_chairs/office_swivel_chair/SkeletalMeshes/office_swivel_chair_Skeleton]
+[2026.05.08-18.16.15:980][691]LogSavePackage: Moving output files for package: /Game/_Models/_chairs/office_swivel_chair/SkeletalMeshes/office_swivel_chair_Skeleton
+[2026.05.08-18.16.15:980][691]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/office_swivel_chair_SkeletonF6BB8FEC4100D1F8CB683BB17DB61E1A.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Models/_chairs/office_swivel_chair/SkeletalMeshes/office_swivel_chair_Skeleton.uasset'
+[2026.05.08-18.16.15:982][691]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Models/_chairs/office_swivel_chair/Textures/office_swivel_chair_texture_0] ([1] browsable assets)...
+[2026.05.08-18.16.15:982][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/_chairs/office_swivel_chair/Textures/office_swivel_chair_texture_0]
+[2026.05.08-18.16.16:112][691]LogSavePackage: Moving output files for package: /Game/_Models/_chairs/office_swivel_chair/Textures/office_swivel_chair_texture_0
+[2026.05.08-18.16.16:112][691]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/office_swivel_chair_texture_06675EEB044D96A795797C980A21AA6A6.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Models/_chairs/office_swivel_chair/Textures/office_swivel_chair_texture_0.uasset'
+[2026.05.08-18.16.16:115][691]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Models/_chairs/office_swivel_chair/Textures/office_swivel_chair_texture_1] ([1] browsable assets)...
+[2026.05.08-18.16.16:115][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/_chairs/office_swivel_chair/Textures/office_swivel_chair_texture_1]
+[2026.05.08-18.16.16:267][691]LogSavePackage: Moving output files for package: /Game/_Models/_chairs/office_swivel_chair/Textures/office_swivel_chair_texture_1
+[2026.05.08-18.16.16:267][691]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/office_swivel_chair_texture_168F2FE3F4661B51E3EC3048FE0809B49.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Models/_chairs/office_swivel_chair/Textures/office_swivel_chair_texture_1.uasset'
+[2026.05.08-18.16.16:268][691]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Models/_chairs/office_swivel_chair/Textures/office_swivel_chair_texture_2] ([1] browsable assets)...
+[2026.05.08-18.16.16:268][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/_chairs/office_swivel_chair/Textures/office_swivel_chair_texture_2]
+[2026.05.08-18.16.16:406][691]LogSavePackage: Moving output files for package: /Game/_Models/_chairs/office_swivel_chair/Textures/office_swivel_chair_texture_2
+[2026.05.08-18.16.16:406][691]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/office_swivel_chair_texture_2E92C57644D8EBA8365D2E091A82E5540.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Models/_chairs/office_swivel_chair/Textures/office_swivel_chair_texture_2.uasset'
+[2026.05.08-18.16.16:417][691]LogFileHelpers: InternalPromptForCheckoutAndSave took 547.551 ms (total: 2.45 sec)
+[2026.05.08-18.16.16:478][691]LogStall: Shutdown...
+[2026.05.08-18.16.16:478][691]LogStall: Shutdown complete.
+[2026.05.08-18.16.16:509][691]LogSlate: Window 'red-clay-wall-albedo_Mat' being destroyed
+[2026.05.08-18.16.16:533][691]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-18.16.16:533][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-18.16.16:595][691]LogSlate: Window 'MyProject3 - Unreal Editor' being destroyed
+[2026.05.08-18.16.16:787][691]LogContentValidation: Display: Starting to validate 6 assets
+[2026.05.08-18.16.16:787][691]LogContentValidation: Enabled validators:
+[2026.05.08-18.16.16:787][691]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-18.16.16:787][691]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-18.16.16:787][691]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-18.16.16:787][691]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-18.16.16:787][691]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-18.16.16:787][691]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-18.16.16:787][691]AssetCheck: /Game/_Models/_chairs/office_swivel_chair/Materials/SwivelChair Validating asset
+[2026.05.08-18.16.16:787][691]AssetCheck: /Game/_Models/_chairs/office_swivel_chair/SkeletalMeshes/office_swivel_chair Validating asset
+[2026.05.08-18.16.16:787][691]AssetCheck: /Game/_Models/_chairs/office_swivel_chair/SkeletalMeshes/office_swivel_chair_Skeleton Validating asset
+[2026.05.08-18.16.16:787][691]AssetCheck: /Game/_Models/_chairs/office_swivel_chair/Textures/office_swivel_chair_texture_0 Validating asset
+[2026.05.08-18.16.16:787][691]AssetCheck: /Game/_Models/_chairs/office_swivel_chair/Textures/office_swivel_chair_texture_1 Validating asset
+[2026.05.08-18.16.16:788][691]AssetCheck: /Game/_Models/_chairs/office_swivel_chair/Textures/office_swivel_chair_texture_2 Validating asset
+[2026.05.08-18.16.16:867][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.05.08-18.16.16:892][691]Cmd: QUIT_EDITOR
+[2026.05.08-18.16.16:892][691]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.05.08-18.16.16:899][691]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.08-18.16.16:906][692]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.05.08-18.16.16:907][692]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.05.08-18.16.16:907][692]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.05.08-18.16.16:915][692]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-18.16.16:915][692]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.08-18.16.16:917][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-18.16.16:918][692]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.05.08-18.16.16:930][692]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.05.08-18.16.16:930][692]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.05.08-18.16.16:930][692]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.05.08-18.16.16:937][692]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-18.16.16:937][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-18.16.16:938][692]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-18.16.16:938][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-18.16.16:938][692]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-18.16.16:938][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-18.16.16:939][692]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-18.16.16:939][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-18.16.16:939][692]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-18.16.16:939][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-18.16.16:940][692]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-18.16.16:940][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-18.16.16:940][692]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-18.16.16:940][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-18.16.16:940][692]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-18.16.16:940][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-18.16.16:940][692]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-18.16.16:940][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-18.16.16:942][692]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-18.16.16:942][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-18.16.16:942][692]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-18.16.16:942][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-18.16.16:943][692]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-18.16.16:943][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-18.16.16:943][692]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-18.16.16:943][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-18.16.16:943][692]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-18.16.16:943][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-18.16.16:944][692]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-18.16.16:944][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-18.16.16:944][692]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-18.16.16:944][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-18.16.16:945][692]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-18.16.16:945][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-18.16.16:945][692]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-18.16.16:945][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-18.16.16:945][692]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-18.16.16:945][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-18.16.16:946][692]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-18.16.16:946][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-18.16.16:947][692]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-18.16.16:947][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-18.16.16:947][692]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-18.16.16:947][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-18.16.16:948][692]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-18.16.16:948][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-18.16.16:948][692]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-18.16.16:948][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-18.16.16:948][692]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-18.16.16:948][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-18.16.16:949][692]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-18.16.16:949][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-18.16.16:949][692]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-18.16.16:949][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-18.16.16:950][692]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-18.16.16:950][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-18.16.16:950][692]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-18.16.16:950][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-18.16.16:951][692]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.05.08-18.16.16:951][692]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.05.08-18.16.16:955][692]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.05.08-18.16.17:021][692]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.05.08-18.16.17:021][692]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.05.08-18.16.17:021][692]LogAudio: Display: Audio Device unregistered from world 'Lvl_ThirdPerson'.
+[2026.05.08-18.16.17:021][692]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.05.08-18.16.17:021][692]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.05.08-18.16.17:023][692]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.05.08-18.16.17:032][692]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.05.08-18.16.17:032][692]LogAudio: Display: Audio Device Manager Shutdown
+[2026.05.08-18.16.17:033][692]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2026.05.08-18.16.17:036][692]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.05.08-18.16.17:036][692]LogExit: Preparing to exit.
+[2026.05.08-18.16.17:104][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.05.08-18.16.17:365][692]LogEditorDataStorage: Deinitializing
+[2026.05.08-18.16.17:499][692]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.05.08-18.16.17:530][692]LogExit: Editor shut down
+[2026.05.08-18.16.17:535][692]LogExit: Transaction tracking system shut down
+[2026.05.08-18.16.17:707][692]LogExit: Object subsystem successfully closed.
+[2026.05.08-18.16.17:770][692]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.05.08-18.16.17:908][692]LogMemoryProfiler: Shutdown
+[2026.05.08-18.16.17:908][692]LogNetworkingProfiler: Shutdown
+[2026.05.08-18.16.17:908][692]LoadingProfiler: Shutdown
+[2026.05.08-18.16.17:908][692]LogTimingProfiler: Shutdown
+[2026.05.08-18.16.17:908][692]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.05.08-18.16.17:908][692]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.05.08-18.16.18:372][692]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.05.08-18.16.18:372][692]LogNFORDenoise: NFORDenoise function shutting down
+[2026.05.08-18.16.18:386][692]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.05.08-18.16.18:386][692]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2A2E3746-4851-F1A4-974D-35A72DDFD18C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=32b98dca4babd8ac6f3362857256e6ad%7Cdc22bf91edcb4030b3f1d10200472d02%7C3eba7a12-1a98-4f11-9d76-1833cb280630&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.05.08-18.16.18:924][692]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.05.08-18.16.18:929][692]RenderDocPlugin: plugin has been unloaded.
+[2026.05.08-18.16.18:929][692]LogXGEController: Cleaning working directory: C:/Users/Corey/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.05.08-18.16.18:931][692]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.05.08-18.16.18:931][692]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.05.08-18.16.18:931][692]LogPakFile: Destroying PakPlatformFile
+[2026.05.08-18.16.19:287][692]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.05.08-18.16.19:316][692]LogExit: Exiting.
+[2026.05.08-18.16.19:338][692]Log file closed, 05/08/26 19:16:19
