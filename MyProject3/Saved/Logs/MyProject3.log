@@ -2890,3 +2890,72 @@ Sampler Limit: 32
 [2026.05.08-17.32.46:958][214]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.05.08-17.32.46:958][214]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.05.08-17.32.46:958][214]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2026.05.08-17.34.06:924][570]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-17.34.06:924][570]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Materials/Ma_Red_Clay/red-clay-wall-albedo_Mat] ([1] browsable assets)...
+[2026.05.08-17.34.06:924][570]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/Ma_Red_Clay/red-clay-wall-albedo_Mat]
+[2026.05.08-17.34.06:932][570]LogSavePackage: Moving output files for package: /Game/_Materials/Ma_Red_Clay/red-clay-wall-albedo_Mat
+[2026.05.08-17.34.06:932][570]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/red-clay-wall-albedo_Mat7A878E014BC4BD205A02048CFA93E227.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/Ma_Red_Clay/red-clay-wall-albedo_Mat.uasset'
+[2026.05.08-17.34.06:934][570]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Materials/Ma_Concret/red-clay-wall-albedo_Mat] ([1] browsable assets)...
+[2026.05.08-17.34.06:934][570]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/Ma_Concret/red-clay-wall-albedo_Mat]
+[2026.05.08-17.34.06:940][570]LogSavePackage: Moving output files for package: /Game/_Materials/Ma_Concret/red-clay-wall-albedo_Mat
+[2026.05.08-17.34.06:940][570]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/red-clay-wall-albedo_MatE0AC799F4F84BEA246BB70964181AA49.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/Ma_Concret/red-clay-wall-albedo_Mat.uasset'
+[2026.05.08-17.34.06:941][570]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Materials/Ma_Red_Clay/red-clay-wall-height] ([1] browsable assets)...
+[2026.05.08-17.34.06:941][570]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/Ma_Red_Clay/red-clay-wall-height]
+[2026.05.08-17.34.06:969][570]LogSavePackage: Moving output files for package: /Game/_Materials/Ma_Red_Clay/red-clay-wall-height
+[2026.05.08-17.34.06:969][570]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/red-clay-wall-heightD4D3CAA6486EBCB5EFD8238EFFBCD658.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/Ma_Red_Clay/red-clay-wall-height.uasset'
+[2026.05.08-17.34.06:969][570]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Materials/Ma_Red_Clay/red-clay-wall-ao] ([1] browsable assets)...
+[2026.05.08-17.34.06:970][570]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/Ma_Red_Clay/red-clay-wall-ao]
+[2026.05.08-17.34.06:970][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Materials/Ma_Red_Clay/red-clay-wall-ao" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/Ma_Red_Clay/red-clay-wall-ao.uasset" SILENT=true
+[2026.05.08-17.34.07:011][570]LogSavePackage: Moving output files for package: /Game/_Materials/Ma_Red_Clay/red-clay-wall-ao
+[2026.05.08-17.34.07:011][570]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/red-clay-wall-aoC8458E1844C7B7AC3C50EEAB44D77D56.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/Ma_Red_Clay/red-clay-wall-ao.uasset'
+[2026.05.08-17.34.07:012][570]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Materials/Ma_Red_Clay/red-clay-wall-albedo] ([1] browsable assets)...
+[2026.05.08-17.34.07:012][570]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/Ma_Red_Clay/red-clay-wall-albedo]
+[2026.05.08-17.34.07:081][570]LogSavePackage: Moving output files for package: /Game/_Materials/Ma_Red_Clay/red-clay-wall-albedo
+[2026.05.08-17.34.07:081][570]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/red-clay-wall-albedo5EAF33D7493653393D5A7FBA59820462.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/Ma_Red_Clay/red-clay-wall-albedo.uasset'
+[2026.05.08-17.34.07:082][570]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Materials/Ma_Red_Clay/red-clay-wall-roughness] ([1] browsable assets)...
+[2026.05.08-17.34.07:082][570]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/Ma_Red_Clay/red-clay-wall-roughness]
+[2026.05.08-17.34.07:131][570]LogSavePackage: Moving output files for package: /Game/_Materials/Ma_Red_Clay/red-clay-wall-roughness
+[2026.05.08-17.34.07:131][570]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/red-clay-wall-roughness50E25B5744120C9723A16A9A318FBD57.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/Ma_Red_Clay/red-clay-wall-roughness.uasset'
+[2026.05.08-17.34.07:133][570]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Materials/Ma_Red_Clay/red-clay-wall-preview] ([1] browsable assets)...
+[2026.05.08-17.34.07:133][570]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/Ma_Red_Clay/red-clay-wall-preview]
+[2026.05.08-17.34.07:150][570]LogSavePackage: Moving output files for package: /Game/_Materials/Ma_Red_Clay/red-clay-wall-preview
+[2026.05.08-17.34.07:150][570]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/red-clay-wall-preview0D19E47A427A7098D9F971851A879949.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/Ma_Red_Clay/red-clay-wall-preview.uasset'
+[2026.05.08-17.34.07:151][570]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Materials/Ma_Red_Clay/red-clay-wall-normal-dx] ([1] browsable assets)...
+[2026.05.08-17.34.07:151][570]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/Ma_Red_Clay/red-clay-wall-normal-dx]
+[2026.05.08-17.34.07:211][570]LogSavePackage: Moving output files for package: /Game/_Materials/Ma_Red_Clay/red-clay-wall-normal-dx
+[2026.05.08-17.34.07:211][570]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/red-clay-wall-normal-dx6F6C18CB4C63A54819C45F9AD584065F.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/Ma_Red_Clay/red-clay-wall-normal-dx.uasset'
+[2026.05.08-17.34.07:212][570]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Materials/Ma_Red_Clay/red-clay-wall-metallic] ([1] browsable assets)...
+[2026.05.08-17.34.07:212][570]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/Ma_Red_Clay/red-clay-wall-metallic]
+[2026.05.08-17.34.07:225][570]LogSavePackage: Moving output files for package: /Game/_Materials/Ma_Red_Clay/red-clay-wall-metallic
+[2026.05.08-17.34.07:226][570]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/red-clay-wall-metallicBEE4B0444ABC2DAC922DDFAD94C4158B.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/Ma_Red_Clay/red-clay-wall-metallic.uasset'
+[2026.05.08-17.34.07:226][570]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Materials/Ma_Red_Clay/red-clay-wall-ao_Mat] ([1] browsable assets)...
+[2026.05.08-17.34.07:226][570]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/Ma_Red_Clay/red-clay-wall-ao_Mat]
+[2026.05.08-17.34.07:234][570]LogSavePackage: Moving output files for package: /Game/_Materials/Ma_Red_Clay/red-clay-wall-ao_Mat
+[2026.05.08-17.34.07:234][570]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/red-clay-wall-ao_Mat2D5306C640046A588245529F340D3A76.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/Ma_Red_Clay/red-clay-wall-ao_Mat.uasset'
+[2026.05.08-17.34.07:234][570]LogFileHelpers: InternalPromptForCheckoutAndSave took 310.593 ms (total: 613.617 ms)
+[2026.05.08-17.34.07:346][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.05.08-17.34.07:368][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.05.08-17.34.07:388][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.05.08-17.34.07:442][570]LogContentValidation: Display: Starting to validate 10 assets
+[2026.05.08-17.34.07:442][570]LogContentValidation: Enabled validators:
+[2026.05.08-17.34.07:442][570]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-17.34.07:442][570]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-17.34.07:442][570]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-17.34.07:442][570]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-17.34.07:442][570]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-17.34.07:442][570]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-17.34.07:443][570]AssetCheck: /Game/_Materials/Ma_Red_Clay/red-clay-wall-albedo_Mat Validating asset
+[2026.05.08-17.34.07:443][570]AssetCheck: /Game/_Materials/Ma_Concret/red-clay-wall-albedo_Mat Validating asset
+[2026.05.08-17.34.07:443][570]AssetCheck: /Game/_Materials/Ma_Red_Clay/red-clay-wall-height Validating asset
+[2026.05.08-17.34.07:443][570]AssetCheck: /Game/_Materials/Ma_Red_Clay/red-clay-wall-ao Validating asset
+[2026.05.08-17.34.07:443][570]AssetCheck: /Game/_Materials/Ma_Red_Clay/red-clay-wall-albedo Validating asset
+[2026.05.08-17.34.07:443][570]AssetCheck: /Game/_Materials/Ma_Red_Clay/red-clay-wall-roughness Validating asset
+[2026.05.08-17.34.07:443][570]AssetCheck: /Game/_Materials/Ma_Red_Clay/red-clay-wall-preview Validating asset
+[2026.05.08-17.34.07:443][570]AssetCheck: /Game/_Materials/Ma_Red_Clay/red-clay-wall-normal-dx Validating asset
+[2026.05.08-17.34.07:443][570]AssetCheck: /Game/_Materials/Ma_Red_Clay/red-clay-wall-metallic Validating asset
+[2026.05.08-17.34.07:443][570]AssetCheck: /Game/_Materials/Ma_Red_Clay/red-clay-wall-ao_Mat Validating asset
+[2026.05.08-17.34.07:505][570]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.08-17.35.29:980][919]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1674.903931
+[2026.05.08-17.35.30:160][930]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.08-17.35.30:160][930]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1675.073242, Update Interval: 308.842438
+[2026.05.08-17.35.31:706][ 40]LogRenderer: Using fallback RTPSO
