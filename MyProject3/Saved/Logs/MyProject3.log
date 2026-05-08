@@ -24684,3 +24684,864 @@ Sampler Limit: 32
 [2026.05.08-16.40.07:983][323]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4620.142090
 [2026.05.08-16.40.08:983][326]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.05.08-16.40.08:983][326]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4620.808594, Update Interval: 333.079010
+[2026.05.08-16.45.34:826][751]Cmd: EDIT COPY
+[2026.05.08-16.45.35:061][771]Cmd: EDIT PASTE
+[2026.05.08-16.46.01:226][444]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.08-16.46.01:235][444]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.08-16.46.01:235][444]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.05.08-16.46.01:254][444]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 17.998 ms (total: 305.454 ms)
+[2026.05.08-16.46.01:254][444]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.08-16.46.01:254][444]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.05.08-16.46.01:360][444]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.46.01:360][444]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.46.01:360][444]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.46.01:376][444]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.08-16.46.01:397][444]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 20.432 ms (total: 328.745 ms)
+[2026.05.08-16.46.01:564][444]LogPlayLevel: PIE: StaticDuplicateObject took: (0.310531s)
+[2026.05.08-16.46.01:564][444]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.310572s)
+[2026.05.08-16.46.01:597][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2026.05.08-16.46.01:603][444]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.05.08-16.46.01:604][444]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.08-16.46.01:604][444]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.08-16.46.01:604][444]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.08-16.46.01:604][444]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.08-16.46.01:631][444]LogWorldPartition: Display: WorldPartition initialize took 26.998 ms (total: 3.74 sec)
+[2026.05.08-16.46.01:631][444]LogPlayLevel: PIE: World Init took: (0.029296s)
+[2026.05.08-16.46.01:632][444]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2026.05.08-16.46.01:632][444]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.08-16.46.01:632][444]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.08-16.46.01:632][444]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.08-16.46.01:632][444]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.08-16.46.01:632][444]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.08-16.46.01:632][444]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.08-16.46.01:632][444]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.08-16.46.01:632][444]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.08-16.46.01:632][444]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.08-16.46.01:633][444]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.08-16.46.01:633][444]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.08-16.46.01:635][444]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.08-16.46.01:659][444]LogAudioMixer: Display: Using Audio Hardware Device Headphones (HyperX Cloud III)
+[2026.05.08-16.46.01:659][444]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.08-16.46.01:659][444]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.08-16.46.01:659][444]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.08-16.46.01:660][444]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2026.05.08-16.46.01:660][444]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2026.05.08-16.46.01:662][444]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2026.05.08-16.46.01:662][444]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2026.05.08-16.46.01:662][444]LogInit: FAudioDevice initialized with ID 17.
+[2026.05.08-16.46.01:662][444]LogAudio: Display: Audio Device (ID: 17) registered with world 'Lvl_ThirdPerson'.
+[2026.05.08-16.46.01:662][444]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2026.05.08-16.46.01:667][444]LogLoad: Game class is 'BP_PlatformingGameMode_C'
+[2026.05.08-16.46.01:689][444]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.46.01:689][444]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.46.01:689][444]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.46.01:689][444]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.46.01:696][444]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.46.01:696][444]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.46.01:696][444]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.46.01:696][444]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.46.01:696][444]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.46.01:696][444]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.46.01:696][444]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.46.01:696][444]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.46.01:696][444]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.46.01:696][444]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.46.01:696][444]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.46.01:696][444]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.46.01:696][444]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.46.01:696][444]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.46.01:696][444]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.46.01:696][444]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.05.08-17.46.01
+[2026.05.08-16.46.01:700][444]LogWorld: Bringing up level for play took: 0.032329
+[2026.05.08-16.46.01:702][444]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2026.05.08-16.46.01:715][444]PIE: Server logged in
+[2026.05.08-16.46.01:717][444]PIE: Play in editor total start time 0.481 seconds.
+[2026.05.08-16.46.01:729][444]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.46.01:729][444]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.46.01:776][445]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.05.08-16.46.04:451][605]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_6' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.46.04:451][605]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.46.04:451][605]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_5' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.46.04:451][605]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.46.04:451][605]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_4' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.46.04:451][605]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.46.04:451][605]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_3' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.46.04:451][605]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.46.04:451][605]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_1' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.46.04:451][605]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.46.04:451][605]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.46.04:451][605]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.46.07:330][797]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_6' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.46.07:330][797]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.46.07:330][797]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_5' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.46.07:330][797]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.46.07:330][797]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_4' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.46.07:330][797]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.46.07:330][797]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_3' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.46.07:330][797]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.46.07:330][797]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_2' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.46.07:330][797]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.46.07:330][797]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_1' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.46.07:330][797]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.46.16:124][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.08-16.46.16:124][362]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.05.08-16.46.16:124][362]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.08-16.46.16:126][362]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-16.46.16:131][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-16.46.16:132][362]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.05.08-16.46.16:138][362]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.08-16.46.16:149][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-16.46.16:179][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.08-16.46.16:181][362]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2026.05.08-16.46.16:181][362]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=4
+[2026.05.08-16.46.16:183][362]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=2
+[2026.05.08-16.46.16:201][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2026.05.08-16.46.16:308][363]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2026.05.08-16.46.16:554][377]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4988.727051
+[2026.05.08-16.46.16:711][388]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.08-16.46.16:711][388]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4988.871094, Update Interval: 319.393280
+[2026.05.08-16.46.23:296][854]LogContentBrowser: Deferred new asset file creation: MI_Bricks_Inst
+[2026.05.08-16.46.23:314][854]LogContentBrowser: Creating deferred item: MI_Bricks_Inst
+[2026.05.08-16.46.23:329][855]LogContentBrowser: Renaming the item being created (Deferred Item: MI_Bricks_Inst).
+[2026.05.08-16.46.26:358][104]LogContentBrowser: Attempting asset rename: MI_Bricks_Inst -> MI_Bricks_Inst
+[2026.05.08-16.46.26:360][104]LogContentBrowser: End creating deferred item MI_Bricks_Inst
+[2026.05.08-16.46.29:938][308]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/_Materials/_Brown_Bricks/MI_Bricks_Inst.MI_Bricks_Inst
+[2026.05.08-16.46.29:941][308]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_44
+[2026.05.08-16.47.18:362][836]LogContentBrowser: Deferred new asset file creation: MI_Bricks_Inst1
+[2026.05.08-16.47.18:376][836]LogContentBrowser: Creating deferred item: MI_Bricks_Inst1
+[2026.05.08-16.47.18:397][837]LogContentBrowser: Renaming the item being created (Deferred Item: MI_Bricks_Inst1).
+[2026.05.08-16.47.19:353][905]LogContentBrowser: Attempting asset rename: MI_Bricks_Inst1 -> MI_Bricks_Inst1
+[2026.05.08-16.47.19:354][905]LogContentBrowser: End creating deferred item MI_Bricks_Inst1
+[2026.05.08-16.47.21:467][ 28]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/_Materials/_Brown_Bricks/MI_Bricks_Inst1.MI_Bricks_Inst1
+[2026.05.08-16.47.21:467][ 28]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_45
+[2026.05.08-16.47.50:828][535]LogContentBrowser: Attempting asset rename: MI_Bricks -> MA_Bricks
+[2026.05.08-16.47.50:926][535]LogMaterial: Display: MaterialInterface MI_Bricks has a incorrectly name EditorOnlyData 'MI_BricksEditorOnlyData'. This may cause issues when running the editor on cooked data. Trying to rename it to the correct name 'MA_BricksEditorOnlyData'.
+[2026.05.08-16.47.50:979][535]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-16.47.50:979][535]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Materials/_Brown_Bricks/MA_Bricks] ([1] browsable assets)...
+[2026.05.08-16.47.50:979][535]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/_Brown_Bricks/MA_Bricks]
+[2026.05.08-16.47.50:979][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Materials/_Brown_Bricks/MA_Bricks" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/_Brown_Bricks/MA_Bricks.uasset" SILENT=true
+[2026.05.08-16.47.50:987][535]LogSavePackage: Moving output files for package: /Game/_Materials/_Brown_Bricks/MA_Bricks
+[2026.05.08-16.47.50:987][535]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/MA_Bricks460B78D9491BB54F8E2C69BC08B38FCD.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/_Brown_Bricks/MA_Bricks.uasset'
+[2026.05.08-16.47.50:989][535]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Materials/_Brown_Bricks/MI_Bricks] ([1] browsable assets)...
+[2026.05.08-16.47.50:989][535]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/_Brown_Bricks/MI_Bricks]
+[2026.05.08-16.47.50:989][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Materials/_Brown_Bricks/MI_Bricks" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/_Brown_Bricks/MI_Bricks.uasset" SILENT=true
+[2026.05.08-16.47.50:994][535]LogSavePackage: Moving output files for package: /Game/_Materials/_Brown_Bricks/MI_Bricks
+[2026.05.08-16.47.50:994][535]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/MI_Bricks27FF81D34AE5483371D756B0BE1FF1A8.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/_Brown_Bricks/MI_Bricks.uasset'
+[2026.05.08-16.47.50:995][535]LogFileHelpers: InternalPromptForCheckoutAndSave took 16.647 ms (total: 1.98 sec)
+[2026.05.08-16.47.51:042][535]LogContentValidation: Display: Starting to validate 2 assets
+[2026.05.08-16.47.51:042][535]LogContentValidation: Enabled validators:
+[2026.05.08-16.47.51:042][535]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-16.47.51:043][535]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-16.47.51:043][535]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-16.47.51:043][535]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-16.47.51:043][535]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-16.47.51:043][535]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-16.47.51:043][535]AssetCheck: /Game/_Materials/_Brown_Bricks/MA_Bricks Validating asset
+[2026.05.08-16.47.51:043][535]AssetCheck: /Game/_Materials/_Brown_Bricks/MI_Bricks Validating asset
+[2026.05.08-16.47.51:105][535]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.08-16.47.54:241][700]LogContentBrowser: Deferred new asset file creation: MA_Bricks_Inst
+[2026.05.08-16.47.54:254][700]LogContentBrowser: Creating deferred item: MA_Bricks_Inst
+[2026.05.08-16.47.54:272][701]LogContentBrowser: Renaming the item being created (Deferred Item: MA_Bricks_Inst).
+[2026.05.08-16.48.00:755][153]LogContentBrowser: Attempting asset rename: MA_Bricks_Inst -> Mi_Bricks_Inst2
+[2026.05.08-16.48.00:756][153]LogContentBrowser: End creating deferred item MA_Bricks_Inst
+[2026.05.08-16.48.59:261][215]LogContentBrowser: Deferred new asset file creation: MA_Bricks_Inst
+[2026.05.08-16.48.59:284][215]LogContentBrowser: Creating deferred item: MA_Bricks_Inst
+[2026.05.08-16.48.59:309][216]LogContentBrowser: Renaming the item being created (Deferred Item: MA_Bricks_Inst).
+[2026.05.08-16.49.03:469][492]LogContentBrowser: Attempting asset rename: MA_Bricks_Inst -> MI_Bricks_Inst3
+[2026.05.08-16.49.03:470][492]LogContentBrowser: End creating deferred item MA_Bricks_Inst
+[2026.05.08-16.49.10:229][758]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/_Materials/_Brown_Bricks/MI_Bricks_Inst3.MI_Bricks_Inst3
+[2026.05.08-16.49.10:232][758]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_46
+[2026.05.08-16.49.21:152][204]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-16.49.21:195][204]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Materials/_Brown_Bricks/MI_Bricks_Inst3] ([1] browsable assets)...
+[2026.05.08-16.49.21:206][204]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/_Materials/_Brown_Bricks/MI_Bricks_Inst3.MI_Bricks_Inst3]
+[2026.05.08-16.49.21:206][204]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/_Brown_Bricks/MI_Bricks_Inst3]
+[2026.05.08-16.49.21:206][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Materials/_Brown_Bricks/MI_Bricks_Inst3" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/_Brown_Bricks/MI_Bricks_Inst3.uasset" SILENT=true
+[2026.05.08-16.49.21:397][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2026.05.08-16.49.21:539][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.05.08-16.49.21:551][204]LogSavePackage: Moving output files for package: /Game/_Materials/_Brown_Bricks/MI_Bricks_Inst3
+[2026.05.08-16.49.21:551][204]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/MI_Bricks_Inst3E32F4A2F4A7E0A292D14C494A8C58F95.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/_Brown_Bricks/MI_Bricks_Inst3.uasset'
+[2026.05.08-16.49.21:563][204]LogFileHelpers: InternalPromptForCheckoutAndSave took 411.235 ms (total: 2.39 sec)
+[2026.05.08-16.49.21:604][204]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-16.49.21:605][204]LogContentValidation: Enabled validators:
+[2026.05.08-16.49.21:605][204]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-16.49.21:605][204]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-16.49.21:605][204]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-16.49.21:605][204]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-16.49.21:605][204]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-16.49.21:605][204]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-16.49.21:605][204]AssetCheck: /Game/_Materials/_Brown_Bricks/MI_Bricks_Inst3 Validating asset
+[2026.05.08-16.49.21:648][204]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.08-16.49.21:657][205]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.49.21:684][206]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.49.23:140][271]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-16.49.23:173][271]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Materials/_Brown_Bricks/MI_Bricks_Inst1] ([1] browsable assets)...
+[2026.05.08-16.49.23:181][271]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/_Materials/_Brown_Bricks/MI_Bricks_Inst1.MI_Bricks_Inst1]
+[2026.05.08-16.49.23:181][271]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/_Brown_Bricks/MI_Bricks_Inst1]
+[2026.05.08-16.49.23:181][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Materials/_Brown_Bricks/MI_Bricks_Inst1" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/_Brown_Bricks/MI_Bricks_Inst1.uasset" SILENT=true
+[2026.05.08-16.49.23:210][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.05.08-16.49.23:242][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.05.08-16.49.23:254][271]LogSavePackage: Moving output files for package: /Game/_Materials/_Brown_Bricks/MI_Bricks_Inst1
+[2026.05.08-16.49.23:254][271]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/MI_Bricks_Inst11E1C46C94867F5B2C827D19E1129D417.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/_Brown_Bricks/MI_Bricks_Inst1.uasset'
+[2026.05.08-16.49.23:265][271]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.362 ms (total: 2.52 sec)
+[2026.05.08-16.49.23:298][271]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-16.49.23:298][271]LogContentValidation: Enabled validators:
+[2026.05.08-16.49.23:298][271]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-16.49.23:298][271]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-16.49.23:298][271]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-16.49.23:298][271]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-16.49.23:298][271]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-16.49.23:298][271]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-16.49.23:299][271]AssetCheck: /Game/_Materials/_Brown_Bricks/MI_Bricks_Inst1 Validating asset
+[2026.05.08-16.49.23:342][271]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.08-16.49.25:057][350]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-16.49.25:104][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Materials/_Brown_Bricks/MI_Bricks_Inst] ([1] browsable assets)...
+[2026.05.08-16.49.25:116][350]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/_Materials/_Brown_Bricks/MI_Bricks_Inst.MI_Bricks_Inst]
+[2026.05.08-16.49.25:116][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/_Brown_Bricks/MI_Bricks_Inst]
+[2026.05.08-16.49.25:116][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Materials/_Brown_Bricks/MI_Bricks_Inst" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/_Brown_Bricks/MI_Bricks_Inst.uasset" SILENT=true
+[2026.05.08-16.49.25:146][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.05.08-16.49.25:180][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.05.08-16.49.25:190][350]LogSavePackage: Moving output files for package: /Game/_Materials/_Brown_Bricks/MI_Bricks_Inst
+[2026.05.08-16.49.25:191][350]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/MI_Bricks_InstF710DD9B47B2C635EBF688AE9E48D101.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/_Brown_Bricks/MI_Bricks_Inst.uasset'
+[2026.05.08-16.49.25:203][350]LogFileHelpers: InternalPromptForCheckoutAndSave took 145.984 ms (total: 2.66 sec)
+[2026.05.08-16.49.25:235][350]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-16.49.25:235][350]LogContentValidation: Enabled validators:
+[2026.05.08-16.49.25:235][350]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-16.49.25:235][350]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-16.49.25:235][350]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-16.49.25:235][350]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-16.49.25:235][350]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-16.49.25:235][350]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-16.49.25:235][350]AssetCheck: /Game/_Materials/_Brown_Bricks/MI_Bricks_Inst Validating asset
+[2026.05.08-16.49.25:281][350]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.08-16.50.45:709][512]Cmd: TRANSACTION UNDO
+[2026.05.08-16.50.45:709][512]LogEditorTransaction: Undo Move Elements
+[2026.05.08-16.50.49:254][512]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.50.49:255][512]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.50.49:255][512]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.50.49:255][512]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.50.49:255][512]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.50.49:255][512]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.50.49:255][512]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.50.49:255][512]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.50.49:255][512]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.50.49:255][512]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.50.49:255][512]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.50.49:255][512]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.50.49:255][512]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.50.49:255][512]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.50.49:255][512]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.50.49:261][512]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.50.49:261][512]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.51.35:417][456]LogContentBrowser: Deferred new asset file creation: MA_Bricks_Inst
+[2026.05.08-16.51.35:452][456]LogContentBrowser: Creating deferred item: MA_Bricks_Inst
+[2026.05.08-16.51.35:480][457]LogContentBrowser: Renaming the item being created (Deferred Item: MA_Bricks_Inst).
+[2026.05.08-16.51.40:400][750]LogContentBrowser: Attempting asset rename: MA_Bricks_Inst -> Mi_Bricks_Inst4
+[2026.05.08-16.51.40:401][750]LogContentBrowser: End creating deferred item MA_Bricks_Inst
+[2026.05.08-16.51.43:375][861]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/_Materials/_Brown_Bricks/Mi_Bricks_Inst4.Mi_Bricks_Inst4
+[2026.05.08-16.51.43:378][861]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_47
+[2026.05.08-16.51.54:858][286]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-16.51.54:901][286]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Materials/_Brown_Bricks/Mi_Bricks_Inst4] ([1] browsable assets)...
+[2026.05.08-16.51.54:911][286]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/_Materials/_Brown_Bricks/Mi_Bricks_Inst4.Mi_Bricks_Inst4]
+[2026.05.08-16.51.54:911][286]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/_Brown_Bricks/Mi_Bricks_Inst4]
+[2026.05.08-16.51.54:911][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Materials/_Brown_Bricks/Mi_Bricks_Inst4" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/_Brown_Bricks/Mi_Bricks_Inst4.uasset" SILENT=true
+[2026.05.08-16.51.54:989][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2026.05.08-16.51.55:027][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2026.05.08-16.51.55:063][286]LogSavePackage: Moving output files for package: /Game/_Materials/_Brown_Bricks/Mi_Bricks_Inst4
+[2026.05.08-16.51.55:063][286]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Mi_Bricks_Inst4BCAA976F44A16C430C8B76BB1B3C754C.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/_Brown_Bricks/Mi_Bricks_Inst4.uasset'
+[2026.05.08-16.51.55:074][286]LogFileHelpers: InternalPromptForCheckoutAndSave took 215.852 ms (total: 2.88 sec)
+[2026.05.08-16.51.55:103][286]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-16.51.55:104][286]LogContentValidation: Enabled validators:
+[2026.05.08-16.51.55:104][286]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-16.51.55:104][286]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-16.51.55:104][286]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-16.51.55:104][286]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-16.51.55:104][286]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-16.51.55:104][286]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-16.51.55:104][286]AssetCheck: /Game/_Materials/_Brown_Bricks/Mi_Bricks_Inst4 Validating asset
+[2026.05.08-16.51.55:144][286]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.08-16.52.07:923][862]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5340.077637
+[2026.05.08-16.52.08:127][874]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.08-16.52.08:127][874]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5340.265137, Update Interval: 300.487061
+[2026.05.08-16.52.42:137][210]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-16.52.42:137][210]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Materials/_Brown_Bricks/MA_brown] ([1] browsable assets)...
+[2026.05.08-16.52.42:137][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/_Brown_Bricks/MA_brown]
+[2026.05.08-16.52.42:137][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Materials/_Brown_Bricks/MA_brown" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/_Brown_Bricks/MA_brown.uasset" SILENT=true
+[2026.05.08-16.52.42:145][210]LogSavePackage: Moving output files for package: /Game/_Materials/_Brown_Bricks/MA_brown
+[2026.05.08-16.52.42:146][210]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/MA_brown601B933D4B9A8563E7FEE8991732544D.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/_Brown_Bricks/MA_brown.uasset'
+[2026.05.08-16.52.42:146][210]LogFileHelpers: InternalPromptForCheckoutAndSave took 10.556 ms (total: 2.89 sec)
+[2026.05.08-16.52.42:277][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2026.05.08-16.52.42:316][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2026.05.08-16.52.42:346][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.05.08-16.52.42:374][210]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.05.08-16.52.42:374][210]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-16.52.42:374][210]LogContentValidation: Enabled validators:
+[2026.05.08-16.52.42:374][210]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-16.52.42:374][210]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-16.52.42:374][210]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-16.52.42:374][210]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-16.52.42:374][210]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-16.52.42:374][210]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-16.52.42:374][210]AssetCheck: /Game/_Materials/_Brown_Bricks/MA_brown Validating asset
+[2026.05.08-16.52.42:402][210]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.08-16.52.51:029][616]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/_Materials/_Brown_Bricks/MA_brown.MA_brown
+[2026.05.08-16.52.51:036][616]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_48
+[2026.05.08-16.52.51:241][616]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.52.51:242][616]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.52.51:242][616]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.52.51:950][616]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.08-16.52.51:950][616]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.08-16.52.51:950][616]MaterialEditorStats: Shader Count: 0
+[2026.05.08-16.52.51:950][616]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.08-16.52.52:039][618]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.05.08-16.52.52:041][618]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.08-16.52.52:041][618]MaterialEditorStats: Texture samplers: 1/16
+[2026.05.08-16.52.52:041][618]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.08-16.52.52:041][618]MaterialEditorStats: Shader Count: 5
+[2026.05.08-16.52.52:041][618]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.08-16.52.52:079][619]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.52.57:743][661]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.52.57:743][661]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.52.57:743][661]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.52.57:766][661]LogSlate: Window 'Color Picker' being destroyed
+[2026.05.08-16.52.57:783][661]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.08-16.52.57:784][661]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.08-16.52.57:784][661]MaterialEditorStats: Shader Count: 0
+[2026.05.08-16.52.57:784][661]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.08-16.52.57:878][665]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.08-16.52.57:878][665]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.08-16.52.57:878][665]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.08-16.52.57:878][665]MaterialEditorStats: Shader Count: 2
+[2026.05.08-16.52.57:878][665]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.08-16.52.58:845][701]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.05.08-16.52.58:845][701]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.08-16.52.58:845][701]MaterialEditorStats: Texture samplers: 1/16
+[2026.05.08-16.52.58:845][701]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.08-16.52.58:845][701]MaterialEditorStats: Shader Count: 4
+[2026.05.08-16.52.58:845][701]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.08-16.52.59:467][727]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.52.59:499][728]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.52.59:528][729]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.52.59:557][730]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.52.59:560][730]LogD3D12RHI: Creating RTPSO with 59 shaders (0 cached, 1 new) took 92.40 ms. Compile time 91.07 ms, link time 1.30 ms.
+[2026.05.08-16.53.00:865][784]LogMaterialEditor: Saving and Compiling material MA_brown
+[2026.05.08-16.53.00:936][784]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.53.00:936][784]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.53.00:936][784]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.53.00:980][784]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.53.00:980][784]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.53.00:980][784]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.53.00:980][784]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.53.00:980][784]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.53.00:980][784]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.53.00:980][784]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.53.00:980][784]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.53.00:980][784]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.53.00:980][784]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.53.00:980][784]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.53.00:980][784]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.53.00:980][784]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.53.00:980][784]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.53.00:980][784]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.53.01:072][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.05.08-16.53.02:261][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2026.05.08-16.53.02:277][784]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-16.53.02:309][784]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Materials/_Brown_Bricks/MA_brown] ([1] browsable assets)...
+[2026.05.08-16.53.02:321][784]OBJ SavePackage:     Rendered thumbnail for [Material /Game/_Materials/_Brown_Bricks/MA_brown.MA_brown]
+[2026.05.08-16.53.02:321][784]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/_Brown_Bricks/MA_brown]
+[2026.05.08-16.53.02:321][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Materials/_Brown_Bricks/MA_brown" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/_Brown_Bricks/MA_brown.uasset" SILENT=true
+[2026.05.08-16.53.02:329][784]LogSavePackage: Moving output files for package: /Game/_Materials/_Brown_Bricks/MA_brown
+[2026.05.08-16.53.02:329][784]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/MA_brownA806E8C04132D067F2725A828160E980.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/_Brown_Bricks/MA_brown.uasset'
+[2026.05.08-16.53.02:342][784]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.294 ms (total: 2.95 sec)
+[2026.05.08-16.53.02:379][784]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-16.53.02:379][784]LogContentValidation: Enabled validators:
+[2026.05.08-16.53.02:379][784]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-16.53.02:379][784]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-16.53.02:379][784]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-16.53.02:379][784]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-16.53.02:380][784]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-16.53.02:380][784]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-16.53.02:380][784]AssetCheck: /Game/_Materials/_Brown_Bricks/MA_brown Validating asset
+[2026.05.08-16.53.02:405][784]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.53.02:405][784]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.53.02:442][785]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.53.02:503][786]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.53.24:496][678]LogContentBrowser: Deferred new asset file creation: MA_Bricks_Inst
+[2026.05.08-16.53.24:523][678]LogContentBrowser: Creating deferred item: MA_Bricks_Inst
+[2026.05.08-16.53.24:545][679]LogContentBrowser: Renaming the item being created (Deferred Item: MA_Bricks_Inst).
+[2026.05.08-16.53.25:369][721]LogShaderCompilers: Display: ================================================
+[2026.05.08-16.53.25:369][721]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.05.08-16.53.25:369][721]LogShaderCompilers: Display: Total job queries 1,152, among them cache hits 343 (29.77%), DDC hits 652 (56.60%), Duplicates 88 (7.64%)
+[2026.05.08-16.53.25:369][721]LogShaderCompilers: Display: Tracking 721 distinct input hashes that result in 534 distinct outputs (74.06%)
+[2026.05.08-16.53.25:369][721]LogShaderCompilers: Display: RAM used: 6.31 MiB of 3.20 GiB budget. Usage: 0.19%
+[2026.05.08-16.53.25:369][721]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.05.08-16.53.25:369][721]LogShaderCompilers: Display: Shaders Compiled: 69
+[2026.05.08-16.53.25:369][721]LogShaderCompilers: Display: Jobs assigned 69, completed 69 (100%)
+[2026.05.08-16.53.25:369][721]LogShaderCompilers: Display: Average time worker was idle: 230.62 s
+[2026.05.08-16.53.25:369][721]LogShaderCompilers: Display: Time job spent in pending queue: average 0.12 s, longest 1.99 s
+[2026.05.08-16.53.25:369][721]LogShaderCompilers: Display: Job execution time: average 1.47 s, max 4.01 s
+[2026.05.08-16.53.25:369][721]LogShaderCompilers: Display: Job life time (pending + execution): average 1.59 s, max 5.14
+[2026.05.08-16.53.25:369][721]LogShaderCompilers: Display: Shader code size: total 924.124 KiB, numShaders 75, average 12.321 KiB, min 2.934 KiB, max 32.98 KiB
+[2026.05.08-16.53.25:369][721]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 26.87 s
+[2026.05.08-16.53.25:369][721]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2026.05.08-16.53.25:369][721]LogShaderCompilers: Display: Jobs were issued in 69 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.05.08-16.53.25:369][721]LogShaderCompilers: Display: Average processing rate: 2.57 jobs/sec
+[2026.05.08-16.53.25:369][721]LogShaderCompilers: Display: Total thread time: 88.922 s
+[2026.05.08-16.53.25:369][721]LogShaderCompilers: Display: Total thread preprocess time: 20.168 s
+[2026.05.08-16.53.25:369][721]LogShaderCompilers: Display: Percentage time preprocessing: 22.68%
+[2026.05.08-16.53.25:369][721]LogShaderCompilers: Display: Effective parallelization: 3.31 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.413727
+[2026.05.08-16.53.25:369][721]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.05.08-16.53.25:369][721]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    5 times, average 3.00 sec, max 3.67 sec, min 2.10 sec)
+[2026.05.08-16.53.25:369][721]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    5 times, average 2.55 sec, max 3.10 sec, min 1.70 sec)
+[2026.05.08-16.53.25:369][721]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    2 times, average 2.30 sec, max 2.49 sec, min 2.12 sec)
+[2026.05.08-16.53.25:369][721]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 2.01 sec, max 2.01 sec, min 2.01 sec)
+[2026.05.08-16.53.25:369][721]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    9 times, average 1.48 sec, max 1.83 sec, min 1.19 sec)
+[2026.05.08-16.53.25:369][721]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.05.08-16.53.25:369][721]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 16.86% of total time (compiled    5 times, average 3.00 sec, max 3.67 sec, min 2.10 sec)
+[2026.05.08-16.53.25:369][721]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 14.94% of total time (compiled    9 times, average 1.48 sec, max 1.83 sec, min 1.19 sec)
+[2026.05.08-16.53.25:369][721]LogShaderCompilers: Display:                                                 FLumenCardCS - 14.32% of total time (compiled    5 times, average 2.55 sec, max 3.10 sec, min 1.70 sec)
+[2026.05.08-16.53.25:369][721]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.49% of total time (compiled    8 times, average 0.83 sec, max 1.45 sec, min 0.67 sec)
+[2026.05.08-16.53.25:369][721]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 6.96% of total time (compiled    5 times, average 1.24 sec, max 1.83 sec, min 0.82 sec)
+[2026.05.08-16.53.25:369][721]LogShaderCompilers: Display: === Material stats ===
+[2026.05.08-16.53.25:369][721]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.05.08-16.53.25:369][721]LogShaderCompilers: Display: Materials Translated:    270
+[2026.05.08-16.53.25:369][721]LogShaderCompilers: Display: Material Total Translate Time: 0.23 s
+[2026.05.08-16.53.25:369][721]LogShaderCompilers: Display: Material Translation Only: 0.13 s (57%)
+[2026.05.08-16.53.25:369][721]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (3%)
+[2026.05.08-16.53.25:370][721]LogShaderCompilers: Display: Material Cache Hits: 79 (29%)
+[2026.05.08-16.53.25:370][721]LogShaderCompilers: Display: ================================================
+[2026.05.08-16.53.28:733][896]LogContentBrowser: Attempting asset rename: MA_Bricks_Inst -> MA_Bricks_Inst
+[2026.05.08-16.53.28:734][896]LogContentBrowser: End creating deferred item MA_Bricks_Inst
+[2026.05.08-16.53.31:936][ 43]LogContentBrowser: Deferred new asset file creation: MA_Bricks_Inst_Inst
+[2026.05.08-16.53.31:952][ 43]LogContentBrowser: Creating deferred item: MA_Bricks_Inst_Inst
+[2026.05.08-16.53.31:973][ 44]LogContentBrowser: Renaming the item being created (Deferred Item: MA_Bricks_Inst_Inst).
+[2026.05.08-16.53.44:951][785]LogContentBrowser: Attempting asset rename: MA_Bricks_Inst_Inst -> MA_Bricks_Inst_Inst
+[2026.05.08-16.53.44:951][785]LogContentBrowser: End creating deferred item MA_Bricks_Inst_Inst
+[2026.05.08-16.53.49:335][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2026.05.08-16.53.54:079][971]LogSlate: Window 'Delete Assets' being destroyed
+[2026.05.08-16.53.56:596][ 75]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/_Materials/_Brown_Bricks/MA_Bricks_Inst.MA_Bricks_Inst
+[2026.05.08-16.53.56:599][ 75]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_49
+[2026.05.08-16.54.07:690][486]LogContentBrowser: Attempting asset rename: MA_Bricks_Inst -> MI_Bricks_Inst5
+[2026.05.08-16.54.07:790][486]LogMaterial: Display: MaterialInterface MA_Bricks_Inst has a incorrectly name EditorOnlyData 'MA_Bricks_InstEditorOnlyData'. This may cause issues when running the editor on cooked data. Trying to rename it to the correct name 'MI_Bricks_Inst5EditorOnlyData'.
+[2026.05.08-16.54.07:843][486]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-16.54.07:843][486]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Materials/_Brown_Bricks/MI_Bricks_Inst5] ([1] browsable assets)...
+[2026.05.08-16.54.07:851][486]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/_Materials/_Brown_Bricks/MI_Bricks_Inst5.MI_Bricks_Inst5]
+[2026.05.08-16.54.07:851][486]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/_Brown_Bricks/MI_Bricks_Inst5]
+[2026.05.08-16.54.07:851][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Materials/_Brown_Bricks/MI_Bricks_Inst5" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/_Brown_Bricks/MI_Bricks_Inst5.uasset" SILENT=true
+[2026.05.08-16.54.07:921][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2026.05.08-16.54.07:958][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2026.05.08-16.54.07:970][486]LogSavePackage: Moving output files for package: /Game/_Materials/_Brown_Bricks/MI_Bricks_Inst5
+[2026.05.08-16.54.07:970][486]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/MI_Bricks_Inst579790EE54CC6A478CAF99DAC08CC4B03.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/_Brown_Bricks/MI_Bricks_Inst5.uasset'
+[2026.05.08-16.54.07:971][486]LogFileHelpers: InternalPromptForCheckoutAndSave took 127.973 ms (total: 3.08 sec)
+[2026.05.08-16.54.08:011][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.05.08-16.54.08:044][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.05.08-16.54.08:077][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.05.08-16.54.08:126][486]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-16.54.08:126][486]LogContentValidation: Enabled validators:
+[2026.05.08-16.54.08:126][486]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-16.54.08:126][486]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-16.54.08:126][486]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-16.54.08:126][486]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-16.54.08:126][486]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-16.54.08:126][486]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-16.54.08:126][486]AssetCheck: /Game/_Materials/_Brown_Bricks/MI_Bricks_Inst5 Validating asset
+[2026.05.08-16.54.08:183][486]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.08-16.54.16:963][855]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/_Materials/MA_bricks/MI_bricks_Inst4.MI_bricks_Inst4
+[2026.05.08-16.54.16:968][855]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_50
+[2026.05.08-16.54.34:078][504]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-16.54.34:116][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Materials/_Brown_Bricks/MI_Bricks_Inst5] ([1] browsable assets)...
+[2026.05.08-16.54.34:128][504]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/_Materials/_Brown_Bricks/MI_Bricks_Inst5.MI_Bricks_Inst5]
+[2026.05.08-16.54.34:128][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/_Brown_Bricks/MI_Bricks_Inst5]
+[2026.05.08-16.54.34:128][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Materials/_Brown_Bricks/MI_Bricks_Inst5" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/_Brown_Bricks/MI_Bricks_Inst5.uasset" SILENT=true
+[2026.05.08-16.54.34:200][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2026.05.08-16.54.34:236][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2026.05.08-16.54.34:247][504]LogSavePackage: Moving output files for package: /Game/_Materials/_Brown_Bricks/MI_Bricks_Inst5
+[2026.05.08-16.54.34:247][504]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/MI_Bricks_Inst5592968DA412814A6B94AB9A9763CF12C.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/_Brown_Bricks/MI_Bricks_Inst5.uasset'
+[2026.05.08-16.54.34:261][504]LogFileHelpers: InternalPromptForCheckoutAndSave took 183.260 ms (total: 3.26 sec)
+[2026.05.08-16.54.34:300][504]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-16.54.34:300][504]LogContentValidation: Enabled validators:
+[2026.05.08-16.54.34:300][504]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-16.54.34:300][504]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-16.54.34:300][504]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-16.54.34:300][504]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-16.54.34:300][504]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-16.54.34:300][504]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-16.54.34:300][504]AssetCheck: /Game/_Materials/_Brown_Bricks/MI_Bricks_Inst5 Validating asset
+[2026.05.08-16.55.21:810][354]Cmd: TRANSACTION UNDO
+[2026.05.08-16.55.21:810][354]LogEditorTransaction: Undo Place Objects
+[2026.05.08-16.55.21:826][354]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.ModelComponent_2324' invalid (18112 verts, 0 indices).
+[2026.05.08-16.57.42:439][572]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.57.42:439][572]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.57.42:439][572]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.57.42:464][572]LogSlate: Window 'Color Picker' being destroyed
+[2026.05.08-16.57.42:485][572]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.08-16.57.42:485][572]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.08-16.57.42:485][572]MaterialEditorStats: Shader Count: 0
+[2026.05.08-16.57.42:485][572]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.08-16.57.42:594][576]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.08-16.57.42:594][576]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.08-16.57.42:594][576]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.08-16.57.42:594][576]MaterialEditorStats: Shader Count: 2
+[2026.05.08-16.57.42:594][576]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.08-16.57.43:615][608]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.05.08-16.57.43:615][608]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.08-16.57.43:615][608]MaterialEditorStats: Texture samplers: 1/16
+[2026.05.08-16.57.43:615][608]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.08-16.57.43:615][608]MaterialEditorStats: Shader Count: 4
+[2026.05.08-16.57.43:615][608]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.08-16.57.44:150][626]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.57.44:182][627]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.57.44:214][628]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.57.44:241][629]LogD3D12RHI: Creating RTPSO with 60 shaders (0 cached, 1 new) took 92.03 ms. Compile time 91.08 ms, link time 0.91 ms.
+[2026.05.08-16.57.44:293][631]LogMaterialEditor: Applying material MA_brown
+[2026.05.08-16.57.44:362][631]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.57.44:362][631]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.57.44:362][631]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.57.44:409][631]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.57.44:409][631]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.57.44:409][631]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.57.44:409][631]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.57.44:409][631]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.57.44:409][631]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.57.44:409][631]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.57.44:409][631]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.57.44:409][631]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.57.44:409][631]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.57.44:409][631]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.57.44:409][631]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.57.44:409][631]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.57.44:409][631]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.57.44:409][631]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.57.44:537][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2026.05.08-16.57.45:826][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2026.05.08-16.57.45:867][631]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.57.45:867][631]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.57.45:941][633]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.58.00:837][137]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5692.994629
+[2026.05.08-16.58.01:015][142]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.08-16.58.01:015][142]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5693.150879, Update Interval: 337.217316
+[2026.05.08-16.59.25:392][261]LogShaderCompilers: Display: ================================================
+[2026.05.08-16.59.25:392][261]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.05.08-16.59.25:392][261]LogShaderCompilers: Display: Total job queries 1,176, among them cache hits 360 (30.61%), DDC hits 652 (55.44%), Duplicates 89 (7.57%)
+[2026.05.08-16.59.25:392][261]LogShaderCompilers: Display: Tracking 727 distinct input hashes that result in 540 distinct outputs (74.28%)
+[2026.05.08-16.59.25:392][261]LogShaderCompilers: Display: RAM used: 6.35 MiB of 3.20 GiB budget. Usage: 0.19%
+[2026.05.08-16.59.25:392][261]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.05.08-16.59.25:392][261]LogShaderCompilers: Display: Shaders Compiled: 75
+[2026.05.08-16.59.25:392][261]LogShaderCompilers: Display: Jobs assigned 75, completed 75 (100%)
+[2026.05.08-16.59.25:392][261]LogShaderCompilers: Display: Average time worker was idle: 222.57 s
+[2026.05.08-16.59.25:392][261]LogShaderCompilers: Display: Time job spent in pending queue: average 0.11 s, longest 1.99 s
+[2026.05.08-16.59.25:392][261]LogShaderCompilers: Display: Job execution time: average 1.43 s, max 4.01 s
+[2026.05.08-16.59.25:392][261]LogShaderCompilers: Display: Job life time (pending + execution): average 1.54 s, max 5.14
+[2026.05.08-16.59.25:392][261]LogShaderCompilers: Display: Shader code size: total 0.954 MiB, numShaders 81, average 12.062 KiB, min 2.934 KiB, max 32.98 KiB
+[2026.05.08-16.59.25:392][261]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 29.55 s
+[2026.05.08-16.59.25:392][261]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2026.05.08-16.59.25:392][261]LogShaderCompilers: Display: Jobs were issued in 75 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.05.08-16.59.25:392][261]LogShaderCompilers: Display: Average processing rate: 2.54 jobs/sec
+[2026.05.08-16.59.25:392][261]LogShaderCompilers: Display: Total thread time: 93.665 s
+[2026.05.08-16.59.25:392][261]LogShaderCompilers: Display: Total thread preprocess time: 20.496 s
+[2026.05.08-16.59.25:392][261]LogShaderCompilers: Display: Percentage time preprocessing: 21.88%
+[2026.05.08-16.59.25:392][261]LogShaderCompilers: Display: Effective parallelization: 3.17 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.396243
+[2026.05.08-16.59.25:392][261]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.05.08-16.59.25:392][261]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    5 times, average 3.00 sec, max 3.67 sec, min 2.10 sec)
+[2026.05.08-16.59.25:392][261]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    5 times, average 2.55 sec, max 3.10 sec, min 1.70 sec)
+[2026.05.08-16.59.25:392][261]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    2 times, average 2.30 sec, max 2.49 sec, min 2.12 sec)
+[2026.05.08-16.59.25:392][261]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 2.01 sec, max 2.01 sec, min 2.01 sec)
+[2026.05.08-16.59.25:392][261]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   10 times, average 1.45 sec, max 1.83 sec, min 1.19 sec)
+[2026.05.08-16.59.25:392][261]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.05.08-16.59.25:392][261]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 16.01% of total time (compiled    5 times, average 3.00 sec, max 3.67 sec, min 2.10 sec)
+[2026.05.08-16.59.25:392][261]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 15.47% of total time (compiled   10 times, average 1.45 sec, max 1.83 sec, min 1.19 sec)
+[2026.05.08-16.59.25:392][261]LogShaderCompilers: Display:                                                 FLumenCardCS - 13.59% of total time (compiled    5 times, average 2.55 sec, max 3.10 sec, min 1.70 sec)
+[2026.05.08-16.59.25:392][261]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.86% of total time (compiled    9 times, average 0.82 sec, max 1.45 sec, min 0.67 sec)
+[2026.05.08-16.59.25:392][261]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 7.52% of total time (compiled    6 times, average 1.17 sec, max 1.83 sec, min 0.82 sec)
+[2026.05.08-16.59.25:392][261]LogShaderCompilers: Display: === Material stats ===
+[2026.05.08-16.59.25:392][261]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.05.08-16.59.25:392][261]LogShaderCompilers: Display: Materials Translated:    273
+[2026.05.08-16.59.25:392][261]LogShaderCompilers: Display: Material Total Translate Time: 0.23 s
+[2026.05.08-16.59.25:392][261]LogShaderCompilers: Display: Material Translation Only: 0.13 s (57%)
+[2026.05.08-16.59.25:392][261]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (3%)
+[2026.05.08-16.59.25:392][261]LogShaderCompilers: Display: Material Cache Hits: 79 (29%)
+[2026.05.08-16.59.25:392][261]LogShaderCompilers: Display: ================================================
+[2026.05.08-16.59.36:767][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2026.05.08-16.59.36:937][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Lvl_ThirdPerson_Auto5
+[2026.05.08-16.59.36:937][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Lvl_ThirdPerson_Auto5ACADEA7E4C2A71839E5BE7B16353BAFF.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/ThirdPerson/Lvl_ThirdPerson_Auto5.umap'
+[2026.05.08-16.59.36:949][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/QZ/AO10OZGV33BHZ1J8P0PYBG_Auto5
+[2026.05.08-16.59.36:949][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/AO10OZGV33BHZ1J8P0PYBG_Auto57270A08C4E12CCE9F4569E863E6C4A17.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/QZ/AO10OZGV33BHZ1J8P0PYBG_Auto5.uasset'
+[2026.05.08-16.59.36:957][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/ML/E6OPTFR56UUEP1QGKATV1J_Auto5
+[2026.05.08-16.59.36:957][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/E6OPTFR56UUEP1QGKATV1J_Auto5A884C8C0455C27D0EC7B6F9D3053A5A6.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/ML/E6OPTFR56UUEP1QGKATV1J_Auto5.uasset'
+[2026.05.08-16.59.36:988][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/6U/RSD4PSVSPYXPSVY7NOHNIA_Auto5
+[2026.05.08-16.59.36:988][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/RSD4PSVSPYXPSVY7NOHNIA_Auto544E71A9C469A88CD82FA549B31A48F38.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/6U/RSD4PSVSPYXPSVY7NOHNIA_Auto5.uasset'
+[2026.05.08-16.59.36:996][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/26/1RQFZJ967O55IMUM2KB8BJ_Auto5
+[2026.05.08-16.59.36:996][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/1RQFZJ967O55IMUM2KB8BJ_Auto5DB3F8F324F2892F52A86DA9240E65754.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/26/1RQFZJ967O55IMUM2KB8BJ_Auto5.uasset'
+[2026.05.08-16.59.37:003][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/SM/UB0ALM3PLVP493NN6F6CEG_Auto5
+[2026.05.08-16.59.37:003][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/UB0ALM3PLVP493NN6F6CEG_Auto55E412859459725A84EAE0FB2587FD661.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/SM/UB0ALM3PLVP493NN6F6CEG_Auto5.uasset'
+[2026.05.08-16.59.37:010][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/NN/HLB3UNO0GTV9X53020PQ9A_Auto5
+[2026.05.08-16.59.37:010][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/HLB3UNO0GTV9X53020PQ9A_Auto54A6F543F42EA2D83B280FBA29ACAF6D7.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/NN/HLB3UNO0GTV9X53020PQ9A_Auto5.uasset'
+[2026.05.08-16.59.37:016][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/CJ/9S8FKDJRY9NE6V8JFDVDSN_Auto5
+[2026.05.08-16.59.37:016][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/9S8FKDJRY9NE6V8JFDVDSN_Auto58B119B1A4D15CDE2727628AAFF4B396A.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/CJ/9S8FKDJRY9NE6V8JFDVDSN_Auto5.uasset'
+[2026.05.08-16.59.37:024][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/RG/9JJYI08XLAGVCFA8JJ0XIC_Auto5
+[2026.05.08-16.59.37:024][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/9JJYI08XLAGVCFA8JJ0XIC_Auto5F0E1217D4085D42374C94A9F036BFCA6.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/RG/9JJYI08XLAGVCFA8JJ0XIC_Auto5.uasset'
+[2026.05.08-16.59.37:025][777]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.353
+[2026.05.08-16.59.37:025][777]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.353
+[2026.05.08-16.59.37:026][777]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Materials/green] ([1] browsable assets)...
+[2026.05.08-16.59.37:026][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/green]
+[2026.05.08-16.59.37:026][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Materials/green" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Materials/green_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2026.05.08-16.59.37:032][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Materials/green_Auto5
+[2026.05.08-16.59.37:032][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/green_Auto5A0701F964E87DBA3AC6D7A80E8EB84FB.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Materials/green_Auto5.uasset'
+[2026.05.08-16.59.37:033][777]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Models/rusty_abandoned_truck_with_interior_-_game_ready__1_/Textures/rusty_abandoned_truck_with_interior_-_game_ready__1__texture_0] ([1] browsable assets)...
+[2026.05.08-16.59.37:033][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/rusty_abandoned_truck_with_interior_-_game_ready__1_/Textures/rusty_abandoned_truck_with_interior_-_game_ready__1__texture_0]
+[2026.05.08-16.59.37:452][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Models/rusty_abandoned_truck_with_interior_-_game_ready__1_/Textures/rusty_abandoned_truck_with_interior_-_game_ready__1__texture_0_Auto5
+[2026.05.08-16.59.37:452][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/rusty_abandoned_truck_with_inter6726F825473BB5262AE9E9A3000D97AE.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/rusty_abandoned_truck_with_interior_-_game_ready__1_/Textures/rusty_abandoned_truck_with_interior_-_game_ready__1__texture_0_Auto5.uasset'
+[2026.05.08-16.59.37:453][777]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Models/rusty_abandoned_truck_with_interior_-_game_ready__1_/Textures/rusty_abandoned_truck_with_interior_-_game_ready__1__texture_1] ([1] browsable assets)...
+[2026.05.08-16.59.37:453][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/rusty_abandoned_truck_with_interior_-_game_ready__1_/Textures/rusty_abandoned_truck_with_interior_-_game_ready__1__texture_1]
+[2026.05.08-16.59.37:946][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Models/rusty_abandoned_truck_with_interior_-_game_ready__1_/Textures/rusty_abandoned_truck_with_interior_-_game_ready__1__texture_1_Auto5
+[2026.05.08-16.59.37:946][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/rusty_abandoned_truck_with_inter3873A00448DDFF73201D49BBA0B70708.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/rusty_abandoned_truck_with_interior_-_game_ready__1_/Textures/rusty_abandoned_truck_with_interior_-_game_ready__1__texture_1_Auto5.uasset'
+[2026.05.08-16.59.37:947][777]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Models/rusty_abandoned_truck_with_interior_-_game_ready__1_/Textures/rusty_abandoned_truck_with_interior_-_game_ready__1__texture_2] ([1] browsable assets)...
+[2026.05.08-16.59.37:947][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/rusty_abandoned_truck_with_interior_-_game_ready__1_/Textures/rusty_abandoned_truck_with_interior_-_game_ready__1__texture_2]
+[2026.05.08-16.59.38:414][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Models/rusty_abandoned_truck_with_interior_-_game_ready__1_/Textures/rusty_abandoned_truck_with_interior_-_game_ready__1__texture_2_Auto5
+[2026.05.08-16.59.38:414][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/rusty_abandoned_truck_with_inter99E4751641520A939BA0D8A297F4A51F.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/rusty_abandoned_truck_with_interior_-_game_ready__1_/Textures/rusty_abandoned_truck_with_interior_-_game_ready__1__texture_2_Auto5.uasset'
+[2026.05.08-16.59.38:415][777]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Models/rusty_abandoned_truck_with_interior_-_game_ready__1_/Materials/Material] ([1] browsable assets)...
+[2026.05.08-16.59.38:415][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/rusty_abandoned_truck_with_interior_-_game_ready__1_/Materials/Material]
+[2026.05.08-16.59.38:444][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Models/rusty_abandoned_truck_with_interior_-_game_ready__1_/Materials/Material_Auto5
+[2026.05.08-16.59.38:444][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Material_Auto54D1CEE934354468283C41BAA48FFBE58.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/rusty_abandoned_truck_with_interior_-_game_ready__1_/Materials/Material_Auto5.uasset'
+[2026.05.08-16.59.38:445][777]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Models/rusty_abandoned_truck_with_interior_-_game_ready__1_/StaticMeshes/rusty_abandoned_truck_with_interior_-_game_ready__1_] ([1] browsable assets)...
+[2026.05.08-16.59.38:445][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/rusty_abandoned_truck_with_interior_-_game_ready__1_/StaticMeshes/rusty_abandoned_truck_with_interior_-_game_ready__1_]
+[2026.05.08-16.59.38:460][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Models/rusty_abandoned_truck_with_interior_-_game_ready__1_/StaticMeshes/rusty_abandoned_truck_with_interior_-_game_ready__1__Auto5
+[2026.05.08-16.59.38:460][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/rusty_abandoned_truck_with_inter2A2B796044CC5B5E5D443FA0D277A470.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/rusty_abandoned_truck_with_interior_-_game_ready__1_/StaticMeshes/rusty_abandoned_truck_with_interior_-_game_ready__1__Auto5.uasset'
+[2026.05.08-16.59.38:467][777]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Models/_Fences/Mat] ([1] browsable assets)...
+[2026.05.08-16.59.38:467][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/_Fences/Mat]
+[2026.05.08-16.59.38:467][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Models/_Fences/Mat" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/_Fences/Mat_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2026.05.08-16.59.38:475][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Models/_Fences/Mat_Auto5
+[2026.05.08-16.59.38:475][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Mat_Auto56014C1394A99E6E811B8DAB813456129.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/_Fences/Mat_Auto5.uasset'
+[2026.05.08-16.59.38:476][777]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Models/_Fences/Cube_4] ([1] browsable assets)...
+[2026.05.08-16.59.38:476][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/_Fences/Cube_4]
+[2026.05.08-16.59.38:476][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Models/_Fences/Cube_4" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/_Fences/Cube_4_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2026.05.08-16.59.38:484][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Models/_Fences/Cube_4_Auto5
+[2026.05.08-16.59.38:484][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Cube_4_Auto50119ACAB46E8A91F5D21209F257DE319.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/_Fences/Cube_4_Auto5.uasset'
+[2026.05.08-16.59.38:485][777]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Models/_Fences/Cube_3] ([1] browsable assets)...
+[2026.05.08-16.59.38:485][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/_Fences/Cube_3]
+[2026.05.08-16.59.38:485][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Models/_Fences/Cube_3" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/_Fences/Cube_3_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2026.05.08-16.59.38:494][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Models/_Fences/Cube_3_Auto5
+[2026.05.08-16.59.38:494][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Cube_3_Auto51D5310C44AB03886D0D1C38BB307E880.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/_Fences/Cube_3_Auto5.uasset'
+[2026.05.08-16.59.38:495][777]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Materials/_Brown_Bricks/MA_brown] ([1] browsable assets)...
+[2026.05.08-16.59.38:557][777]OBJ SavePackage:     Rendered thumbnail for [Material /Game/_Materials/_Brown_Bricks/MA_brown.MA_brown]
+[2026.05.08-16.59.38:557][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/_Brown_Bricks/MA_brown]
+[2026.05.08-16.59.38:565][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Materials/_Brown_Bricks/MA_brown_Auto5
+[2026.05.08-16.59.38:565][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/MA_brown_Auto5E1E9A1A04920427CF6C574A8B7B0B762.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Materials/_Brown_Bricks/MA_brown_Auto5.uasset'
+[2026.05.08-16.59.38:566][777]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Materials/M_Wood_Oak] ([1] browsable assets)...
+[2026.05.08-16.59.38:566][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Wood_Oak]
+[2026.05.08-16.59.38:575][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Materials/M_Wood_Oak_Auto5
+[2026.05.08-16.59.38:575][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/M_Wood_Oak_Auto5DEA32B414526063799BC2CA6FAA39BAC.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/StarterContent/Materials/M_Wood_Oak_Auto5.uasset'
+[2026.05.08-16.59.38:577][777]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/InterchangeAssets/gltf/M_Default] ([1] browsable assets)...
+[2026.05.08-16.59.38:577][777]OBJ SavePackage: Finished generating thumbnails for package [/InterchangeAssets/gltf/M_Default]
+[2026.05.08-16.59.38:594][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/InterchangeAssets/gltf/M_Default_Auto5
+[2026.05.08-16.59.38:594][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/M_Default_Auto57C0F7F3145DF85A0C729DB81D4B786A3.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/InterchangeAssets/gltf/M_Default_Auto5.uasset'
+[2026.05.08-16.59.38:596][777]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Models/_shutdown/yes] ([1] browsable assets)...
+[2026.05.08-16.59.38:596][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/_shutdown/yes]
+[2026.05.08-16.59.38:596][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Models/_shutdown/yes" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/_shutdown/yes_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2026.05.08-16.59.39:040][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Models/_shutdown/yes_Auto5
+[2026.05.08-16.59.39:040][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/yes_Auto5B49C47054FA3633AAEB39297D7DCF0FC.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/_shutdown/yes_Auto5.uasset'
+[2026.05.08-16.59.39:041][777]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Models/_shutdown/MT_shutdown] ([1] browsable assets)...
+[2026.05.08-16.59.39:041][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/_shutdown/MT_shutdown]
+[2026.05.08-16.59.39:048][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Models/_shutdown/MT_shutdown_Auto5
+[2026.05.08-16.59.39:048][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/MT_shutdown_Auto59A8C2EF348C40D7B1FC1D49DF4AEE54E.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/_shutdown/MT_shutdown_Auto5.uasset'
+[2026.05.08-16.59.39:050][777]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Materials/_Jumpscare_test/Face2] ([1] browsable assets)...
+[2026.05.08-16.59.39:050][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/_Jumpscare_test/Face2]
+[2026.05.08-16.59.39:057][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Materials/_Jumpscare_test/Face2_Auto5
+[2026.05.08-16.59.39:057][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Face2_Auto5DE35035E4A36DB27E4B7DB95CE511BBA.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Materials/_Jumpscare_test/Face2_Auto5.uasset'
+[2026.05.08-16.59.39:058][777]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Materials/_Jumpscare_test/Face2_Mat] ([1] browsable assets)...
+[2026.05.08-16.59.39:058][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/_Jumpscare_test/Face2_Mat]
+[2026.05.08-16.59.39:064][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Materials/_Jumpscare_test/Face2_Mat_Auto5
+[2026.05.08-16.59.39:065][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Face2_Mat_Auto5D4FC74004ABA237F80772D887AF004E8.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Materials/_Jumpscare_test/Face2_Mat_Auto5.uasset'
+[2026.05.08-16.59.39:066][777]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Audio/freesound_community-diesel-truck-idling-frontwav-14418] ([1] browsable assets)...
+[2026.05.08-16.59.39:066][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Audio/freesound_community-diesel-truck-idling-frontwav-14418]
+[2026.05.08-16.59.39:081][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Audio/freesound_community-diesel-truck-idling-frontwav-14418_Auto5
+[2026.05.08-16.59.39:081][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/freesound_community-diesel-truckD0A9D739444D869A0E4B39837691D7E7.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Audio/freesound_community-diesel-truck-idling-frontwav-14418_Auto5.uasset'
+[2026.05.08-16.59.39:081][777]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Audio/ptl_joe-80s-scream-255968] ([1] browsable assets)...
+[2026.05.08-16.59.39:082][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Audio/ptl_joe-80s-scream-255968]
+[2026.05.08-16.59.39:091][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Audio/ptl_joe-80s-scream-255968_Auto5
+[2026.05.08-16.59.39:091][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/ptl_joe-80s-scream-255968_Auto523E8673D46B314F365CFEE948950E673.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Audio/ptl_joe-80s-scream-255968_Auto5.uasset'
+[2026.05.08-16.59.39:092][777]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Audio/freesound_community-cartoon-scream-1-6835] ([1] browsable assets)...
+[2026.05.08-16.59.39:092][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Audio/freesound_community-cartoon-scream-1-6835]
+[2026.05.08-16.59.39:100][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Audio/freesound_community-cartoon-scream-1-6835_Auto5
+[2026.05.08-16.59.39:101][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/freesound_community-cartoon-screBD162D4246BD1487B8654298299B1955.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Audio/freesound_community-cartoon-scream-1-6835_Auto5.uasset'
+[2026.05.08-16.59.39:102][777]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Models/reception_desk/reception_desk_low_poly/Textures/reception_desk_low_poly_texture_0] ([1] browsable assets)...
+[2026.05.08-16.59.39:102][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/reception_desk/reception_desk_low_poly/Textures/reception_desk_low_poly_texture_0]
+[2026.05.08-16.59.39:119][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Models/reception_desk/reception_desk_low_poly/Textures/reception_desk_low_poly_texture_0_Auto5
+[2026.05.08-16.59.39:119][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/reception_desk_low_poly_texture_369BF0C74E8DAC3012747B91B8FCAC51.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/reception_desk/reception_desk_low_poly/Textures/reception_desk_low_poly_texture_0_Auto5.uasset'
+[2026.05.08-16.59.39:120][777]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Models/reception_desk/reception_desk_low_poly/Textures/reception_desk_low_poly_texture_1] ([1] browsable assets)...
+[2026.05.08-16.59.39:120][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/reception_desk/reception_desk_low_poly/Textures/reception_desk_low_poly_texture_1]
+[2026.05.08-16.59.39:130][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Models/reception_desk/reception_desk_low_poly/Textures/reception_desk_low_poly_texture_1_Auto5
+[2026.05.08-16.59.39:131][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/reception_desk_low_poly_texture_92F141EF4AB950EE65521195BBED5D4B.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/reception_desk/reception_desk_low_poly/Textures/reception_desk_low_poly_texture_1_Auto5.uasset'
+[2026.05.08-16.59.39:131][777]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Models/reception_desk/reception_desk_low_poly/Textures/reception_desk_low_poly_texture_2] ([1] browsable assets)...
+[2026.05.08-16.59.39:131][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/reception_desk/reception_desk_low_poly/Textures/reception_desk_low_poly_texture_2]
+[2026.05.08-16.59.39:141][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Models/reception_desk/reception_desk_low_poly/Textures/reception_desk_low_poly_texture_2_Auto5
+[2026.05.08-16.59.39:141][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/reception_desk_low_poly_texture_865130C848951C45AB35508438D1DE09.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/reception_desk/reception_desk_low_poly/Textures/reception_desk_low_poly_texture_2_Auto5.uasset'
+[2026.05.08-16.59.39:142][777]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Models/reception_desk/reception_desk_low_poly/Textures/reception_desk_low_poly_texture_3] ([1] browsable assets)...
+[2026.05.08-16.59.39:142][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/reception_desk/reception_desk_low_poly/Textures/reception_desk_low_poly_texture_3]
+[2026.05.08-16.59.39:148][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Models/reception_desk/reception_desk_low_poly/Textures/reception_desk_low_poly_texture_3_Auto5
+[2026.05.08-16.59.39:148][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/reception_desk_low_poly_texture_07607E4C47B43A61DDB67C97A0B1C5BC.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/reception_desk/reception_desk_low_poly/Textures/reception_desk_low_poly_texture_3_Auto5.uasset'
+[2026.05.08-16.59.39:148][777]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Models/reception_desk/reception_desk_low_poly/Textures/reception_desk_low_poly_texture_4] ([1] browsable assets)...
+[2026.05.08-16.59.39:150][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/reception_desk/reception_desk_low_poly/Textures/reception_desk_low_poly_texture_4]
+[2026.05.08-16.59.39:159][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Models/reception_desk/reception_desk_low_poly/Textures/reception_desk_low_poly_texture_4_Auto5
+[2026.05.08-16.59.39:159][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/reception_desk_low_poly_texture_5D3C55D546423B4CB8210DA85BB2186E.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/reception_desk/reception_desk_low_poly/Textures/reception_desk_low_poly_texture_4_Auto5.uasset'
+[2026.05.08-16.59.39:160][777]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Models/reception_desk/reception_desk_low_poly/Textures/reception_desk_low_poly_texture_5] ([1] browsable assets)...
+[2026.05.08-16.59.39:160][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/reception_desk/reception_desk_low_poly/Textures/reception_desk_low_poly_texture_5]
+[2026.05.08-16.59.39:218][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Models/reception_desk/reception_desk_low_poly/Textures/reception_desk_low_poly_texture_5_Auto5
+[2026.05.08-16.59.39:218][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/reception_desk_low_poly_texture_6EBB8ACC4CB5398514D987AEAF8CECD0.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/reception_desk/reception_desk_low_poly/Textures/reception_desk_low_poly_texture_5_Auto5.uasset'
+[2026.05.08-16.59.39:218][777]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Models/reception_desk/reception_desk_low_poly/Materials/M_PlasticaNera] ([1] browsable assets)...
+[2026.05.08-16.59.39:218][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/reception_desk/reception_desk_low_poly/Materials/M_PlasticaNera]
+[2026.05.08-16.59.39:226][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Models/reception_desk/reception_desk_low_poly/Materials/M_PlasticaNera_Auto5
+[2026.05.08-16.59.39:226][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/M_PlasticaNera_Auto509E33EE641E234F5FA17649055D5F7DC.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/reception_desk/reception_desk_low_poly/Materials/M_PlasticaNera_Auto5.uasset'
+[2026.05.08-16.59.39:227][777]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Models/reception_desk/reception_desk_low_poly/Materials/M_Legno] ([1] browsable assets)...
+[2026.05.08-16.59.39:227][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/reception_desk/reception_desk_low_poly/Materials/M_Legno]
+[2026.05.08-16.59.39:234][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Models/reception_desk/reception_desk_low_poly/Materials/M_Legno_Auto5
+[2026.05.08-16.59.39:234][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/M_Legno_Auto5B078396E4A1F97A098351A800B33C1E1.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/reception_desk/reception_desk_low_poly/Materials/M_Legno_Auto5.uasset'
+[2026.05.08-16.59.39:236][777]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Models/reception_desk/reception_desk_low_poly/Materials/M_MarmoBanco] ([1] browsable assets)...
+[2026.05.08-16.59.39:236][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/reception_desk/reception_desk_low_poly/Materials/M_MarmoBanco]
+[2026.05.08-16.59.39:244][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Models/reception_desk/reception_desk_low_poly/Materials/M_MarmoBanco_Auto5
+[2026.05.08-16.59.39:244][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/M_MarmoBanco_Auto56BABAB3949CEB62A43A8BEB100BC6ABD.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/reception_desk/reception_desk_low_poly/Materials/M_MarmoBanco_Auto5.uasset'
+[2026.05.08-16.59.39:245][777]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Models/reception_desk/reception_desk_low_poly/StaticMeshes/reception_desk_low_poly] ([1] browsable assets)...
+[2026.05.08-16.59.39:245][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/reception_desk/reception_desk_low_poly/StaticMeshes/reception_desk_low_poly]
+[2026.05.08-16.59.39:254][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Models/reception_desk/reception_desk_low_poly/StaticMeshes/reception_desk_low_poly_Auto5
+[2026.05.08-16.59.39:254][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/reception_desk_low_poly_Auto581E75B744ADB6441DA3EF7B2E94F273C.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/reception_desk/reception_desk_low_poly/StaticMeshes/reception_desk_low_poly_Auto5.uasset'
+[2026.05.08-16.59.39:255][777]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Models/_chairs/Material] ([1] browsable assets)...
+[2026.05.08-16.59.39:255][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/_chairs/Material]
+[2026.05.08-16.59.39:263][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Models/_chairs/Material_Auto5
+[2026.05.08-16.59.39:263][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Material_Auto5A8DB09BF4039BC3D627C46A07BDE35F0.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/_chairs/Material_Auto5.uasset'
+[2026.05.08-16.59.39:263][777]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Models/_chairs/Material_001] ([1] browsable assets)...
+[2026.05.08-16.59.39:263][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/_chairs/Material_001]
+[2026.05.08-16.59.39:271][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Models/_chairs/Material_001_Auto5
+[2026.05.08-16.59.39:272][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Material_001_Auto5FB79A897480DA2E8DB3AD5A7C98DF99A.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/_chairs/Material_001_Auto5.uasset'
+[2026.05.08-16.59.39:272][777]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Models/_chairs/sillaHospital] ([1] browsable assets)...
+[2026.05.08-16.59.39:272][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/_chairs/sillaHospital]
+[2026.05.08-16.59.39:306][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Models/_chairs/sillaHospital_Auto5
+[2026.05.08-16.59.39:306][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/sillaHospital_Auto513F5D5F04022DFDE3F08DF9972DB2C45.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/_chairs/sillaHospital_Auto5.uasset'
+[2026.05.08-16.59.39:308][777]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Models/reception_desk/outthere_reception_desk_sign/Textures/outthere_reception_desk_sign_texture_0] ([1] browsable assets)...
+[2026.05.08-16.59.39:308][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/reception_desk/outthere_reception_desk_sign/Textures/outthere_reception_desk_sign_texture_0]
+[2026.05.08-16.59.39:317][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Models/reception_desk/outthere_reception_desk_sign/Textures/outthere_reception_desk_sign_texture_0_Auto5
+[2026.05.08-16.59.39:317][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/outthere_reception_desk_sign_texA074B42F432E51832E69389C71718E86.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/reception_desk/outthere_reception_desk_sign/Textures/outthere_reception_desk_sign_texture_0_Auto5.uasset'
+[2026.05.08-16.59.39:318][777]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Models/reception_desk/outthere_reception_desk_sign/Textures/outthere_reception_desk_sign_texture_1] ([1] browsable assets)...
+[2026.05.08-16.59.39:318][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/reception_desk/outthere_reception_desk_sign/Textures/outthere_reception_desk_sign_texture_1]
+[2026.05.08-16.59.39:327][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Models/reception_desk/outthere_reception_desk_sign/Textures/outthere_reception_desk_sign_texture_1_Auto5
+[2026.05.08-16.59.39:327][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/outthere_reception_desk_sign_texFB1D703D43BF529B44D1CB90719D13A0.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/reception_desk/outthere_reception_desk_sign/Textures/outthere_reception_desk_sign_texture_1_Auto5.uasset'
+[2026.05.08-16.59.39:328][777]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Models/reception_desk/outthere_reception_desk_sign/Textures/outthere_reception_desk_sign_texture_2] ([1] browsable assets)...
+[2026.05.08-16.59.39:328][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/reception_desk/outthere_reception_desk_sign/Textures/outthere_reception_desk_sign_texture_2]
+[2026.05.08-16.59.39:338][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Models/reception_desk/outthere_reception_desk_sign/Textures/outthere_reception_desk_sign_texture_2_Auto5
+[2026.05.08-16.59.39:338][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/outthere_reception_desk_sign_tex9D1F2B454C3CE9466767F7A78DF478B5.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/reception_desk/outthere_reception_desk_sign/Textures/outthere_reception_desk_sign_texture_2_Auto5.uasset'
+[2026.05.08-16.59.39:339][777]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Models/reception_desk/outthere_reception_desk_sign/Textures/outthere_reception_desk_sign_texture_3] ([1] browsable assets)...
+[2026.05.08-16.59.39:339][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/reception_desk/outthere_reception_desk_sign/Textures/outthere_reception_desk_sign_texture_3]
+[2026.05.08-16.59.39:347][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Models/reception_desk/outthere_reception_desk_sign/Textures/outthere_reception_desk_sign_texture_3_Auto5
+[2026.05.08-16.59.39:349][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/outthere_reception_desk_sign_texF6A541034641C05054B808B58FE35C91.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/reception_desk/outthere_reception_desk_sign/Textures/outthere_reception_desk_sign_texture_3_Auto5.uasset'
+[2026.05.08-16.59.39:349][777]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Models/reception_desk/outthere_reception_desk_sign/Textures/outthere_reception_desk_sign_texture_4] ([1] browsable assets)...
+[2026.05.08-16.59.39:349][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/reception_desk/outthere_reception_desk_sign/Textures/outthere_reception_desk_sign_texture_4]
+[2026.05.08-16.59.39:359][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Models/reception_desk/outthere_reception_desk_sign/Textures/outthere_reception_desk_sign_texture_4_Auto5
+[2026.05.08-16.59.39:359][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/outthere_reception_desk_sign_texF212BE2D458C0AE083A829AFB35A2153.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/reception_desk/outthere_reception_desk_sign/Textures/outthere_reception_desk_sign_texture_4_Auto5.uasset'
+[2026.05.08-16.59.39:360][777]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Models/reception_desk/outthere_reception_desk_sign/Textures/outthere_reception_desk_sign_texture_5] ([1] browsable assets)...
+[2026.05.08-16.59.39:360][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/reception_desk/outthere_reception_desk_sign/Textures/outthere_reception_desk_sign_texture_5]
+[2026.05.08-16.59.39:369][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Models/reception_desk/outthere_reception_desk_sign/Textures/outthere_reception_desk_sign_texture_5_Auto5
+[2026.05.08-16.59.39:369][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/outthere_reception_desk_sign_tex273BE24E4CAEC6BD141AB8B4F012A774.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/reception_desk/outthere_reception_desk_sign/Textures/outthere_reception_desk_sign_texture_5_Auto5.uasset'
+[2026.05.08-16.59.39:371][777]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Models/reception_desk/outthere_reception_desk_sign/Materials/lambert3] ([1] browsable assets)...
+[2026.05.08-16.59.39:371][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/reception_desk/outthere_reception_desk_sign/Materials/lambert3]
+[2026.05.08-16.59.39:377][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Models/reception_desk/outthere_reception_desk_sign/Materials/lambert3_Auto5
+[2026.05.08-16.59.39:377][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/lambert3_Auto56D23892447EF7A5A45611885BC6DE23B.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/reception_desk/outthere_reception_desk_sign/Materials/lambert3_Auto5.uasset'
+[2026.05.08-16.59.39:379][777]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Models/reception_desk/outthere_reception_desk_sign/Materials/lambert2] ([1] browsable assets)...
+[2026.05.08-16.59.39:379][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/reception_desk/outthere_reception_desk_sign/Materials/lambert2]
+[2026.05.08-16.59.39:385][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Models/reception_desk/outthere_reception_desk_sign/Materials/lambert2_Auto5
+[2026.05.08-16.59.39:385][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/lambert2_Auto55E4191234F86CE6CC78D9EA9AC50C3F3.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/reception_desk/outthere_reception_desk_sign/Materials/lambert2_Auto5.uasset'
+[2026.05.08-16.59.39:386][777]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Materials/_Brown_Bricks/Mi_Bricks_Inst2] ([1] browsable assets)...
+[2026.05.08-16.59.39:399][777]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/_Materials/_Brown_Bricks/Mi_Bricks_Inst2.Mi_Bricks_Inst2]
+[2026.05.08-16.59.39:399][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/_Brown_Bricks/Mi_Bricks_Inst2]
+[2026.05.08-16.59.39:405][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Materials/_Brown_Bricks/Mi_Bricks_Inst2_Auto5
+[2026.05.08-16.59.39:405][777]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Mi_Bricks_Inst2_Auto5EAED9E3F473BDA78DAF83EAF9A2DB185.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Materials/_Brown_Bricks/Mi_Bricks_Inst2_Auto5.uasset'
+[2026.05.08-16.59.39:406][777]LogFileHelpers: Auto-saving content packages took 2.381
+[2026.05.08-17.00.50:747][ 61]Cmd: ACTOR SELECT ALL
+[2026.05.08-17.00.50:879][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-17.00.51:029][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2026.05.08-17.00.51:204][ 61]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Lvl_ThirdPerson
+[2026.05.08-17.00.51:204][ 61]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Lvl_ThirdPerson7FDEF4E043D62E98FA8F409FA7903054.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/ThirdPerson/Lvl_ThirdPerson.umap'
+[2026.05.08-17.00.51:218][ 61]LogFileHelpers: Saving map 'Lvl_ThirdPerson' took 0.303
+[2026.05.08-17.00.51:226][ 61]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/QZ/AO10OZGV33BHZ1J8P0PYBG
+[2026.05.08-17.00.51:227][ 61]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/AO10OZGV33BHZ1J8P0PYBG6ED243D1440273D7871C2D95765774D3.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/QZ/AO10OZGV33BHZ1J8P0PYBG.uasset'
+[2026.05.08-17.00.51:236][ 61]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/ML/E6OPTFR56UUEP1QGKATV1J
+[2026.05.08-17.00.51:236][ 61]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/E6OPTFR56UUEP1QGKATV1JDE2817474E04E16CD5EB15AEF9B10027.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/ML/E6OPTFR56UUEP1QGKATV1J.uasset'
+[2026.05.08-17.00.51:246][ 61]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/6U/RSD4PSVSPYXPSVY7NOHNIA
+[2026.05.08-17.00.51:246][ 61]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/RSD4PSVSPYXPSVY7NOHNIA5B413EF34EB23DE5E47581B8285688AA.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/6U/RSD4PSVSPYXPSVY7NOHNIA.uasset'
+[2026.05.08-17.00.51:255][ 61]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/26/1RQFZJ967O55IMUM2KB8BJ
+[2026.05.08-17.00.51:255][ 61]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/1RQFZJ967O55IMUM2KB8BJE53653914B857F398171BD8B079A9BC4.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/26/1RQFZJ967O55IMUM2KB8BJ.uasset'
+[2026.05.08-17.00.51:264][ 61]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/SM/UB0ALM3PLVP493NN6F6CEG
+[2026.05.08-17.00.51:264][ 61]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/UB0ALM3PLVP493NN6F6CEG59226DC24454C41CC04CACB43D89B969.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/SM/UB0ALM3PLVP493NN6F6CEG.uasset'
+[2026.05.08-17.00.51:272][ 61]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/NN/HLB3UNO0GTV9X53020PQ9A
+[2026.05.08-17.00.51:272][ 61]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/HLB3UNO0GTV9X53020PQ9A6967490D436B5A5438A30EB8DBA1F4F6.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/NN/HLB3UNO0GTV9X53020PQ9A.uasset'
+[2026.05.08-17.00.51:280][ 61]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/CJ/9S8FKDJRY9NE6V8JFDVDSN
+[2026.05.08-17.00.51:280][ 61]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/9S8FKDJRY9NE6V8JFDVDSN07E483ED48DE89A850A694A1F0AC5DE0.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/CJ/9S8FKDJRY9NE6V8JFDVDSN.uasset'
+[2026.05.08-17.00.51:287][ 61]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/RG/9JJYI08XLAGVCFA8JJ0XIC
+[2026.05.08-17.00.51:287][ 61]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/9JJYI08XLAGVCFA8JJ0XIC6BF954F84D27B7F5780DA595ECD59A2C.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/RG/9JJYI08XLAGVCFA8JJ0XIC.uasset'
+[2026.05.08-17.00.51:299][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave took 421.148 ms (total: 3.69 sec)
+[2026.05.08-17.00.51:342][ 61]LogContentValidation: Display: Starting to validate 9 assets
+[2026.05.08-17.00.51:342][ 61]LogContentValidation: Enabled validators:
+[2026.05.08-17.00.51:342][ 61]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-17.00.51:342][ 61]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-17.00.51:342][ 61]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-17.00.51:342][ 61]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-17.00.51:343][ 61]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-17.00.51:343][ 61]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-17.00.51:343][ 61]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2026.05.08-17.00.51:687][ 61]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.08-17.00.57:441][240]Cmd: TRANSACTION UNDO
+[2026.05.08-17.00.57:441][240]LogEditorTransaction: Undo Select All
+[2026.05.08-17.01.02:616][304]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-17.01.02:710][304]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2026.05.08-17.01.02:880][304]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Lvl_ThirdPerson
+[2026.05.08-17.01.02:881][304]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Lvl_ThirdPerson6987726347AD7A4A1696ECB0A39379E7.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/ThirdPerson/Lvl_ThirdPerson.umap'
+[2026.05.08-17.01.02:896][304]LogFileHelpers: Saving map 'Lvl_ThirdPerson' took 0.245
+[2026.05.08-17.01.02:909][304]LogFileHelpers: InternalPromptForCheckoutAndSave took 293.402 ms (total: 3.98 sec)
+[2026.05.08-17.01.02:947][304]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-17.01.02:947][304]LogContentValidation: Enabled validators:
+[2026.05.08-17.01.02:947][304]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-17.01.02:947][304]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-17.01.02:947][304]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-17.01.02:947][304]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-17.01.02:947][304]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-17.01.02:947][304]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-17.01.02:947][304]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
