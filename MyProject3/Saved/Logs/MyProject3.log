@@ -2639,3 +2639,319 @@ FPackageName: Skipped package /Game/_Materials/_Jumpscare_test/Face2_Mat has a v
 [2026.05.08-15.57.00:409][280]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.05.08-15.57.00:409][280]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.05.08-15.57.00:409][280]AssetCheck: /Game/_Blueprints/BP_Jumpscare Validating asset
+[2026.05.08-15.57.25:090][854]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2057.220703
+[2026.05.08-15.57.25:260][865]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.08-15.57.25:260][865]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2057.373779, Update Interval: 320.865509
+[2026.05.08-15.57.27:136][943]Cmd: DELETE
+[2026.05.08-15.57.27:136][943]Cmd: ACTOR DELETE
+[2026.05.08-15.57.27:167][943]LogEditorActor: Deleted Actor: Brush
+[2026.05.08-15.57.27:198][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.05.08-15.57.30:140][943]LogEditorActor: Deleted 1 Actors (3.004 secs)
+[2026.05.08-15.57.30:414][943]Cmd: DELETE
+[2026.05.08-15.57.30:414][943]Cmd: ACTOR DELETE
+[2026.05.08-15.57.30:437][943]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.05.08-15.57.30:467][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.05.08-15.57.30:469][943]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2026.05.08-15.57.32:492][ 18]Cmd: TRANSACTION UNDO
+[2026.05.08-15.57.32:493][ 18]LogEditorTransaction: Undo Clicking on Elements
+[2026.05.08-15.57.33:251][ 43]Cmd: TRANSACTION UNDO
+[2026.05.08-15.57.33:251][ 43]LogEditorTransaction: Undo Delete Elements
+[2026.05.08-15.57.37:540][199]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Blueprints/BP_Jump.BP_Jump
+[2026.05.08-15.57.37:541][199]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_38
+[2026.05.08-15.58.00:993][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.05.08-15.58.01:025][216]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-15.58.01:064][216]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Blueprints/BP_Jump] ([2] browsable assets)...
+[2026.05.08-15.58.01:075][216]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Blueprints/BP_Jump.BP_Jump]
+[2026.05.08-15.58.01:075][216]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Blueprints/BP_Jump]
+[2026.05.08-15.58.01:075][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/BP_Jump" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Blueprints/BP_Jump.uasset" SILENT=true
+[2026.05.08-15.58.01:093][216]LogSavePackage: Moving output files for package: /Game/_Blueprints/BP_Jump
+[2026.05.08-15.58.01:094][216]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/BP_Jump9A3A34F84EE7604AE6DACDB9E3296EA3.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Blueprints/BP_Jump.uasset'
+[2026.05.08-15.58.01:106][216]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.696 ms (total: 887.090 ms)
+[2026.05.08-15.58.01:159][216]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-15.58.01:159][216]LogContentValidation: Enabled validators:
+[2026.05.08-15.58.01:159][216]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-15.58.01:159][216]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-15.58.01:159][216]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-15.58.01:159][216]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-15.58.01:159][216]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-15.58.01:159][216]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-15.58.01:159][216]AssetCheck: /Game/_Blueprints/BP_Jump Validating asset
+[2026.05.08-15.58.22:637][439]Cmd: EDIT COPY
+[2026.05.08-15.58.23:529][505]Cmd: EDIT PASTE
+[2026.05.08-15.59.12:912][555]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.05.08-15.59.16:066][757]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.05.08-15.59.17:375][842]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.08-15.59.17:385][842]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.08-15.59.17:385][842]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.05.08-15.59.17:404][842]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 19.098 ms (total: 170.278 ms)
+[2026.05.08-15.59.17:404][842]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.08-15.59.17:404][842]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.05.08-15.59.17:528][842]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.08-15.59.17:548][842]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 20.440 ms (total: 184.619 ms)
+[2026.05.08-15.59.17:708][842]LogPlayLevel: PIE: StaticDuplicateObject took: (0.303282s)
+[2026.05.08-15.59.17:708][842]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.303325s)
+[2026.05.08-15.59.17:740][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2026.05.08-15.59.17:743][842]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.05.08-15.59.17:745][842]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.08-15.59.17:745][842]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.08-15.59.17:745][842]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.08-15.59.17:745][842]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.08-15.59.17:772][842]LogWorldPartition: Display: WorldPartition initialize took 27.138 ms (total: 3.55 sec)
+[2026.05.08-15.59.17:772][842]LogPlayLevel: PIE: World Init took: (0.029318s)
+[2026.05.08-15.59.17:773][842]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.05.08-15.59.17:773][842]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.08-15.59.17:773][842]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.08-15.59.17:773][842]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.08-15.59.17:773][842]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.08-15.59.17:773][842]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.08-15.59.17:773][842]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.08-15.59.17:773][842]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.08-15.59.17:773][842]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.08-15.59.17:773][842]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.08-15.59.17:773][842]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.08-15.59.17:773][842]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.08-15.59.17:776][842]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.08-15.59.17:801][842]LogAudioMixer: Display: Using Audio Hardware Device Headphones (HyperX Cloud III)
+[2026.05.08-15.59.17:801][842]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.08-15.59.17:801][842]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.08-15.59.17:801][842]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.08-15.59.17:802][842]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2026.05.08-15.59.17:802][842]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2026.05.08-15.59.17:804][842]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2026.05.08-15.59.17:804][842]LogInit: FAudioDevice initialized with ID 10.
+[2026.05.08-15.59.17:804][842]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2026.05.08-15.59.17:804][842]LogAudio: Display: Audio Device (ID: 10) registered with world 'Lvl_ThirdPerson'.
+[2026.05.08-15.59.17:804][842]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2026.05.08-15.59.17:808][842]LogLoad: Game class is 'BP_PlatformingGameMode_C'
+[2026.05.08-15.59.17:836][842]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.05.08-16.59.17
+[2026.05.08-15.59.17:838][842]LogWorld: Bringing up level for play took: 0.029840
+[2026.05.08-15.59.17:841][842]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2026.05.08-15.59.17:852][842]PIE: Server logged in
+[2026.05.08-15.59.17:854][842]PIE: Play in editor total start time 0.47 seconds.
+[2026.05.08-15.59.17:912][843]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.05.08-15.59.21:919][ 71]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_6' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-15.59.21:920][ 71]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-15.59.21:920][ 71]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_5' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-15.59.21:920][ 71]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-15.59.21:920][ 71]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_4' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-15.59.21:920][ 71]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-15.59.21:920][ 71]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_3' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-15.59.21:920][ 71]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-15.59.21:920][ 71]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_2' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-15.59.21:920][ 71]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-15.59.21:920][ 71]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_1' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-15.59.21:920][ 71]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-15.59.21:920][ 71]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-15.59.21:920][ 71]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-15.59.22:652][114]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_6' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-15.59.22:652][114]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-15.59.22:652][114]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_5' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-15.59.22:652][114]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-15.59.22:652][114]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_4' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-15.59.22:652][114]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-15.59.22:652][114]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_3' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-15.59.22:652][114]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-15.59.22:652][114]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_1' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-15.59.22:652][114]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-15.59.22:652][114]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-15.59.22:652][114]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-15.59.25:513][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.08-15.59.25:513][270]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.05.08-15.59.25:513][270]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.08-15.59.25:515][270]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-15.59.25:520][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-15.59.25:520][270]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.05.08-15.59.25:526][270]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.08-15.59.25:536][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-15.59.25:568][270]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.08-15.59.25:569][270]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2026.05.08-15.59.25:569][270]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2026.05.08-15.59.25:572][270]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2026.05.08-15.59.25:574][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.08-15.59.25:586][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2026.05.08-15.59.25:682][271]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2026.05.08-15.59.30:584][574]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.05.08-15.59.30:594][574]LogContentBrowser: Creating deferred item: NewFolder
+[2026.05.08-15.59.30:611][575]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.05.08-15.59.36:466][ 18]LogContentBrowser: Attempting asset rename: NewFolder -> reception_desk
+[2026.05.08-15.59.36:466][ 18]LogContentBrowser: End creating deferred item NewFolder
+[2026.05.08-15.59.42:734][278]LogAssetTools: Warning: Failed to import 'C:\Users\Corey\Downloads\RECEPTION_DESK_LOW_POLY.usdz'. Unknown extension 'usdz'.
+[2026.05.08-16.00.24:495][410]LogStreaming: Display: FlushAsyncLoading(823): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-16.00.24:599][410]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Corey/Downloads/reception_desk_low_poly.glb]
+[2026.05.08-16.00.31:385][410]LogSlate: Window 'Import Content' being destroyed
+[2026.05.08-16.00.31:408][410]LogInterchangeEngine: [Pending] Importing
+[2026.05.08-16.00.31:475][411]LogStreaming: Display: FlushAsyncLoading(824): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-16.00.31:477][412]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2026.05.08-16.00.31:516][412]LogStreaming: Display: FlushAsyncLoading(830): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-16.00.31:550][413]LogStreaming: Display: FlushAsyncLoading(832): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-16.00.31:603][415]LogStreaming: Display: FlushAsyncLoading(833): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-16.00.31:680][416]LogTexture: Display: Building textures: /Game/_Models/reception_desk/reception_desk_low_poly/Textures/reception_desk_low_poly_texture_3.reception_desk_low_poly_texture_3 (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 30.08325 MB), EncodeSpeed: Fast
+[2026.05.08-16.00.31:681][416]LogTexture: Display: Building textures: /Game/_Models/reception_desk/reception_desk_low_poly/Textures/reception_desk_low_poly_texture_2.reception_desk_low_poly_texture_2 (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 214.499988 MB), EncodeSpeed: Fast
+[2026.05.08-16.00.31:681][416]LogTexture: Display: Building textures: /Game/_Models/reception_desk/reception_desk_low_poly/Textures/reception_desk_low_poly_texture_4.reception_desk_low_poly_texture_4 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2026.05.08-16.00.31:683][416]LogTexture: Display: Building textures: /Game/_Models/reception_desk/reception_desk_low_poly/Textures/reception_desk_low_poly_texture_1.reception_desk_low_poly_texture_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2026.05.08-16.00.31:683][416]LogTexture: Display: Building textures: /Game/_Models/reception_desk/reception_desk_low_poly/Textures/reception_desk_low_poly_texture_5.reception_desk_low_poly_texture_5 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 122.708323 MB), EncodeSpeed: Fast
+[2026.05.08-16.00.31:687][416]LogTexture: Display: Building textures: /Game/_Models/reception_desk/reception_desk_low_poly/Textures/reception_desk_low_poly_texture_0.reception_desk_low_poly_texture_0 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2026.05.08-16.00.31:881][417]LogStaticMesh: Display: Building static mesh reception_desk_low_poly (Required Memory Estimate: 0.847803 MB)...
+[2026.05.08-16.00.31:882][417]LogStaticMesh: Adjacency [0.00s], tris: 394, UVs 4
+[2026.05.08-16.00.31:883][417]LogStaticMesh: Clustering [0.00s]. Ratio: 1.500000
+[2026.05.08-16.00.31:883][417]LogStaticMesh: Leaves [0.00s]
+[2026.05.08-16.00.31:900][417]LogStaticMesh: Reduce [0.02s]
+[2026.05.08-16.00.31:911][417]LogStaticMesh: Fallback [0.01s], num tris: 255
+[2026.05.08-16.00.31:920][417]LogStaticMesh: Fallback [0.01s], num tris: 255
+[2026.05.08-16.00.31:920][417]LogStaticMesh: ConstrainClusters:
+[2026.05.08-16.00.31:921][417]LogStaticMesh:   Input: 9 Clusters, 771 Triangles and 955 Vertices
+[2026.05.08-16.00.31:921][417]LogStaticMesh:   Output without splits: 9 Clusters, 771 Triangles and 955 Vertices
+[2026.05.08-16.00.31:921][417]LogStaticMesh:   Output with splits: 9 Clusters, 771 Triangles and 955 Vertices
+[2026.05.08-16.00.31:921][417]LogStaticMesh: Material Stats - Unique Materials: 3, Fast Path Clusters: 9, Slow Path Clusters: 0, 1 Material: 5, 2 Materials: 2, 3 Materials: 2, At Least 4 Materials: 0
+[2026.05.08-16.00.31:921][417]LogStaticMesh: WritePages:
+[2026.05.08-16.00.31:921][417]LogStaticMesh:   Root: GPU size: 21284 bytes. 1 Pages. 21284.000 bytes per page (64.954% utilization).
+[2026.05.08-16.00.31:921][417]LogStaticMesh:   Streaming: 0 bytes.
+[2026.05.08-16.00.31:921][417]LogStaticMesh:   Page data disk size: 18040 bytes. Fixup data size: 56 bytes.
+[2026.05.08-16.00.31:921][417]LogStaticMesh:   Total GPU size: 21284 bytes, Total disk size: 18096 bytes.
+[2026.05.08-16.00.31:921][417]LogStaticMesh: Encode [0.00s]
+[2026.05.08-16.00.31:921][417]LogStaticMesh: NaniteBuild [0.04s]
+[2026.05.08-16.00.31:936][418]LogStaticMesh: Built static mesh [0.06s] /Game/_Models/reception_desk/reception_desk_low_poly/StaticMeshes/reception_desk_low_poly.reception_desk_low_poly
+[2026.05.08-16.00.32:051][420]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Corey/Downloads/reception_desk_low_poly.glb]
+[2026.05.08-16.00.32:141][420]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.05.08-16.00.32:141][420]LogInterchangeEngine: [Success] Import Done
+[2026.05.08-16.00.35:799][663]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_Models/reception_desk/reception_desk_low_poly/StaticMeshes/reception_desk_low_poly.reception_desk_low_poly
+[2026.05.08-16.00.35:799][663]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_Models/reception_desk/reception_desk_low_poly/StaticMeshes/reception_desk_low_poly.reception_desk_low_poly
+[2026.05.08-16.00.35:801][663]LogActorFactory: Actor Factory spawned StaticMesh /Game/_Models/reception_desk/reception_desk_low_poly/StaticMeshes/reception_desk_low_poly.reception_desk_low_poly as actor: StaticMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.StaticMeshActor_3
+[2026.05.08-16.00.36:708][692]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2026.05.08-16.00.36:714][692]LogEditorActor: Deleted 0 Actors (0.050 secs)
+[2026.05.08-16.00.36:724][692]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_Models/reception_desk/reception_desk_low_poly/StaticMeshes/reception_desk_low_poly.reception_desk_low_poly
+[2026.05.08-16.00.36:724][692]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_Models/reception_desk/reception_desk_low_poly/StaticMeshes/reception_desk_low_poly.reception_desk_low_poly
+[2026.05.08-16.00.36:765][692]LogActorFactory: Actor Factory spawned StaticMesh /Game/_Models/reception_desk/reception_desk_low_poly/StaticMeshes/reception_desk_low_poly.reception_desk_low_poly as actor: StaticMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.StaticMeshActor_UAID_244BFE527C6922D902_1409081659
+[2026.05.08-16.00.37:191][705]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.00.37:214][706]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.00.37:230][707]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.00.37:247][708]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.00.37:262][709]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.00.37:279][710]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.00.37:295][711]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.00.37:314][712]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.00.37:335][713]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.00.37:352][714]LogD3D12RHI: Creating RTPSO with 49 shaders (0 cached, 1 new) took 160.59 ms. Compile time 158.85 ms, link time 1.68 ms.
+[2026.05.08-16.00.37:352][714]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.00.37:369][715]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.00.37:392][716]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.00.37:403][717]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.00.37:422][718]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.00.37:446][719]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.00.37:459][720]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.00.37:473][721]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.00.37:484][722]LogD3D12RHI: Creating RTPSO with 51 shaders (1 cached, 2 new) took 187.40 ms. Compile time 185.96 ms, link time 1.38 ms.
+[2026.05.08-16.00.38:519][788]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.00.38:540][790]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.00.38:619][795]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.00.38:632][796]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.00.39:222][840]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.00.39:487][843]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.00.40:366][893]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.00.40:380][893]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.00.43:275][ 58]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.00.43:304][ 59]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.00.43:364][ 61]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.00.43:396][ 62]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.00.43:599][ 68]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.00.43:628][ 69]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.00.43:760][ 74]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.00.43:793][ 75]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.00.44:883][126]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.00.44:896][127]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.00.47:583][307]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.08-16.00.47:592][307]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.08-16.00.47:592][307]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.05.08-16.00.47:610][307]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 18.670 ms (total: 188.949 ms)
+[2026.05.08-16.00.47:610][307]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.08-16.00.47:610][307]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.05.08-16.00.47:734][307]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.08-16.00.47:754][307]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 20.188 ms (total: 204.808 ms)
+[2026.05.08-16.00.47:916][307]LogPlayLevel: PIE: StaticDuplicateObject took: (0.305751s)
+[2026.05.08-16.00.47:916][307]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.305793s)
+[2026.05.08-16.00.47:946][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2026.05.08-16.00.47:949][307]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.05.08-16.00.47:950][307]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.08-16.00.47:950][307]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.08-16.00.47:950][307]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.08-16.00.47:950][307]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.08-16.00.47:979][307]LogWorldPartition: Display: WorldPartition initialize took 28.081 ms (total: 3.58 sec)
+[2026.05.08-16.00.47:979][307]LogPlayLevel: PIE: World Init took: (0.030615s)
+[2026.05.08-16.00.47:980][307]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2026.05.08-16.00.47:980][307]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.08-16.00.47:980][307]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.08-16.00.47:980][307]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.08-16.00.47:980][307]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.08-16.00.47:980][307]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.08-16.00.47:980][307]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.08-16.00.47:980][307]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.08-16.00.47:980][307]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.08-16.00.47:980][307]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.08-16.00.47:980][307]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.08-16.00.47:980][307]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.08-16.00.47:982][307]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.08-16.00.48:007][307]LogAudioMixer: Display: Using Audio Hardware Device Headphones (HyperX Cloud III)
+[2026.05.08-16.00.48:007][307]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.08-16.00.48:007][307]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.08-16.00.48:007][307]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.08-16.00.48:007][307]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2026.05.08-16.00.48:007][307]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2026.05.08-16.00.48:011][307]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2026.05.08-16.00.48:011][307]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2026.05.08-16.00.48:011][307]LogInit: FAudioDevice initialized with ID 11.
+[2026.05.08-16.00.48:011][307]LogAudio: Display: Audio Device (ID: 11) registered with world 'Lvl_ThirdPerson'.
+[2026.05.08-16.00.48:011][307]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2026.05.08-16.00.48:015][307]LogLoad: Game class is 'BP_PlatformingGameMode_C'
+[2026.05.08-16.00.48:044][307]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.05.08-17.00.48
+[2026.05.08-16.00.48:045][307]LogWorld: Bringing up level for play took: 0.030348
+[2026.05.08-16.00.48:048][307]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2026.05.08-16.00.48:060][307]PIE: Server logged in
+[2026.05.08-16.00.48:062][307]PIE: Play in editor total start time 0.471 seconds.
+[2026.05.08-16.00.48:119][308]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.05.08-16.00.50:781][464]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_6' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.00.50:781][464]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.00.50:781][464]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_5' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.00.50:781][464]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.00.50:781][464]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_4' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.00.50:781][464]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.00.50:781][464]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_3' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.00.50:781][464]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.00.50:781][464]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_1' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.00.50:781][464]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.00.50:781][464]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.00.50:781][464]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.00.54:066][685]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_6' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.00.54:066][685]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.00.54:066][685]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_5' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.00.54:066][685]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.00.54:066][685]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_4' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.00.54:066][685]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.00.54:066][685]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_3' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.00.54:066][685]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.00.54:066][685]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_2' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.00.54:066][685]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.00.54:066][685]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_1' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.00.54:066][685]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.00.59:502][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.08-16.00.59:502][ 48]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.05.08-16.00.59:502][ 48]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.08-16.00.59:504][ 48]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-16.00.59:510][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-16.00.59:510][ 48]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.05.08-16.00.59:514][ 48]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.08-16.00.59:526][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-16.00.59:559][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.08-16.00.59:562][ 48]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2026.05.08-16.00.59:562][ 48]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=4
+[2026.05.08-16.00.59:564][ 48]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=2
+[2026.05.08-16.00.59:581][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2026.05.08-16.00.59:691][ 49]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2026.05.08-16.01.06:388][511]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.05.08-16.01.06:408][511]LogContentBrowser: Creating deferred item: NewFolder
+[2026.05.08-16.01.06:425][512]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.05.08-16.01.10:405][829]LogContentBrowser: Attempting asset rename: NewFolder -> _chairs
+[2026.05.08-16.01.10:406][829]LogContentBrowser: End creating deferred item NewFolder
