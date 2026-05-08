@@ -1422,3 +1422,265 @@ FPackageName: Skipped package /Engine/EngineMeshes/Humanoid has a valid, mounted
 [2026.05.08-15.31.13:485][382]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.05.08-15.31.13:485][382]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
 [2026.05.08-15.31.13:537][382]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.08-15.31.39:584][995]LogStreaming: Display: FlushAsyncLoading(594): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-15.31.39:987][995]LogAssetTools: Warning: Failed to import 'C:\Users\Corey\Downloads\Rusty_Abandoned_Truck_with_Interior_-_Game_Read.usdz'. Unknown extension 'usdz'.
+[2026.05.08-15.31.48:292][345]Cmd: TRANSACTION UNDO
+[2026.05.08-15.31.48:292][345]LogEditorTransaction: Undo Clicking on Elements
+[2026.05.08-15.31.52:980][590]LogAssetTools: Warning: Failed to import 'C:\Users\Corey\Downloads\Rusty_Abandoned_Truck_with_Interior_-_Game_Read.usdz'. Unknown extension 'usdz'.
+[2026.05.08-15.32.02:051][928]LogRenderer: Using fallback RTPSO
+[2026.05.08-15.32.02:070][929]LogRenderer: Using fallback RTPSO
+[2026.05.08-15.32.02:146][933]LogRenderer: Using fallback RTPSO
+[2026.05.08-15.32.03:500][ 37]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.05.08-15.32.03:563][ 38]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.05.08-15.32.03:594][ 39]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.05.08-15.32.03:627][ 40]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.05.08-15.32.03:656][ 41]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.05.08-15.32.03:683][ 42]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.05.08-15.32.03:717][ 43]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2026.05.08-15.32.03:745][ 44]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.05.08-15.32.03:778][ 45]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.05.08-15.32.03:810][ 46]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.05.08-15.32.03:840][ 47]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2026.05.08-15.32.03:873][ 48]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2026.05.08-15.32.03:903][ 49]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2026.05.08-15.32.03:935][ 50]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2026.05.08-15.32.03:967][ 51]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2026.05.08-15.32.03:998][ 52]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2026.05.08-15.32.04:032][ 53]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2026.05.08-15.32.04:063][ 54]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2026.05.08-15.32.04:102][ 55]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2026.05.08-15.32.04:136][ 56]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2026.05.08-15.32.04:168][ 57]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2026.05.08-15.32.04:203][ 58]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2026.05.08-15.32.04:233][ 59]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2026.05.08-15.32.18:995][726]LogStreaming: Display: FlushAsyncLoading(622): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-15.32.20:311][769]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_31
+[2026.05.08-15.33.23:140][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.05.08-15.33.23:145][118]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.025
+[2026.05.08-15.33.23:145][118]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Models/_Fences/Mat] ([1] browsable assets)...
+[2026.05.08-15.33.23:156][118]OBJ SavePackage:     Rendered thumbnail for [Material /Game/_Models/_Fences/Mat.Mat]
+[2026.05.08-15.33.23:156][118]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/_Fences/Mat]
+[2026.05.08-15.33.23:156][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Models/_Fences/Mat" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/_Fences/Mat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2026.05.08-15.33.23:165][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Models/_Fences/Mat_Auto1
+[2026.05.08-15.33.23:167][118]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Mat_Auto1DFE9AFED436958ADDEAABBA74BCDCB2D.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/_Fences/Mat_Auto1.uasset'
+[2026.05.08-15.33.23:167][118]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Models/_Fences/Cube_4] ([1] browsable assets)...
+[2026.05.08-15.33.23:178][118]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_Models/_Fences/Cube_4.Cube_4]
+[2026.05.08-15.33.23:178][118]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/_Fences/Cube_4]
+[2026.05.08-15.33.23:178][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Models/_Fences/Cube_4" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/_Fences/Cube_4_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2026.05.08-15.33.23:187][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Models/_Fences/Cube_4_Auto1
+[2026.05.08-15.33.23:187][118]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Cube_4_Auto1A7E9258740DA4AA224C829A6496A023C.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/_Fences/Cube_4_Auto1.uasset'
+[2026.05.08-15.33.23:187][118]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Models/_Fences/Cube_3] ([1] browsable assets)...
+[2026.05.08-15.33.23:197][118]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_Models/_Fences/Cube_3.Cube_3]
+[2026.05.08-15.33.23:197][118]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/_Fences/Cube_3]
+[2026.05.08-15.33.23:197][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Models/_Fences/Cube_3" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/_Fences/Cube_3_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2026.05.08-15.33.23:207][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Models/_Fences/Cube_3_Auto1
+[2026.05.08-15.33.23:208][118]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Cube_3_Auto1AF3944FA4FAC943F4084EEA0116AA727.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/_Fences/Cube_3_Auto1.uasset'
+[2026.05.08-15.33.23:208][118]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Models/_Fences/Cube_1] ([1] browsable assets)...
+[2026.05.08-15.33.23:220][118]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_Models/_Fences/Cube_1.Cube_1]
+[2026.05.08-15.33.23:220][118]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/_Fences/Cube_1]
+[2026.05.08-15.33.23:220][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Models/_Fences/Cube_1" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/_Fences/Cube_1_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2026.05.08-15.33.23:264][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Models/_Fences/Cube_1_Auto1
+[2026.05.08-15.33.23:264][118]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Cube_1_Auto1719F355349ACC33B12DD52BEA48E3784.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Models/_Fences/Cube_1_Auto1.uasset'
+[2026.05.08-15.33.23:264][118]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/M_Wood_Oak] ([1] browsable assets)...
+[2026.05.08-15.33.23:273][118]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/M_Wood_Oak.M_Wood_Oak]
+[2026.05.08-15.33.23:273][118]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Wood_Oak]
+[2026.05.08-15.33.23:284][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Materials/M_Wood_Oak_Auto1
+[2026.05.08-15.33.23:284][118]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/M_Wood_Oak_Auto1B2ACF8044D80B7526BEB36A2B17BBD36.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/StarterContent/Materials/M_Wood_Oak_Auto1.uasset'
+[2026.05.08-15.33.23:284][118]LogFileHelpers: Auto-saving content packages took 0.139
+[2026.05.08-15.33.30:861][355]LogAssetTools: Warning: Failed to import 'C:\Users\Corey\Downloads\Rusty_Abandoned_Truck_with_Interior_-_Game_Read (1).usdz'. Unknown extension 'usdz'.
+[2026.05.08-15.33.59:692][602]LogStreaming: Display: FlushAsyncLoading(623): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-15.33.59:724][602]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Corey/Downloads/rusty_abandoned_truck_with_interior_-_game_ready (1).glb]
+[2026.05.08-15.34.08:227][602]LogSlate: Window 'Import Content' being destroyed
+[2026.05.08-15.34.08:247][602]LogInterchangeEngine: [Pending] Importing
+[2026.05.08-15.34.08:331][603]LogStreaming: Display: FlushAsyncLoading(658): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-15.34.08:689][612]LogStreaming: Display: FlushAsyncLoading(661): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-15.34.08:752][614]LogStreaming: Display: FlushAsyncLoading(662): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-15.34.08:844][616]LogStaticMesh: Display: Building static mesh rusty_abandoned_truck_with_interior_-_game_ready__1_ (Required Memory Estimate: 14.733241 MB)...
+[2026.05.08-15.34.08:910][620]LogStaticMesh: Adjacency [0.00s], tris: 9728, UVs 1
+[2026.05.08-15.34.08:934][622]LogStaticMesh: Clustering [0.02s]. Ratio: 1.026316
+[2026.05.08-15.34.08:936][622]LogStaticMesh: Leaves [0.00s]
+[2026.05.08-15.34.09:233][647]LogStaticMesh: Reduce [0.30s]
+[2026.05.08-15.34.09:519][672]LogStaticMesh: Fallback [0.29s], num tris: 5237
+[2026.05.08-15.34.09:712][690]LogStaticMesh: Fallback [0.19s], num tris: 2717
+[2026.05.08-15.34.09:721][690]LogStaticMesh: ConstrainClusters:
+[2026.05.08-15.34.09:721][690]LogStaticMesh:   Input: 158 Clusters, 19802 Triangles and 30423 Vertices
+[2026.05.08-15.34.09:721][690]LogStaticMesh:   Output without splits: 158 Clusters, 19802 Triangles and 30423 Vertices
+[2026.05.08-15.34.09:721][690]LogStaticMesh:   Output with splits: 165 Clusters, 19802 Triangles and 30431 Vertices
+[2026.05.08-15.34.09:721][690]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 165, Slow Path Clusters: 0, 1 Material: 165, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.05.08-15.34.09:729][691]LogStaticMesh: WritePages:
+[2026.05.08-15.34.09:729][691]LogStaticMesh:   Root: GPU size: 31600 bytes. 1 Pages. 31600.000 bytes per page (96.436% utilization).
+[2026.05.08-15.34.09:729][691]LogStaticMesh:   Streaming: GPU size: 360800 bytes. 3 Pages (3 with relative encoding). 120266.664 bytes per page (91.756% utilization).
+[2026.05.08-15.34.09:729][691]LogStaticMesh:   Page data disk size: 302484 bytes. Fixup data size: 1024 bytes.
+[2026.05.08-15.34.09:729][691]LogStaticMesh:   Total GPU size: 392400 bytes, Total disk size: 303508 bytes.
+[2026.05.08-15.34.09:729][691]LogStaticMesh: Encode [0.02s]
+[2026.05.08-15.34.09:729][691]LogStaticMesh: NaniteBuild [0.82s]
+[2026.05.08-15.34.09:982][713]LogStaticMesh: Built static mesh [1.14s] /Game/_Models/rusty_abandoned_truck_with_interior_-_game_ready__1_/StaticMeshes/rusty_abandoned_truck_with_interior_-_game_ready__1_.rusty_abandoned_truck_with_interior_-_game_ready__1_
+[2026.05.08-15.34.12:286][721]LogMeshUtilities: Finished distance field build in 2.2s - 126x126x126 sparse distance field, 2.5Mb total, 0.1Mb always loaded, 72% occupied, 0 triangles, rusty_abandoned_truck_with_interior_-_game_ready__1_
+[2026.05.08-15.34.12:298][722]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Corey/Downloads/rusty_abandoned_truck_with_interior_-_game_ready (1).glb]
+[2026.05.08-15.34.12:321][722]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.05.08-15.34.12:321][722]LogInterchangeEngine: [Success] Import Done
+[2026.05.08-15.34.15:060][855]LogMeshUtilities: Finished distance field build in 2.7s - 126x126x126 sparse distance field, 2.5Mb total, 0.1Mb always loaded, 72% occupied, 0 triangles, rusty_abandoned_truck_with_interior_-_game_ready__1_
+[2026.05.08-15.34.17:517][984]LogMaterial: Display: Material /InterchangeAssets/gltf/M_Default.M_Default needed to have new flag set bUsedWithNanite !
+[2026.05.08-15.34.17:747][987]LogRenderer: Using fallback RTPSO
+[2026.05.08-15.34.18:202][ 11]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_Models/rusty_abandoned_truck_with_interior_-_game_ready__1_/StaticMeshes/rusty_abandoned_truck_with_interior_-_game_ready__1_.rusty_abandoned_truck_with_interior_-_game_ready__1_
+[2026.05.08-15.34.18:202][ 11]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_Models/rusty_abandoned_truck_with_interior_-_game_ready__1_/StaticMeshes/rusty_abandoned_truck_with_interior_-_game_ready__1_.rusty_abandoned_truck_with_interior_-_game_ready__1_
+[2026.05.08-15.34.18:202][ 11]LogActorFactory: Actor Factory spawned StaticMesh /Game/_Models/rusty_abandoned_truck_with_interior_-_game_ready__1_/StaticMeshes/rusty_abandoned_truck_with_interior_-_game_ready__1_.rusty_abandoned_truck_with_interior_-_game_ready__1_ as actor: StaticMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.StaticMeshActor_2
+[2026.05.08-15.34.19:057][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.05.08-15.34.19:062][ 64]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2026.05.08-15.34.19:069][ 64]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_Models/rusty_abandoned_truck_with_interior_-_game_ready__1_/StaticMeshes/rusty_abandoned_truck_with_interior_-_game_ready__1_.rusty_abandoned_truck_with_interior_-_game_ready__1_
+[2026.05.08-15.34.19:069][ 64]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_Models/rusty_abandoned_truck_with_interior_-_game_ready__1_/StaticMeshes/rusty_abandoned_truck_with_interior_-_game_ready__1_.rusty_abandoned_truck_with_interior_-_game_ready__1_
+[2026.05.08-15.34.19:106][ 64]LogActorFactory: Actor Factory spawned StaticMesh /Game/_Models/rusty_abandoned_truck_with_interior_-_game_ready__1_/StaticMeshes/rusty_abandoned_truck_with_interior_-_game_ready__1_.rusty_abandoned_truck_with_interior_-_game_ready__1_ as actor: StaticMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.StaticMeshActor_UAID_244BFE527C6920D902_1978910298
+[2026.05.08-15.34.19:354][ 68]LogRenderer: Using fallback RTPSO
+[2026.05.08-15.34.19:408][ 70]LogRenderer: Using fallback RTPSO
+[2026.05.08-15.34.19:420][ 70]LogRenderer: Using fallback RTPSO
+[2026.05.08-15.34.19:439][ 71]LogRenderer: Using fallback RTPSO
+[2026.05.08-15.34.27:742][697]Cmd: DELETE
+[2026.05.08-15.34.27:742][697]Cmd: ACTOR DELETE
+[2026.05.08-15.34.27:764][697]LogEditorActor: Deleted Actor: BP_Door_C
+[2026.05.08-15.34.27:784][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.05.08-15.34.27:787][697]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2026.05.08-15.34.33:132][113]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.05.08-15.34.39:284][548]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.08-15.34.39:293][548]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.08-15.34.39:294][548]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.05.08-15.34.39:313][548]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 19.126 ms
+[2026.05.08-15.34.39:313][548]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.08-15.34.39:317][548]LogOnline: OSS: Created online subsystem instance for: NULL
+[2026.05.08-15.34.39:317][548]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2026.05.08-15.34.39:317][548]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.05.08-15.34.39:440][548]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.08-15.34.39:460][548]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 19.759 ms
+[2026.05.08-15.34.39:632][548]LogPlayLevel: PIE: StaticDuplicateObject took: (0.315814s)
+[2026.05.08-15.34.39:632][548]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.315866s)
+[2026.05.08-15.34.39:653][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.05.08-15.34.39:655][548]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.05.08-15.34.39:658][548]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.08-15.34.39:658][548]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.08-15.34.39:658][548]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.08-15.34.39:658][548]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.08-15.34.39:686][548]LogWorldPartition: Display: WorldPartition initialize took 28.524 ms (total: 3.32 sec)
+[2026.05.08-15.34.39:686][548]LogPlayLevel: PIE: World Init took: (0.030885s)
+[2026.05.08-15.34.39:687][548]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.05.08-15.34.39:687][548]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.08-15.34.39:687][548]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.08-15.34.39:687][548]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.08-15.34.39:687][548]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.08-15.34.39:687][548]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.08-15.34.39:687][548]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.08-15.34.39:687][548]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.08-15.34.39:687][548]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.08-15.34.39:687][548]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.08-15.34.39:687][548]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.08-15.34.39:687][548]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.08-15.34.39:689][548]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.08-15.34.39:712][548]LogAudioMixer: Display: Using Audio Hardware Device Headphones (HyperX Cloud III)
+[2026.05.08-15.34.39:712][548]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.08-15.34.39:712][548]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.08-15.34.39:712][548]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.08-15.34.39:714][548]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2026.05.08-15.34.39:714][548]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2026.05.08-15.34.39:716][548]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2026.05.08-15.34.39:716][548]LogInit: FAudioDevice initialized with ID 2.
+[2026.05.08-15.34.39:716][548]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2026.05.08-15.34.39:716][548]LogAudio: Display: Audio Device (ID: 2) registered with world 'Lvl_ThirdPerson'.
+[2026.05.08-15.34.39:716][548]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2026.05.08-15.34.39:720][548]LogLoad: Game class is 'BP_PlatformingGameMode_C'
+[2026.05.08-15.34.39:749][548]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.05.08-16.34.39
+[2026.05.08-15.34.39:752][548]LogWorld: Bringing up level for play took: 0.030883
+[2026.05.08-15.34.39:754][548]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2026.05.08-15.34.39:765][548]LogWindows: WindowsPlatformFeatures enabled
+[2026.05.08-15.34.39:767][548]PIE: Server logged in
+[2026.05.08-15.34.39:770][548]PIE: Play in editor total start time 0.476 seconds.
+[2026.05.08-15.34.39:845][549]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.05.08-15.34.40:037][551]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2026.05.08-15.34.40:171][552]LogRenderer: Using fallback RTPSO
+[2026.05.08-15.34.40:193][552]LogRenderer: Using fallback RTPSO
+[2026.05.08-15.34.47:400][915]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 699.549927
+[2026.05.08-15.34.47:556][925]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.08-15.34.47:556][925]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 699.689148, Update Interval: 338.581512
+[2026.05.08-15.34.54:585][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.08-15.34.54:585][487]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.05.08-15.34.54:586][487]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.08-15.34.54:587][487]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-15.34.54:592][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-15.34.54:592][487]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.05.08-15.34.54:594][487]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.08-15.34.54:601][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-15.34.54:622][487]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.08-15.34.54:624][487]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2026.05.08-15.34.54:624][487]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2026.05.08-15.34.54:627][487]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2026.05.08-15.34.54:632][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.08-15.34.54:642][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.05.08-15.34.54:739][488]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2026.05.08-15.34.55:630][535]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.05.08-15.35.01:938][ 33]Cmd: TRANSACTION UNDO
+[2026.05.08-15.35.01:938][ 33]LogEditorTransaction: Undo Scale Elements
+[2026.05.08-15.35.14:810][ 32]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.08-15.35.14:818][ 32]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.08-15.35.14:818][ 32]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.05.08-15.35.14:837][ 32]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 19.237 ms (total: 38.363 ms)
+[2026.05.08-15.35.14:838][ 32]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.08-15.35.14:864][ 32]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.05.08-15.35.14:988][ 32]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.08-15.35.15:008][ 32]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 19.979 ms (total: 39.739 ms)
+[2026.05.08-15.35.15:177][ 32]LogPlayLevel: PIE: StaticDuplicateObject took: (0.312353s)
+[2026.05.08-15.35.15:177][ 32]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.312411s)
+[2026.05.08-15.35.15:196][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.05.08-15.35.15:198][ 32]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.05.08-15.35.15:200][ 32]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.08-15.35.15:200][ 32]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.08-15.35.15:200][ 32]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.08-15.35.15:200][ 32]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.08-15.35.15:227][ 32]LogWorldPartition: Display: WorldPartition initialize took 27.922 ms (total: 3.35 sec)
+[2026.05.08-15.35.15:227][ 32]LogPlayLevel: PIE: World Init took: (0.030047s)
+[2026.05.08-15.35.15:229][ 32]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.05.08-15.35.15:229][ 32]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.08-15.35.15:229][ 32]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.08-15.35.15:229][ 32]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.08-15.35.15:229][ 32]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.08-15.35.15:229][ 32]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.08-15.35.15:229][ 32]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.08-15.35.15:229][ 32]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.08-15.35.15:229][ 32]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.08-15.35.15:229][ 32]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.08-15.35.15:229][ 32]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.08-15.35.15:230][ 32]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.08-15.35.15:232][ 32]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.08-15.35.15:255][ 32]LogAudioMixer: Display: Using Audio Hardware Device Headphones (HyperX Cloud III)
+[2026.05.08-15.35.15:255][ 32]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.08-15.35.15:255][ 32]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.08-15.35.15:255][ 32]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.08-15.35.15:255][ 32]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.05.08-15.35.15:255][ 32]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.05.08-15.35.15:258][ 32]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.05.08-15.35.15:258][ 32]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.05.08-15.35.15:258][ 32]LogInit: FAudioDevice initialized with ID 3.
+[2026.05.08-15.35.15:258][ 32]LogAudio: Display: Audio Device (ID: 3) registered with world 'Lvl_ThirdPerson'.
+[2026.05.08-15.35.15:258][ 32]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.05.08-15.35.15:262][ 32]LogLoad: Game class is 'BP_PlatformingGameMode_C'
+[2026.05.08-15.35.15:289][ 32]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.05.08-16.35.15
+[2026.05.08-15.35.15:291][ 32]LogWorld: Bringing up level for play took: 0.028693
+[2026.05.08-15.35.15:293][ 32]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2026.05.08-15.35.15:304][ 32]PIE: Server logged in
+[2026.05.08-15.35.15:307][ 32]PIE: Play in editor total start time 0.489 seconds.
+[2026.05.08-15.35.15:367][ 33]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.05.08-15.35.15:463][ 35]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2026.05.08-15.35.18:484][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.08-15.35.18:484][251]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.05.08-15.35.18:484][251]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.08-15.35.18:486][251]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-15.35.18:491][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-15.35.18:492][251]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.05.08-15.35.18:493][251]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.08-15.35.18:500][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-15.35.18:521][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.08-15.35.18:524][251]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.05.08-15.35.18:524][251]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2026.05.08-15.35.18:526][251]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2026.05.08-15.35.18:539][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.05.08-15.35.18:638][252]LogPlayLevel: Display: Destroying online subsystem :Context_34
