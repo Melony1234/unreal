@@ -6581,3 +6581,6 @@ Sampler Limit: 32
 [2026.05.08-13.44.00:829][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_testmodels/Folding_Table_Auto9
 [2026.05.08-13.44.00:829][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Folding_Table_Auto99CE83FA94297FDC027F88895E8115ECA.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_testmodels/Folding_Table_Auto9.uasset'
 [2026.05.08-13.44.00:830][321]LogFileHelpers: Auto-saving content packages took 2.262
+[2026.05.08-13.47.34:972][967]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8410.339844
+[2026.05.08-13.47.35:972][970]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.08-13.47.35:972][970]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8411.005859, Update Interval: 345.785095
