@@ -23455,3 +23455,868 @@ FPackageName: Skipped package /Game/_Materials/_Jumpscare_test/Face2_Mat has a v
 [2026.05.08-16.09.50:043][328]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2802.196533
 [2026.05.08-16.09.51:042][331]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.05.08-16.09.51:042][331]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2802.863037, Update Interval: 314.053772
+[2026.05.08-16.12.20:086][910]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.12.20:109][911]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.12.27:198][240]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/_Materials/MI_Bricks.MI_Bricks
+[2026.05.08-16.12.27:204][240]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_40
+[2026.05.08-16.12.27:397][240]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.12.27:397][240]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.12.27:397][240]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.12.27:397][240]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.12.27:397][240]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.12.27:397][240]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.12.27:958][240]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.08-16.12.27:958][240]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.05.08-16.12.27:958][240]MaterialEditorStats: User interpolators: 12/12 Scalars (3/4 Vectors) (TexCoords: 12, Custom: 0)
+[2026.05.08-16.12.27:958][240]MaterialEditorStats: Shader Count: 0
+[2026.05.08-16.12.27:958][240]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.05.08-16.12.28:065][242]MaterialEditorStats: Base pass shader: 181 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.05.08-16.12.28:065][242]MaterialEditorStats: Base pass vertex shader: 166 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.08-16.12.28:065][242]MaterialEditorStats: Texture samplers: 2/16
+[2026.05.08-16.12.28:065][242]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.05.08-16.12.28:065][242]MaterialEditorStats: User interpolators: 12/12 Scalars (3/4 Vectors) (TexCoords: 12, Custom: 0)
+[2026.05.08-16.12.28:065][242]MaterialEditorStats: Shader Count: 5
+[2026.05.08-16.12.28:065][242]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.05.08-16.12.28:101][243]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.12.33:461][489]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-16.12.33:461][489]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Materials/_Brown_Bricks/MI_Bricks] ([1] browsable assets)...
+[2026.05.08-16.12.33:462][489]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/_Brown_Bricks/MI_Bricks]
+[2026.05.08-16.12.33:462][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Materials/_Brown_Bricks/MI_Bricks" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/_Brown_Bricks/MI_Bricks.uasset" SILENT=true
+[2026.05.08-16.12.33:470][489]LogSavePackage: Moving output files for package: /Game/_Materials/_Brown_Bricks/MI_Bricks
+[2026.05.08-16.12.33:471][489]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/MI_BricksAFA61DD74611E242FAC7E886AF4D4677.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/_Brown_Bricks/MI_Bricks.uasset'
+[2026.05.08-16.12.33:472][489]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Materials/MI_Bricks] ([1] browsable assets)...
+[2026.05.08-16.12.33:472][489]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/MI_Bricks]
+[2026.05.08-16.12.33:472][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Materials/MI_Bricks" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/MI_Bricks.uasset" SILENT=true
+[2026.05.08-16.12.33:479][489]LogSavePackage: Moving output files for package: /Game/_Materials/MI_Bricks
+[2026.05.08-16.12.33:479][489]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/MI_Bricks0052AB3B49B848998D415BB5F057EE66.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/MI_Bricks.uasset'
+[2026.05.08-16.12.33:480][489]LogFileHelpers: InternalPromptForCheckoutAndSave took 18.980 ms (total: 906.070 ms)
+[2026.05.08-16.12.33:507][489]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.05.08-16.12.33:507][489]LogContentValidation: Display: Starting to validate 2 assets
+[2026.05.08-16.12.33:507][489]LogContentValidation: Enabled validators:
+[2026.05.08-16.12.33:507][489]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-16.12.33:507][489]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-16.12.33:507][489]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-16.12.33:507][489]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-16.12.33:507][489]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-16.12.33:507][489]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-16.12.33:509][489]AssetCheck: /Game/_Materials/_Brown_Bricks/MI_Bricks Validating asset
+[2026.05.08-16.12.33:509][489]AssetCheck: /Game/_Materials/MI_Bricks Validating asset
+[2026.05.08-16.12.33:532][489]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.08-16.12.36:493][618]LogStreaming: Display: FlushAsyncLoading(856): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-16.13.03:877][179]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2026.05.08-16.13.03:898][179]LogContentBrowser: Creating deferred item: NewMaterial
+[2026.05.08-16.13.03:917][180]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2026.05.08-16.13.06:205][340]LogContentBrowser: Attempting asset rename: NewMaterial -> green
+[2026.05.08-16.13.06:206][340]LogContentBrowser: End creating deferred item NewMaterial
+[2026.05.08-16.13.06:631][354]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.13.07:443][395]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/_Materials/green.green
+[2026.05.08-16.13.07:446][395]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_41
+[2026.05.08-16.13.07:637][395]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.07:637][395]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.07:637][395]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.07:637][395]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.07:637][395]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.07:637][395]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.08:230][395]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.08-16.13.08:230][395]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.08-16.13.08:230][395]MaterialEditorStats: Shader Count: 0
+[2026.05.08-16.13.08:230][395]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.08-16.13.08:314][397]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.05.08-16.13.08:314][397]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.08-16.13.08:314][397]MaterialEditorStats: Texture samplers: 1/16
+[2026.05.08-16.13.08:314][397]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.08-16.13.08:314][397]MaterialEditorStats: Shader Count: 5
+[2026.05.08-16.13.08:314][397]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.08-16.13.08:347][398]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.13.14:274][459]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.14:274][459]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.14:274][459]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.14:274][459]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.14:274][459]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.14:274][459]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.14:296][459]LogSlate: Window 'Color Picker' being destroyed
+[2026.05.08-16.13.14:307][459]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.08-16.13.14:307][459]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.08-16.13.14:307][459]MaterialEditorStats: Shader Count: 0
+[2026.05.08-16.13.14:307][459]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.08-16.13.14:333][460]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.13.14:401][463]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.08-16.13.14:402][463]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.08-16.13.14:402][463]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.08-16.13.14:402][463]MaterialEditorStats: Shader Count: 2
+[2026.05.08-16.13.14:402][463]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.08-16.13.15:423][504]MaterialEditorStats: Base pass shader: 173 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.05.08-16.13.15:423][504]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.08-16.13.15:423][504]MaterialEditorStats: Texture samplers: 1/16
+[2026.05.08-16.13.15:423][504]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.08-16.13.15:423][504]MaterialEditorStats: Shader Count: 4
+[2026.05.08-16.13.15:423][504]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.08-16.13.15:979][528]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.13.16:011][529]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.13.16:034][530]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.13.16:068][531]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.13.16:082][531]LogD3D12RHI: Creating RTPSO with 56 shaders (0 cached, 1 new) took 103.44 ms. Compile time 102.65 ms, link time 0.76 ms.
+[2026.05.08-16.13.25:222][594]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.25:222][594]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.25:222][594]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.25:222][594]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.25:222][594]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.25:222][594]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.25:244][594]LogSlate: Window 'Color Picker' being destroyed
+[2026.05.08-16.13.25:258][594]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.08-16.13.25:258][594]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.08-16.13.25:258][594]MaterialEditorStats: Shader Count: 0
+[2026.05.08-16.13.25:258][594]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.08-16.13.25:365][598]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.08-16.13.25:365][598]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.08-16.13.25:365][598]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.08-16.13.25:365][598]MaterialEditorStats: Shader Count: 2
+[2026.05.08-16.13.25:365][598]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.08-16.13.26:113][625]MaterialEditorStats: Base pass shader: 175 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.05.08-16.13.26:113][625]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.08-16.13.26:113][625]MaterialEditorStats: Texture samplers: 1/16
+[2026.05.08-16.13.26:113][625]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.08-16.13.26:113][625]MaterialEditorStats: Shader Count: 4
+[2026.05.08-16.13.26:113][625]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.08-16.13.26:748][653]LogMaterialEditor: Applying material green
+[2026.05.08-16.13.26:819][653]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.26:819][653]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.26:819][653]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.26:819][653]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.26:819][653]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.26:819][653]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.26:865][653]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.26:866][653]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.26:866][653]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.26:866][653]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.26:866][653]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.26:866][653]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.26:866][653]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.26:866][653]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.26:866][653]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.26:866][653]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.26:866][653]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.26:866][653]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.26:866][653]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.26:866][653]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.26:866][653]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.26:866][653]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.26:866][653]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.26:866][653]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.26:866][653]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.26:866][653]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.26:866][653]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.26:866][653]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.26:866][653]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.26:866][653]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.26:866][653]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.26:866][653]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.26:866][653]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.26:866][653]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.26:866][653]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.26:866][653]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.27:046][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2026.05.08-16.13.28:238][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2026.05.08-16.13.28:265][653]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.28:265][653]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.28:265][653]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.28:265][653]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.28:334][655]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.13.28:362][656]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.13.28:388][657]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.13.28:411][658]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.13.28:424][658]LogD3D12RHI: Creating RTPSO with 56 shaders (0 cached, 1 new) took 90.89 ms. Compile time 90.17 ms, link time 0.68 ms.
+[2026.05.08-16.13.29:953][722]LogMaterialEditor: Saving and Compiling material green
+[2026.05.08-16.13.29:955][722]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-16.13.29:996][722]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Materials/green] ([1] browsable assets)...
+[2026.05.08-16.13.30:007][722]OBJ SavePackage:     Rendered thumbnail for [Material /Game/_Materials/green.green]
+[2026.05.08-16.13.30:007][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/green]
+[2026.05.08-16.13.30:007][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Materials/green" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/green.uasset" SILENT=true
+[2026.05.08-16.13.30:016][722]LogSavePackage: Moving output files for package: /Game/_Materials/green
+[2026.05.08-16.13.30:016][722]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/green4681BC66449FB2768D624896C028E243.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Materials/green.uasset'
+[2026.05.08-16.13.30:029][722]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.518 ms (total: 978.588 ms)
+[2026.05.08-16.13.30:073][722]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-16.13.30:073][722]LogContentValidation: Enabled validators:
+[2026.05.08-16.13.30:073][722]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-16.13.30:073][722]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-16.13.30:073][722]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-16.13.30:073][722]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-16.13.30:073][722]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-16.13.30:073][722]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-16.13.30:073][722]AssetCheck: /Game/_Materials/green Validating asset
+[2026.05.08-16.13.30:119][722]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.08-16.13.31:722][790]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-16.13.31:760][790]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Models/reception_desk/outthere_reception_desk_sign/StaticMeshes/outthere_reception_desk_sign] ([1] browsable assets)...
+[2026.05.08-16.13.31:760][790]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.31:760][790]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.31:760][790]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.31:760][790]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.31:760][790]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.31:760][790]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.31:760][790]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.31:760][790]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.31:760][790]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.31:760][790]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.31:760][790]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.31:760][790]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.31:760][790]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.31:760][790]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.31:760][790]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.31:774][790]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_Models/reception_desk/outthere_reception_desk_sign/StaticMeshes/outthere_reception_desk_sign.outthere_reception_desk_sign]
+[2026.05.08-16.13.31:774][790]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Models/reception_desk/outthere_reception_desk_sign/StaticMeshes/outthere_reception_desk_sign]
+[2026.05.08-16.13.31:785][790]LogSavePackage: Moving output files for package: /Game/_Models/reception_desk/outthere_reception_desk_sign/StaticMeshes/outthere_reception_desk_sign
+[2026.05.08-16.13.31:785][790]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/outthere_reception_desk_signB33C643647A344121D11718E1C7DEA04.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Models/reception_desk/outthere_reception_desk_sign/StaticMeshes/outthere_reception_desk_sign.uasset'
+[2026.05.08-16.13.31:797][790]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.986 ms (total: 1.05 sec)
+[2026.05.08-16.13.31:829][790]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-16.13.31:829][790]LogContentValidation: Enabled validators:
+[2026.05.08-16.13.31:829][790]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-16.13.31:829][790]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-16.13.31:829][790]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-16.13.31:829][790]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-16.13.31:829][790]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-16.13.31:829][790]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-16.13.31:829][790]AssetCheck: /Game/_Models/reception_desk/outthere_reception_desk_sign/StaticMeshes/outthere_reception_desk_sign Validating asset
+[2026.05.08-16.13.31:871][790]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.08-16.13.33:956][881]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.33:956][881]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.33:956][881]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.33:956][881]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.33:956][881]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.33:956][881]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.33:956][881]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-16.13.33:956][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-16.13.34:010][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2026.05.08-16.13.53:341][502]LogMaterial: Display: Material /Game/_Materials/green.green needed to have new flag set bUsedWithNanite !
+[2026.05.08-16.13.53:341][502]LogMaterial: Display: Material /Engine/Transient.green needed to have new flag set bUsedWithNanite !
+[2026.05.08-16.13.53:354][502]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.53:354][502]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.53:354][502]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.53:363][502]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.53:363][502]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.53:363][502]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.13.53:435][502]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.08-16.13.53:435][502]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.08-16.13.53:435][502]MaterialEditorStats: Shader Count: 0
+[2026.05.08-16.13.53:435][502]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.08-16.13.53:439][502]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.13.53:532][503]MaterialEditorStats: Base pass shader: 175 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.05.08-16.13.53:532][503]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.08-16.13.53:532][503]MaterialEditorStats: Texture samplers: 1/16
+[2026.05.08-16.13.53:532][503]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.08-16.13.53:532][503]MaterialEditorStats: Shader Count: 12
+[2026.05.08-16.13.53:532][503]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.08-16.13.53:633][504]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.13.55:569][569]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.13.55:597][570]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.13.56:166][593]MaterialEditorStats: Base pass shader: 175 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.05.08-16.13.56:166][593]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.08-16.13.56:166][593]MaterialEditorStats: Nanite Compute Shader: 802 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.05.08-16.13.56:166][593]MaterialEditorStats: Texture samplers: 1/16
+[2026.05.08-16.13.56:166][593]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.08-16.13.56:166][593]MaterialEditorStats: Shader Count: 17
+[2026.05.08-16.13.56:166][593]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.08-16.13.56:311][594]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.13.59:716][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2026.05.08-16.13.59:746][747]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-16.13.59:787][747]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Blueprints/BP_Jump] ([2] browsable assets)...
+[2026.05.08-16.13.59:798][747]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Blueprints/BP_Jump.BP_Jump]
+[2026.05.08-16.13.59:798][747]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Blueprints/BP_Jump]
+[2026.05.08-16.13.59:798][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/BP_Jump" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Blueprints/BP_Jump.uasset" SILENT=true
+[2026.05.08-16.13.59:840][747]LogSavePackage: Moving output files for package: /Game/_Blueprints/BP_Jump
+[2026.05.08-16.13.59:840][747]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/BP_Jump3031EDD84C62FFBF69B0AF95B90565F8.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Blueprints/BP_Jump.uasset'
+[2026.05.08-16.13.59:852][747]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.587 ms (total: 1.15 sec)
+[2026.05.08-16.13.59:898][747]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-16.13.59:898][747]LogContentValidation: Enabled validators:
+[2026.05.08-16.13.59:898][747]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-16.13.59:898][747]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-16.13.59:898][747]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-16.13.59:898][747]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-16.13.59:898][747]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-16.13.59:898][747]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-16.13.59:899][747]AssetCheck: /Game/_Blueprints/BP_Jump Validating asset
+[2026.05.08-16.14.05:014][975]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.08-16.14.05:026][975]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.08-16.14.05:026][975]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.05.08-16.14.05:046][975]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 20.576 ms (total: 268.205 ms)
+[2026.05.08-16.14.05:049][975]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.08-16.14.05:086][975]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.05.08-16.14.05:201][975]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.05:201][975]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.05:201][975]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.05:219][975]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.08-16.14.05:241][975]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 21.390 ms (total: 288.238 ms)
+[2026.05.08-16.14.05:408][975]LogPlayLevel: PIE: StaticDuplicateObject took: (0.321320s)
+[2026.05.08-16.14.05:408][975]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.321377s)
+[2026.05.08-16.14.05:437][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.05.08-16.14.05:444][975]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.05.08-16.14.05:445][975]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.08-16.14.05:445][975]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.08-16.14.05:445][975]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.08-16.14.05:445][975]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.08-16.14.05:474][975]LogWorldPartition: Display: WorldPartition initialize took 28.546 ms (total: 3.69 sec)
+[2026.05.08-16.14.05:474][975]LogPlayLevel: PIE: World Init took: (0.030721s)
+[2026.05.08-16.14.05:476][975]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2026.05.08-16.14.05:476][975]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.08-16.14.05:476][975]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.08-16.14.05:476][975]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.08-16.14.05:476][975]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.08-16.14.05:476][975]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.08-16.14.05:476][975]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.08-16.14.05:476][975]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.08-16.14.05:476][975]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.08-16.14.05:476][975]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.08-16.14.05:476][975]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.08-16.14.05:476][975]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.08-16.14.05:478][975]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.08-16.14.05:503][975]LogAudioMixer: Display: Using Audio Hardware Device Headphones (HyperX Cloud III)
+[2026.05.08-16.14.05:503][975]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.08-16.14.05:503][975]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.08-16.14.05:503][975]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.08-16.14.05:503][975]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2026.05.08-16.14.05:503][975]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2026.05.08-16.14.05:506][975]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2026.05.08-16.14.05:506][975]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2026.05.08-16.14.05:506][975]LogInit: FAudioDevice initialized with ID 15.
+[2026.05.08-16.14.05:506][975]LogAudio: Display: Audio Device (ID: 15) registered with world 'Lvl_ThirdPerson'.
+[2026.05.08-16.14.05:506][975]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2026.05.08-16.14.05:510][975]LogLoad: Game class is 'BP_PlatformingGameMode_C'
+[2026.05.08-16.14.05:531][975]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.05:531][975]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.05:531][975]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.05:531][975]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.05:537][975]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.05:537][975]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.05:537][975]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.05:537][975]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.05:537][975]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.05:537][975]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.05:537][975]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.05:537][975]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.05:537][975]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.05:537][975]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.05:537][975]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.05:537][975]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.05:537][975]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.05:537][975]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.05:537][975]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.05:539][975]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.05.08-17.14.05
+[2026.05.08-16.14.05:541][975]LogWorld: Bringing up level for play took: 0.029824
+[2026.05.08-16.14.05:544][975]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2026.05.08-16.14.05:555][975]PIE: Server logged in
+[2026.05.08-16.14.05:557][975]PIE: Play in editor total start time 0.531 seconds.
+[2026.05.08-16.14.05:569][975]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.05:569][975]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.05:587][975]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.05.08-16.14.08:544][101]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_6' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.14.08:544][101]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.14.08:544][101]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_5' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.14.08:544][101]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.14.08:544][101]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_4' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.14.08:544][101]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.14.08:544][101]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_3' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.14.08:544][101]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.14.08:544][101]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_1' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.14.08:544][101]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.14.08:544][101]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.14.08:544][101]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.14.11:726][292]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_6' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.14.11:726][292]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.14.11:726][292]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_5' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.14.11:726][292]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.14.11:726][292]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_4' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.14.11:726][292]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.14.11:726][292]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_3' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.14.11:726][292]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.14.11:726][292]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_2' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.14.11:726][292]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.14.11:726][292]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_1' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.14.11:726][292]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.14.24:725][ 32]LogShaderCompilers: Display: ================================================
+[2026.05.08-16.14.24:725][ 32]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.05.08-16.14.24:725][ 32]LogShaderCompilers: Display: Total job queries 1,049, among them cache hits 283 (26.98%), DDC hits 630 (60.06%), Duplicates 84 (8.01%)
+[2026.05.08-16.14.24:725][ 32]LogShaderCompilers: Display: Tracking 682 distinct input hashes that result in 503 distinct outputs (73.75%)
+[2026.05.08-16.14.24:725][ 32]LogShaderCompilers: Display: RAM used: 6.01 MiB of 3.20 GiB budget. Usage: 0.18%
+[2026.05.08-16.14.24:725][ 32]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.05.08-16.14.24:725][ 32]LogShaderCompilers: Display: Shaders Compiled: 52
+[2026.05.08-16.14.24:725][ 32]LogShaderCompilers: Display: Jobs assigned 52, completed 52 (100%)
+[2026.05.08-16.14.24:725][ 32]LogShaderCompilers: Display: Average time worker was idle: 110.82 s
+[2026.05.08-16.14.24:725][ 32]LogShaderCompilers: Display: Time job spent in pending queue: average 0.14 s, longest 1.99 s
+[2026.05.08-16.14.24:725][ 32]LogShaderCompilers: Display: Job execution time: average 1.52 s, max 4.01 s
+[2026.05.08-16.14.24:725][ 32]LogShaderCompilers: Display: Job life time (pending + execution): average 1.65 s, max 5.14
+[2026.05.08-16.14.24:725][ 32]LogShaderCompilers: Display: Shader code size: total 708.041 KiB, numShaders 58, average 12.207 KiB, min 2.934 KiB, max 32.98 KiB
+[2026.05.08-16.14.24:725][ 32]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 20.18 s
+[2026.05.08-16.14.24:725][ 32]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2026.05.08-16.14.24:725][ 32]LogShaderCompilers: Display: Jobs were issued in 52 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.05.08-16.14.24:725][ 32]LogShaderCompilers: Display: Average processing rate: 2.58 jobs/sec
+[2026.05.08-16.14.24:725][ 32]LogShaderCompilers: Display: Total thread time: 69.401 s
+[2026.05.08-16.14.24:725][ 32]LogShaderCompilers: Display: Total thread preprocess time: 18.653 s
+[2026.05.08-16.14.24:725][ 32]LogShaderCompilers: Display: Percentage time preprocessing: 26.88%
+[2026.05.08-16.14.24:725][ 32]LogShaderCompilers: Display: Effective parallelization: 3.44 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.429886
+[2026.05.08-16.14.24:726][ 32]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.05.08-16.14.24:726][ 32]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    4 times, average 3.22 sec, max 3.67 sec, min 2.47 sec)
+[2026.05.08-16.14.24:726][ 32]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    4 times, average 2.76 sec, max 3.10 sec, min 1.96 sec)
+[2026.05.08-16.14.24:726][ 32]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 2.49 sec, max 2.49 sec, min 2.49 sec)
+[2026.05.08-16.14.24:726][ 32]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 2.01 sec, max 2.01 sec, min 2.01 sec)
+[2026.05.08-16.14.24:726][ 32]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    6 times, average 1.54 sec, max 1.83 sec, min 1.19 sec)
+[2026.05.08-16.14.24:726][ 32]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.05.08-16.14.24:726][ 32]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 18.58% of total time (compiled    4 times, average 3.22 sec, max 3.67 sec, min 2.47 sec)
+[2026.05.08-16.14.24:726][ 32]LogShaderCompilers: Display:                                                 FLumenCardCS - 15.90% of total time (compiled    4 times, average 2.76 sec, max 3.10 sec, min 1.96 sec)
+[2026.05.08-16.14.24:726][ 32]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 13.32% of total time (compiled    6 times, average 1.54 sec, max 1.83 sec, min 1.19 sec)
+[2026.05.08-16.14.24:726][ 32]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.63% of total time (compiled    6 times, average 0.88 sec, max 1.45 sec, min 0.67 sec)
+[2026.05.08-16.14.24:726][ 32]LogShaderCompilers: Display:                                                 FLumenCardPS - 5.01% of total time (compiled    6 times, average 0.58 sec, max 0.72 sec, min 0.43 sec)
+[2026.05.08-16.14.24:726][ 32]LogShaderCompilers: Display: === Material stats ===
+[2026.05.08-16.14.24:726][ 32]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.05.08-16.14.24:726][ 32]LogShaderCompilers: Display: Materials Translated:    251
+[2026.05.08-16.14.24:726][ 32]LogShaderCompilers: Display: Material Total Translate Time: 0.22 s
+[2026.05.08-16.14.24:726][ 32]LogShaderCompilers: Display: Material Translation Only: 0.13 s (57%)
+[2026.05.08-16.14.24:726][ 32]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (3%)
+[2026.05.08-16.14.24:726][ 32]LogShaderCompilers: Display: Material Cache Hits: 79 (31%)
+[2026.05.08-16.14.24:726][ 32]LogShaderCompilers: Display: ================================================
+[2026.05.08-16.14.26:166][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.08-16.14.26:166][108]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.05.08-16.14.26:166][108]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.08-16.14.26:167][108]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-16.14.26:174][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-16.14.26:174][108]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.05.08-16.14.26:180][108]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.08-16.14.26:191][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-16.14.26:223][108]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.08-16.14.26:226][108]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2026.05.08-16.14.26:226][108]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=4
+[2026.05.08-16.14.26:227][108]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=2
+[2026.05.08-16.14.26:234][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.08-16.14.26:244][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2026.05.08-16.14.26:330][109]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2026.05.08-16.14.27:792][202]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.08-16.14.27:800][202]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.08-16.14.27:800][202]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.05.08-16.14.27:819][202]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 19.251 ms (total: 287.456 ms)
+[2026.05.08-16.14.27:820][202]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.08-16.14.27:820][202]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.05.08-16.14.27:926][202]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.27:926][202]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.27:926][202]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.27:942][202]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.08-16.14.27:962][202]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 20.075 ms (total: 308.313 ms)
+[2026.05.08-16.14.28:125][202]LogPlayLevel: PIE: StaticDuplicateObject took: (0.305144s)
+[2026.05.08-16.14.28:125][202]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.305185s)
+[2026.05.08-16.14.28:156][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2026.05.08-16.14.28:158][202]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.05.08-16.14.28:160][202]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.08-16.14.28:160][202]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.08-16.14.28:160][202]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.08-16.14.28:160][202]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.08-16.14.28:188][202]LogWorldPartition: Display: WorldPartition initialize took 27.226 ms (total: 3.71 sec)
+[2026.05.08-16.14.28:188][202]LogPlayLevel: PIE: World Init took: (0.029469s)
+[2026.05.08-16.14.28:189][202]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2026.05.08-16.14.28:189][202]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.08-16.14.28:189][202]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.08-16.14.28:189][202]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.08-16.14.28:189][202]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.08-16.14.28:189][202]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.08-16.14.28:189][202]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.08-16.14.28:189][202]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.08-16.14.28:189][202]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.08-16.14.28:189][202]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.08-16.14.28:189][202]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.08-16.14.28:189][202]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.08-16.14.28:192][202]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.08-16.14.28:215][202]LogAudioMixer: Display: Using Audio Hardware Device Headphones (HyperX Cloud III)
+[2026.05.08-16.14.28:216][202]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.08-16.14.28:216][202]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.08-16.14.28:216][202]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.08-16.14.28:216][202]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2026.05.08-16.14.28:216][202]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2026.05.08-16.14.28:219][202]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2026.05.08-16.14.28:219][202]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2026.05.08-16.14.28:219][202]LogInit: FAudioDevice initialized with ID 16.
+[2026.05.08-16.14.28:219][202]LogAudio: Display: Audio Device (ID: 16) registered with world 'Lvl_ThirdPerson'.
+[2026.05.08-16.14.28:219][202]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2026.05.08-16.14.28:223][202]LogLoad: Game class is 'BP_PlatformingGameMode_C'
+[2026.05.08-16.14.28:245][202]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.28:245][202]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.28:245][202]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.28:245][202]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.28:251][202]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.28:251][202]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.28:251][202]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.28:251][202]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.28:251][202]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.28:251][202]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.28:251][202]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.28:251][202]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.28:251][202]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.28:251][202]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.28:251][202]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.28:251][202]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.28:251][202]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.28:251][202]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.28:251][202]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.28:252][202]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.05.08-17.14.28
+[2026.05.08-16.14.28:253][202]LogWorld: Bringing up level for play took: 0.030559
+[2026.05.08-16.14.28:256][202]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2026.05.08-16.14.28:269][202]PIE: Server logged in
+[2026.05.08-16.14.28:271][202]PIE: Play in editor total start time 0.471 seconds.
+[2026.05.08-16.14.28:284][202]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.28:284][202]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.14.28:329][203]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.05.08-16.14.30:571][332]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_6' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.14.30:571][332]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.14.30:571][332]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_5' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.14.30:571][332]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.14.30:571][332]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_4' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.14.30:571][332]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.14.30:571][332]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_3' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.14.30:572][332]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.14.30:572][332]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_1' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.14.30:572][332]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.14.30:572][332]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.14.30:572][332]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.14.34:116][546]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_6' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.14.34:116][546]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.14.34:116][546]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_5' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.14.34:116][546]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.14.34:116][546]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_4' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.14.34:116][546]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.14.34:116][546]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_3' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.14.34:116][546]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.14.34:116][546]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_2' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.14.34:116][546]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.14.34:116][546]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_1' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.14.34:116][546]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.14.41:168][952]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_6' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.14.41:168][952]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.14.41:168][952]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_5' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.14.41:168][952]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.14.41:168][952]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_4' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.14.41:168][952]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.14.41:168][952]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_3' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.14.41:168][952]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.14.41:168][952]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors_1' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.14.41:168][952]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.14.41:168][952]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Variant_Platforming/Blueprints/BP_PlatformingCharacter.BP_PlatformingCharacter_C:ExecuteUbergraph_BP_PlatformingCharacter'!
+[2026.05.08-16.14.41:168][952]LogScript: Warning: Script Msg called by: BP_PlatformingCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_PlatformingCharacter_C_0
+[2026.05.08-16.14.50:177][473]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.08-16.14.50:177][473]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.05.08-16.14.50:177][473]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.08-16.14.50:178][473]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-16.14.50:183][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-16.14.50:183][473]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.05.08-16.14.50:191][473]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.08-16.14.50:202][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-16.14.50:233][473]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.08-16.14.50:237][473]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2026.05.08-16.14.50:237][473]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=4
+[2026.05.08-16.14.50:239][473]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=2
+[2026.05.08-16.14.50:255][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2026.05.08-16.14.50:337][474]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2026.05.08-16.14.55:393][745]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-16.14.55:431][745]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Blueprints/BP_Jump] ([2] browsable assets)...
+[2026.05.08-16.14.55:431][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Blueprints/BP_Jump]
+[2026.05.08-16.14.55:431][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/BP_Jump" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Blueprints/BP_Jump.uasset" SILENT=true
+[2026.05.08-16.14.55:450][745]LogSavePackage: Moving output files for package: /Game/_Blueprints/BP_Jump
+[2026.05.08-16.14.55:451][745]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/BP_Jump3CD25A554B688E554BAF098184B40E6C.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Blueprints/BP_Jump.uasset'
+[2026.05.08-16.14.55:462][745]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.177 ms (total: 1.22 sec)
+[2026.05.08-16.14.55:495][745]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-16.14.55:495][745]LogContentValidation: Enabled validators:
+[2026.05.08-16.14.55:495][745]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-16.14.55:495][745]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-16.14.55:495][745]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-16.14.55:495][745]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-16.14.55:495][745]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-16.14.55:495][745]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-16.14.55:495][745]AssetCheck: /Game/_Blueprints/BP_Jump Validating asset
+[2026.05.08-16.15.26:750][509]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Blueprints/BP_movement.BP_movement
+[2026.05.08-16.15.26:750][509]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2026.05.08-16.15.33:447][772]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.15.33:516][773]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.15.38:024][959]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3150.185059
+[2026.05.08-16.15.38:227][966]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.08-16.15.38:227][966]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3150.361572, Update Interval: 328.197266
+[2026.05.08-16.15.45:169][273]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.15.45:210][274]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.15.55:612][669]LogContentBrowser: Deferred new asset file creation: M_Metal_Burnished_Steel1
+[2026.05.08-16.15.55:656][669]LogContentBrowser: Creating deferred item: M_Metal_Burnished_Steel1
+[2026.05.08-16.15.55:694][670]LogContentBrowser: Renaming the item being created (Deferred Item: M_Metal_Burnished_Steel1).
+[2026.05.08-16.16.04:560][100]LogContentBrowser: Attempting asset rename: M_Metal_Burnished_Steel1 -> MA_metal_Glow
+[2026.05.08-16.16.04:568][100]LogContentBrowser: End creating deferred item M_Metal_Burnished_Steel1
+[2026.05.08-16.16.05:022][114]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.16.05:845][148]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Materials/MA_metal_Glow.MA_metal_Glow
+[2026.05.08-16.16.05:851][148]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2026.05.08-16.16.06:019][148]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.16.06:019][148]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.16.06:019][148]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.16.06:602][148]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.08-16.16.06:602][148]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2026.05.08-16.16.06:602][148]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.08-16.16.06:602][148]MaterialEditorStats: Shader Count: 0
+[2026.05.08-16.16.06:602][148]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.08-16.16.06:747][150]MaterialEditorStats: Base pass shader: 202 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.05.08-16.16.06:747][150]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.08-16.16.06:747][150]MaterialEditorStats: Texture samplers: 4/16
+[2026.05.08-16.16.06:747][150]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2026.05.08-16.16.06:747][150]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.08-16.16.06:747][150]MaterialEditorStats: Shader Count: 5
+[2026.05.08-16.16.06:747][150]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.08-16.16.06:782][151]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.16.12:802][265]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.16.12:802][265]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.16.12:802][265]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.16.12:838][265]LogSlate: Window 'Color Picker' being destroyed
+[2026.05.08-16.16.12:852][265]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.08-16.16.12:852][265]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2026.05.08-16.16.12:852][265]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.08-16.16.12:852][265]MaterialEditorStats: Shader Count: 0
+[2026.05.08-16.16.12:852][265]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.08-16.16.12:876][266]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.16.12:945][269]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.08-16.16.12:945][269]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.08-16.16.12:945][269]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2026.05.08-16.16.12:945][269]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.08-16.16.12:945][269]MaterialEditorStats: Shader Count: 2
+[2026.05.08-16.16.12:945][269]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.08-16.16.13:721][302]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.08-16.16.13:721][302]MaterialEditorStats: Texture samplers: 3/16
+[2026.05.08-16.16.13:721][302]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2026.05.08-16.16.13:721][302]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.08-16.16.13:721][302]MaterialEditorStats: Shader Count: 3
+[2026.05.08-16.16.13:721][302]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.08-16.16.13:916][311]MaterialEditorStats: Base pass shader: 205 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.05.08-16.16.13:917][311]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.08-16.16.13:917][311]MaterialEditorStats: Texture samplers: 4/16
+[2026.05.08-16.16.13:917][311]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2026.05.08-16.16.13:917][311]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.08-16.16.13:917][311]MaterialEditorStats: Shader Count: 4
+[2026.05.08-16.16.13:917][311]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.08-16.16.14:564][341]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.16.14:593][342]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.16.14:620][343]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.16.14:643][344]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.16.14:669][345]LogD3D12RHI: Creating RTPSO with 57 shaders (0 cached, 1 new) took 104.34 ms. Compile time 103.09 ms, link time 1.22 ms.
+[2026.05.08-16.16.18:775][535]LogMaterialEditor: Applying material MA_metal_Glow
+[2026.05.08-16.16.18:847][535]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.16.18:847][535]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.16.18:847][535]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.16.18:890][535]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.16.18:890][535]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.16.18:890][535]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.16.18:890][535]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.16.18:890][535]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.16.18:890][535]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.16.18:890][535]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.16.18:890][535]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.16.18:891][535]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.16.18:891][535]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.16.18:891][535]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.16.18:891][535]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.16.18:891][535]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.16.18:891][535]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.16.18:891][535]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.16.19:006][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2026.05.08-16.16.21:674][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2026.05.08-16.16.21:693][535]MaterialEditorStats: Base pass shader: 205 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.05.08-16.16.21:693][535]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.08-16.16.21:693][535]MaterialEditorStats: Nanite Compute Shader: 868 instructions
+Stats: Resources Used: 12
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.05.08-16.16.21:693][535]MaterialEditorStats: Texture samplers: 4/16
+[2026.05.08-16.16.21:693][535]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2026.05.08-16.16.21:693][535]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.08-16.16.21:693][535]MaterialEditorStats: Shader Count: 19
+[2026.05.08-16.16.21:693][535]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.08-16.16.21:696][535]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.16.21:696][535]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.05.08-16.16.21:717][536]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.16.21:747][537]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.16.25:369][691]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.16.25:404][692]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.16.26:774][738]LogRenderer: Using fallback RTPSO
+[2026.05.08-16.17.06:485][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2026.05.08-16.17.06:510][609]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-16.17.06:549][609]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Blueprints/BP_movement] ([2] browsable assets)...
+[2026.05.08-16.17.06:560][609]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Blueprints/BP_movement.BP_movement]
+[2026.05.08-16.17.06:561][609]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Blueprints/BP_movement]
+[2026.05.08-16.17.06:561][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/BP_movement" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Blueprints/BP_movement.uasset" SILENT=true
+[2026.05.08-16.17.06:577][609]LogSavePackage: Moving output files for package: /Game/_Blueprints/BP_movement
+[2026.05.08-16.17.06:577][609]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/BP_movementF4553DB241B0A9A93358D9819126AE81.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Content/_Blueprints/BP_movement.uasset'
+[2026.05.08-16.17.06:591][609]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.819 ms (total: 1.30 sec)
+[2026.05.08-16.17.06:645][609]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-16.17.06:646][609]LogContentValidation: Enabled validators:
+[2026.05.08-16.17.06:646][609]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-16.17.06:646][609]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-16.17.06:646][609]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-16.17.06:646][609]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-16.17.06:646][609]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-16.17.06:646][609]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-16.17.06:646][609]AssetCheck: /Game/_Blueprints/BP_movement Validating asset
+[2026.05.08-16.17.09:855][753]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-16.17.09:855][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-16.17.09:910][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2026.05.08-16.17.15:332][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2026.05.08-16.17.16:475][  6]LogSlate: Window 'Delete Assets' being destroyed
+[2026.05.08-16.17.19:203][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.05.08-16.17.19:235][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.05.08-16.17.19:266][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.05.08-16.17.24:930][163]LogShaderCompilers: Display: ================================================
+[2026.05.08-16.17.24:930][163]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.05.08-16.17.24:930][163]LogShaderCompilers: Display: Total job queries 1,114, among them cache hits 317 (28.46%), DDC hits 647 (58.08%), Duplicates 87 (7.81%)
+[2026.05.08-16.17.24:930][163]LogShaderCompilers: Display: Tracking 710 distinct input hashes that result in 525 distinct outputs (73.94%)
+[2026.05.08-16.17.24:930][163]LogShaderCompilers: Display: RAM used: 6.23 MiB of 3.20 GiB budget. Usage: 0.19%
+[2026.05.08-16.17.24:930][163]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.05.08-16.17.24:930][163]LogShaderCompilers: Display: Shaders Compiled: 63
+[2026.05.08-16.17.24:930][163]LogShaderCompilers: Display: Jobs assigned 63, completed 63 (100%)
+[2026.05.08-16.17.24:930][163]LogShaderCompilers: Display: Average time worker was idle: 135.82 s
+[2026.05.08-16.17.24:930][163]LogShaderCompilers: Display: Time job spent in pending queue: average 0.13 s, longest 1.99 s
+[2026.05.08-16.17.24:930][163]LogShaderCompilers: Display: Job execution time: average 1.52 s, max 4.01 s
+[2026.05.08-16.17.24:930][163]LogShaderCompilers: Display: Job life time (pending + execution): average 1.65 s, max 5.14
+[2026.05.08-16.17.24:930][163]LogShaderCompilers: Display: Shader code size: total 871.203 KiB, numShaders 69, average 12.626 KiB, min 2.934 KiB, max 32.98 KiB
+[2026.05.08-16.17.24:930][163]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 24.22 s
+[2026.05.08-16.17.24:930][163]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2026.05.08-16.17.24:930][163]LogShaderCompilers: Display: Jobs were issued in 63 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.05.08-16.17.24:930][163]LogShaderCompilers: Display: Average processing rate: 2.60 jobs/sec
+[2026.05.08-16.17.24:930][163]LogShaderCompilers: Display: Total thread time: 84.254 s
+[2026.05.08-16.17.24:930][163]LogShaderCompilers: Display: Total thread preprocess time: 19.663 s
+[2026.05.08-16.17.24:930][163]LogShaderCompilers: Display: Percentage time preprocessing: 23.34%
+[2026.05.08-16.17.24:930][163]LogShaderCompilers: Display: Effective parallelization: 3.48 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.434763
+[2026.05.08-16.17.24:930][163]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.05.08-16.17.24:930][163]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    5 times, average 3.00 sec, max 3.67 sec, min 2.10 sec)
+[2026.05.08-16.17.24:930][163]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    5 times, average 2.55 sec, max 3.10 sec, min 1.70 sec)
+[2026.05.08-16.17.24:930][163]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    2 times, average 2.30 sec, max 2.49 sec, min 2.12 sec)
+[2026.05.08-16.17.24:930][163]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 2.01 sec, max 2.01 sec, min 2.01 sec)
+[2026.05.08-16.17.24:930][163]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    8 times, average 1.51 sec, max 1.83 sec, min 1.19 sec)
+[2026.05.08-16.17.24:930][163]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.05.08-16.17.24:930][163]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 17.79% of total time (compiled    5 times, average 3.00 sec, max 3.67 sec, min 2.10 sec)
+[2026.05.08-16.17.24:930][163]LogShaderCompilers: Display:                                                 FLumenCardCS - 15.11% of total time (compiled    5 times, average 2.55 sec, max 3.10 sec, min 1.70 sec)
+[2026.05.08-16.17.24:930][163]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 14.35% of total time (compiled    8 times, average 1.51 sec, max 1.83 sec, min 1.19 sec)
+[2026.05.08-16.17.24:930][163]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.11% of total time (compiled    7 times, average 0.86 sec, max 1.45 sec, min 0.67 sec)
+[2026.05.08-16.17.24:930][163]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 6.35% of total time (compiled    4 times, average 1.34 sec, max 1.83 sec, min 0.82 sec)
+[2026.05.08-16.17.24:930][163]LogShaderCompilers: Display: === Material stats ===
+[2026.05.08-16.17.24:930][163]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.05.08-16.17.24:930][163]LogShaderCompilers: Display: Materials Translated:    264
+[2026.05.08-16.17.24:930][163]LogShaderCompilers: Display: Material Total Translate Time: 0.23 s
+[2026.05.08-16.17.24:930][163]LogShaderCompilers: Display: Material Translation Only: 0.13 s (57%)
+[2026.05.08-16.17.24:932][163]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (3%)
+[2026.05.08-16.17.24:932][163]LogShaderCompilers: Display: Material Cache Hits: 79 (30%)
+[2026.05.08-16.17.24:932][163]LogShaderCompilers: Display: ================================================
