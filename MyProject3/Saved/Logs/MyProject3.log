@@ -24681,3 +24681,6 @@ Sampler Limit: 32
 [2026.05.08-16.34.31:110][125]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
 [2026.05.08-16.34.31:110][125]LogStaticMesh: Warning: Invalid material [lambert2] used on Nanite static mesh [outthere_reception_desk_sign]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
 [2026.05.08-16.34.31:143][125]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.08-16.40.07:983][323]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4620.142090
+[2026.05.08-16.40.08:983][326]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.08-16.40.08:983][326]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4620.808594, Update Interval: 333.079010
