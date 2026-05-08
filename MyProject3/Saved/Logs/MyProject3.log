@@ -6336,3 +6336,248 @@ Sampler Limit: 32
 [2026.05.08-13.43.11:037][180]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
 [2026.05.08-13.43.11:037][180]LogShaderCompilers: Display: Material Cache Hits: 42 (15%)
 [2026.05.08-13.43.11:037][180]LogShaderCompilers: Display: ================================================
+[2026.05.08-13.43.58:112][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2026.05.08-13.43.58:271][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Lvl_ThirdPerson_Auto9
+[2026.05.08-13.43.58:271][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Lvl_ThirdPerson_Auto9E26B754B429FBDE1156563BA879A2882.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/ThirdPerson/Lvl_ThirdPerson_Auto9.umap'
+[2026.05.08-13.43.58:282][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/L7/9F59FFF6KNEF0BXC1HTA7I_Auto9
+[2026.05.08-13.43.58:283][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/9F59FFF6KNEF0BXC1HTA7I_Auto95B91649740A2100F7BDFF3AB9DB17C61.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/L7/9F59FFF6KNEF0BXC1HTA7I_Auto9.uasset'
+[2026.05.08-13.43.58:291][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/EO/IH69HG057EKFYXAPDP504J_Auto9
+[2026.05.08-13.43.58:291][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/IH69HG057EKFYXAPDP504J_Auto99FB6BE694439F5E3EB8A8DB2F2038EF9.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/EO/IH69HG057EKFYXAPDP504J_Auto9.uasset'
+[2026.05.08-13.43.58:322][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/ND/9ULPE1ZYHEGHC1JGIHWG8A_Auto9
+[2026.05.08-13.43.58:322][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/9ULPE1ZYHEGHC1JGIHWG8A_Auto902847CD641B3B0E9453A93A532215378.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/ND/9ULPE1ZYHEGHC1JGIHWG8A_Auto9.uasset'
+[2026.05.08-13.43.58:329][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/QB/9ILBMB54ZKNAZO7EXIYPSV_Auto9
+[2026.05.08-13.43.58:329][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/9ILBMB54ZKNAZO7EXIYPSV_Auto9998FBB0C4EB67D1751D3B0B51C2E84A0.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/QB/9ILBMB54ZKNAZO7EXIYPSV_Auto9.uasset'
+[2026.05.08-13.43.58:337][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/RX/4RQD7V0ATCR4VLGA3DUQO7_Auto9
+[2026.05.08-13.43.58:337][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/4RQD7V0ATCR4VLGA3DUQO7_Auto96A2AFB1C40828E0B818AD39B13B3B16C.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/RX/4RQD7V0ATCR4VLGA3DUQO7_Auto9.uasset'
+[2026.05.08-13.43.58:345][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/BO/V7G8EWADVQ2HGW7HPUN9ZI_Auto9
+[2026.05.08-13.43.58:345][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/V7G8EWADVQ2HGW7HPUN9ZI_Auto9C2F2508D4E57317D5919E0AE23DCD8E6.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/BO/V7G8EWADVQ2HGW7HPUN9ZI_Auto9.uasset'
+[2026.05.08-13.43.58:352][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/PM/TVERT96JUUPDC0IDVY9OBB_Auto9
+[2026.05.08-13.43.58:352][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/TVERT96JUUPDC0IDVY9OBB_Auto9C3C02BD74F17ADCBCB3CF4B1DA5FC4FC.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/PM/TVERT96JUUPDC0IDVY9OBB_Auto9.uasset'
+[2026.05.08-13.43.58:360][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/FZ/7Q45DZCUE4SGEU9KDCYSOO_Auto9
+[2026.05.08-13.43.58:360][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/7Q45DZCUE4SGEU9KDCYSOO_Auto9B83639EB4A530D1EA5331291049C2538.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/FZ/7Q45DZCUE4SGEU9KDCYSOO_Auto9.uasset'
+[2026.05.08-13.43.58:367][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/MA/HEPDXF5T4FL0OE34EA265R_Auto9
+[2026.05.08-13.43.58:367][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/HEPDXF5T4FL0OE34EA265R_Auto9C2113E89416B47F0C95F968989E8C49A.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/MA/HEPDXF5T4FL0OE34EA265R_Auto9.uasset'
+[2026.05.08-13.43.58:375][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/NX/46VUKLIPO7WWRAKCG1ZP52_Auto9
+[2026.05.08-13.43.58:375][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/46VUKLIPO7WWRAKCG1ZP52_Auto9EE6707C34A3BB0E8350464B59F804C8B.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/NX/46VUKLIPO7WWRAKCG1ZP52_Auto9.uasset'
+[2026.05.08-13.43.58:382][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/GD/L9HHUS76XMUQDWLNAP98PX_Auto9
+[2026.05.08-13.43.58:382][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/L9HHUS76XMUQDWLNAP98PX_Auto9E9A6B05A41A2780F02B946AEAA342E74.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/GD/L9HHUS76XMUQDWLNAP98PX_Auto9.uasset'
+[2026.05.08-13.43.58:389][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/V4/AN3TGTJNLHYRGXAFIK19PR_Auto9
+[2026.05.08-13.43.58:389][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/AN3TGTJNLHYRGXAFIK19PR_Auto909FB87314C3A428C24491286712E9369.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/V4/AN3TGTJNLHYRGXAFIK19PR_Auto9.uasset'
+[2026.05.08-13.43.58:396][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/0I/DHDH3FBQNCT27FU1SLP2A4_Auto9
+[2026.05.08-13.43.58:396][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/DHDH3FBQNCT27FU1SLP2A4_Auto9F855B0F7445D2DAF233F95A03AEDE86F.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/0I/DHDH3FBQNCT27FU1SLP2A4_Auto9.uasset'
+[2026.05.08-13.43.58:403][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/HM/SXQP0YA810ZRVVRK8N1I55_Auto9
+[2026.05.08-13.43.58:403][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/SXQP0YA810ZRVVRK8N1I55_Auto9701FD87F46DF1F1DFD3DD182262B24D0.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/HM/SXQP0YA810ZRVVRK8N1I55_Auto9.uasset'
+[2026.05.08-13.43.58:410][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/1K/HDBGNXE3MEVC5X678HKRBS_Auto9
+[2026.05.08-13.43.58:410][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/HDBGNXE3MEVC5X678HKRBS_Auto960297BB94F1A50DE440C51AFA945F082.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/1K/HDBGNXE3MEVC5X678HKRBS_Auto9.uasset'
+[2026.05.08-13.43.58:429][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/3E/YJC7LTI09P7VWNDELZ6KKJ_Auto9
+[2026.05.08-13.43.58:429][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/YJC7LTI09P7VWNDELZ6KKJ_Auto9DD991FA4440CAA910AFAC7B3D2788B90.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/3E/YJC7LTI09P7VWNDELZ6KKJ_Auto9.uasset'
+[2026.05.08-13.43.58:437][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/O9/8MIZ24TBVA2BHU0PNGXHKY_Auto9
+[2026.05.08-13.43.58:437][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/8MIZ24TBVA2BHU0PNGXHKY_Auto9B8E60E994DB11D240D9357A0109292C3.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/O9/8MIZ24TBVA2BHU0PNGXHKY_Auto9.uasset'
+[2026.05.08-13.43.58:483][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/9Q/D5WDDKQS185OCBNWPKGUAY_Auto9
+[2026.05.08-13.43.58:483][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/D5WDDKQS185OCBNWPKGUAY_Auto9EEAEBAC748B291485E45198D78BCB5B2.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/9Q/D5WDDKQS185OCBNWPKGUAY_Auto9.uasset'
+[2026.05.08-13.43.58:492][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/O2/W7MBLKZHZEB1ZDCWS2UJLL_Auto9
+[2026.05.08-13.43.58:493][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/W7MBLKZHZEB1ZDCWS2UJLL_Auto90D9EEE45475606E56E00A2B727C72B28.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/O2/W7MBLKZHZEB1ZDCWS2UJLL_Auto9.uasset'
+[2026.05.08-13.43.58:500][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/6Q/U9QVFA022FC3PK6RQ0WSV9_Auto9
+[2026.05.08-13.43.58:500][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/U9QVFA022FC3PK6RQ0WSV9_Auto9339BBCC347D8E9D059B6F59075E8BDF4.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/6Q/U9QVFA022FC3PK6RQ0WSV9_Auto9.uasset'
+[2026.05.08-13.43.58:507][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/M8/BK14GF950MV79S63PTVA6P_Auto9
+[2026.05.08-13.43.58:507][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/BK14GF950MV79S63PTVA6P_Auto93BF7A595488173F4EB32B4AAD1CCC7AA.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/M8/BK14GF950MV79S63PTVA6P_Auto9.uasset'
+[2026.05.08-13.43.58:515][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/HB/X9SLIH1L6REL0YGYPX8M4N_Auto9
+[2026.05.08-13.43.58:515][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/X9SLIH1L6REL0YGYPX8M4N_Auto9051808CF45D1DEE2B3F88694AE50D2F5.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/HB/X9SLIH1L6REL0YGYPX8M4N_Auto9.uasset'
+[2026.05.08-13.43.58:523][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/T3/C2FLD4RR23YGR3KGSWHZ97_Auto9
+[2026.05.08-13.43.58:523][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/C2FLD4RR23YGR3KGSWHZ97_Auto96824CA884999A86E19E574B30F681088.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/T3/C2FLD4RR23YGR3KGSWHZ97_Auto9.uasset'
+[2026.05.08-13.43.58:531][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/XD/TCYWZ1JMHTWSUTRSEN2R4F_Auto9
+[2026.05.08-13.43.58:531][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/TCYWZ1JMHTWSUTRSEN2R4F_Auto90FD79F4E487627FF69E5B68D80821CBD.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/XD/TCYWZ1JMHTWSUTRSEN2R4F_Auto9.uasset'
+[2026.05.08-13.43.58:538][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/TX/TC1X4BW62TVVKB7GLNHWZC_Auto9
+[2026.05.08-13.43.58:539][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/TC1X4BW62TVVKB7GLNHWZC_Auto974870ED9405A9A719FE27EB6ADC3499F.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/TX/TC1X4BW62TVVKB7GLNHWZC_Auto9.uasset'
+[2026.05.08-13.43.58:545][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/TZ/SPVYLAR17ZBJY7V57U9A9A_Auto9
+[2026.05.08-13.43.58:545][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/SPVYLAR17ZBJY7V57U9A9A_Auto95CD00CB44338C744D0A7E78338DCB8D5.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/TZ/SPVYLAR17ZBJY7V57U9A9A_Auto9.uasset'
+[2026.05.08-13.43.58:552][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/LD/WQQ6YJ3VS5XM9C8514C6E0_Auto9
+[2026.05.08-13.43.58:552][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/WQQ6YJ3VS5XM9C8514C6E0_Auto93BA0C3214F8FEBC763C4A7B89C3AE67B.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/LD/WQQ6YJ3VS5XM9C8514C6E0_Auto9.uasset'
+[2026.05.08-13.43.58:560][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/KK/I4TZQJGJWGO3AOCK8RSG00_Auto9
+[2026.05.08-13.43.58:560][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/I4TZQJGJWGO3AOCK8RSG00_Auto9B2D79ADF4208F7F306F179B70B3A785C.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/KK/I4TZQJGJWGO3AOCK8RSG00_Auto9.uasset'
+[2026.05.08-13.43.58:567][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/JT/A9OPPAZWEQ982CKLQSMI21_Auto9
+[2026.05.08-13.43.58:567][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/A9OPPAZWEQ982CKLQSMI21_Auto9A76D1BC4422DFA33D9C6CD8FC6AA4ED8.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/JT/A9OPPAZWEQ982CKLQSMI21_Auto9.uasset'
+[2026.05.08-13.43.58:568][321]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.486
+[2026.05.08-13.43.58:568][321]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.486
+[2026.05.08-13.43.58:568][321]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Hospital_test_models/sillaHospital] ([1] browsable assets)...
+[2026.05.08-13.43.58:686][321]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_Hospital_test_models/sillaHospital.sillaHospital]
+[2026.05.08-13.43.58:686][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Hospital_test_models/sillaHospital]
+[2026.05.08-13.43.58:739][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Hospital_test_models/sillaHospital_Auto9
+[2026.05.08-13.43.58:739][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/sillaHospital_Auto99D1A1C7A413002CB4A291FAA676D1C10.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Hospital_test_models/sillaHospital_Auto9.uasset'
+[2026.05.08-13.43.58:740][321]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_testmodels/Material_002] ([1] browsable assets)...
+[2026.05.08-13.43.58:760][321]OBJ SavePackage:     Rendered thumbnail for [Material /Game/_testmodels/Material_002.Material_002]
+[2026.05.08-13.43.58:760][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/_testmodels/Material_002]
+[2026.05.08-13.43.58:792][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_testmodels/Material_002_Auto9
+[2026.05.08-13.43.58:792][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Material_002_Auto981D60BCF4FEA0078D6648DBFEC64B682.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_testmodels/Material_002_Auto9.uasset'
+[2026.05.08-13.43.58:794][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Hospital_test_models/HospitalBed] ([1] browsable assets)...
+[2026.05.08-13.43.58:794][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Hospital_test_models/HospitalBed]
+[2026.05.08-13.43.58:821][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Hospital_test_models/HospitalBed_Auto9
+[2026.05.08-13.43.58:821][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/HospitalBed_Auto9A9D7FACD45D6D03943E3B7A27BF4C7FC.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Hospital_test_models/HospitalBed_Auto9.uasset'
+[2026.05.08-13.43.58:822][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Materials/_Jumpscare_test/91769719a3d8e79463569daf8e8f3e0c] ([1] browsable assets)...
+[2026.05.08-13.43.58:822][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/_Jumpscare_test/91769719a3d8e79463569daf8e8f3e0c]
+[2026.05.08-13.43.58:831][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Materials/_Jumpscare_test/91769719a3d8e79463569daf8e8f3e0c_Auto9
+[2026.05.08-13.43.58:831][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/91769719a3d8e79463569daf8e8f3e0c71B8E0EE445DE7B9060CB1882C94B1EF.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Materials/_Jumpscare_test/91769719a3d8e79463569daf8e8f3e0c_Auto9.uasset'
+[2026.05.08-13.43.58:832][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Materials/_Jumpscare_test/91769719a3d8e79463569daf8e8f3e0c_Mat] ([1] browsable assets)...
+[2026.05.08-13.43.58:832][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/_Jumpscare_test/91769719a3d8e79463569daf8e8f3e0c_Mat]
+[2026.05.08-13.43.58:839][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Materials/_Jumpscare_test/91769719a3d8e79463569daf8e8f3e0c_Mat_Auto9
+[2026.05.08-13.43.58:839][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/91769719a3d8e79463569daf8e8f3e0c39AD4C94415A9931B0CAAF85DD18F94A.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Materials/_Jumpscare_test/91769719a3d8e79463569daf8e8f3e0c_Mat_Auto9.uasset'
+[2026.05.08-13.43.58:840][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Materials/_Jumpscare_test/Face2] ([1] browsable assets)...
+[2026.05.08-13.43.58:840][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/_Jumpscare_test/Face2]
+[2026.05.08-13.43.58:846][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Materials/_Jumpscare_test/Face2_Auto9
+[2026.05.08-13.43.58:846][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Face2_Auto9889A05A042CC261F5EBB49BE86F134A3.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Materials/_Jumpscare_test/Face2_Auto9.uasset'
+[2026.05.08-13.43.58:848][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Materials/_Jumpscare_test/Face2_Mat] ([1] browsable assets)...
+[2026.05.08-13.43.58:848][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Materials/_Jumpscare_test/Face2_Mat]
+[2026.05.08-13.43.58:855][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Materials/_Jumpscare_test/Face2_Mat_Auto9
+[2026.05.08-13.43.58:855][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Face2_Mat_Auto970DF44D34A5473661F667AAC5E7939D3.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Materials/_Jumpscare_test/Face2_Mat_Auto9.uasset'
+[2026.05.08-13.43.58:856][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Hospital_test_models/Hospital_Trolley_Trolley_BaseColor] ([1] browsable assets)...
+[2026.05.08-13.43.58:856][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Hospital_test_models/Hospital_Trolley_Trolley_BaseColor]
+[2026.05.08-13.43.58:873][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Hospital_test_models/Hospital_Trolley_Trolley_BaseColor_Auto9
+[2026.05.08-13.43.58:873][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Hospital_Trolley_Trolley_BaseCol9F452F144CE3D430B89326B8B1077AA0.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Hospital_test_models/Hospital_Trolley_Trolley_BaseColor_Auto9.uasset'
+[2026.05.08-13.43.58:874][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Hospital_test_models/Hospital_Trolley_Trolley_Metallic] ([1] browsable assets)...
+[2026.05.08-13.43.58:874][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Hospital_test_models/Hospital_Trolley_Trolley_Metallic]
+[2026.05.08-13.43.58:884][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Hospital_test_models/Hospital_Trolley_Trolley_Metallic_Auto9
+[2026.05.08-13.43.58:884][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Hospital_Trolley_Trolley_Metalli56A7556C4244413EFE0D2D9ACC1B3C68.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Hospital_test_models/Hospital_Trolley_Trolley_Metallic_Auto9.uasset'
+[2026.05.08-13.43.58:885][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Hospital_test_models/Hospital_Trolley_Trolley_Normal] ([1] browsable assets)...
+[2026.05.08-13.43.58:885][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Hospital_test_models/Hospital_Trolley_Trolley_Normal]
+[2026.05.08-13.43.58:904][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Hospital_test_models/Hospital_Trolley_Trolley_Normal_Auto9
+[2026.05.08-13.43.58:904][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Hospital_Trolley_Trolley_Normal_1C4AEDC74952182C675B81BF4EC78487.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Hospital_test_models/Hospital_Trolley_Trolley_Normal_Auto9.uasset'
+[2026.05.08-13.43.58:905][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Hospital_test_models/Hospital_Trolley_Trolley_Roughness] ([1] browsable assets)...
+[2026.05.08-13.43.58:905][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Hospital_test_models/Hospital_Trolley_Trolley_Roughness]
+[2026.05.08-13.43.58:915][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Hospital_test_models/Hospital_Trolley_Trolley_Roughness_Auto9
+[2026.05.08-13.43.58:915][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Hospital_Trolley_Trolley_Roughne228AE8CA4B4F0D6194977291E5DA7A0E.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Hospital_test_models/Hospital_Trolley_Trolley_Roughness_Auto9.uasset'
+[2026.05.08-13.43.58:916][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Hospital_test_models/Trolley] ([1] browsable assets)...
+[2026.05.08-13.43.58:916][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Hospital_test_models/Trolley]
+[2026.05.08-13.43.58:925][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Hospital_test_models/Trolley_Auto9
+[2026.05.08-13.43.58:925][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Trolley_Auto9FD0A20674ACB9DBB9957F7B9C399DCBF.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Hospital_test_models/Trolley_Auto9.uasset'
+[2026.05.08-13.43.58:926][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Hospital_test_models/Trolley1] ([1] browsable assets)...
+[2026.05.08-13.43.58:926][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Hospital_test_models/Trolley1]
+[2026.05.08-13.43.58:937][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Hospital_test_models/Trolley1_Auto9
+[2026.05.08-13.43.58:937][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Trolley1_Auto9229FFCC248939CBF71323F918C040E4E.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Hospital_test_models/Trolley1_Auto9.uasset'
+[2026.05.08-13.43.58:939][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IdaFaber/Materials/Other/M_Metal] ([1] browsable assets)...
+[2026.05.08-13.43.58:939][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/IdaFaber/Materials/Other/M_Metal]
+[2026.05.08-13.43.58:947][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/IdaFaber/Materials/Other/M_Metal_Auto9
+[2026.05.08-13.43.58:947][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/M_Metal_Auto9B089F3644B860DCB3B9437A3B605E10D.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/IdaFaber/Materials/Other/M_Metal_Auto9.uasset'
+[2026.05.08-13.43.58:948][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Audio/ptl_joe-80s-scream-255968] ([1] browsable assets)...
+[2026.05.08-13.43.58:948][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Audio/ptl_joe-80s-scream-255968]
+[2026.05.08-13.43.58:956][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Audio/ptl_joe-80s-scream-255968_Auto9
+[2026.05.08-13.43.58:956][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/ptl_joe-80s-scream-255968_Auto9990C907040B257D396EF0CBB715784E6.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Audio/ptl_joe-80s-scream-255968_Auto9.uasset'
+[2026.05.08-13.43.58:957][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Audio/freesound_community-cartoon-scream-1-6835] ([1] browsable assets)...
+[2026.05.08-13.43.58:957][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Audio/freesound_community-cartoon-scream-1-6835]
+[2026.05.08-13.43.58:965][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Audio/freesound_community-cartoon-scream-1-6835_Auto9
+[2026.05.08-13.43.58:965][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/freesound_community-cartoon-scre87A38FCC43E03BC336FEDE836DBC90C8.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Audio/freesound_community-cartoon-scream-1-6835_Auto9.uasset'
+[2026.05.08-13.43.58:966][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Hospital_test_models/bed] ([1] browsable assets)...
+[2026.05.08-13.43.58:966][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Hospital_test_models/bed]
+[2026.05.08-13.43.58:972][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Hospital_test_models/bed_Auto9
+[2026.05.08-13.43.58:972][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/bed_Auto9AB984A5A498B277AEEA041BAF5CD9B1C.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Hospital_test_models/bed_Auto9.uasset'
+[2026.05.08-13.43.58:973][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Hospital_test_models/lagen] ([1] browsable assets)...
+[2026.05.08-13.43.58:973][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Hospital_test_models/lagen]
+[2026.05.08-13.43.58:981][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Hospital_test_models/lagen_Auto9
+[2026.05.08-13.43.58:981][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/lagen_Auto900A43D76433CA6C2725723A665B99753.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Hospital_test_models/lagen_Auto9.uasset'
+[2026.05.08-13.43.58:982][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Hospital_test_models/pillow] ([1] browsable assets)...
+[2026.05.08-13.43.58:982][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Hospital_test_models/pillow]
+[2026.05.08-13.43.58:987][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Hospital_test_models/pillow_Auto9
+[2026.05.08-13.43.58:987][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/pillow_Auto93E22933E40FAFAC03A624B9E793131AE.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Hospital_test_models/pillow_Auto9.uasset'
+[2026.05.08-13.43.58:990][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Hospital_test_models/bedwhole_fbx] ([1] browsable assets)...
+[2026.05.08-13.43.58:990][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Hospital_test_models/bedwhole_fbx]
+[2026.05.08-13.43.59:000][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Hospital_test_models/bedwhole_fbx_Auto9
+[2026.05.08-13.43.59:000][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/bedwhole_fbx_Auto9D4997C46411465006F19ECA96717BCDB.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Hospital_test_models/bedwhole_fbx_Auto9.uasset'
+[2026.05.08-13.43.59:002][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Hospital_test_models/BaseMaterial_Albedo] ([1] browsable assets)...
+[2026.05.08-13.43.59:002][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Hospital_test_models/BaseMaterial_Albedo]
+[2026.05.08-13.43.59:404][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Hospital_test_models/BaseMaterial_Albedo_Auto9
+[2026.05.08-13.43.59:404][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/BaseMaterial_Albedo_Auto992DD8AD7473E441191BE16B1079B9BEF.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Hospital_test_models/BaseMaterial_Albedo_Auto9.uasset'
+[2026.05.08-13.43.59:405][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Hospital_test_models/BaseMaterial_AO] ([1] browsable assets)...
+[2026.05.08-13.43.59:405][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Hospital_test_models/BaseMaterial_AO]
+[2026.05.08-13.43.59:415][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Hospital_test_models/BaseMaterial_AO_Auto9
+[2026.05.08-13.43.59:415][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/BaseMaterial_AO_Auto944B65C2844EF5F881E9CE49632E9806B.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Hospital_test_models/BaseMaterial_AO_Auto9.uasset'
+[2026.05.08-13.43.59:416][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Hospital_test_models/BaseMaterial_Metallic] ([1] browsable assets)...
+[2026.05.08-13.43.59:416][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Hospital_test_models/BaseMaterial_Metallic]
+[2026.05.08-13.44.00:077][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Hospital_test_models/BaseMaterial_Metallic_Auto9
+[2026.05.08-13.44.00:077][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/BaseMaterial_Metallic_Auto9C144178040AB76211F5C73BF083CCA4E.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Hospital_test_models/BaseMaterial_Metallic_Auto9.uasset'
+[2026.05.08-13.44.00:078][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Hospital_test_models/BaseMaterial_Normal] ([1] browsable assets)...
+[2026.05.08-13.44.00:078][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Hospital_test_models/BaseMaterial_Normal]
+[2026.05.08-13.44.00:095][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Hospital_test_models/BaseMaterial_Normal_Auto9
+[2026.05.08-13.44.00:095][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/BaseMaterial_Normal_Auto99C3D536D431E97B40EDBCDAE34471689.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Hospital_test_models/BaseMaterial_Normal_Auto9.uasset'
+[2026.05.08-13.44.00:096][321]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Hospital_test_models/NewMaterial] ([1] browsable assets)...
+[2026.05.08-13.44.00:113][321]OBJ SavePackage:     Rendered thumbnail for [Material /Game/_Hospital_test_models/NewMaterial.NewMaterial]
+[2026.05.08-13.44.00:113][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Hospital_test_models/NewMaterial]
+[2026.05.08-13.44.00:122][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Hospital_test_models/NewMaterial_Auto9
+[2026.05.08-13.44.00:122][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/NewMaterial_Auto90C1F50D3443EA4044EFD23B9F49F6F42.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Hospital_test_models/NewMaterial_Auto9.uasset'
+[2026.05.08-13.44.00:123][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Hospital_test_models/BaseMaterial_Albedo_Mat] ([1] browsable assets)...
+[2026.05.08-13.44.00:123][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Hospital_test_models/BaseMaterial_Albedo_Mat]
+[2026.05.08-13.44.00:130][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Hospital_test_models/BaseMaterial_Albedo_Mat_Auto9
+[2026.05.08-13.44.00:130][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/BaseMaterial_Albedo_Mat_Auto96D9EB21B4CA33DFF3F52B1881FF2D20A.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Hospital_test_models/BaseMaterial_Albedo_Mat_Auto9.uasset'
+[2026.05.08-13.44.00:132][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Hospital_test_models/BaseMaterial_AO_Mat] ([1] browsable assets)...
+[2026.05.08-13.44.00:132][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Hospital_test_models/BaseMaterial_AO_Mat]
+[2026.05.08-13.44.00:137][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Hospital_test_models/BaseMaterial_AO_Mat_Auto9
+[2026.05.08-13.44.00:137][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/BaseMaterial_AO_Mat_Auto919C3ADB64FBD9BD9AF9A4ABC6EA530C8.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Hospital_test_models/BaseMaterial_AO_Mat_Auto9.uasset'
+[2026.05.08-13.44.00:139][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Hospital_test_models/Hospital_Trolley_Trolley_BaseColor_Mat] ([1] browsable assets)...
+[2026.05.08-13.44.00:139][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Hospital_test_models/Hospital_Trolley_Trolley_BaseColor_Mat]
+[2026.05.08-13.44.00:146][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Hospital_test_models/Hospital_Trolley_Trolley_BaseColor_Mat_Auto9
+[2026.05.08-13.44.00:146][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Hospital_Trolley_Trolley_BaseCol120FD15A41F2DC91AA452ABFD5E48FAC.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Hospital_test_models/Hospital_Trolley_Trolley_BaseColor_Mat_Auto9.uasset'
+[2026.05.08-13.44.00:147][321]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Hospital_test_models/gret] ([1] browsable assets)...
+[2026.05.08-13.44.00:164][321]OBJ SavePackage:     Rendered thumbnail for [Material /Game/_Hospital_test_models/gret.gret]
+[2026.05.08-13.44.00:164][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Hospital_test_models/gret]
+[2026.05.08-13.44.00:172][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Hospital_test_models/gret_Auto9
+[2026.05.08-13.44.00:172][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/gret_Auto9444D05424D14A55240357AB9C9397B92.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Hospital_test_models/gret_Auto9.uasset'
+[2026.05.08-13.44.00:173][321]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Hospital_test_models/Colchao] ([1] browsable assets)...
+[2026.05.08-13.44.00:190][321]OBJ SavePackage:     Rendered thumbnail for [Material /Game/_Hospital_test_models/Colchao.Colchao]
+[2026.05.08-13.44.00:190][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Hospital_test_models/Colchao]
+[2026.05.08-13.44.00:200][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Hospital_test_models/Colchao_Auto9
+[2026.05.08-13.44.00:200][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Colchao_Auto9268810CC4345C66DB1D02BA858CD1F50.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Hospital_test_models/Colchao_Auto9.uasset'
+[2026.05.08-13.44.00:201][321]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Hospital_test_models/Lencol] ([1] browsable assets)...
+[2026.05.08-13.44.00:218][321]OBJ SavePackage:     Rendered thumbnail for [Material /Game/_Hospital_test_models/Lencol.Lencol]
+[2026.05.08-13.44.00:218][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Hospital_test_models/Lencol]
+[2026.05.08-13.44.00:227][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Hospital_test_models/Lencol_Auto9
+[2026.05.08-13.44.00:227][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Lencol_Auto9F75EAB39429B299E6380A6AA725DCF36.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Hospital_test_models/Lencol_Auto9.uasset'
+[2026.05.08-13.44.00:227][321]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Hospital_test_models/MetalBranco] ([1] browsable assets)...
+[2026.05.08-13.44.00:245][321]OBJ SavePackage:     Rendered thumbnail for [Material /Game/_Hospital_test_models/MetalBranco.MetalBranco]
+[2026.05.08-13.44.00:245][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Hospital_test_models/MetalBranco]
+[2026.05.08-13.44.00:254][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Hospital_test_models/MetalBranco_Auto9
+[2026.05.08-13.44.00:254][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/MetalBranco_Auto93F6E3F7E43948D6A49F8219AE3D88445.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Hospital_test_models/MetalBranco_Auto9.uasset'
+[2026.05.08-13.44.00:255][321]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Hospital_test_models/Material_001] ([1] browsable assets)...
+[2026.05.08-13.44.00:273][321]OBJ SavePackage:     Rendered thumbnail for [Material /Game/_Hospital_test_models/Material_001.Material_001]
+[2026.05.08-13.44.00:273][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Hospital_test_models/Material_001]
+[2026.05.08-13.44.00:282][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Hospital_test_models/Material_001_Auto9
+[2026.05.08-13.44.00:282][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Material_001_Auto9501E42584543A8F9C7A34B99B9B37CD9.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Hospital_test_models/Material_001_Auto9.uasset'
+[2026.05.08-13.44.00:283][321]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Hospital_test_models/MacaTriangulate] ([1] browsable assets)...
+[2026.05.08-13.44.00:309][321]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_Hospital_test_models/MacaTriangulate.MacaTriangulate]
+[2026.05.08-13.44.00:309][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Hospital_test_models/MacaTriangulate]
+[2026.05.08-13.44.00:320][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Hospital_test_models/MacaTriangulate_Auto9
+[2026.05.08-13.44.00:320][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/MacaTriangulate_Auto9291647F8438694A4601F4F83123E1DF2.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Hospital_test_models/MacaTriangulate_Auto9.uasset'
+[2026.05.08-13.44.00:321][321]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/M_Metal_Brushed_Nickel] ([1] browsable assets)...
+[2026.05.08-13.44.00:338][321]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/M_Metal_Brushed_Nickel.M_Metal_Brushed_Nickel]
+[2026.05.08-13.44.00:338][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Metal_Brushed_Nickel]
+[2026.05.08-13.44.00:347][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Materials/M_Metal_Brushed_Nickel_Auto9
+[2026.05.08-13.44.00:347][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/M_Metal_Brushed_Nickel_Auto95AC478CB44DBAD0B6D203FAC211959BB.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/StarterContent/Materials/M_Metal_Brushed_Nickel_Auto9.uasset'
+[2026.05.08-13.44.00:348][321]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Hospital_test_models/Material] ([1] browsable assets)...
+[2026.05.08-13.44.00:365][321]OBJ SavePackage:     Rendered thumbnail for [Material /Game/_Hospital_test_models/Material.Material]
+[2026.05.08-13.44.00:365][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Hospital_test_models/Material]
+[2026.05.08-13.44.00:373][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Hospital_test_models/Material_Auto9
+[2026.05.08-13.44.00:373][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Material_Auto93DE8BE994B605E4FAF5BF69A8BC802C4.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_Hospital_test_models/Material_Auto9.uasset'
+[2026.05.08-13.44.00:374][321]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_testmodels/Material] ([1] browsable assets)...
+[2026.05.08-13.44.00:391][321]OBJ SavePackage:     Rendered thumbnail for [Material /Game/_testmodels/Material.Material]
+[2026.05.08-13.44.00:391][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/_testmodels/Material]
+[2026.05.08-13.44.00:391][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_testmodels/Material" FILE="D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_testmodels/Material_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2026.05.08-13.44.00:400][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_testmodels/Material_Auto9
+[2026.05.08-13.44.00:400][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Material_Auto9AE2151C44B2599CC1BEEF9AA45768332.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_testmodels/Material_Auto9.uasset'
+[2026.05.08-13.44.00:400][321]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_testmodels/sillaHospital] ([1] browsable assets)...
+[2026.05.08-13.44.00:423][321]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_testmodels/sillaHospital.sillaHospital]
+[2026.05.08-13.44.00:423][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/_testmodels/sillaHospital]
+[2026.05.08-13.44.00:458][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_testmodels/sillaHospital_Auto9
+[2026.05.08-13.44.00:458][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/sillaHospital_Auto9AAAB07B8450CEB4CFC8ECB95B5367B14.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_testmodels/sillaHospital_Auto9.uasset'
+[2026.05.08-13.44.00:458][321]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_testmodels/Material_003] ([1] browsable assets)...
+[2026.05.08-13.44.00:476][321]OBJ SavePackage:     Rendered thumbnail for [Material /Game/_testmodels/Material_003.Material_003]
+[2026.05.08-13.44.00:476][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/_testmodels/Material_003]
+[2026.05.08-13.44.00:486][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_testmodels/Material_003_Auto9
+[2026.05.08-13.44.00:486][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Material_003_Auto931F5643E45F2C3F83823178F7622CFC7.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_testmodels/Material_003_Auto9.uasset'
+[2026.05.08-13.44.00:487][321]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_testmodels/Table_Texture] ([1] browsable assets)...
+[2026.05.08-13.44.00:491][321]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/_testmodels/Table_Texture.Table_Texture]
+[2026.05.08-13.44.00:491][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/_testmodels/Table_Texture]
+[2026.05.08-13.44.00:792][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_testmodels/Table_Texture_Auto9
+[2026.05.08-13.44.00:792][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Table_Texture_Auto96DCBE5EE418D50E990525B9C132B1E05.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_testmodels/Table_Texture_Auto9.uasset'
+[2026.05.08-13.44.00:793][321]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_testmodels/Folding_Table] ([1] browsable assets)...
+[2026.05.08-13.44.00:817][321]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_testmodels/Folding_Table.Folding_Table]
+[2026.05.08-13.44.00:817][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/_testmodels/Folding_Table]
+[2026.05.08-13.44.00:829][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_testmodels/Folding_Table_Auto9
+[2026.05.08-13.44.00:829][321]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Folding_Table_Auto99CE83FA94297FDC027F88895E8115ECA.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/_testmodels/Folding_Table_Auto9.uasset'
+[2026.05.08-13.44.00:830][321]LogFileHelpers: Auto-saving content packages took 2.262
