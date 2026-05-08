@@ -2415,3 +2415,392 @@ FPackageName: Skipped package /Engine/EngineMeshes/Humanoid has a valid, mounted
 [2026.05.08-10.56.16:807][256]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1668.281006
 [2026.05.08-10.56.17:807][259]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.05.08-10.56.17:807][259]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1668.948120, Update Interval: 338.706024
+[2026.05.08-11.01.28:652][705]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.05.08-11.01.28:662][705]LogContentBrowser: Creating deferred item: NewFolder
+[2026.05.08-11.01.28:680][706]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.05.08-11.01.45:222][143]LogContentBrowser: Attempting asset rename: NewFolder -> _hosptial_model_test
+[2026.05.08-11.01.45:223][143]LogContentBrowser: End creating deferred item NewFolder
+[2026.05.08-11.01.50:966][497]LogStreaming: Display: FlushAsyncLoading(732): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.01.51:407][497]LogAssetTools: Warning: Failed to import 'C:\Users\Corey\Downloads\hospital-stuff\source\hospital_orginal.rar'. Unknown extension 'rar'.
+[2026.05.08-11.02.08:501][778]LogStreaming: Display: FlushAsyncLoading(760): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.02.08:558][778]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Corey/Downloads/hospital-stuff/source/hospital_orginal/hospital_orginal.fbx]
+[2026.05.08-11.02.49:013][778]LogSlate: Window 'Import Content' being destroyed
+[2026.05.08-11.02.49:031][778]LogInterchangeEngine: [Pending] Importing
+[2026.05.08-11.02.49:194][780]LogStreaming: Display: FlushAsyncLoading(765): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.02.50:144][795]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2061.615723
+[2026.05.08-11.02.50:397][800]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.08-11.02.50:397][800]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2061.810791, Update Interval: 302.298035
+[2026.05.08-11.02.57:735][913]LogStreaming: Display: FlushAsyncLoading(770): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.03.36:496][444]LogStreaming: Display: FlushAsyncLoading(771): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.03.36:541][445]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/_hosptial_model_test/hospital_orginal_Anim.hospital_orginal_Anim (Required Memory Estimate: 0.33 MB)
+[2026.05.08-11.03.36:729][445]LogSkeletalMesh: Building Skeletal Mesh hospital_orginal...
+[2026.05.08-11.03.38:022][515]LogAnimationCompression: Display: Storing compressed animation data for /Game/_hosptial_model_test/hospital_orginal_Anim.hospital_orginal_Anim, at AnimationSequence/9fe6338792dda6c5b9a9fc7bf6764f0d532b926a
+[2026.05.08-11.03.40:770][680]LogSkeletalMesh: Display: /Game/_hosptial_model_test/hospital_orginal.hospital_orginal ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2026.05.08-11.03.41:187][700]LogRenderer: Using fallback RTPSO
+[2026.05.08-11.03.41:298][702]LogD3D12RHI: Creating RTPSO with 42 shaders (0 cached, 2 new) took 110.99 ms. Compile time 110.15 ms, link time 0.81 ms.
+[2026.05.08-11.03.41:352][702]LogRenderer: Using fallback RTPSO
+[2026.05.08-11.03.41:363][702]LogRenderer: Using fallback RTPSO
+[2026.05.08-11.03.41:385][703]LogRenderer: Using fallback RTPSO
+[2026.05.08-11.03.41:402][704]LogRenderer: Using fallback RTPSO
+[2026.05.08-11.03.41:424][705]LogRenderer: Using fallback RTPSO
+[2026.05.08-11.03.41:441][706]LogRenderer: Using fallback RTPSO
+[2026.05.08-11.03.41:452][707]LogD3D12RHI: Creating RTPSO with 43 shaders (2 cached, 1 new) took 101.22 ms. Compile time 100.29 ms, link time 0.90 ms.
+[2026.05.08-11.04.42:070][ 13]LogSkeletalMesh: Built Skeletal Mesh [65.34s] /Game/_hosptial_model_test/hospital_orginal.hospital_orginal
+[2026.05.08-11.04.42:470][ 14]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (hospital_orginal) ...
+[2026.05.08-11.04.43:351][ 14]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2026.05.08-11.04.43:359][ 14]LogMaterial: Display: Material /Game/_hosptial_model_test/all.all needed to have new flag set bUsedWithSkeletalMesh !
+[2026.05.08-11.04.43:368][ 14]LogMaterial: Display: Material /Game/_hosptial_model_test/glass.glass needed to have new flag set bUsedWithSkeletalMesh !
+[2026.05.08-11.04.43:388][ 14]LogMaterial: Display: Material /Game/_hosptial_model_test/wall3.wall3 needed to have new flag set bUsedWithSkeletalMesh !
+[2026.05.08-11.04.43:401][ 14]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-11.04.43:402][ 14]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-11.04.43:526][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2026.05.08-11.04.43:657][ 15]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Corey/Downl...rce/hospital_orginal/hospital_orginal.fbx]
+[2026.05.08-11.04.43:657][ 15]Interchange: Error: [C:/Users/Corey/Downloads/hospital-stuff/source/hospital_orginal/hospital_orginal.fbx : 'hospital_orginal', SkeletalMesh] Unable to get FBX base layer for the mesh 'Mesh_ncl_97'.
+[2026.05.08-11.04.43:657][ 15]Interchange: Error: [C:/Users/Corey/Downloads/hospital-stuff/source/hospital_orginal/hospital_orginal.fbx : 'hospital_orginal', SkeletalMesh] Cannot fetch static mesh payload because there was an error when creating the MeshDescription.
+[2026.05.08-11.04.43:657][ 15]Interchange: Error: [C:/Users/Corey/Downloads/hospital-stuff/source/hospital_orginal/hospital_orginal.fbx : '', Unknown] Cannot fetch FBX payload data.
+[2026.05.08-11.04.43:765][ 15]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.05.08-11.04.43:765][ 15]LogInterchangeEngine: [Success] Import Done
+[2026.05.08-11.04.43:777][ 16]LogRenderer: Using fallback RTPSO
+[2026.05.08-11.04.49:634][364]LogShaderCompilers: Display: ================================================
+[2026.05.08-11.04.49:634][364]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.05.08-11.04.49:634][364]LogShaderCompilers: Display: Total job queries 778, among them cache hits 152 (19.54%), DDC hits 503 (64.65%), Duplicates 83 (10.67%)
+[2026.05.08-11.04.49:634][364]LogShaderCompilers: Display: Tracking 543 distinct input hashes that result in 379 distinct outputs (69.80%)
+[2026.05.08-11.04.49:634][364]LogShaderCompilers: Display: RAM used: 4.54 MiB of 3.20 GiB budget. Usage: 0.14%
+[2026.05.08-11.04.49:634][364]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.05.08-11.04.49:634][364]LogShaderCompilers: Display: Shaders Compiled: 32
+[2026.05.08-11.04.49:634][364]LogShaderCompilers: Display: Jobs assigned 40, completed 32 (80.00%)
+[2026.05.08-11.04.49:634][364]LogShaderCompilers: Display: Average time worker was idle: 42.36 s
+[2026.05.08-11.04.49:634][364]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.16 s
+[2026.05.08-11.04.49:634][364]LogShaderCompilers: Display: Job execution time: average 4.15 s, max 5.84 s
+[2026.05.08-11.04.49:634][364]LogShaderCompilers: Display: Job life time (pending + execution): average 4.24 s, max 5.99
+[2026.05.08-11.04.49:634][364]LogShaderCompilers: Display: Shader code size: total 377.234 KiB, numShaders 32, average 11.788 KiB, min 3.504 KiB, max 28.551 KiB
+[2026.05.08-11.04.49:634][364]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.27 s
+[2026.05.08-11.04.49:634][364]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.05.08-11.04.49:634][364]LogShaderCompilers: Display: Jobs were issued in 17 batches (only local compilation was used), average 2.35 jobs/batch
+[2026.05.08-11.04.49:634][364]LogShaderCompilers: Display: Average processing rate: 3.12 jobs/sec
+[2026.05.08-11.04.49:634][364]LogShaderCompilers: Display: Total thread time: 38.887 s
+[2026.05.08-11.04.49:634][364]LogShaderCompilers: Display: Total thread preprocess time: 12.343 s
+[2026.05.08-11.04.49:634][364]LogShaderCompilers: Display: Percentage time preprocessing: 31.74%
+[2026.05.08-11.04.49:634][364]LogShaderCompilers: Display: Effective parallelization: 3.79 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.473457
+[2026.05.08-11.04.49:634][364]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.05.08-11.04.49:634][364]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    1 times, average 2.36 sec, max 2.36 sec, min 2.36 sec)
+[2026.05.08-11.04.49:634][364]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled    2 times, average 2.03 sec, max 2.09 sec, min 1.97 sec)
+[2026.05.08-11.04.49:634][364]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    3 times, average 1.99 sec, max 2.15 sec, min 1.81 sec)
+[2026.05.08-11.04.49:634][364]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    1 times, average 1.94 sec, max 1.94 sec, min 1.94 sec)
+[2026.05.08-11.04.49:634][364]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.82 sec, max 1.82 sec, min 1.82 sec)
+[2026.05.08-11.04.49:634][364]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.05.08-11.04.49:634][364]LogShaderCompilers: Display:                                             FDebugViewModePS - 15.34% of total time (compiled    3 times, average 1.99 sec, max 2.15 sec, min 1.81 sec)
+[2026.05.08-11.04.49:634][364]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.33% of total time (compiled    5 times, average 1.11 sec, max 2.01 sec, min 0.75 sec)
+[2026.05.08-11.04.49:634][364]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 11.20% of total time (compiled    4 times, average 1.09 sec, max 1.56 sec, min 0.92 sec)
+[2026.05.08-11.04.49:634][364]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight - 10.44% of total time (compiled    2 times, average 2.03 sec, max 2.09 sec, min 1.97 sec)
+[2026.05.08-11.04.49:634][364]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 8.72% of total time (compiled    2 times, average 1.70 sec, max 1.78 sec, min 1.61 sec)
+[2026.05.08-11.04.49:634][364]LogShaderCompilers: Display: === Material stats ===
+[2026.05.08-11.04.49:634][364]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.05.08-11.04.49:634][364]LogShaderCompilers: Display: Materials Translated:    181
+[2026.05.08-11.04.49:634][364]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2026.05.08-11.04.49:634][364]LogShaderCompilers: Display: Material Translation Only: 0.06 s (46%)
+[2026.05.08-11.04.49:634][364]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2026.05.08-11.04.49:635][364]LogShaderCompilers: Display: Material Cache Hits: 31 (17%)
+[2026.05.08-11.04.49:635][364]LogShaderCompilers: Display: ================================================
+[2026.05.08-11.04.51:058][426]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2026.05.08-11.04.51:392][427]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2026.05.08-11.04.51:731][428]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2026.05.08-11.04.52:059][429]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2026.05.08-11.04.57:114][445]LogRenderer: Using fallback RTPSO
+[2026.05.08-11.05.01:521][660]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/_hosptial_model_test/hospital_orginal_PhysicsAsset.hospital_orginal_PhysicsAsset
+[2026.05.08-11.05.01:554][660]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2026.05.08-11.05.01:561][660]LogStreaming: Display: FlushAsyncLoading(772): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.05.01:847][660]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2026.05.08-11.05.01:967][660]LogSlate: Warning: The command 'PhysicsAssetEditor.HighlightOverlappingBodies' has the same default chord as 'PhysicsAssetEditor.CopyProperties' [Ctrl+C]
+[2026.05.08-11.05.03:270][662]LogRenderer: Using fallback RTPSO
+[2026.05.08-11.05.03:281][662]LogD3D12RHI: Creating RTPSO with 44 shaders (0 cached, 1 new) took 10.62 ms. Compile time 9.35 ms, link time 1.23 ms.
+[2026.05.08-11.05.14:698][945]LogSlate: Window 'hospital_orginal_PhysicsAsset' being destroyed
+[2026.05.08-11.05.14:707][945]LogSlate: Window 'hospital_orginal_PhysicsAsset' being destroyed
+[2026.05.08-11.05.14:715][945]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-11.05.14:715][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-11.05.14:797][945]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-11.05.14:797][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-11.05.14:959][945]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2026.05.08-11.05.19:355][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2026.05.08-11.05.19:526][144]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.05.08-11.05.19:537][144]LogSlate: Took 0.010527 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.05.08-11.05.20:416][144]LogSlate: Window 'Delete Assets' being destroyed
+[2026.05.08-11.05.20:505][144]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/_hosptial_model_test/wall3.wall3
+	Asset Type: Material
+[2026.05.08-11.05.21:070][144]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (hospital_orginal) ...
+[2026.05.08-11.05.25:253][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2026.05.08-11.05.25:292][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2026.05.08-11.05.25:331][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.05.08-11.05.39:575][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.05.08-11.05.40:483][228]LogSlate: Window 'Delete Assets' being destroyed
+[2026.05.08-11.05.40:565][228]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/_hosptial_model_test/hospital_orginal_Skeleton.hospital_orginal_Skeleton
+	Asset Type: Skeleton
+[2026.05.08-11.05.41:300][228]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (hospital_orginal) ...
+[2026.05.08-11.05.41:994][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2026.05.08-11.05.42:035][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2026.05.08-11.05.42:076][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.05.08-11.05.42:092][228]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.42:131][229]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.42:163][230]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.42:187][231]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.42:223][232]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.42:241][233]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.42:266][234]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.42:287][235]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.42:306][236]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.42:323][237]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.42:344][238]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.42:365][239]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.42:387][240]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.42:408][241]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.42:433][242]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.42:453][243]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.42:471][244]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.42:491][245]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.42:516][246]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.42:537][247]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.42:556][248]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.42:573][249]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.42:591][250]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.42:618][251]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.42:640][252]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.42:660][253]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.42:679][254]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.42:698][255]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.42:718][256]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.42:864][264]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.42:919][265]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.42:941][266]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.42:966][267]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.42:988][268]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:010][269]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:028][270]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:049][271]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:068][272]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:091][273]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:112][274]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:131][275]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:156][276]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:179][277]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:199][278]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:219][279]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:240][280]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:267][281]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:289][282]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:307][283]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:327][284]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:350][285]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:373][286]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:397][287]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:422][288]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:446][289]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:468][290]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:489][291]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:516][292]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:541][293]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:564][294]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:586][295]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:608][296]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:628][297]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:647][298]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:670][299]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:695][300]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:720][301]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:744][302]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:767][303]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:792][304]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:813][305]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:834][306]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:853][307]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:871][308]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:888][309]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:907][310]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:929][311]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:947][312]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:967][313]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.43:987][314]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.44:012][315]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.44:039][316]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.44:196][323]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.44:263][324]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.44:287][325]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.44:307][326]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.44:327][327]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.44:349][328]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.44:372][329]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.44:392][330]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.44:411][331]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.44:430][332]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.44:478][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.05.08-11.05.45:454][333]LogSlate: Window 'Delete Assets' being destroyed
+[2026.05.08-11.05.45:543][333]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/_hosptial_model_test/hospital_orginal_PhysicsAsset.hospital_orginal_PhysicsAsset
+	Asset Type: PhysicsAsset
+[2026.05.08-11.05.46:267][333]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (hospital_orginal) ...
+[2026.05.08-11.05.46:950][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2026.05.08-11.05.46:988][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2026.05.08-11.05.47:025][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.05.08-11.05.47:030][333]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.47:071][335]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.51:003][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2026.05.08-11.05.52:554][597]LogSlate: Window 'Delete Assets' being destroyed
+[2026.05.08-11.05.52:608][597]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/_hosptial_model_test/hospital_orginal_Anim.hospital_orginal_Anim
+	Asset Type: AnimSequence
+[2026.05.08-11.05.53:323][597]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2026.05.08-11.05.53:364][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2026.05.08-11.05.53:402][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.05.08-11.05.54:229][653]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.54:287][654]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.54:307][655]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.54:326][656]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.54:344][657]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.54:370][658]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.54:536][666]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.54:594][667]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.54:633][668]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.54:653][669]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.54:671][670]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.54:690][671]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.54:710][672]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.54:728][673]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.54:750][674]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.54:769][675]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.54:788][676]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.54:806][677]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.54:824][678]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.54:845][679]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.54:865][680]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.54:918][681]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.54:965][682]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.55:019][683]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.55:070][684]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.55:123][685]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.55:182][686]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.55:235][687]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.55:293][688]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.55:343][689]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.55:398][690]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/_hosptial_model_test/hospital_orginal.hospital_orginal has no skeleton. This needs to fixed before an animation can be set
+[2026.05.08-11.05.55:508][691]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2026.05.08-11.05.56:630][691]LogSlate: Window 'Delete Assets' being destroyed
+[2026.05.08-11.05.56:883][691]LogUObjectHash: Compacting FUObjectHashTables data took  48.87ms
+[2026.05.08-11.05.56:960][691]LogUObjectHash: Compacting FUObjectHashTables data took   5.82ms
+[2026.05.08-11.05.57:040][691]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2026.05.08-11.05.59:835][746]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2026.05.08-11.06.02:134][746]LogSlate: Window 'Delete Assets' being destroyed
+[2026.05.08-11.06.11:335][746]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2026.05.08-11.06.11:421][746]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2026.05.08-11.06.11:501][746]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2026.05.08-11.06.11:519][746]LogStreaming: Display: FlushAsyncLoading(783): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.06.13:015][773]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2026.05.08-11.06.14:355][773]LogSlate: Window 'Delete Assets' being destroyed
+[2026.05.08-11.06.23:701][773]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2026.05.08-11.06.23:793][773]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2026.05.08-11.06.23:874][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2026.05.08-11.06.52:195][862]LogStreaming: Display: FlushAsyncLoading(784): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.06.52:281][862]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Corey/Downloads/hospital/source/hospital.glb]
+[2026.05.08-11.07.32:861][862]LogSlate: Window 'Import Content' being destroyed
+[2026.05.08-11.07.32:943][862]LogInterchangeEngine: [Pending] Importing
+[2026.05.08-11.07.48:382][865]LogStreaming: Display: FlushAsyncLoading(819): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.07.49:582][866]LogStreaming: Display: FlushAsyncLoading(826): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.07.49:667][867]LogShaderCompilers: Display: ================================================
+[2026.05.08-11.07.49:667][867]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.05.08-11.07.49:668][867]LogShaderCompilers: Display: Total job queries 799, among them cache hits 161 (20.15%), DDC hits 511 (63.95%), Duplicates 83 (10.39%)
+[2026.05.08-11.07.49:668][867]LogShaderCompilers: Display: Tracking 555 distinct input hashes that result in 387 distinct outputs (69.73%)
+[2026.05.08-11.07.49:668][867]LogShaderCompilers: Display: RAM used: 4.59 MiB of 3.20 GiB budget. Usage: 0.14%
+[2026.05.08-11.07.49:668][867]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.05.08-11.07.49:668][867]LogShaderCompilers: Display: Shaders Compiled: 44
+[2026.05.08-11.07.49:668][867]LogShaderCompilers: Display: Jobs assigned 44, completed 44 (100%)
+[2026.05.08-11.07.49:668][867]LogShaderCompilers: Display: Average time worker was idle: 32.95 s
+[2026.05.08-11.07.49:668][867]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.16 s
+[2026.05.08-11.07.49:668][867]LogShaderCompilers: Display: Job execution time: average 4.31 s, max 6.85 s
+[2026.05.08-11.07.49:668][867]LogShaderCompilers: Display: Job life time (pending + execution): average 4.40 s, max 6.99
+[2026.05.08-11.07.49:668][867]LogShaderCompilers: Display: Shader code size: total 535.109 KiB, numShaders 44, average 12.161 KiB, min 3.504 KiB, max 28.551 KiB
+[2026.05.08-11.07.49:668][867]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 13.12 s
+[2026.05.08-11.07.49:668][867]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.05.08-11.07.49:668][867]LogShaderCompilers: Display: Jobs were issued in 21 batches (only local compilation was used), average 2.10 jobs/batch
+[2026.05.08-11.07.49:668][867]LogShaderCompilers: Display: Average processing rate: 3.35 jobs/sec
+[2026.05.08-11.07.49:668][867]LogShaderCompilers: Display: Total thread time: 54.711 s
+[2026.05.08-11.07.49:669][867]LogShaderCompilers: Display: Total thread preprocess time: 12.957 s
+[2026.05.08-11.07.49:669][867]LogShaderCompilers: Display: Percentage time preprocessing: 23.68%
+[2026.05.08-11.07.49:669][867]LogShaderCompilers: Display: Effective parallelization: 4.17 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.521355
+[2026.05.08-11.07.49:669][867]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.05.08-11.07.49:669][867]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    1 times, average 2.36 sec, max 2.36 sec, min 2.36 sec)
+[2026.05.08-11.07.49:669][867]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled    2 times, average 2.03 sec, max 2.09 sec, min 1.97 sec)
+[2026.05.08-11.07.49:669][867]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    2 times, average 2.01 sec, max 2.08 sec, min 1.94 sec)
+[2026.05.08-11.07.49:669][867]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    6 times, average 1.93 sec, max 2.15 sec, min 1.53 sec)
+[2026.05.08-11.07.49:669][867]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.82 sec, max 1.82 sec, min 1.82 sec)
+[2026.05.08-11.07.49:669][867]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.05.08-11.07.49:669][867]LogShaderCompilers: Display:                                             FDebugViewModePS - 21.22% of total time (compiled    6 times, average 1.93 sec, max 2.15 sec, min 1.53 sec)
+[2026.05.08-11.07.49:669][867]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.20% of total time (compiled    9 times, average 1.11 sec, max 2.01 sec, min 0.70 sec)
+[2026.05.08-11.07.49:669][867]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 12.41% of total time (compiled    6 times, average 1.13 sec, max 1.56 sec, min 0.88 sec)
+[2026.05.08-11.07.49:669][867]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight - 7.42% of total time (compiled    2 times, average 2.03 sec, max 2.09 sec, min 1.97 sec)
+[2026.05.08-11.07.49:669][867]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy - 7.34% of total time (compiled    2 times, average 2.01 sec, max 2.08 sec, min 1.94 sec)
+[2026.05.08-11.07.49:669][867]LogShaderCompilers: Display: === Material stats ===
+[2026.05.08-11.07.49:670][867]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.05.08-11.07.49:670][867]LogShaderCompilers: Display: Materials Translated:    222
+[2026.05.08-11.07.49:670][867]LogShaderCompilers: Display: Material Total Translate Time: 0.25 s
+[2026.05.08-11.07.49:670][867]LogShaderCompilers: Display: Material Translation Only: 0.17 s (65%)
+[2026.05.08-11.07.49:670][867]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (5%)
+[2026.05.08-11.07.49:670][867]LogShaderCompilers: Display: Material Cache Hits: 63 (28%)
+[2026.05.08-11.07.49:670][867]LogShaderCompilers: Display: ================================================
+[2026.05.08-11.07.52:681][874]LogStreaming: Display: FlushAsyncLoading(841): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.07.55:043][881]LogStreaming: Display: FlushAsyncLoading(842): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.07.56:059][884]LogStreaming: Display: FlushAsyncLoading(843): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.07.56:854][889]LogStreaming: Display: FlushAsyncLoading(877): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.07.57:850][896]LogStreaming: Display: FlushAsyncLoading(878): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.07.58:928][903]LogStreaming: Display: FlushAsyncLoading(879): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.07.59:964][910]LogStreaming: Display: FlushAsyncLoading(880): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.01:154][917]LogStreaming: Display: FlushAsyncLoading(881): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.02:468][924]LogStreaming: Display: FlushAsyncLoading(882): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.03:841][932]LogStreaming: Display: FlushAsyncLoading(913): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.05:204][939]LogStreaming: Display: FlushAsyncLoading(914): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.06:387][946]LogStreaming: Display: FlushAsyncLoading(915): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.07:450][953]LogStreaming: Display: FlushAsyncLoading(916): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.08:716][960]LogStreaming: Display: FlushAsyncLoading(917): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.09:948][968]LogStreaming: Display: FlushAsyncLoading(945): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.11:104][975]LogStreaming: Display: FlushAsyncLoading(946): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.12:318][982]LogStreaming: Display: FlushAsyncLoading(947): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.13:506][989]LogStreaming: Display: FlushAsyncLoading(948): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.14:147][993]LogStreaming: Display: FlushAsyncLoading(949): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.14:784][997]LogStreaming: Display: FlushAsyncLoading(967): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.16:121][  4]LogStreaming: Display: FlushAsyncLoading(968): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.17:300][ 11]LogStreaming: Display: FlushAsyncLoading(969): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.17:973][ 15]LogStreaming: Display: FlushAsyncLoading(970): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.18:201][ 18]LogStreaming: Display: FlushAsyncLoading(1063): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.18:403][ 21]LogStreaming: Display: FlushAsyncLoading(1064): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.18:687][ 25]LogStreaming: Display: FlushAsyncLoading(1065): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.18:908][ 28]LogStreaming: Display: FlushAsyncLoading(1066): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.19:181][ 32]LogStreaming: Display: FlushAsyncLoading(1067): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.19:382][ 35]LogStreaming: Display: FlushAsyncLoading(1068): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.19:640][ 39]LogStreaming: Display: FlushAsyncLoading(1069): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.19:840][ 42]LogStreaming: Display: FlushAsyncLoading(1070): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.20:103][ 46]LogStreaming: Display: FlushAsyncLoading(1071): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.20:306][ 49]LogStreaming: Display: FlushAsyncLoading(1072): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.20:573][ 53]LogStreaming: Display: FlushAsyncLoading(1073): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.20:776][ 56]LogStreaming: Display: FlushAsyncLoading(1074): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.21:050][ 60]LogStreaming: Display: FlushAsyncLoading(1075): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.21:264][ 63]LogStreaming: Display: FlushAsyncLoading(1076): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.21:536][ 67]LogStreaming: Display: FlushAsyncLoading(1077): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.21:747][ 70]LogStreaming: Display: FlushAsyncLoading(1078): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.22:082][ 75]LogStreaming: Display: FlushAsyncLoading(1185): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.22:293][ 78]LogStreaming: Display: FlushAsyncLoading(1186): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.22:569][ 82]LogStreaming: Display: FlushAsyncLoading(1187): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.22:776][ 85]LogStreaming: Display: FlushAsyncLoading(1188): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.23:056][ 89]LogStreaming: Display: FlushAsyncLoading(1189): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.23:262][ 92]LogStreaming: Display: FlushAsyncLoading(1190): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.23:548][ 96]LogStreaming: Display: FlushAsyncLoading(1191): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.23:755][ 99]LogStreaming: Display: FlushAsyncLoading(1192): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.24:055][103]LogStreaming: Display: FlushAsyncLoading(1193): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.24:271][106]LogStreaming: Display: FlushAsyncLoading(1194): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.24:553][110]LogStreaming: Display: FlushAsyncLoading(1195): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.24:779][113]LogStreaming: Display: FlushAsyncLoading(1196): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.25:130][117]LogStreaming: Display: FlushAsyncLoading(1197): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.25:358][120]LogStreaming: Display: FlushAsyncLoading(1198): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.25:656][124]LogStreaming: Display: FlushAsyncLoading(1199): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.26:132][127]LogStreaming: Display: FlushAsyncLoading(1200): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.27:461][131]LogStreaming: Display: FlushAsyncLoading(1201): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.28:127][133]LogStreaming: Display: FlushAsyncLoading(1202): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-11.08.28:797][135]LogStreaming: Display: FlushAsyncLoading(1309): 1 QueuedPackages, 0 AsyncPackages
