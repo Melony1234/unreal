@@ -9606,3 +9606,36 @@ Make sure '/Game/_Blueprints/Bp_Testmainmenu.Bp_Testmainmenu_C' has been compile
 [2026.05.09-15.17.17:065][236]AssetCheck: /Game/_Images/redcoin_test Validating asset
 [2026.05.09-15.17.17:066][236]AssetCheck: /Game/_Images/Gold_coins Validating asset
 [2026.05.09-15.17.17:121][236]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.09-15.19.19:977][636]UATHelper: Zip Project Task (Windows (Editor)): Completed zipping project up
+[2026.05.09-15.19.19:987][637]UATHelper: Zip Project Task (Windows (Editor)): BUILD SUCCESSFUL
+[2026.05.09-15.19.19:987][637]UATHelper: Zip Project Task (Windows (Editor)): AutomationTool executed for 0h 3m 18s
+[2026.05.09-15.19.19:987][637]UATHelper: Zip Project Task (Windows (Editor)): AutomationTool exiting with ExitCode=0 (Success)
+[2026.05.09-15.19.20:054][640]LogStreaming: Display: FlushAsyncLoading(4190): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.09-15.20.47:464][187]LogSlate: External Image Picker: DecompressImage failed
+[2026.05.09-15.22.08:330][829]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13469.906250
+[2026.05.09-15.22.08:510][837]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.09-15.22.08:510][837]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13470.064453, Update Interval: 325.587952
+[2026.05.09-15.22.27:079][476]LogSlate: Window 'Project Settings' being destroyed
+[2026.05.09-15.22.27:093][476]LogSlate: Window 'Project Settings' being destroyed
+[2026.05.09-15.28.07:072][268]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13828.394531
+[2026.05.09-15.28.07:237][277]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.09-15.28.07:237][277]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13828.543945, Update Interval: 359.824219
+[2026.05.09-15.35.02:381][245]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14243.313477
+[2026.05.09-15.35.02:701][267]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.09-15.35.02:701][267]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14243.623047, Update Interval: 352.778107
+[2026.05.09-15.39.18:392][873]LogDerivedDataCache: C:/Users/Corey/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.09-15.41.26:186][174]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14627.091797
+[2026.05.09-15.41.26:338][186]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.09-15.41.26:339][186]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14627.232422, Update Interval: 357.460266
+[2026.05.09-15.48.18:667][765]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15039.274414
+[2026.05.09-15.48.18:818][777]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.09-15.48.18:818][777]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15039.415039, Update Interval: 334.047668
+[2026.05.09-15.51.51:052][431]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (WH-1000XM5), InstanceID=1
+[2026.05.09-15.51.51:052][431]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{b29bcf13-6d0b-4922-9d72-a036015aa5b5}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.05.09-15.51.51:102][431]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{b29bcf13-6d0b-4922-9d72-a036015aa5b5}]
+[2026.05.09-15.51.51:103][431]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.05.09-15.51.51:103][431]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.05.09-15.51.51:437][432]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{b29bcf13-6d0b-4922-9d72-a036015aa5b5}, Name=Headphones (WH-1000XM5)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=73.74
+[2026.05.09-15.51.51:437][432]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.05.09-15.51.51:438][432]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.05.09-15.51.51:441][432]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
