@@ -6664,3 +6664,8 @@ FPackageName: Skipped package /Engine/EngineMeshes/Humanoid has a valid, mounted
 [2026.05.11-14.47.18:272][583]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/_Blueprints/BP_jumpscaretest.BP_jumpscaretest_C
 [2026.05.11-14.47.18:307][583]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/BP_jumpscaretest.BP_jumpscaretest as actor: BP_jumpscaretest_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_Thirdperson:PersistentLevel.BP_jumpscaretest_C_UAID_244BFE527C690FDA02_1733817344
 [2026.05.11-14.47.18:309][583]LogActorFactory: Actor Factory spawned Blueprint /Game/_Blueprints/BP_jumpscaretest.BP_jumpscaretest as actor: BP_jumpscaretest_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_Thirdperson:PersistentLevel.BP_jumpscaretest_C_UAID_244BFE527C690FDA02_1733817344
+[2026.05.11-14.47.57:366][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2026.05.11-14.47.57:379][283]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/SN/9H6Y8JF68GMWOUZ7AJ3VCQ_Auto1
+[2026.05.11-14.47.57:379][283]LogSavePackage: Moving 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/9H6Y8JF68GMWOUZ7AJ3VCQ_Auto1AF3A5B094D95BE8B0B3690B4029F56D0.tmp' to 'D:/dean uni stuff/unreal github/unreal/MyProject3/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/SN/9H6Y8JF68GMWOUZ7AJ3VCQ_Auto1.uasset'
+[2026.05.11-14.47.57:380][283]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.044
+[2026.05.11-14.47.57:380][283]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.044
