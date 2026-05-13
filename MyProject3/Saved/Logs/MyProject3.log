@@ -49159,3 +49159,73 @@ FPackageName: Skipped package /Game/LevelPrototyping/Materials/MI_DefaultColorwa
 [2026.05.13-11.07.56:613][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
 [2026.05.13-11.07.56:643][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
 [2026.05.13-11.07.56:662][763]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/dean uni stuff/hopes and praise/unreal/MyProject3/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.13-11.08.24:450][ 93]LogShaderCompilers: Display: ================================================
+[2026.05.13-11.08.24:450][ 93]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.05.13-11.08.24:450][ 93]LogShaderCompilers: Display: Total job queries 797, among them cache hits 104 (13.05%), DDC hits 597 (74.91%), Duplicates 64 (8.03%)
+[2026.05.13-11.08.24:450][ 93]LogShaderCompilers: Display: Tracking 629 distinct input hashes that result in 424 distinct outputs (67.41%)
+[2026.05.13-11.08.24:450][ 93]LogShaderCompilers: Display: RAM used: 4.32 MiB of 3.20 GiB budget. Usage: 0.13%
+[2026.05.13-11.08.24:450][ 93]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.05.13-11.08.24:450][ 93]LogShaderCompilers: Display: Shaders Compiled: 32
+[2026.05.13-11.08.24:450][ 93]LogShaderCompilers: Display: Jobs assigned 32, completed 32 (100%)
+[2026.05.13-11.08.24:450][ 93]LogShaderCompilers: Display: Average time worker was idle: 92.11 s
+[2026.05.13-11.08.24:450][ 93]LogShaderCompilers: Display: Time job spent in pending queue: average 0.14 s, longest 0.66 s
+[2026.05.13-11.08.24:450][ 93]LogShaderCompilers: Display: Job execution time: average 1.04 s, max 2.87 s
+[2026.05.13-11.08.24:450][ 93]LogShaderCompilers: Display: Job life time (pending + execution): average 1.17 s, max 2.95
+[2026.05.13-11.08.24:450][ 93]LogShaderCompilers: Display: Shader code size: total 311.274 KiB, numShaders 33, average 9.432 KiB, min 2.691 KiB, max 19.547 KiB
+[2026.05.13-11.08.24:450][ 93]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.68 s
+[2026.05.13-11.08.24:450][ 93]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.05%
+[2026.05.13-11.08.24:450][ 93]LogShaderCompilers: Display: Jobs were issued in 32 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.05.13-11.08.24:450][ 93]LogShaderCompilers: Display: Average processing rate: 2.52 jobs/sec
+[2026.05.13-11.08.24:450][ 93]LogShaderCompilers: Display: Total thread time: 27.444 s
+[2026.05.13-11.08.24:450][ 93]LogShaderCompilers: Display: Total thread preprocess time: 11.756 s
+[2026.05.13-11.08.24:450][ 93]LogShaderCompilers: Display: Percentage time preprocessing: 42.83%
+[2026.05.13-11.08.24:450][ 93]LogShaderCompilers: Display: Effective parallelization: 2.16 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.270481
+[2026.05.13-11.08.24:450][ 93]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.05.13-11.08.24:450][ 93]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 2.66 sec, max 2.66 sec, min 2.66 sec)
+[2026.05.13-11.08.24:450][ 93]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 2.02 sec, max 2.02 sec, min 2.02 sec)
+[2026.05.13-11.08.24:450][ 93]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    3 times, average 1.74 sec, max 1.87 sec, min 1.68 sec)
+[2026.05.13-11.08.24:450][ 93]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 1.28 sec, max 1.28 sec, min 1.28 sec)
+[2026.05.13-11.08.24:450][ 93]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 1.26 sec, max 1.42 sec, min 1.02 sec)
+[2026.05.13-11.08.24:450][ 93]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.05.13-11.08.24:450][ 93]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 19.05% of total time (compiled    3 times, average 1.74 sec, max 1.87 sec, min 1.68 sec)
+[2026.05.13-11.08.24:450][ 93]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.20% of total time (compiled    5 times, average 0.83 sec, max 1.05 sec, min 0.55 sec)
+[2026.05.13-11.08.24:450][ 93]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 13.80% of total time (compiled    3 times, average 1.26 sec, max 1.42 sec, min 1.02 sec)
+[2026.05.13-11.08.24:450][ 93]LogShaderCompilers: Display:                                                 FLumenCardPS - 11.90% of total time (compiled    5 times, average 0.65 sec, max 0.81 sec, min 0.39 sec)
+[2026.05.13-11.08.24:450][ 93]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 9.71% of total time (compiled    1 times, average 2.66 sec, max 2.66 sec, min 2.66 sec)
+[2026.05.13-11.08.24:450][ 93]LogShaderCompilers: Display: === Material stats ===
+[2026.05.13-11.08.24:450][ 93]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.05.13-11.08.24:450][ 93]LogShaderCompilers: Display: Materials Translated:    217
+[2026.05.13-11.08.24:450][ 93]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2026.05.13-11.08.24:450][ 93]LogShaderCompilers: Display: Material Translation Only: 0.08 s (59%)
+[2026.05.13-11.08.24:450][ 93]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (4%)
+[2026.05.13-11.08.24:450][ 93]LogShaderCompilers: Display: Material Cache Hits: 77 (35%)
+[2026.05.13-11.08.24:450][ 93]LogShaderCompilers: Display: ================================================
+[2026.05.13-11.10.06:577][629]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.13-11.10.06:637][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.05.13-11.10.06:666][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.05.13-11.10.06:696][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.05.13-11.10.06:716][629]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/HL/0DC8HAS9WHQ31IIFU0TTV5
+[2026.05.13-11.10.06:717][629]LogSavePackage: Moving 'D:/dean uni stuff/hopes and praise/unreal/MyProject3/Saved/0DC8HAS9WHQ31IIFU0TTV5C069EEA04B866EA62A13C49E8A0EFF50.tmp' to 'D:/dean uni stuff/hopes and praise/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/HL/0DC8HAS9WHQ31IIFU0TTV5.uasset'
+[2026.05.13-11.10.06:725][629]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/SA/BNF7P234YO7X817QESSI5H
+[2026.05.13-11.10.06:726][629]LogSavePackage: Moving 'D:/dean uni stuff/hopes and praise/unreal/MyProject3/Saved/BNF7P234YO7X817QESSI5H8412C30C4B6A42AD48C749BB35D219D0.tmp' to 'D:/dean uni stuff/hopes and praise/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/SA/BNF7P234YO7X817QESSI5H.uasset'
+[2026.05.13-11.10.06:733][629]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/EX/D3NNBAZBCFFIELDSAMU9S5
+[2026.05.13-11.10.06:733][629]LogSavePackage: Moving 'D:/dean uni stuff/hopes and praise/unreal/MyProject3/Saved/D3NNBAZBCFFIELDSAMU9S5E05B308F46CA92F3B621C6A5B50D133C.tmp' to 'D:/dean uni stuff/hopes and praise/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/EX/D3NNBAZBCFFIELDSAMU9S5.uasset'
+[2026.05.13-11.10.06:741][629]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/FB/XFSAEVX4FQU19V5KYEQVZO
+[2026.05.13-11.10.06:742][629]LogSavePackage: Moving 'D:/dean uni stuff/hopes and praise/unreal/MyProject3/Saved/XFSAEVX4FQU19V5KYEQVZO28D98A0C492D3561552C988F0B814811.tmp' to 'D:/dean uni stuff/hopes and praise/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/FB/XFSAEVX4FQU19V5KYEQVZO.uasset'
+[2026.05.13-11.10.06:750][629]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/LK/DNC55RL9PW9F0QGUE7711S
+[2026.05.13-11.10.06:750][629]LogSavePackage: Moving 'D:/dean uni stuff/hopes and praise/unreal/MyProject3/Saved/DNC55RL9PW9F0QGUE7711S976E6D834EFBBDA64AEAC899078BFABF.tmp' to 'D:/dean uni stuff/hopes and praise/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/LK/DNC55RL9PW9F0QGUE7711S.uasset'
+[2026.05.13-11.10.06:758][629]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/V8/XDP5V50XLAQRUDK5P1ZUAK
+[2026.05.13-11.10.06:758][629]LogSavePackage: Moving 'D:/dean uni stuff/hopes and praise/unreal/MyProject3/Saved/XDP5V50XLAQRUDK5P1ZUAKBF6672A346160E20ABDF6A9821E606D0.tmp' to 'D:/dean uni stuff/hopes and praise/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/V8/XDP5V50XLAQRUDK5P1ZUAK.uasset'
+[2026.05.13-11.10.06:766][629]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/6Q/TLSG53LT59FF0BFE7FSF3L
+[2026.05.13-11.10.06:766][629]LogSavePackage: Moving 'D:/dean uni stuff/hopes and praise/unreal/MyProject3/Saved/TLSG53LT59FF0BFE7FSF3L153A05BE483ED3B204BE27B62F62A12B.tmp' to 'D:/dean uni stuff/hopes and praise/unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/6Q/TLSG53LT59FF0BFE7FSF3L.uasset'
+[2026.05.13-11.10.06:784][629]LogFileHelpers: InternalPromptForCheckoutAndSave took 206.923 ms (total: 1.69 sec)
+[2026.05.13-11.10.06:822][629]LogContentValidation: Display: Starting to validate 7 assets
+[2026.05.13-11.10.06:822][629]LogContentValidation: Enabled validators:
+[2026.05.13-11.10.06:822][629]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.13-11.10.06:822][629]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.13-11.10.06:822][629]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.13-11.10.06:822][629]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.13-11.10.06:822][629]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.13-11.10.06:822][629]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.13-11.10.06:822][629]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2026.05.13-11.10.06:855][629]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/dean uni stuff/hopes and praise/unreal/MyProject3/Saved/SourceControl/UncontrolledChangelists.json
